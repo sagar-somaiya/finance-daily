@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T10:40:39.039731+00:00",
+  "generatedAt": "2026-09-25T15:41:03.220264+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 84737,
-      "chg": 1.7
+      "price": 83660,
+      "chg": -0.76
     },
     "eth": {
-      "price": 2711.14,
-      "chg": 2.73
+      "price": 2681.18,
+      "chg": 0.06
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
-        "title": "Rupee soothed by intervention, surge in forward premiums tipped to cool",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-soothed-by-intervention-surge-in-forward-premiums-tipped-to-cool/articleshow/134482310.cms",
+        "title": "Liqvd Digital India IPO subscribed 5.08 times on final day",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/liqvd-digital-india-ipo-subscribed-5-08-times-on-final-day/articleshow/134488487.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 25 Sep 2026 15:57:02 +0530"
+        "pubDate": "Fri, 25 Sep 2026 20:44:35 +0530"
       },
       {
-        "title": "Global Market: VLCC rates hit record as Saudi crude flows jump",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-vlcc-rates-hit-record-as-saudi-crude-flows-jump/articleshow/134482091.cms",
+        "title": "Data center IPO hopefuls brave tougher market as investor scrutiny grows",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/data-center-ipo-hopefuls-brave-tougher-market-as-investor-scrutiny-grows/articleshow/134488469.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 25 Sep 2026 15:48:37 +0530"
+        "pubDate": "Fri, 25 Sep 2026 20:41:20 +0530"
       },
       {
-        "title": "$500 billion flywheel! Macquarie lists 3 drivers for strong growth in capital market stocks, lists top picks",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/500-billion-flywheel-macquarie-lists-3-drivers-for-strong-growth-in-capital-market-stocks-lists-top-picks/articleshow/134480879.cms",
+        "title": "US Federal Reserve plans to raise bank oversight thresholds, sources say",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-federal-reserve-plans-to-raise-bank-oversight-thresholds-sources-say/articleshow/134488416.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 25 Sep 2026 14:52:30 +0530"
+        "pubDate": "Fri, 25 Sep 2026 20:38:53 +0530"
       },
       {
-        "title": "Global Market: European shares rise as oil prices ease; Middle East tensions keep investors cautious",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-oil-prices-ease-middle-east-tensions-keep-investors-cautious/articleshow/134480611.cms",
+        "title": "Lab-grown diamond manufacturer Anjali LabTech files updated papers for Rs 1,225 cr IPO",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/lab-grown-diamond-manufacturer-anjali-labtech-files-updated-papers-for-rs-1225-cr-ipo/articleshow/134488307.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 25 Sep 2026 14:35:43 +0530"
+        "pubDate": "Fri, 25 Sep 2026 20:37:07 +0530"
       },
       {
-        "title": "Global Market: BoE officials signal growing openness to rate hike as energy costs stay high",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boe-officials-signal-growing-openness-to-rate-hike-as-energy-costs-stay-high/articleshow/134480587.cms",
+        "title": "Sebi bans Omaxe, 5 others for violating minimum public shareholding norms",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-bans-omaxe-5-others-for-violating-minimum-public-shareholding-norms/articleshow/134488287.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 25 Sep 2026 14:32:02 +0530"
+        "pubDate": "Fri, 25 Sep 2026 20:35:20 +0530"
       },
       {
-        "title": "Jefferies’ Chris Wood calls energy India’s best structural growth story; names Hitachi Energy as picks-and-shovels play",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-chris-wood-calls-energy-indias-best-structural-growth-story-names-hitachi-energy-as-picks-and-shovels-play/articleshow/134480234.cms",
+        "title": "Kian-M Export files IPO paper with Sebi; aims to raise Rs 500 crore via fresh issue",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/kian-m-export-files-ipo-paper-with-sebi-aims-to-raise-rs-500-crore-via-fresh-issue/articleshow/134488254.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 25 Sep 2026 14:16:34 +0530"
+        "pubDate": "Fri, 25 Sep 2026 20:33:54 +0530"
       },
       {
-        "title": "Will NSE list on its own platform? MD &amp; CEO Ashish Chauhan hints at very likely possibility",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-nse-list-on-its-own-platform-chairman-ashish-chahuan-hints-at-very-likely-possibility/articleshow/134479320.cms",
+        "title": "Adani group entities swap 86 lakh shares of Adani Enterprises in Rs 2,498 cr block deal",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-group-entities-swap-86-lakh-shares-of-adani-enterprises-in-rs-2498-cr-block-deal/articleshow/134488246.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 25 Sep 2026 13:37:08 +0530"
+        "pubDate": "Fri, 25 Sep 2026 20:32:22 +0530"
       },
       {
-        "title": "Indian 10-year bond hits 4-month low on US debt rout",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/indian-10-year-bond-hits-4-month-low-on-us-debt-rout/articleshow/134479074.cms",
+        "title": "Quote of the day by Hetty Green: \"I buy when things are low and no one wants them. I keep them until they go up and people are crazy to get them.\"",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-hetty-green-i-buy-when-things-are-low-and-no-one-wants-them-i-keep-them-until-they-go-up-and-people-are-crazy-to-get-them-/articleshow/134487588.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 25 Sep 2026 13:18:59 +0530"
+        "pubDate": "Fri, 25 Sep 2026 19:46:01 +0530"
       },
       {
-        "title": "Integrum Energy Infrastructure files papers with Sebi to raise funds via IPO",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/integrum-energy-infrastructure-files-papers-with-sebi-to-raise-funds-via-ipo/articleshow/134478986.cms",
+        "title": "US stocks trade higher as AI enthusiasm eases worries over higher oil prices, yields",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-open-higher-as-ai-enthusiasm-eases-worries-over-higher-oil-prices-yields/articleshow/134486867.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 25 Sep 2026 13:13:46 +0530"
+        "pubDate": "Fri, 25 Sep 2026 19:08:24 +0530"
       },
       {
-        "title": "UK consumer confidence hits over two-year high in September as personal finances improve: GfK",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/uk-consumer-confidence-hits-over-two-year-high-in-september-as-personal-finances-improve-gfk/articleshow/134478780.cms",
+        "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks open higher as AI enthusiasm eases worries over higher oil prices, yields",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-israel-war-hormuz-deal-brent-crude-oil-inflation-fed-rate-hike-earnings-forecast-nvidia-amd-micron-ai-chip-stock-price-news-25-september-2026/liveblog/134487023.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 25 Sep 2026 13:10:02 +0530"
+        "pubDate": "Fri, 25 Sep 2026 19:04:41 +0530"
       }
     ],
     "acct": [
@@ -157,16 +157,28 @@
         "pubDate": "Fri, 25 Sep 2026 10:21:28 GMT"
       },
       {
-        "title": "ICAI plans AI-focused CA curriculum, international programme for overseas students - The Indian Express",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRk5TU1Bpb2lPakFTUjFra1Z5amRRNTg5X1A5b3JFQ21Wd0c1X1dUQlNmN25Nd1phMzZCenRxQlZSeXV3UHJnU0dGVFF5dFBQaE5naDBjNDVXeUFGX0Q5WUZfdHJNR1RKeGxBb2dxZWRINDRGellwZ0ZqSXpDVlJhbExtQ21MUFU3ZzhQb3RkbVFsOW45Wm5NSDQtX3lnOC1UWlRHZlZIZUpNWkxCSk9HZFRvUDlBX2FBX19QQnlGaklXNmgtcDh3bjhzLUIxLTkw0gHXAUFVX3lxTFBNaElVcjk0cGFrRUFfbmJaMjlRX1ZtMnRTbTB5TGlkekQ5VmFSMjhlbDdjSHJYaEZiYnBnMVgxR2FsbVNBUElQYkk1ZF9UZ0h0UnBFdUQzQ3htYkdsWVJWRER0a2R1MkZlcG1td0RGeFhkQ3N1aEpjNmpCZGcycHFoU3AxMVpJejZfZTllYnRpTmhfLUtRU01sOXhhMkFCbDZJTEVKMmloNkIyQ2ZweEIzRkdGN2lpempIUUVmd1Q5ajJKUkN6bUM3Y2cyZU9jZlNHYW9JT3Nj?oc=5",
+        "title": "IFRS 18 unpacked: Practical Guidance for implementation - Moore Kazakhstan",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMVVGdWl2bzcxMXdweENsU1RKSlhHWUNLdEpaNzNEMkJpUUJkRWJKUnpMTjlMdHc1bDUyM1ZkS2ZCdlVGR195RXgwZHNUZktUNXhSclJDS01XZHJscnFfNTVXS1NzS0c5YlJmelkxb1N4U1lrUjYtY0N2Rm1zN29Sa2cya0toRElhVHJDNWNhdTF5Y2loMVE?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 25 Sep 2026 04:49:06 GMT"
+        "pubDate": "Fri, 25 Sep 2026 11:47:40 GMT"
       },
       {
         "title": "ICAI moves to propose CA Act changes, draft in 2 months to build larger Indian accounting firms - cfo.economictimes.indiatimes.com",
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVW1WNm8xd2k4THJOZEFJQlh4NEh0TEIteHQydEwwczdISXdMX3h5emYyX0t1TURkcGRyVVAzMWloZXNnTWtiSTZXbkJ5QWR4TzJGRmQ5QlZYLVBuWHBWSmVWS0JCODkxSXlaNE9oelhPenNlbTdaYkpxelNhVENPTnFKVjJDbFcxQXJnejllUnpud3dRX2t1NVJ2NGVnZlBEY0xkMWlQc3R4aFdGMENSZXc3ZG1SQU1iTXYzU3NjTV8yVnhndDAxYWQyZ2REVUtJYW95WkRWOHBleEJpMWtLdTNHazc2dnFFT0FNWTdaX3N6OG9ZNXV0NF91WHRNRm9D0gGGAkFVX3lxTFBSUXlaVmNpM0pLdW5NWklCXzRBQjBJdEVqU2FNN2l0X2lvaTludUZURzJkVnhnS3JwdFN0S2pnbWhTbXFodTkzelZWa2ZWZFRWb0UyZGplZUNOQ2pwbTRXS1RLTHgzQ2ltamlKdGtFMzRlOXViYVVTdnRtTHB3Q0U5TjdGOGlFa0V5UHBFSzIxVTVkY05SUmFTYXZuekxyV2lWWU9FZjAwM1NHTHRwVTZHV09oV2w5UElSYjU1LWNFb2Y0dk50anoyaFNOOWVjNFBzaWlmaVA4MzlDQjF2M1NKak1ZRlctOVJVbFh0aEtPMHFUVUNhSFhkMGxrekEzaWF4bDNUSXc?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 21 Sep 2026 02:08:26 GMT"
+      },
+      {
+        "title": "ICAI tells members to complete statutory compliance before nationwide bank strike - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObFRDQkZHeHpRemtJTGdsZW5LQVlkdDhmem9lbGpDcHJJa0lUVmZmbkNCdHRwc0FHUGw4REdfaHEyRFhpSzVvbnBMZ0xXQVVqb2R2emo5T3JUaGQ2Z0I4TG5pdWVmMDROeW94Rm5xemJ2OWhYOVV4T2pqQmQ5azUyOHdoTXZlQlRyamV4ZnRjSnlGOHduT0tMN3dDYWJvLWN5UUdDMHNPRGxNUEtSUkRlU2FBbFJyQ0lLUFM3RVg1d0wyVnhjWThTZk84S2g3OVBOc2k2YnFqOEhFR3kyLTM0Nm1peGJ1U3VtMmQzS2ExWl9GWEZLZEFGMmxyQXBTYUhkMjRn0gGIAkFVX3lxTE9lME9DM3VpU0pSZ1pSbm9sNlFGcHo3eHBnc1VoLTgyd0djUnZEOEx0NzJURHVMSW5lNGpwdXMyZW5DaVFiY0lDM29fZnFZVGwxS1o1QldDcVZXZ2l2OHVqOXlnV0tlOGY4bC14Y3RjTWlKN2hac1hwZEpjVGRKYVYxY2piVTNISHFHTjdIQlY1dUkzWG9ySlpqQU84b2RwRnluV3E2cEphSWJmdkhDcDZfUEh1UmRCaFlfNXVDMW1mVjlqNE5TT3ltYUgwZElFd3NHWVQ5RDRKOUxIYXFjSHFoUmdQNXhJT3JvUUVMLVRpdVFCTzNMZ2JtUU9maUp4dF9VTmo4TWs0Rg?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 25 Sep 2026 12:33:40 GMT"
+      },
+      {
+        "title": "ICAI releases CA Foundation, Intermediate January 2027 exams schedule at icai.nic.in - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcDFDVzV0djJfY3lLVEZVM3lzeDFvY3NwR01FT0h5TDFJRjZtQ3hmT3hfMnhXaGtQdnloUVY2VWxNNHpoYXBPS19SYU1jeHYyUTlwVlFITEd3aXEzTzNmVzNsT3o5VVlBRVl5c1d5eGpmNXJZRTlvT1V6TjlRY01Uc1JNUzdQVXJHRmRfX2hfMXMtaHdIYzRMbG5fY3JYTTVhUFIzZ295UmdIeEVoMExYMXlPbkRDQjVXOTJWVXNXZ1dSbGFBNzluemlmY1dZdjdrX1Mw0gHaAUFVX3lxTE9vYUZ5V1ZjU1R1TURPNTJlWVo4TE1ocHR3UE5KV2piZkMzdXRzczl6Y0dnQUtpdnF1aEJfbVByRXRvRzdkNy14ZnpVcTVVcXBHWFpsRjFmVDFfZms2Yk9wMk5WaWJPX3BPaXQ1Y21HMTZ2OUE0TExwclNtX3VYX3hndlp6VDFMRHlTLVM0UG5jdW1RbF9KMnZ5WlNyZlVzbE45WVpPVloxOFpjaXJPOG1vb2p1MC1FaXY5YzVZUk8xekxfSm1EZDVXNlNYXzRScFViNmFnZGhpV1Jn?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 25 Sep 2026 08:21:11 GMT"
       },
       {
         "title": "ICAI CA January 2027 Exam Dates - PW",
@@ -187,12 +199,6 @@
         "pubDate": "Tue, 22 Sep 2026 05:45:40 GMT"
       },
       {
-        "title": "ICAI readies CA Act changes to build bigger accounting firms - The Economic Times",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQY0J6VXZtcTZGRk5NQm5hMF8yUzVlR2pFdVdPVi1Ra3IxTEtTbE9xQ2NIMWlkc1pPUl9RZVBXUkhfUVpWYXpzcmwzdHlNeUl5SGVpTGFPdzFqZ25xUXdPYmU1UGRYTG9teXNQdWVIaEVBRWx3RUEzSU81U0FHSnNXajFWR213M1B5STFWZmlLN004OERsdDNEQ2ZCMHYwMUZ6dXczdnp6ZFdEUGRIMHQzS2NNcFUzeS1BTlBSNXVDQWNhckFBRkhxa0ozS1NlNFlWLUtfRXk4V2NxRkMxbkpxUEVHSkk5RWY0RmF3cjBUbG92ZFpRTUE0Y0hSbjJwaHBNQTRabXZzakjSAY4CQVVfeXFMTWJ0Nm42bGFOVVkwZDNlb1dlaWxVM0tmLWJ6NHZlZkJfMFBXcm9QSGp4cmxldktrMnJvNEpWQ3B5ZkNaSUpaaFpWM1ZzMW90cHltM0xaYUUzY0dRQXBNbTlNN1pGX3FxamNIb08tYXdxOTJEMWNqZVg0ajhtWXUtaXoxLThnOFdqMDR1QUhlTWFsSWV5RHhoZGNXQl9DN2YxRXpTZ3RYRUt4ZEZUeVZDZDVWejVhd210eVRJbWRjd0RXTDJWamdaVnNfX0NoX3R1ZTM0OHFJdG1mSUVySVpmck10aXNacHlqUGtuSk1yX1pYLUthVGlBR0M0ZGxtcGc5SmtqcmVmQ3RiRTQ0aTBn?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sun, 20 Sep 2026 18:25:00 GMT"
-      },
-      {
         "title": "ORBIT GARANT REPORTS FISCAL 2026 FOURTH QUARTER AND YEAR-END FINANCIAL RESULTS - TradingView",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTHhXSWQzTkZfbjZlSDBZVzBqS1hKTFZKanFpX1BhZGxTSWRFeUFKVmh0V29tMjdBRVlhRzE4RFZJVEdadUt6N3JBTllpU3hHYjFkNmp2eG1iODJKWVNaeTAwYXMwTlVFNnFRX1BaVTBBSjB6RGJSWmgwT3oycUFZUTR4MkUxRE85V2RMSE1BQWJoX2ktZ3VDSXY5Tm5zb1RYdXNpb0Y3dVhCc0xaS191Q2tpemxHVlVGQzhHM1c0RHpfRm9CZ2RqYldQNWdyRG5meGV0dGJ3?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -203,12 +209,6 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVUppOGxSTFFQcFNBTDg1djVNOGJ3SFdHOXFCZ2YyOWE5V0hST0Nfa2UybjRrbkl3TDhnTDZXWmVXLVk5WTh6emtVamVrV1QxMHI1eVM0WWRyNVhrTnN4MUs2ZmdUQnVCQ19VVjZLWW15SzR5VGxDTTdFdUFtODIxTjA1R01CSnBHeU5Mbk5nT3pveWhueU5sTktsWnFmbndfbV92M245NA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 24 Sep 2026 03:39:59 GMT"
-      },
-      {
-        "title": "ICAI CA January 2027 exam dates out for Foundation, Intermediate courses; exams from January 2 - Careers360",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT1pBM2pTa2tKcm5UeFlGVHZlNTBwRjVQLU9uY1dhQjhWcWI3Z0VoQUNTdGFsOElTQ2FHblNFeFhqem1BSFk2Q3A2MTdCT3UxVnA4ZWNGSUNMT3NMbHJyVDF0blF0SGRtdm1JQmNmOEwydVlHdUlyTkhxdjA2ZkNxUmxfb09Iel9xNFg3WDhoS0xvVWNvZFM0MEZCeGFNcThLNDJnU3NMWGoyVHByd2FpMldKSDk2WUFpOFHSAb8BQVVfeXFMTmF3ODlieldOam9EWnZMSmJRTDBMclJsUHlVbF82b3ROT0hJNm1yVldWNTFJYTJYUlhtOE8zcF9xamRNM3k3QVBsb0xFV2M2Znd6N18wZm5GS1JuVzl1OVNfLXlibmZKUWw0ckhnTjJSaFFBLXg2Y1RJYVE1Z1JlSkZlLUJoYVo4SHNOME03WjZBY1ROOUVDZVlCRnZISGZTOEJSZDJYdTFBREJnYU1DOUFPSHZGazRPSkZDT2hXbkE?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 23 Sep 2026 13:08:10 GMT"
       }
     ]
   }
