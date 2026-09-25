@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T15:41:03.220264+00:00",
+  "generatedAt": "2026-09-25T19:42:59.651688+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 83660,
-      "chg": -0.76
+      "price": 83975,
+      "chg": -0.55
     },
     "eth": {
-      "price": 2681.18,
-      "chg": 0.06
+      "price": 2691.26,
+      "chg": -0.09
     }
   },
   "fx": {
@@ -88,6 +88,30 @@
   },
   "news": {
     "corp": [
+      {
+        "title": "Virtual pharma API firm HRV preparing for IPO, DRHP likely in H1 of 2027: Sources",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/virtual-pharma-api-firm-hrv-preparing-for-ipo-drhp-likely-in-h1-of-2027-sources/articleshow/134491851.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 26 Sep 2026 00:49:32 +0530"
+      },
+      {
+        "title": "Anthropic investor Lonsdale says AI firms stoking fear to sway policy",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-investor-lonsdale-says-ai-firms-stoking-fear-to-sway-policy/articleshow/134491575.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 26 Sep 2026 00:36:32 +0530"
+      },
+      {
+        "title": "AI boom raises ‘too-big-to-fail’ concerns as ecosystem expands, says Kansas Fed's Jeff Schmid",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-boom-raises-too-big-to-fail-concerns-as-ecosystem-expands-says-kansas-feds-jeff-schmid/articleshow/134490358.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 25 Sep 2026 23:15:51 +0530"
+      },
+      {
+        "title": "CleanMax Enviro block deal: Augment India Holdings likely to divest 85 lakh shares worth Rs 1,063 crore",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/cleanmax-enviro-block-deal-augment-india-holdings-likely-to-divest-85-lakh-shares-worth-rs-1063-crore/articleshow/134488759.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 25 Sep 2026 21:04:32 +0530"
+      },
       {
         "title": "Liqvd Digital India IPO subscribed 5.08 times on final day",
         "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/liqvd-digital-india-ipo-subscribed-5-08-times-on-final-day/articleshow/134488487.cms",
@@ -123,30 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/kian-m-export-files-ipo-paper-with-sebi-aims-to-raise-rs-500-crore-via-fresh-issue/articleshow/134488254.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Fri, 25 Sep 2026 20:33:54 +0530"
-      },
-      {
-        "title": "Adani group entities swap 86 lakh shares of Adani Enterprises in Rs 2,498 cr block deal",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-group-entities-swap-86-lakh-shares-of-adani-enterprises-in-rs-2498-cr-block-deal/articleshow/134488246.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 25 Sep 2026 20:32:22 +0530"
-      },
-      {
-        "title": "Quote of the day by Hetty Green: \"I buy when things are low and no one wants them. I keep them until they go up and people are crazy to get them.\"",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-hetty-green-i-buy-when-things-are-low-and-no-one-wants-them-i-keep-them-until-they-go-up-and-people-are-crazy-to-get-them-/articleshow/134487588.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 25 Sep 2026 19:46:01 +0530"
-      },
-      {
-        "title": "US stocks trade higher as AI enthusiasm eases worries over higher oil prices, yields",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-open-higher-as-ai-enthusiasm-eases-worries-over-higher-oil-prices-yields/articleshow/134486867.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 25 Sep 2026 19:08:24 +0530"
-      },
-      {
-        "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks open higher as AI enthusiasm eases worries over higher oil prices, yields",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-israel-war-hormuz-deal-brent-crude-oil-inflation-fed-rate-hike-earnings-forecast-nvidia-amd-micron-ai-chip-stock-price-news-25-september-2026/liveblog/134487023.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 25 Sep 2026 19:04:41 +0530"
       }
     ],
     "acct": [
@@ -154,13 +154,13 @@
         "title": "India’s ICAI plans certification course for independent directors – report - theaccountant-online.com",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM2pBdVlUSG91U0FyRUxNbUZic3dPMDVsaUI3LTBKUEZuTUlvejc3WWZlcU5BWFNQdHd2NkhpOHBGMzJ4TXpPRmtIelJ4ME00Sm0tWC1pd1NPc1ZwUTRqLXZhVTlPTDNpQ19aOWJKRUg0NFRoOXBLekpsSkdReHVwaTUtT0V4TWdhR1QtbU9ueEdLc1FR?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 25 Sep 2026 10:21:28 GMT"
+        "pubDate": "Fri, 25 Sep 2026 10:21:06 GMT"
       },
       {
-        "title": "IFRS 18 unpacked: Practical Guidance for implementation - Moore Kazakhstan",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMVVGdWl2bzcxMXdweENsU1RKSlhHWUNLdEpaNzNEMkJpUUJkRWJKUnpMTjlMdHc1bDUyM1ZkS2ZCdlVGR195RXgwZHNUZktUNXhSclJDS01XZHJscnFfNTVXS1NzS0c5YlJmelkxb1N4U1lrUjYtY0N2Rm1zN29Sa2cya0toRElhVHJDNWNhdTF5Y2loMVE?oc=5",
+        "title": "ICAI warns CAs: Plan ahead as 3-day bank strike overlaps with September 30 compliance deadlines - Livemint",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQenpSQ0xiN0pzZGpBLXB0T3hlX0V1dGpORmVfWjcxeFhLX2lfYmxENUVvN0NpQlVZbEVuZzg3SnYwOGJHaHlhMEZQVm5XcnFoVkJsTVVNTS1idFdOc3RmbXctd1o3cVkyMjM5NHV3cGY0YzVlT3VKM19KU3FUVDhpVms0dWVIRmhvaFlTQ0FONWI0R2hwZWhGTmhJYTZzNUxBMWRXM2c2TFZmN0VsNnFNVGtPOTd0NTFINERRWTMzaHVhOTd6cWowQlJSc1FYc1BKZHJMa2ljYU1Rbi10TktSdDVXQmVYbHlheDJKVtIB8gFBVV95cUxQRHN1MmN5UWl5Q01mRHdWcHQ5WlpQUEREZTgzN1FqaWljLWcyX2NZVU5ZbmN2dUlyVldkVExQTGlMUFF3Nkg1ZFVPME5DdVF6dTdhLXYtVlYxeXNBSmtpd3JBMjRJNDZ1XzlVN1daenFCbG9SRjE4S2FaY3JwcG8tMDJvcTFPMXZoVHppOWZNY29ERV82TUI4REFKMUxIRVhaTjU3US0zVXpEMGlzdG84VTVjakNDTVB4ZnNVQ1dXaDhsaktacy01aF9QV3RDVVgzTGZ6UnEwY1lPQW1yOHRQcmFYOVliVUhhTmRhaU9VZFU0UQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 25 Sep 2026 11:47:40 GMT"
+        "pubDate": "Fri, 25 Sep 2026 18:41:06 GMT"
       },
       {
         "title": "ICAI moves to propose CA Act changes, draft in 2 months to build larger Indian accounting firms - cfo.economictimes.indiatimes.com",
@@ -169,10 +169,10 @@
         "pubDate": "Mon, 21 Sep 2026 02:08:26 GMT"
       },
       {
-        "title": "ICAI tells members to complete statutory compliance before nationwide bank strike - The Economic Times",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObFRDQkZHeHpRemtJTGdsZW5LQVlkdDhmem9lbGpDcHJJa0lUVmZmbkNCdHRwc0FHUGw4REdfaHEyRFhpSzVvbnBMZ0xXQVVqb2R2emo5T3JUaGQ2Z0I4TG5pdWVmMDROeW94Rm5xemJ2OWhYOVV4T2pqQmQ5azUyOHdoTXZlQlRyamV4ZnRjSnlGOHduT0tMN3dDYWJvLWN5UUdDMHNPRGxNUEtSUkRlU2FBbFJyQ0lLUFM3RVg1d0wyVnhjWThTZk84S2g3OVBOc2k2YnFqOEhFR3kyLTM0Nm1peGJ1U3VtMmQzS2ExWl9GWEZLZEFGMmxyQXBTYUhkMjRn0gGIAkFVX3lxTE9lME9DM3VpU0pSZ1pSbm9sNlFGcHo3eHBnc1VoLTgyd0djUnZEOEx0NzJURHVMSW5lNGpwdXMyZW5DaVFiY0lDM29fZnFZVGwxS1o1QldDcVZXZ2l2OHVqOXlnV0tlOGY4bC14Y3RjTWlKN2hac1hwZEpjVGRKYVYxY2piVTNISHFHTjdIQlY1dUkzWG9ySlpqQU84b2RwRnluV3E2cEphSWJmdkhDcDZfUEh1UmRCaFlfNXVDMW1mVjlqNE5TT3ltYUgwZElFd3NHWVQ5RDRKOUxIYXFjSHFoUmdQNXhJT3JvUUVMLVRpdVFCTzNMZ2JtUU9maUp4dF9VTmo4TWs0Rg?oc=5",
+        "title": "IFRS 18 unpacked: Practical Guidance for implementation - Moore Kazakhstan",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMVVGdWl2bzcxMXdweENsU1RKSlhHWUNLdEpaNzNEMkJpUUJkRWJKUnpMTjlMdHc1bDUyM1ZkS2ZCdlVGR195RXgwZHNUZktUNXhSclJDS01XZHJscnFfNTVXS1NzS0c5YlJmelkxb1N4U1lrUjYtY0N2Rm1zN29Sa2cya0toRElhVHJDNWNhdTF5Y2loMVE?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 25 Sep 2026 12:33:40 GMT"
+        "pubDate": "Fri, 25 Sep 2026 11:46:56 GMT"
       },
       {
         "title": "ICAI releases CA Foundation, Intermediate January 2027 exams schedule at icai.nic.in - The Indian Express",
@@ -181,10 +181,10 @@
         "pubDate": "Fri, 25 Sep 2026 08:21:11 GMT"
       },
       {
-        "title": "ICAI CA January 2027 Exam Dates - PW",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VM2lnWXNXdXZLTWp6UHBjT0IxU21NUFF3dVBHRTFzWl9lZFFuc0laVnFBM0R0NGk5RWRWQWNDUWdBQkFIU1l3c1N6UURmOWNneXljX2pBeS1TOUQ2X0pIYVFrdnJrRms?oc=5",
+        "title": "ICAI tells members to complete statutory compliance before nationwide bank strike - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObFRDQkZHeHpRemtJTGdsZW5LQVlkdDhmem9lbGpDcHJJa0lUVmZmbkNCdHRwc0FHUGw4REdfaHEyRFhpSzVvbnBMZ0xXQVVqb2R2emo5T3JUaGQ2Z0I4TG5pdWVmMDROeW94Rm5xemJ2OWhYOVV4T2pqQmQ5azUyOHdoTXZlQlRyamV4ZnRjSnlGOHduT0tMN3dDYWJvLWN5UUdDMHNPRGxNUEtSUkRlU2FBbFJyQ0lLUFM3RVg1d0wyVnhjWThTZk84S2g3OVBOc2k2YnFqOEhFR3kyLTM0Nm1peGJ1U3VtMmQzS2ExWl9GWEZLZEFGMmxyQXBTYUhkMjRn0gGIAkFVX3lxTE9lME9DM3VpU0pSZ1pSbm9sNlFGcHo3eHBnc1VoLTgyd0djUnZEOEx0NzJURHVMSW5lNGpwdXMyZW5DaVFiY0lDM29fZnFZVGwxS1o1QldDcVZXZ2l2OHVqOXlnV0tlOGY4bC14Y3RjTWlKN2hac1hwZEpjVGRKYVYxY2piVTNISHFHTjdIQlY1dUkzWG9ySlpqQU84b2RwRnluV3E2cEphSWJmdkhDcDZfUEh1UmRCaFlfNXVDMW1mVjlqNE5TT3ltYUgwZElFd3NHWVQ5RDRKOUxIYXFjSHFoUmdQNXhJT3JvUUVMLVRpdVFCTzNMZ2JtUU9maUp4dF9VTmo4TWs0Rg?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 23 Sep 2026 14:26:06 GMT"
+        "pubDate": "Fri, 25 Sep 2026 12:33:40 GMT"
       },
       {
         "title": "IFRS Foundation – Reducing the size of the boards - kpmg.com",
@@ -199,16 +199,16 @@
         "pubDate": "Tue, 22 Sep 2026 05:45:40 GMT"
       },
       {
-        "title": "ORBIT GARANT REPORTS FISCAL 2026 FOURTH QUARTER AND YEAR-END FINANCIAL RESULTS - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTHhXSWQzTkZfbjZlSDBZVzBqS1hKTFZKanFpX1BhZGxTSWRFeUFKVmh0V29tMjdBRVlhRzE4RFZJVEdadUt6N3JBTllpU3hHYjFkNmp2eG1iODJKWVNaeTAwYXMwTlVFNnFRX1BaVTBBSjB6RGJSWmgwT3oycUFZUTR4MkUxRE85V2RMSE1BQWJoX2ktZ3VDSXY5Tm5zb1RYdXNpb0Y3dVhCc0xaS191Q2tpemxHVlVGQzhHM1c0RHpfRm9CZ2RqYldQNWdyRG5meGV0dGJ3?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 25 Sep 2026 02:45:00 GMT"
-      },
-      {
-        "title": "ICAI Announces January 2027 CA Intermediate and Foundation Exam Dates; Check Paper Timings - Juris Hour",
+        "title": "ICAI Announces January 2027 CA Intermediate and Foundation Exam Dates; Check Paper Timings - jurishour.in",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVUppOGxSTFFQcFNBTDg1djVNOGJ3SFdHOXFCZ2YyOWE5V0hST0Nfa2UybjRrbkl3TDhnTDZXWmVXLVk5WTh6emtVamVrV1QxMHI1eVM0WWRyNVhrTnN4MUs2ZmdUQnVCQ19VVjZLWW15SzR5VGxDTTdFdUFtODIxTjA1R01CSnBHeU5Mbk5nT3pveWhueU5sTktsWnFmbndfbV92M245NA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 24 Sep 2026 03:39:59 GMT"
+      },
+      {
+        "title": "CA January 2027 Exams: ICAI Announces Foundation, Intermediate Dates - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMzNpVnlzZHZlQ2FnVk5RLVJGeDJ4emdobWpBYlh4LTQwQ2s2LV9SRV9ZbFFYVkh2ZXQ5QnN2dzBXTlJpN2E0Rk1Mdm4yU3JIbUk1U0x0bnUtd29NVVg0eFpYYkRaXzRlTDJYSGhHb3B3V2N6dUR5M0x2Y3Nrb19FbTgxU1EyNE9DTHJRZU1qbkxQSHFKbkVZNnZHUHRyU2I2aWJzVUV1MjNjUdIBsgFBVV95cUxNVTRERFFRWS1CTll3YXVmdjFtemVhWEtZbXBIbWduWXJYamlTYlp1NExoOTVJdkJZelhkOGxDRVV4ZEVTWV8tZFAwZ0JTeW1FcGVvTVJndDg3eFozX2NXNXdwS0diZ0ZObzZqZ2l4aEVWS2ttV2FnTS1lRFVCbDNXOVRxOTZRZjFaLTBBUFBHUHZnVHVMbTJvTmhNOUxqTTlnNkhBMExQWTFRa2lqYnVLU0xn?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 23 Sep 2026 16:01:07 GMT"
       }
     ]
   }
