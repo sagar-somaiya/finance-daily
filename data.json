@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T22:57:43.730953+00:00",
+  "generatedAt": "2026-09-26T01:10:41.048769+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,19 +72,19 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 84095,
-      "chg": -0.15
+      "price": 83934,
+      "chg": -0.9
     },
     "eth": {
-      "price": 2693.4,
-      "chg": 0.36
+      "price": 2689.97,
+      "chg": -0.24
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 96.02,
-    "eurinr": 109.27,
-    "gbpinr": 126.93
+    "usdinr": 95.92,
+    "eurinr": 109.34,
+    "gbpinr": 126.99
   },
   "news": {
     "corp": [
@@ -169,10 +169,10 @@
         "pubDate": "Fri, 25 Sep 2026 18:41:06 GMT"
       },
       {
-        "title": "IFRS 18 unpacked: Practical Guidance for implementation - Moore Kazakhstan",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMVVGdWl2bzcxMXdweENsU1RKSlhHWUNLdEpaNzNEMkJpUUJkRWJKUnpMTjlMdHc1bDUyM1ZkS2ZCdlVGR195RXgwZHNUZktUNXhSclJDS01XZHJscnFfNTVXS1NzS0c5YlJmelkxb1N4U1lrUjYtY0N2Rm1zN29Sa2cya0toRElhVHJDNWNhdTF5Y2loMVE?oc=5",
+        "title": "ICAI CA January 2027 Exam Dates - PW",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VM2lnWXNXdXZLTWp6UHBjT0IxU21NUFF3dVBHRTFzWl9lZFFuc0laVnFBM0R0NGk5RWRWQWNDUWdBQkFIU1l3c1N6UURmOWNneXljX2pBeS1TOUQ2X0pIYVFrdnJrRms?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 25 Sep 2026 11:46:56 GMT"
+        "pubDate": "Wed, 23 Sep 2026 14:26:06 GMT"
       },
       {
         "title": "IFRS Foundation – Reducing the size of the boards - kpmg.com",
@@ -181,16 +181,22 @@
         "pubDate": "Tue, 22 Sep 2026 12:14:43 GMT"
       },
       {
-        "title": "ICAI releases CA Foundation, Intermediate January 2027 exams schedule at icai.nic.in - The Indian Express",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcDFDVzV0djJfY3lLVEZVM3lzeDFvY3NwR01FT0h5TDFJRjZtQ3hmT3hfMnhXaGtQdnloUVY2VWxNNHpoYXBPS19SYU1jeHYyUTlwVlFITEd3aXEzTzNmVzNsT3o5VVlBRVl5c1d5eGpmNXJZRTlvT1V6TjlRY01Uc1JNUzdQVXJHRmRfX2hfMXMtaHdIYzRMbG5fY3JYTTVhUFIzZ295UmdIeEVoMExYMXlPbkRDQjVXOTJWVXNXZ1dSbGFBNzluemlmY1dZdjdrX1Mw0gHaAUFVX3lxTE9vYUZ5V1ZjU1R1TURPNTJlWVo4TE1ocHR3UE5KV2piZkMzdXRzczl6Y0dnQUtpdnF1aEJfbVByRXRvRzdkNy14ZnpVcTVVcXBHWFpsRjFmVDFfZms2Yk9wMk5WaWJPX3BPaXQ1Y21HMTZ2OUE0TExwclNtX3VYX3hndlp6VDFMRHlTLVM0UG5jdW1RbF9KMnZ5WlNyZlVzbE45WVpPVloxOFpjaXJPOG1vb2p1MC1FaXY5YzVZUk8xekxfSm1EZDVXNlNYXzRScFViNmFnZGhpV1Jn?oc=5",
+        "title": "IFRS 18 unpacked: Practical Guidance for implementation - Moore Kazakhstan",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMVVGdWl2bzcxMXdweENsU1RKSlhHWUNLdEpaNzNEMkJpUUJkRWJKUnpMTjlMdHc1bDUyM1ZkS2ZCdlVGR195RXgwZHNUZktUNXhSclJDS01XZHJscnFfNTVXS1NzS0c5YlJmelkxb1N4U1lrUjYtY0N2Rm1zN29Sa2cya0toRElhVHJDNWNhdTF5Y2loMVE?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 25 Sep 2026 08:21:11 GMT"
+        "pubDate": "Fri, 25 Sep 2026 11:46:56 GMT"
       },
       {
         "title": "ICAI tells members to complete statutory compliance before nationwide bank strike - The Economic Times",
         "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObFRDQkZHeHpRemtJTGdsZW5LQVlkdDhmem9lbGpDcHJJa0lUVmZmbkNCdHRwc0FHUGw4REdfaHEyRFhpSzVvbnBMZ0xXQVVqb2R2emo5T3JUaGQ2Z0I4TG5pdWVmMDROeW94Rm5xemJ2OWhYOVV4T2pqQmQ5azUyOHdoTXZlQlRyamV4ZnRjSnlGOHduT0tMN3dDYWJvLWN5UUdDMHNPRGxNUEtSUkRlU2FBbFJyQ0lLUFM3RVg1d0wyVnhjWThTZk84S2g3OVBOc2k2YnFqOEhFR3kyLTM0Nm1peGJ1U3VtMmQzS2ExWl9GWEZLZEFGMmxyQXBTYUhkMjRn0gGIAkFVX3lxTE9lME9DM3VpU0pSZ1pSbm9sNlFGcHo3eHBnc1VoLTgyd0djUnZEOEx0NzJURHVMSW5lNGpwdXMyZW5DaVFiY0lDM29fZnFZVGwxS1o1QldDcVZXZ2l2OHVqOXlnV0tlOGY4bC14Y3RjTWlKN2hac1hwZEpjVGRKYVYxY2piVTNISHFHTjdIQlY1dUkzWG9ySlpqQU84b2RwRnluV3E2cEphSWJmdkhDcDZfUEh1UmRCaFlfNXVDMW1mVjlqNE5TT3ltYUgwZElFd3NHWVQ5RDRKOUxIYXFjSHFoUmdQNXhJT3JvUUVMLVRpdVFCTzNMZ2JtUU9maUp4dF9VTmo4TWs0Rg?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 25 Sep 2026 12:33:40 GMT"
+      },
+      {
+        "title": "ICAI releases CA Foundation, Intermediate January 2027 exams schedule at icai.nic.in - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcDFDVzV0djJfY3lLVEZVM3lzeDFvY3NwR01FT0h5TDFJRjZtQ3hmT3hfMnhXaGtQdnloUVY2VWxNNHpoYXBPS19SYU1jeHYyUTlwVlFITEd3aXEzTzNmVzNsT3o5VVlBRVl5c1d5eGpmNXJZRTlvT1V6TjlRY01Uc1JNUzdQVXJHRmRfX2hfMXMtaHdIYzRMbG5fY3JYTTVhUFIzZ295UmdIeEVoMExYMXlPbkRDQjVXOTJWVXNXZ1dSbGFBNzluemlmY1dZdjdrX1Mw0gHaAUFVX3lxTE9vYUZ5V1ZjU1R1TURPNTJlWVo4TE1ocHR3UE5KV2piZkMzdXRzczl6Y0dnQUtpdnF1aEJfbVByRXRvRzdkNy14ZnpVcTVVcXBHWFpsRjFmVDFfZms2Yk9wMk5WaWJPX3BPaXQ1Y21HMTZ2OUE0TExwclNtX3VYX3hndlp6VDFMRHlTLVM0UG5jdW1RbF9KMnZ5WlNyZlVzbE45WVpPVloxOFpjaXJPOG1vb2p1MC1FaXY5YzVZUk8xekxfSm1EZDVXNlNYXzRScFViNmFnZGhpV1Jn?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 25 Sep 2026 08:21:11 GMT"
       },
       {
         "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
@@ -203,12 +209,6 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVUppOGxSTFFQcFNBTDg1djVNOGJ3SFdHOXFCZ2YyOWE5V0hST0Nfa2UybjRrbkl3TDhnTDZXWmVXLVk5WTh6emtVamVrV1QxMHI1eVM0WWRyNVhrTnN4MUs2ZmdUQnVCQ19VVjZLWW15SzR5VGxDTTdFdUFtODIxTjA1R01CSnBHeU5Mbk5nT3pveWhueU5sTktsWnFmbndfbV92M245NA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 24 Sep 2026 03:39:59 GMT"
-      },
-      {
-        "title": "CA January 2027 Exams: ICAI Announces Foundation, Intermediate Dates - NDTV",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMzNpVnlzZHZlQ2FnVk5RLVJGeDJ4emdobWpBYlh4LTQwQ2s2LV9SRV9ZbFFYVkh2ZXQ5QnN2dzBXTlJpN2E0Rk1Mdm4yU3JIbUk1U0x0bnUtd29NVVg0eFpYYkRaXzRlTDJYSGhHb3B3V2N6dUR5M0x2Y3Nrb19FbTgxU1EyNE9DTHJRZU1qbkxQSHFKbkVZNnZHUHRyU2I2aWJzVUV1MjNjUdIBsgFBVV95cUxNVTRERFFRWS1CTll3YXVmdjFtemVhWEtZbXBIbWduWXJYamlTYlp1NExoOTVJdkJZelhkOGxDRVV4ZEVTWV8tZFAwZ0JTeW1FcGVvTVJndDg3eFozX2NXNXdwS0diZ0ZObzZqZ2l4aEVWS2ttV2FnTS1lRFVCbDNXOVRxOTZRZjFaLTBBUFBHUHZnVHVMbTJvTmhNOUxqTTlnNkhBMExQWTFRa2lqYnVLU0xn?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 23 Sep 2026 16:01:07 GMT"
       }
     ]
   }
