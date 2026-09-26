@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T11:37:06.969081+00:00",
+  "generatedAt": "2026-09-26T15:23:34.148163+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 84151,
-      "chg": -0.9
+      "price": 84019,
+      "chg": 0.19
     },
     "eth": {
-      "price": 2688.27,
-      "chg": -1.46
+      "price": 2689.48,
+      "chg": -0.09
     }
   },
   "fx": {
@@ -88,6 +88,12 @@
   },
   "news": {
     "corp": [
+      {
+        "title": "Same playbook, different numbers: Why FPI selling may not be the story it looks like",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/same-playbook-different-numbers-why-fpi-selling-may-not-be-the-story-it-looks-like/articleshow/134503513.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 26 Sep 2026 17:05:56 +0530"
+      },
       {
         "title": "J Infratech files IPO papers; eyes Rs 600 cr via fresh issue",
         "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/j-infratech-files-ipo-papers-eyes-rs-600-cr-via-fresh-issue/articleshow/134502249.cms",
@@ -141,12 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/bonds/indias-bond-market-performed-well-equities-to-become-attractive-again-rbis-poonam-gupta/articleshow/134499695.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Sat, 26 Sep 2026 12:49:14 +0530"
-      },
-      {
-        "title": "Deon Energy files draft papers with Sebi to raise funds via IPO",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/deon-energy-files-draft-papers-with-sebi-to-raise-funds-via-ipo/articleshow/134499658.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sat, 26 Sep 2026 12:47:18 +0530"
       }
     ],
     "acct": [
@@ -187,16 +187,16 @@
         "pubDate": "Sun, 20 Sep 2026 18:25:00 GMT"
       },
       {
-        "title": "ICAI warns CAs: Plan ahead as 3-day bank strike overlaps with September 30 compliance deadlines - Livemint",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQenpSQ0xiN0pzZGpBLXB0T3hlX0V1dGpORmVfWjcxeFhLX2lfYmxENUVvN0NpQlVZbEVuZzg3SnYwOGJHaHlhMEZQVm5XcnFoVkJsTVVNTS1idFdOc3RmbXctd1o3cVkyMjM5NHV3cGY0YzVlT3VKM19KU3FUVDhpVms0dWVIRmhvaFlTQ0FONWI0R2hwZWhGTmhJYTZzNUxBMWRXM2c2TFZmN0VsNnFNVGtPOTd0NTFINERRWTMzaHVhOTd6cWowQlJSc1FYc1BKZHJMa2ljYU1Rbi10TktSdDVXQmVYbHlheDJKVtIB8gFBVV95cUxQRHN1MmN5UWl5Q01mRHdWcHQ5WlpQUEREZTgzN1FqaWljLWcyX2NZVU5ZbmN2dUlyVldkVExQTGlMUFF3Nkg1ZFVPME5DdVF6dTdhLXYtVlYxeXNBSmtpd3JBMjRJNDZ1XzlVN1daenFCbG9SRjE4S2FaY3JwcG8tMDJvcTFPMXZoVHppOWZNY29ERV82TUI4REFKMUxIRVhaTjU3US0zVXpEMGlzdG84VTVjakNDTVB4ZnNVQ1dXaDhsaktacy01aF9QV3RDVVgzTGZ6UnEwY1lPQW1yOHRQcmFYOVliVUhhTmRhaU9VZFU0UQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 25 Sep 2026 18:41:06 GMT"
-      },
-      {
         "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXhMY1ZubW01dm1XMHdBcDJvS2lyTkdrN0FoY0F4TjVwS0JDQ25TOWxicmduY0xJcVkwQ3c0dF9qMFVYU0FBblhRbWpXSEFmNDhaVE1OQW9KaUY1dXhzT3BQb0JydDU2aVRyeWFGaVZqZTYtOW52UHE1a1RZcE9idjUzSzdOWm1pUlh5cnR4ZjlvbHB1UDRYLWRCZE14M2ptcV83WWg0M3hBWDAxY0FVSGxWUTRFX09YUDRxa0ZvUVdzdkV2UVpRZFpJdmg5b2wtbHQ00gHaAUFVX3lxTE80dEE0dUlVelJhcnRKZEl6aDdOcF9Kb1FYWEw0a0pEblZrRmIyS21JMElVTTlJT0lHbDVaa1JmOE93VEVaYzBpeXgwNG1UY3VMbmVZT2RGSEJiSjhhdlZRVVdMb0hUWTdDbE5hM0RDOURMRGg0d29WT0NIbDUxMjlsNzBhUnpIVkFIWmhoUDZiaGN2NXZVQUMwZUxvdTdrSmxSZGh6RFF6OTY4Y0VsSnowNVRpdXd6WnBEUmt2c3pqbG9BUDBaeVdxVTVtN0lyQ2tVZWdkQTdrRHpR?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 22 Sep 2026 05:45:40 GMT"
+      },
+      {
+        "title": "ICAI warns CAs: Plan ahead as 3-day bank strike overlaps with September 30 compliance deadlines - Livemint",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQenpSQ0xiN0pzZGpBLXB0T3hlX0V1dGpORmVfWjcxeFhLX2lfYmxENUVvN0NpQlVZbEVuZzg3SnYwOGJHaHlhMEZQVm5XcnFoVkJsTVVNTS1idFdOc3RmbXctd1o3cVkyMjM5NHV3cGY0YzVlT3VKM19KU3FUVDhpVms0dWVIRmhvaFlTQ0FONWI0R2hwZWhGTmhJYTZzNUxBMWRXM2c2TFZmN0VsNnFNVGtPOTd0NTFINERRWTMzaHVhOTd6cWowQlJSc1FYc1BKZHJMa2ljYU1Rbi10TktSdDVXQmVYbHlheDJKVtIB8gFBVV95cUxQRHN1MmN5UWl5Q01mRHdWcHQ5WlpQUEREZTgzN1FqaWljLWcyX2NZVU5ZbmN2dUlyVldkVExQTGlMUFF3Nkg1ZFVPME5DdVF6dTdhLXYtVlYxeXNBSmtpd3JBMjRJNDZ1XzlVN1daenFCbG9SRjE4S2FaY3JwcG8tMDJvcTFPMXZoVHppOWZNY29ERV82TUI4REFKMUxIRVhaTjU3US0zVXpEMGlzdG84VTVjakNDTVB4ZnNVQ1dXaDhsaktacy01aF9QV3RDVVgzTGZ6UnEwY1lPQW1yOHRQcmFYOVliVUhhTmRhaU9VZFU0UQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 25 Sep 2026 18:41:06 GMT"
       },
       {
         "title": "ICAI issues advisory for CAs ahead of 3-day bank strike | 'Avoid any last-minute difficulties' | Inshorts - Inshorts",
@@ -205,10 +205,10 @@
         "pubDate": "Sat, 26 Sep 2026 06:35:24 GMT"
       },
       {
-        "title": "IFRS 18 unpacked: Practical Guidance for implementation - kazakhstan.moore-global.com",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMVVGdWl2bzcxMXdweENsU1RKSlhHWUNLdEpaNzNEMkJpUUJkRWJKUnpMTjlMdHc1bDUyM1ZkS2ZCdlVGR195RXgwZHNUZktUNXhSclJDS01XZHJscnFfNTVXS1NzS0c5YlJmelkxb1N4U1lrUjYtY0N2Rm1zN29Sa2cya0toRElhVHJDNWNhdTF5Y2loMVE?oc=5",
+        "title": "ICAI seeks bigger role for smaller firms in government consulting to build India’s Big Four - Moneycontrol.com",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMGloZkhNMkNxWndVNzVVTGRhX09TSGNCRFRlY2o2N3BVQU9wRVZjTG9uV01ic3cxWHdOMmpCZWlKZDgteUE5YUZ0NDh4UUZtTzdQZnFZM0tTRUhvcW1tSDFoRUN3Mlk4cGFtb0R2SFc5NmdkUk4tMnl6NldybExNMHdYbXdkcE1GX3EyT0FLcEZPX21qYWhSa0dJZWR0U2J3cnp1OGRJajJyYThrOS03eXZVMUM2WHRocjZnOEFmMnZIMnl5UmVzN2xrZlo1eTZsblEwdDRoak5scHFzZ2N4SUs1Q1FqdmNJVURsWNIB8gFBVV95cUxPeFdyeVVTXzk2U0RJVVRfbFZkeVRwbllOS0g5dnpsOUZQR3RaZGlSRmNCeDFFQ2FDSWFENGxqcWVTN2l3YmJrOWxBckJ5OU1sSk9yVXdjQ0ptTE14MW1sXzByWGZoczAyX2VqZHp5Y3VpaXA3XzlMUUQyZzBlWUo0dTd0ZUZqczh2Q0RyNlNsLTJ0NU5jc1BWQm5wVFh6X1F0QkQ3TThHWUxMNkdFXy1KTzZUOW1Pb1NleS1Ec2lrNVhJbnBLNmF5WS1MamFjbFlQeFREUDZDcHFuSWtKeWdoSGxVRDlYTXphOUhJT3RhUzQxZw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 25 Sep 2026 11:46:56 GMT"
+        "pubDate": "Tue, 22 Sep 2026 10:48:54 GMT"
       }
     ]
   }
