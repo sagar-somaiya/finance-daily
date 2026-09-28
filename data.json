@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T06:20:41.433880+00:00",
+  "generatedAt": "2026-09-28T14:16:35.099027+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 83187,
-      "chg": -1.62
+      "price": 83389,
+      "chg": -1.89
     },
     "eth": {
-      "price": 2650.92,
-      "chg": -2.15
+      "price": 2680.72,
+      "chg": -0.95
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
-        "title": "NSE shares fall 2%, slip below IPO price, but analysts’ target prices go up to Rs 2,050. Time to buy?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-shares-fall-2-slip-below-ipo-price-but-analysts-target-prices-go-up-to-rs-2050-time-to-buy/articleshow/134532996.cms",
+        "title": "US stocks: Wall St opens lower as oil spikes after Trump rejects Iran peace proposal",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-wall-st-opens-lower-as-oil-spikes-after-trump-rejects-iran-peace-proposal/articleshow/134544649.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 28 Sep 2026 11:18:44 +0530"
+        "pubDate": "Mon, 28 Sep 2026 19:24:46 +0530"
       },
       {
-        "title": "PB Fintech shares can rally 91% after 2-day bloodbath, says Bernstein. Here’s why it remains bullish",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-shares-can-rally-91-after-2-day-bloodbath-says-bernstein-heres-why-it-remains-bullish/articleshow/134532891.cms",
+        "title": "Rupee slips toward 96 vs US dollar as crude, yields and stocks weigh on currency",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-toward-96-vs-us-dollar-as-crude-yields-and-stocks-weigh-on-currency/articleshow/134544621.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 28 Sep 2026 11:03:52 +0530"
+        "pubDate": "Mon, 28 Sep 2026 19:18:16 +0530"
       },
       {
-        "title": "BSE shares fall 2%, down 30% in 4 months. Why Macquarie is bullish while Jefferies is cautious",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-fall-2-down-30-in-4-months-why-macquarie-is-bullish-while-jefferies-is-cautious/articleshow/134532790.cms",
+        "title": "AI trade enters a new phase: Why DBS favours AI adopters over capex-heavy players",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-trade-enters-a-new-phase-why-dbs-favours-ai-adopters-over-capex-heavy-players/articleshow/134544223.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 28 Sep 2026 11:03:36 +0530"
+        "pubDate": "Mon, 28 Sep 2026 18:59:16 +0530"
       },
       {
-        "title": "Global Market: KOSPI drops over 2% as Samsung, SK Hynix slide on yield concerns",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-kospi-drops-over-2-as-samsung-sk-hynix-slide-on-yield-concerns/articleshow/134532283.cms",
+        "title": "Equity capital inflow in real estate, data centre, hotel assets doubles to USD 9.5 bn in Jul-Sep: CBRE",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/equity-capital-inflow-in-real-estate-data-centre-hotel-assets-doubles-to-usd-9-5-bn-in-jul-sep-cbre/articleshow/134544206.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 28 Sep 2026 10:26:45 +0530"
+        "pubDate": "Mon, 28 Sep 2026 18:56:17 +0530"
       },
       {
-        "title": "Gold prices dip Rs 3,200/10 gram; silver falls Rs 6,700/kg as high oil prices raise rate hike bets. Time to sell?",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-dip-rs-3200/10-gram-silver-falls-rs-6700/kg-as-high-oil-prices-raise-rate-hike-bets-time-to-sell/articleshow/134532168.cms",
+        "title": "Havells India among 8 midcap stocks that hit 52-week lows and slipped up to 15% in a month",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/havells-india-among-8-midcap-stocks-that-hit-52-week-lows-and-slipped-up-to-15-in-a-month/slideshow/134543453.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 28 Sep 2026 10:20:39 +0530"
+        "pubDate": "Mon, 28 Sep 2026 18:20:05 +0530"
       },
       {
-        "title": "Global Market: Japan’s Nikkei slips after early gains as Nasdaq futures weaken",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-slips-after-early-gains-as-nasdaq-futures-weaken/articleshow/134532154.cms",
+        "title": "Market wrap: Infosys, Dr Reddy's Labs, Tata Motors PV, Power Grid top gainers and losers on Nifty and Sensex on Monday",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-infosys-dr-reddys-labs-tata-motors-pv-power-grid-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/134543014.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 28 Sep 2026 10:18:40 +0530"
+        "pubDate": "Mon, 28 Sep 2026 18:19:03 +0530"
       },
       {
-        "title": "US Market: Wall Street rally faces fresh test as jobs, inflation data loom",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-wall-street-rally-faces-fresh-test-as-jobs-inflation-data-loom/articleshow/134532058.cms",
+        "title": "Godrej Properties inks JV to build Rs 6,000 cr luxury housing project at Marine Lines, Mumbai",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/godrej-properties-inks-jv-to-build-rs-6000-cr-luxury-housing-project-at-marine-lines-mumbai/articleshow/134542978.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 28 Sep 2026 10:15:04 +0530"
+        "pubDate": "Mon, 28 Sep 2026 18:07:43 +0530"
       },
       {
-        "title": "Will RBI announce steep rate hikes? Nomura sees up to 50 bps increase by Dec, dismisses 125 bps hike fears",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-rbi-announce-steep-rate-hikes-nomura-sees-up-to-50-bps-increase-by-dec-dismisses-125-bps-hike-fears/articleshow/134531953.cms",
+        "title": "Clean Max Enviro Energy raises Rs 2,500 cr via green bonds",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/clean-max-enviro-energy-raises-rs-2500-cr-via-green-bonds/articleshow/134542920.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 28 Sep 2026 10:07:28 +0530"
+        "pubDate": "Mon, 28 Sep 2026 18:05:58 +0530"
       },
       {
-        "title": "Stock selection key as earnings and valuation gaps widen: Tata MF’s Chandraprakash Padiyar",
-        "link": "https://economictimes.indiatimes.com/markets/expert-view/stock-selection-key-as-earnings-and-valuation-gaps-widen-tata-mfs-chandraprakash-padiyar/articleshow/134531801.cms",
+        "title": "India 10-year yield scales two-year high as supply, global rout bite",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-yield-scales-two-year-high-as-supply-global-rout-bite/articleshow/134542869.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 28 Sep 2026 10:04:47 +0530"
+        "pubDate": "Mon, 28 Sep 2026 18:03:24 +0530"
       },
       {
-        "title": "Japanese bond yields climb towards multi-decade highs on inflation, BOJ tightening bets",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/japanese-bond-yields-climb-towards-multi-decade-highs-on-inflation-boj-tightening-bets/articleshow/134531699.cms",
+        "title": "RBI completes 1 trillion rupee net debt sale for first time in a decade",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/rbi-completes-1-trillion-rupee-net-debt-sale-for-first-time-in-a-decade/articleshow/134542787.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 28 Sep 2026 09:53:16 +0530"
+        "pubDate": "Mon, 28 Sep 2026 18:01:54 +0530"
       }
     ],
     "acct": [
@@ -157,10 +157,22 @@
         "pubDate": "Fri, 25 Sep 2026 10:21:06 GMT"
       },
       {
-        "title": "ICAI plans AI-focused CA curriculum, international programme for overseas students - indianexpress.com",
+        "title": "ICAI plans AI-focused CA curriculum, international programme for overseas students - The Indian Express",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRk5TU1Bpb2lPakFTUjFra1Z5amRRNTg5X1A5b3JFQ21Wd0c1X1dUQlNmN25Nd1phMzZCenRxQlZSeXV3UHJnU0dGVFF5dFBQaE5naDBjNDVXeUFGX0Q5WUZfdHJNR1RKeGxBb2dxZWRINDRGellwZ0ZqSXpDVlJhbExtQ21MUFU3ZzhQb3RkbVFsOW45Wm5NSDQtX3lnOC1UWlRHZlZIZUpNWkxCSk9HZFRvUDlBX2FBX19QQnlGaklXNmgtcDh3bjhzLUIxLTkw0gHXAUFVX3lxTFBNaElVcjk0cGFrRUFfbmJaMjlRX1ZtMnRTbTB5TGlkekQ5VmFSMjhlbDdjSHJYaEZiYnBnMVgxR2FsbVNBUElQYkk1ZF9UZ0h0UnBFdUQzQ3htYkdsWVJWRER0a2R1MkZlcG1td0RGeFhkQ3N1aEpjNmpCZGcycHFoU3AxMVpJejZfZTllYnRpTmhfLUtRU01sOXhhMkFCbDZJTEVKMmloNkIyQ2ZweEIzRkdGN2lpempIUUVmd1Q5ajJKUkN6bUM3Y2cyZU9jZlNHYW9JT3Nj?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 25 Sep 2026 04:49:06 GMT"
+      },
+      {
+        "title": "Update on the IFRS 18 debate - kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQlUyZWs1VlhnVFAyR3g5SUVLU3d1Tmo2RUpWY2Y4akpHYUdPdjdlRXRYZW1rb1JpOThTSFdyZUFrTFVETFAzWmJFc3ZLTVFvdzJwV3Jja0tpWnRUbHViWkZKd282QWpUVXBfRTRaMF9DOTVicE1XcmhYd21TVUFrMm5pblNMQmRHaFZKakxDQUJsODlVLWpGU3BTaGk0SE1iSGNEcXhIc1huM1lkbWRBWnRZVmxxY2VWVk1zR0xuYUVoSG12Y1BTc1V4V3ZvWjgweUJxQVRDQjF2Q2JkYXNpUVZ4c0xzTk9iTkpWMg?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 24 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "ICAI moves to propose CA Act changes, draft in 2 months to build larger Indian accounting firms - cfo.economictimes.indiatimes.com",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVW1WNm8xd2k4THJOZEFJQlh4NEh0TEIteHQydEwwczdISXdMX3h5emYyX0t1TURkcGRyVVAzMWloZXNnTWtiSTZXbkJ5QWR4TzJGRmQ5QlZYLVBuWHBWSmVWS0JCODkxSXlaNE9oelhPenNlbTdaYkpxelNhVENPTnFKVjJDbFcxQXJnejllUnpud3dRX2t1NVJ2NGVnZlBEY0xkMWlQc3R4aFdGMENSZXc3ZG1SQU1iTXYzU3NjTV8yVnhndDAxYWQyZ2REVUtJYW95WkRWOHBleEJpMWtLdTNHazc2dnFFT0FNWTdaX3N6OG9ZNXV0NF91WHRNRm9D0gGGAkFVX3lxTFBSUXlaVmNpM0pLdW5NWklCXzRBQjBJdEVqU2FNN2l0X2lvaTludUZURzJkVnhnS3JwdFN0S2pnbWhTbXFodTkzelZWa2ZWZFRWb0UyZGplZUNOQ2pwbTRXS1RLTHgzQ2ltamlKdGtFMzRlOXViYVVTdnRtTHB3Q0U5TjdGOGlFa0V5UHBFSzIxVTVkY05SUmFTYXZuekxyV2lWWU9FZjAwM1NHTHRwVTZHV09oV2w5UElSYjU1LWNFb2Y0dk50anoyaFNOOWVjNFBzaWlmaVA4MzlDQjF2M1NKak1ZRlctOVJVbFh0aEtPMHFUVUNhSFhkMGxrekEzaWF4bDNUSXc?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 21 Sep 2026 02:08:26 GMT"
       },
       {
         "title": "Nigerian companies await SEC clarifications on IFRS reporting — Premium Times Nigeria - UA.NEWS",
@@ -169,46 +181,34 @@
         "pubDate": "Mon, 28 Sep 2026 03:44:36 GMT"
       },
       {
-        "title": "IFRS Foundation – Reducing the size of the boards - kpmg.com",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU1l0Z3lOZE93dENCcjlXVUxRRGE4a0RwSlN0U0JkSVFnbFc1RDFsQXNvT3RLLUdiZUJmVnRqLWoxS0tvME12N1plZ1pod1ZFWnllUWtqRXNZVjZIVkJHbG14ME0zOVJHVGsxSjYwUjJ1Ml9FS3V5Y1c0TVJjVUNMbUl3?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 22 Sep 2026 12:14:43 GMT"
-      },
-      {
-        "title": "ICAI seeks to keep NFRA under MCA as Centre reworks Corporate Laws Bill - cfo.economictimes.indiatimes.com",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcnltNHNOYmgwVXZfeXJPUXlMUGFQQXVleVh0UEJxYU9lMGlfaGtqelBQQUxjNm9QU3hSOUtBV1dCMmpicHdpNTNManJFdUxodU9xeVAxNFNVRnVNNE5sT1lIMkpuR1oyRGFsSUV3N2RsS056STctNXU2cUZZOS1EXzN6M2dabnZwNG5yTldZZktMeGRhN0dzVnBVT0RWeDloQmJNcGZ5T2tlX21FbGs3SS1KVjJjV2xYTmgzcVpIYUM1VzlVRjQzNHpMeFdSakswdjNGM1NHOS10ZktZUWZXSGlB0gHnAUFVX3lxTE9UM3gyLWhwZURXM0l2TFVwd3JUN1lERi1kOUZaNlFnTDlteEJ2ZUFEb1FzakktM1R4TF9YeVo2NFV3TUloNVMwZU13Tk5rZFBlaDhDNnBvU0VmRllJOUJ2YTBlUnhPM3VVaU94Tk9qVDlzRWxoUHVQcDFBOEdUemk1V3hWQ2gyQ0NZWWJZcXRCSDJTbnBFekVSVkdpOG9FeXYzWXY5eGw1aTY0TEJJSkhfNlhhTnExRW9rQ0xBRmVXeGtWNFoxbkhPcG5tTG5PNm5HWlJCejdyRmVsUDI5ZlNiQUxTaGZ3QQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 23 Sep 2026 04:11:45 GMT"
-      },
-      {
         "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXhMY1ZubW01dm1XMHdBcDJvS2lyTkdrN0FoY0F4TjVwS0JDQ25TOWxicmduY0xJcVkwQ3c0dF9qMFVYU0FBblhRbWpXSEFmNDhaVE1OQW9KaUY1dXhzT3BQb0JydDU2aVRyeWFGaVZqZTYtOW52UHE1a1RZcE9idjUzSzdOWm1pUlh5cnR4ZjlvbHB1UDRYLWRCZE14M2ptcV83WWg0M3hBWDAxY0FVSGxWUTRFX09YUDRxa0ZvUVdzdkV2UVpRZFpJdmg5b2wtbHQ00gHaAUFVX3lxTE80dEE0dUlVelJhcnRKZEl6aDdOcF9Kb1FYWEw0a0pEblZrRmIyS21JMElVTTlJT0lHbDVaa1JmOE93VEVaYzBpeXgwNG1UY3VMbmVZT2RGSEJiSjhhdlZRVVdMb0hUWTdDbE5hM0RDOURMRGg0d29WT0NIbDUxMjlsNzBhUnpIVkFIWmhoUDZiaGN2NXZVQUMwZUxvdTdrSmxSZGh6RFF6OTY4Y0VsSnowNVRpdXd6WnBEUmt2c3pqbG9BUDBaeVdxVTVtN0lyQ2tVZWdkQTdrRHpR?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 22 Sep 2026 05:45:40 GMT"
       },
       {
-        "title": "ICAI readies CA Act changes to build bigger accounting firms - economictimes.com",
+        "title": "ICAI readies CA Act changes to build bigger accounting firms - The Economic Times",
         "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQY0J6VXZtcTZGRk5NQm5hMF8yUzVlR2pFdVdPVi1Ra3IxTEtTbE9xQ2NIMWlkc1pPUl9RZVBXUkhfUVpWYXpzcmwzdHlNeUl5SGVpTGFPdzFqZ25xUXdPYmU1UGRYTG9teXNQdWVIaEVBRWx3RUEzSU81U0FHSnNXajFWR213M1B5STFWZmlLN004OERsdDNEQ2ZCMHYwMUZ6dXczdnp6ZFdEUGRIMHQzS2NNcFUzeS1BTlBSNXVDQWNhckFBRkhxa0ozS1NlNFlWLUtfRXk4V2NxRkMxbkpxUEVHSkk5RWY0RmF3cjBUbG92ZFpRTUE0Y0hSbjJwaHBNQTRabXZzakjSAY4CQVVfeXFMTWJ0Nm42bGFOVVkwZDNlb1dlaWxVM0tmLWJ6NHZlZkJfMFBXcm9QSGp4cmxldktrMnJvNEpWQ3B5ZkNaSUpaaFpWM1ZzMW90cHltM0xaYUUzY0dRQXBNbTlNN1pGX3FxamNIb08tYXdxOTJEMWNqZVg0ajhtWXUtaXoxLThnOFdqMDR1QUhlTWFsSWV5RHhoZGNXQl9DN2YxRXpTZ3RYRUt4ZEZUeVZDZDVWejVhd210eVRJbWRjd0RXTDJWamdaVnNfX0NoX3R1ZTM0OHFJdG1mSUVySVpmck10aXNacHlqUGtuSk1yX1pYLUthVGlBR0M0ZGxtcGc5SmtqcmVmQ3RiRTQ0aTBn?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Sun, 20 Sep 2026 18:25:00 GMT"
       },
       {
-        "title": "IFRS 18 unpacked: Practical Guidance for implementation - kazakhstan.moore-global.com",
+        "title": "UAE Federal Tax Authority urges businesses to ‘Use the time available to prepare for E-Invoicing’ at an ICAI Dubai Conference - zawya.com",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQcXdILUZ2UXVrTFc1QWVIMnYyZVhMVnpOQ2syWmlTamtWMkItcmdCV1FFdzdjd3Fnc05BSUxpS3ZIbEZsdWRlQUlFWEhYZTZnRlQ0cDJ1UTExSzY0a0U2UVZ3MGMxOGFPRXFuZ0pOMVlpeXc2U2gxczBxWFl6RUg0dFZpanR0T1pwd2FGNzdEWmFMclhNMzJGUFJxYzRHYno0SEtTR2hsa2oxb216Y1FzWm5KbmI0ZW1EUnFmdE5IaGNZUmtZd3VkQy1vUFB0WTFYbjJ6eE5tb0pDQTZXdmJKU28yY1dYWmVvM2g1TGZQTDJxVENpMUV3VW1zZnFIcTJ2T1JBZGlSOTU5VjgzVkhfUWl3TVV0SjVt?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 28 Sep 2026 12:40:00 GMT"
+      },
+      {
+        "title": "IFRS 18 unpacked: Practical Guidance for implementation - Moore Kazakhstan",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMVVGdWl2bzcxMXdweENsU1RKSlhHWUNLdEpaNzNEMkJpUUJkRWJKUnpMTjlMdHc1bDUyM1ZkS2ZCdlVGR195RXgwZHNUZktUNXhSclJDS01XZHJscnFfNTVXS1NzS0c5YlJmelkxb1N4U1lrUjYtY0N2Rm1zN29Sa2cya0toRElhVHJDNWNhdTF5Y2loMVE?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 25 Sep 2026 11:46:56 GMT"
       },
       {
-        "title": "ICAI warns CAs: Plan ahead as 3-day bank strike overlaps with September 30 compliance deadlines - livemint.com",
+        "title": "ICAI warns CAs: Plan ahead as 3-day bank strike overlaps with September 30 compliance deadlines - Livemint",
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQenpSQ0xiN0pzZGpBLXB0T3hlX0V1dGpORmVfWjcxeFhLX2lfYmxENUVvN0NpQlVZbEVuZzg3SnYwOGJHaHlhMEZQVm5XcnFoVkJsTVVNTS1idFdOc3RmbXctd1o3cVkyMjM5NHV3cGY0YzVlT3VKM19KU3FUVDhpVms0dWVIRmhvaFlTQ0FONWI0R2hwZWhGTmhJYTZzNUxBMWRXM2c2TFZmN0VsNnFNVGtPOTd0NTFINERRWTMzaHVhOTd6cWowQlJSc1FYc1BKZHJMa2ljYU1Rbi10TktSdDVXQmVYbHlheDJKVtIB8gFBVV95cUxQRHN1MmN5UWl5Q01mRHdWcHQ5WlpQUEREZTgzN1FqaWljLWcyX2NZVU5ZbmN2dUlyVldkVExQTGlMUFF3Nkg1ZFVPME5DdVF6dTdhLXYtVlYxeXNBSmtpd3JBMjRJNDZ1XzlVN1daenFCbG9SRjE4S2FaY3JwcG8tMDJvcTFPMXZoVHppOWZNY29ERV82TUI4REFKMUxIRVhaTjU3US0zVXpEMGlzdG84VTVjakNDTVB4ZnNVQ1dXaDhsaktacy01aF9QV3RDVVgzTGZ6UnEwY1lPQW1yOHRQcmFYOVliVUhhTmRhaU9VZFU0UQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 25 Sep 2026 18:41:06 GMT"
-      },
-      {
-        "title": "ICAI Releases Comprehensive Year-End Transfer Pricing Compliance Handbook for FY 2025-26 - A2Z Taxcorp LLP",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVDFBVWFGaGVHS0tmU1hYZEdMYlIya1FabjJ3cjIwalBPZWpfVHBKazNKMjV0eFNLRmlkbVJTU3UxdTVpM3hlMi1lY25MbFRuN2QxRXRQc1c0M0VlT3dPb0ZEcUVwekFLam5HMVRuSWVfcjhDaUZ6aEJpY2pRbmlMWXF1cXJkMHNQQ2lpekU0LXVSc1JhNWg1QnpaM3F6QndLeUVrT1dFaUNfQjRkMUNKNnRn?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sun, 27 Sep 2026 05:21:45 GMT"
       }
     ]
   }
