@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T20:38:43.099760+00:00",
+  "generatedAt": "2026-09-29T00:44:28.579033+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,22 +72,58 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 83515,
-      "chg": -1.25
+      "price": 83507,
+      "chg": -0.89
     },
     "eth": {
-      "price": 2681.3,
-      "chg": -0.31
+      "price": 2690.51,
+      "chg": 0.54
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 95.93,
-    "eurinr": 109.21,
-    "gbpinr": 126.96
+    "usdinr": 96.07,
+    "eurinr": 109.26,
+    "gbpinr": 127.33
   },
   "news": {
     "corp": [
+      {
+        "title": "Goldman Sachs identifies 42 Indian stocks riding AI build-out",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-identifies-42-indian-stocks-riding-ai-build-out/articleshow/134553363.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Tue, 29 Sep 2026 06:00:41 +0530"
+      },
+      {
+        "title": "Stocks in news: Tata Group, ITC, IRFC, NCC, Zydus Lifesciences and JSW Energy",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-group-itc-irfc-ncc-zydus-lifesciences-and-jsw-energy/articleshow/134548442.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Tue, 29 Sep 2026 06:00:00 +0530"
+      },
+      {
+        "title": "Pre-market action: Here's the trade setup for today's session",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134548216.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Tue, 29 Sep 2026 06:00:00 +0530"
+      },
+      {
+        "title": "Ten-year bond yield hits 7.19%, highest in two years",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/ten-year-bond-yield-hits-7-19-highest-in-two-years/articleshow/134553130.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Tue, 29 Sep 2026 05:39:52 +0530"
+      },
+      {
+        "title": "Sebi clears Gautam, Vinod Adani of MPS norm violation",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-clears-gautam-vinod-adani-of-mps-norm-violation-imposes-penalties-on-others/articleshow/134553180.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Tue, 29 Sep 2026 05:38:45 +0530"
+      },
+      {
+        "title": "Gold, silver slide as buyers wait for prices to stabilise",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-tumble-festive-buyers-wait/articleshow/134553241.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Tue, 29 Sep 2026 05:37:11 +0530"
+      },
       {
         "title": "US stocks: US market falls as higher oil prices, Treasury yields weigh",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-falls-as-higher-oil-prices-treasury-yields-weigh/articleshow/134550029.cms",
@@ -111,42 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/paramount-rolls-out-44-billion-bond-sale-to-fund-warner-bros-takeover/articleshow/134547217.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Mon, 28 Sep 2026 22:19:21 +0530"
-      },
-      {
-        "title": "Sebi drops minimum public shareholding norms violation case against Vinod Adani and 4 Adani group companies",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-drops-minimum-public-shareholding-norms-violation-case-against-vinod-adani-and-4-adani-group-companies/articleshow/134546792.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Mon, 28 Sep 2026 21:37:59 +0530"
-      },
-      {
-        "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/134546556.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Mon, 28 Sep 2026 21:19:46 +0530"
-      },
-      {
-        "title": "Clean Max Enviro bulk deal: Augment India divests stakes worth Rs 1,096 crore; Goldman Sachs, HSBC India among buyers",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/clean-max-enviro-bulk-deal-augment-india-divests-stakes-worth-rs-1096-crore-goldman-sachs-hsbc-india-among-buyers/articleshow/134546538.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Mon, 28 Sep 2026 21:17:40 +0530"
-      },
-      {
-        "title": "Market Trading Guide: Quality Power among 3 stock recommendations for Tuesday",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-quality-power-among-3-stock-recommendations-for-tuesday/slideshow/134546225.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Mon, 28 Sep 2026 20:47:16 +0530"
-      },
-      {
-        "title": "US stocks: US market drops as Trump’s rejection of Iran peace plan lifts oil prices",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-wall-st-opens-lower-as-oil-spikes-after-trump-rejects-iran-peace-proposal/articleshow/134544649.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Mon, 28 Sep 2026 19:24:46 +0530"
-      },
-      {
-        "title": "Rupee slips toward 96 vs US dollar as crude, yields and stocks weigh on currency",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-toward-96-vs-us-dollar-as-crude-yields-and-stocks-weigh-on-currency/articleshow/134544621.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Mon, 28 Sep 2026 19:18:16 +0530"
       }
     ],
     "acct": [
@@ -157,16 +157,16 @@
         "pubDate": "Fri, 25 Sep 2026 10:21:06 GMT"
       },
       {
+        "title": "ICAI plans AI-focused CA curriculum, international programme for overseas students - indianexpress.com",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRk5TU1Bpb2lPakFTUjFra1Z5amRRNTg5X1A5b3JFQ21Wd0c1X1dUQlNmN25Nd1phMzZCenRxQlZSeXV3UHJnU0dGVFF5dFBQaE5naDBjNDVXeUFGX0Q5WUZfdHJNR1RKeGxBb2dxZWRINDRGellwZ0ZqSXpDVlJhbExtQ21MUFU3ZzhQb3RkbVFsOW45Wm5NSDQtX3lnOC1UWlRHZlZIZUpNWkxCSk9HZFRvUDlBX2FBX19QQnlGaklXNmgtcDh3bjhzLUIxLTkw0gHXAUFVX3lxTFBNaElVcjk0cGFrRUFfbmJaMjlRX1ZtMnRTbTB5TGlkekQ5VmFSMjhlbDdjSHJYaEZiYnBnMVgxR2FsbVNBUElQYkk1ZF9UZ0h0UnBFdUQzQ3htYkdsWVJWRER0a2R1MkZlcG1td0RGeFhkQ3N1aEpjNmpCZGcycHFoU3AxMVpJejZfZTllYnRpTmhfLUtRU01sOXhhMkFCbDZJTEVKMmloNkIyQ2ZweEIzRkdGN2lpempIUUVmd1Q5ajJKUkN6bUM3Y2cyZU9jZlNHYW9JT3Nj?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 25 Sep 2026 04:49:06 GMT"
+      },
+      {
         "title": "News by CNBC TV18 on TradingView, 2026-09-28 — cnbctv:0a2d3c7b5094b:0 - TradingView",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00c0xhRkhVZkpZYTd1UXpDRGxpSUo5OEl3THMzMU5xY0RfRzdLUzZTejdJUXB5S1UzQzBkZHJvQVBqanpnZFlMT2dfZWpabGMwMFVsYk84REVzUXk2SEFGaExId21iX1k?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 28 Sep 2026 18:16:42 GMT"
-      },
-      {
-        "title": "ICAI plans AI-focused CA curriculum, international programme for overseas students - The Indian Express",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRk5TU1Bpb2lPakFTUjFra1Z5amRRNTg5X1A5b3JFQ21Wd0c1X1dUQlNmN25Nd1phMzZCenRxQlZSeXV3UHJnU0dGVFF5dFBQaE5naDBjNDVXeUFGX0Q5WUZfdHJNR1RKeGxBb2dxZWRINDRGellwZ0ZqSXpDVlJhbExtQ21MUFU3ZzhQb3RkbVFsOW45Wm5NSDQtX3lnOC1UWlRHZlZIZUpNWkxCSk9HZFRvUDlBX2FBX19QQnlGaklXNmgtcDh3bjhzLUIxLTkw0gHXAUFVX3lxTFBNaElVcjk0cGFrRUFfbmJaMjlRX1ZtMnRTbTB5TGlkekQ5VmFSMjhlbDdjSHJYaEZiYnBnMVgxR2FsbVNBUElQYkk1ZF9UZ0h0UnBFdUQzQ3htYkdsWVJWRER0a2R1MkZlcG1td0RGeFhkQ3N1aEpjNmpCZGcycHFoU3AxMVpJejZfZTllYnRpTmhfLUtRU01sOXhhMkFCbDZJTEVKMmloNkIyQ2ZweEIzRkdGN2lpempIUUVmd1Q5ajJKUkN6bUM3Y2cyZU9jZlNHYW9JT3Nj?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 25 Sep 2026 04:49:06 GMT"
       },
       {
         "title": "Update on the IFRS 18 debate - kpmg.com",
@@ -181,10 +181,10 @@
         "pubDate": "Mon, 21 Sep 2026 02:08:26 GMT"
       },
       {
-        "title": "Nigerian companies await SEC clarifications on IFRS reporting — Premium Times Nigeria - UA.NEWS",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmtwOU9xYVBXOEFZVHZKNlRLSmxEd2thNUtQdV9BblJpU3QyT1NRM1hEZ2lvY0hrUXptRVBTNXEyekFkN0hPaTY0QXFpRGtLZG1WX082c0xab0FOeXNrRW9nbU5EOGZyd2w2N09tZWJQNk9PTWxTLXdESEhBeXRHV2FvbHZHUi1RTktPaUtCVFFaYm1xWUt4ZTFubWdpNnVyN3hLYV9USnJDWWJZMFZiMkhxaXI?oc=5",
+        "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXhMY1ZubW01dm1XMHdBcDJvS2lyTkdrN0FoY0F4TjVwS0JDQ25TOWxicmduY0xJcVkwQ3c0dF9qMFVYU0FBblhRbWpXSEFmNDhaVE1OQW9KaUY1dXhzT3BQb0JydDU2aVRyeWFGaVZqZTYtOW52UHE1a1RZcE9idjUzSzdOWm1pUlh5cnR4ZjlvbHB1UDRYLWRCZE14M2ptcV83WWg0M3hBWDAxY0FVSGxWUTRFX09YUDRxa0ZvUVdzdkV2UVpRZFpJdmg5b2wtbHQ00gHaAUFVX3lxTE80dEE0dUlVelJhcnRKZEl6aDdOcF9Kb1FYWEw0a0pEblZrRmIyS21JMElVTTlJT0lHbDVaa1JmOE93VEVaYzBpeXgwNG1UY3VMbmVZT2RGSEJiSjhhdlZRVVdMb0hUWTdDbE5hM0RDOURMRGg0d29WT0NIbDUxMjlsNzBhUnpIVkFIWmhoUDZiaGN2NXZVQUMwZUxvdTdrSmxSZGh6RFF6OTY4Y0VsSnowNVRpdXd6WnBEUmt2c3pqbG9BUDBaeVdxVTVtN0lyQ2tVZWdkQTdrRHpR?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 28 Sep 2026 03:44:36 GMT"
+        "pubDate": "Tue, 22 Sep 2026 05:45:40 GMT"
       },
       {
         "title": "IFRS 18 unpacked: Practical Guidance for implementation - Moore Kazakhstan",
@@ -193,10 +193,10 @@
         "pubDate": "Fri, 25 Sep 2026 11:46:56 GMT"
       },
       {
-        "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXhMY1ZubW01dm1XMHdBcDJvS2lyTkdrN0FoY0F4TjVwS0JDQ25TOWxicmduY0xJcVkwQ3c0dF9qMFVYU0FBblhRbWpXSEFmNDhaVE1OQW9KaUY1dXhzT3BQb0JydDU2aVRyeWFGaVZqZTYtOW52UHE1a1RZcE9idjUzSzdOWm1pUlh5cnR4ZjlvbHB1UDRYLWRCZE14M2ptcV83WWg0M3hBWDAxY0FVSGxWUTRFX09YUDRxa0ZvUVdzdkV2UVpRZFpJdmg5b2wtbHQ00gHaAUFVX3lxTE80dEE0dUlVelJhcnRKZEl6aDdOcF9Kb1FYWEw0a0pEblZrRmIyS21JMElVTTlJT0lHbDVaa1JmOE93VEVaYzBpeXgwNG1UY3VMbmVZT2RGSEJiSjhhdlZRVVdMb0hUWTdDbE5hM0RDOURMRGg0d29WT0NIbDUxMjlsNzBhUnpIVkFIWmhoUDZiaGN2NXZVQUMwZUxvdTdrSmxSZGh6RFF6OTY4Y0VsSnowNVRpdXd6WnBEUmt2c3pqbG9BUDBaeVdxVTVtN0lyQ2tVZWdkQTdrRHpR?oc=5",
+        "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFhGX19mVjU0d0pwWWhNRndFUjliUTNFXzMtbFB1aXVETlZMdXk2aU9mOXFfUU1CYUZNY211QUVFNmYwbERsOWtrM0p0ZVhHSnJFQlY4OFpGb1JkOEFGeGFGMTA3Mzdrc2kycVM1TDhuV0pmRG5SME4tUXNhdTRTcWs1WXhWVWtFanBYTVBNemt2b0dLbjhwZW9nRjB3UUY3OU5TbUxRWQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 22 Sep 2026 05:45:40 GMT"
+        "pubDate": "Fri, 10 Jul 2026 14:35:46 GMT"
       },
       {
         "title": "ICAI warns CAs: Plan ahead as 3-day bank strike overlaps with September 30 compliance deadlines - Livemint",
@@ -205,10 +205,10 @@
         "pubDate": "Fri, 25 Sep 2026 18:41:06 GMT"
       },
       {
-        "title": "UAE Federal Tax Authority urges businesses to ‘Use the time available to prepare for E-Invoicing’ at an ICAI Dubai Conference - Zawya",
-        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQcXdILUZ2UXVrTFc1QWVIMnYyZVhMVnpOQ2syWmlTamtWMkItcmdCV1FFdzdjd3Fnc05BSUxpS3ZIbEZsdWRlQUlFWEhYZTZnRlQ0cDJ1UTExSzY0a0U2UVZ3MGMxOGFPRXFuZ0pOMVlpeXc2U2gxczBxWFl6RUg0dFZpanR0T1pwd2FGNzdEWmFMclhNMzJGUFJxYzRHYno0SEtTR2hsa2oxb216Y1FzWm5KbmI0ZW1EUnFmdE5IaGNZUmtZd3VkQy1vUFB0WTFYbjJ6eE5tb0pDQTZXdmJKU28yY1dYWmVvM2g1TGZQTDJxVENpMUV3VW1zZnFIcTJ2T1JBZGlSOTU5VjgzVkhfUWl3TVV0SjVt?oc=5",
+        "title": "Nigerian companies await SEC clarifications on IFRS reporting — Premium Times Nigeria - UA.NEWS",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmtwOU9xYVBXOEFZVHZKNlRLSmxEd2thNUtQdV9BblJpU3QyT1NRM1hEZ2lvY0hrUXptRVBTNXEyekFkN0hPaTY0QXFpRGtLZG1WX082c0xab0FOeXNrRW9nbU5EOGZyd2w2N09tZWJQNk9PTWxTLXdESEhBeXRHV2FvbHZHUi1RTktPaUtCVFFaYm1xWUt4ZTFubWdpNnVyN3hLYV9USnJDWWJZMFZiMkhxaXI?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 28 Sep 2026 12:40:00 GMT"
+        "pubDate": "Mon, 28 Sep 2026 03:44:36 GMT"
       }
     ]
   }
