@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T06:24:46.589152+00:00",
+  "generatedAt": "2026-09-29T13:10:50.693444+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -70,15 +70,8 @@
     }
   ],
   "crypto": {
-    "ok": true,
-    "btc": {
-      "price": 83835,
-      "chg": 0.88
-    },
-    "eth": {
-      "price": 2692.07,
-      "chg": 1.67
-    }
+    "ok": false,
+    "error": "403 Client Error: Forbidden for url: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin%2Cethereum&vs_currencies=usd&include_24hr_change=true"
   },
   "fx": {
     "ok": true,
@@ -89,64 +82,64 @@
   "news": {
     "corp": [
       {
-        "title": "Summit stock surges on $2 billion AstraZeneca investment",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/summit-stock-surges-on-2-billion-astrazeneca-investment/slideshow/134558448.cms",
+        "title": "India 10-year bond snaps four-day losing run as US yields ease",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-snaps-four-day-losing-run-as-us-yields-ease/articleshow/134566016.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 29 Sep 2026 11:42:49 +0530"
+        "pubDate": "Tue, 29 Sep 2026 17:55:46 +0530"
       },
       {
-        "title": "Nifty indices rejig: Which stocks will see the biggest inflows and outflows?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-indices-rejig-which-stocks-will-see-the-biggest-inflows-and-outflows/slideshow/134558255.cms",
+        "title": "SBI Funds Management: Centrum bets on strong franchise, growth runway; initiates Buy with 34% upside",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-funds-management-centrum-bets-on-strong-franchise-growth-runway-initiates-buy-with-34-upside/articleshow/134565987.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 29 Sep 2026 11:33:31 +0530"
+        "pubDate": "Tue, 29 Sep 2026 17:53:57 +0530"
       },
       {
-        "title": "Nomura initiates coverage on Allied Blenders with Buy rating, sees up to 20% upside",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nomura-initiates-coverage-on-allied-blenders-with-buy-rating-sees-up-to-20-upside/articleshow/134557779.cms",
+        "title": "Medico Remedies among 5 Healthcare stocks hitting 52-week low; slipped up to 48% in a month",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/medico-remedies-among-5-healthcare-stocks-hitting-52-week-low-slipped-up-to-48-in-a-month/slideshow/134565970.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 29 Sep 2026 11:29:16 +0530"
+        "pubDate": "Tue, 29 Sep 2026 17:46:07 +0530"
       },
       {
-        "title": "Why are investors turning cautious on Tesla stock?",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-are-investors-turning-cautious-on-tesla-stock/slideshow/134557734.cms",
+        "title": "Investor alert! Nifty cracks below key 200-week moving average for the first time since Covid",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/investor-alert-nifty-cracks-below-key-200-week-moving-average-for-the-first-time-since-covid/articleshow/134565786.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 29 Sep 2026 11:15:22 +0530"
+        "pubDate": "Tue, 29 Sep 2026 17:44:05 +0530"
       },
       {
-        "title": "10 Nifty stocks that Motilal Oswal analysts are bullish on. How many do you own?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-nifty-stocks-that-motilal-oswal-analysts-are-bullish-on-how-many-do-you-own/slideshow/134557589.cms",
+        "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US futures rise as tech steadies, while oil, yields remains high",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-warsh-anthropic-ipo-nvidia-micron-pepsico-marvell-ai-chip-stock-price-news-29th-september-2026/liveblog/134566067.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 29 Sep 2026 11:04:38 +0530"
+        "pubDate": "Tue, 29 Sep 2026 17:43:01 +0530"
       },
       {
-        "title": "Global Market: China stocks edge up as policy support pledge lifts property shares",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-edge-up-as-policy-support-pledge-lifts-property-shares/articleshow/134557348.cms",
+        "title": "Fitch revises PRISM’s outlook to positive, cites improving leverage and stronger cash generation",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fitch-revises-prisms-outlook-to-positive-cites-improving-leverage-and-stronger-cash-generation/articleshow/134565751.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 29 Sep 2026 11:02:51 +0530"
+        "pubDate": "Tue, 29 Sep 2026 17:41:22 +0530"
       },
       {
-        "title": "Ellenbarrie Industrial Gases shares rise 5% after securing Rs 481 crore order from BHEL",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ellenbarrie-industrial-gases-shares-rise-5-after-securing-rs-481-crore-order-from-bhel/articleshow/134557142.cms",
+        "title": "Rupee breaches 96 per dollar as oil surge stokes pressure; RBI intervention limits fall",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-breaches-96-per-dollar-as-oil-surge-stokes-pressure-rbi-intervention-limits-fall/articleshow/134565213.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 29 Sep 2026 10:59:36 +0530"
+        "pubDate": "Tue, 29 Sep 2026 17:20:00 +0530"
       },
       {
-        "title": "Orient Cables IPO Day 3: GMP at 27%; subscription crosses 8 times. key details inside",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/orient-cables-ipo-day-3-gmp-at-27-subscription-crosses-8-times-key-details-inside/articleshow/134557064.cms",
+        "title": "Market wrap: Adani Enterprises, Adani Ports, Titan Company, Wipro top gainers and losers on Nifty and Sensex on Tuesday",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-adani-enterprises-adani-ports-titan-company-wipro-top-gainers-and-losers-on-nifty-and-sensex-on-tuesday/articleshow/134565034.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 29 Sep 2026 10:49:11 +0530"
+        "pubDate": "Tue, 29 Sep 2026 17:15:25 +0530"
       },
       {
-        "title": "PB Fintech shares suffer Rs 37,000 crore shock in 4 days but Jefferies, Bernstein see up to 100% upside",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-shares-suffer-rs-37000-crore-shock-in-4-days-but-jefferies-bernstein-see-up-to-100-upside/articleshow/134557011.cms",
+        "title": "Cupid shares end 10% higher ahead of Nifty Smallcap 250 inclusion tomorrow. How much inflows can it see?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-end-10-higher-ahead-of-nifty-smallcap-250-inclusion-tomorrow-how-much-inflows-can-it-see/articleshow/134564560.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 29 Sep 2026 10:42:47 +0530"
+        "pubDate": "Tue, 29 Sep 2026 16:48:12 +0530"
       },
       {
-        "title": "Stocks to buy: JM Financial expects soft Q2 season for IT majors; check target prices for Infosys, TCS, others",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-jm-financial-expects-soft-q2-season-for-it-majors-check-target-prices-for-infosys-tcs-others/slideshow/134556958.cms",
+        "title": "Quote of the day by Irving Fisher: \"A chief cause of crises, panics, runs on banks, etc., is that risks are not independently reckoned, but are a mere matter of imitation. A crisis is a time of general and forced liquidation\"",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/quote-of-the-day-by-irving-fisher-a-chief-cause-of-crises-panics-runs-on-banks-etc-is-that-risks-are-not-independently-reckoned-but-are-a-mere-matter-of-imitation-a-crisis-is-a-time-of-general-and-forced-liquidation/articleshow/134564516.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 29 Sep 2026 10:31:48 +0530"
+        "pubDate": "Tue, 29 Sep 2026 16:46:33 +0530"
       }
     ],
     "acct": [
@@ -169,16 +162,16 @@
         "pubDate": "Fri, 25 Sep 2026 10:21:06 GMT"
       },
       {
+        "title": "PowerBank Announces Fiscal Year End Results - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2RkbFFLMXZlYVQyLUVrT0RxbUdqWGZkY1ZJOU5qV1AxUVRpQmM0d3F6bVNGNUN5a2ZxM21yWUJTV3VUMEVwRzQ2ZnBWQkVneURlZHpsbUdtSTZ5ZVNHbXV5SDlYdTFhYmxNY194NE1Dd0gzTGRUU0JFSmllanAtNmd2bnBLNGhhRjY0R3BoYTNmN2JLSG1qeFpZVjZib2g1VkI0WElHMA?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 29 Sep 2026 11:45:00 GMT"
+      },
+      {
         "title": "ICAI plans AI-focused CA curriculum, international programme for overseas students - The Indian Express",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRk5TU1Bpb2lPakFTUjFra1Z5amRRNTg5X1A5b3JFQ21Wd0c1X1dUQlNmN25Nd1phMzZCenRxQlZSeXV3UHJnU0dGVFF5dFBQaE5naDBjNDVXeUFGX0Q5WUZfdHJNR1RKeGxBb2dxZWRINDRGellwZ0ZqSXpDVlJhbExtQ21MUFU3ZzhQb3RkbVFsOW45Wm5NSDQtX3lnOC1UWlRHZlZIZUpNWkxCSk9HZFRvUDlBX2FBX19QQnlGaklXNmgtcDh3bjhzLUIxLTkw0gHXAUFVX3lxTFBNaElVcjk0cGFrRUFfbmJaMjlRX1ZtMnRTbTB5TGlkekQ5VmFSMjhlbDdjSHJYaEZiYnBnMVgxR2FsbVNBUElQYkk1ZF9UZ0h0UnBFdUQzQ3htYkdsWVJWRER0a2R1MkZlcG1td0RGeFhkQ3N1aEpjNmpCZGcycHFoU3AxMVpJejZfZTllYnRpTmhfLUtRU01sOXhhMkFCbDZJTEVKMmloNkIyQ2ZweEIzRkdGN2lpempIUUVmd1Q5ajJKUkN6bUM3Y2cyZU9jZlNHYW9JT3Nj?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 25 Sep 2026 04:49:06 GMT"
-      },
-      {
-        "title": "News by CNBC TV18 on TradingView, 2026-09-28 — cnbctv:0a2d3c7b5094b:0 - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00c0xhRkhVZkpZYTd1UXpDRGxpSUo5OEl3THMzMU5xY0RfRzdLUzZTejdJUXB5S1UzQzBkZHJvQVBqanpnZFlMT2dfZWpabGMwMFVsYk84REVzUXk2SEFGaExId21iX1k?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 28 Sep 2026 18:16:42 GMT"
       },
       {
         "title": "Update on the IFRS 18 debate - kpmg.com",
@@ -193,6 +186,12 @@
         "pubDate": "Fri, 25 Sep 2026 11:46:56 GMT"
       },
       {
+        "title": "IASB reviews ‘unduly costly’ IFRS 9 hedge accounting rules - Business & Accountancy Daily",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0hyczM0VXRETWZ6UUxTbDhxazFPNEJjOFEwNTUzdlJ0dFBoTlBCWC1OaFU5ZkJ4MXJMUU1JTU1LM2pLMFRibnRpMHpoYzlYQ2FFV254VzV3WVFXdndqVElMQjkyXzRkU2tHOGVFTy1iSk5ubkpSdjhXVTduSjdHYWRsWW93QUJqalFJLUVzNHdCdw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 29 Sep 2026 07:30:00 GMT"
+      },
+      {
         "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXhMY1ZubW01dm1XMHdBcDJvS2lyTkdrN0FoY0F4TjVwS0JDQ25TOWxicmduY0xJcVkwQ3c0dF9qMFVYU0FBblhRbWpXSEFmNDhaVE1OQW9KaUY1dXhzT3BQb0JydDU2aVRyeWFGaVZqZTYtOW52UHE1a1RZcE9idjUzSzdOWm1pUlh5cnR4ZjlvbHB1UDRYLWRCZE14M2ptcV83WWg0M3hBWDAxY0FVSGxWUTRFX09YUDRxa0ZvUVdzdkV2UVpRZFpJdmg5b2wtbHQ00gHaAUFVX3lxTE80dEE0dUlVelJhcnRKZEl6aDdOcF9Kb1FYWEw0a0pEblZrRmIyS21JMElVTTlJT0lHbDVaa1JmOE93VEVaYzBpeXgwNG1UY3VMbmVZT2RGSEJiSjhhdlZRVVdMb0hUWTdDbE5hM0RDOURMRGg0d29WT0NIbDUxMjlsNzBhUnpIVkFIWmhoUDZiaGN2NXZVQUMwZUxvdTdrSmxSZGh6RFF6OTY4Y0VsSnowNVRpdXd6WnBEUmt2c3pqbG9BUDBaeVdxVTVtN0lyQ2tVZWdkQTdrRHpR?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -203,12 +202,6 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFhGX19mVjU0d0pwWWhNRndFUjliUTNFXzMtbFB1aXVETlZMdXk2aU9mOXFfUU1CYUZNY211QUVFNmYwbERsOWtrM0p0ZVhHSnJFQlY4OFpGb1JkOEFGeGFGMTA3Mzdrc2kycVM1TDhuV0pmRG5SME4tUXNhdTRTcWs1WXhWVWtFanBYTVBNemt2b0dLbjhwZW9nRjB3UUY3OU5TbUxRWQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 10 Jul 2026 14:35:46 GMT"
-      },
-      {
-        "title": "ICAI warns CAs: Plan ahead as 3-day bank strike overlaps with September 30 compliance deadlines - Livemint",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQenpSQ0xiN0pzZGpBLXB0T3hlX0V1dGpORmVfWjcxeFhLX2lfYmxENUVvN0NpQlVZbEVuZzg3SnYwOGJHaHlhMEZQVm5XcnFoVkJsTVVNTS1idFdOc3RmbXctd1o3cVkyMjM5NHV3cGY0YzVlT3VKM19KU3FUVDhpVms0dWVIRmhvaFlTQ0FONWI0R2hwZWhGTmhJYTZzNUxBMWRXM2c2TFZmN0VsNnFNVGtPOTd0NTFINERRWTMzaHVhOTd6cWowQlJSc1FYc1BKZHJMa2ljYU1Rbi10TktSdDVXQmVYbHlheDJKVtIB8gFBVV95cUxQRHN1MmN5UWl5Q01mRHdWcHQ5WlpQUEREZTgzN1FqaWljLWcyX2NZVU5ZbmN2dUlyVldkVExQTGlMUFF3Nkg1ZFVPME5DdVF6dTdhLXYtVlYxeXNBSmtpd3JBMjRJNDZ1XzlVN1daenFCbG9SRjE4S2FaY3JwcG8tMDJvcTFPMXZoVHppOWZNY29ERV82TUI4REFKMUxIRVhaTjU3US0zVXpEMGlzdG84VTVjakNDTVB4ZnNVQ1dXaDhsaktacy01aF9QV3RDVVgzTGZ6UnEwY1lPQW1yOHRQcmFYOVliVUhhTmRhaU9VZFU0UQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 25 Sep 2026 18:41:06 GMT"
       }
     ]
   }
