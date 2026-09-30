@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T01:44:59.420027+00:00",
+  "generatedAt": "2026-09-30T07:42:59.912665+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 83334,
-      "chg": 0.48
+      "price": 83371,
+      "chg": -0.83
     },
     "eth": {
-      "price": 2668.78,
-      "chg": 0.23
+      "price": 2673.74,
+      "chg": -1.47
     }
   },
   "fx": {
@@ -89,78 +89,84 @@
   "news": {
     "corp": [
       {
-        "title": "Sensex falls over 20% in dollar terms in 2026 as weak sentiment, rupee drag returns",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-over-20-in-2026-amid-global-market-shifts-and-rupee-depreciation/articleshow/134576885.cms",
+        "title": "Axiscades Technologies rises 5% as Sunil Singhania's Abakkus buys 3.03% stake",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/axiscades-technologies-rises-5-as-sunil-singhanias-abakkus-buys-3-03-stake/articleshow/134584833.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 30 Sep 2026 06:31:57 +0530"
+        "pubDate": "Wed, 30 Sep 2026 12:51:12 +0530"
       },
       {
-        "title": "KPIT Tech plunges 24% in 3 months as auto demand weakens",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/new-orders-could-put-kpit-tech-on-the-road-to-recovery/articleshow/134576853.cms",
+        "title": "Q2 earnings: Can India Inc repeat Q1, or will Q3 erase the base-effect tailwind?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/q2-earnings-can-india-inc-repeat-q1-or-will-q3-erase-the-base-effect-tailwind/articleshow/134584545.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 30 Sep 2026 06:17:09 +0530"
+        "pubDate": "Wed, 30 Sep 2026 12:43:26 +0530"
       },
       {
-        "title": "Global Market Today: Asian shares rise as tech stocks lead, bonds in focus",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-tech-stocks-lead-bonds-in-focus/articleshow/134576850.cms",
+        "title": "Will RBI rate hikes intensify selloff in bank stocks? Analysts explain why fears may be overdone",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-rbi-rate-hikes-intensify-selloff-in-bank-stocks-analysts-explain-why-fears-may-be-overdone/articleshow/134584665.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 30 Sep 2026 06:14:48 +0530"
+        "pubDate": "Wed, 30 Sep 2026 12:40:25 +0530"
       },
       {
-        "title": "SP Group to raise $125 million via tap issue, Rs 3,250 crore in rupee bonds",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/sp-group-to-raise-125-million-via-tap-issue-rs-3250-crore-in-rupee-bonds/articleshow/134576796.cms",
+        "title": "Global Market: China factory activity returns to growth in September as AI boom supports industrial sector",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-china-factory-activity-returns-to-growth-in-september-as-ai-boom-supports-industrial-sector/articleshow/134583926.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 30 Sep 2026 06:09:21 +0530"
+        "pubDate": "Wed, 30 Sep 2026 12:04:47 +0530"
       },
       {
-        "title": "Stocks in news: Tata Steel, KPI Green Energy, NLC India, Poonawalla Fincorp and Cummins India",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-steel-kpi-green-energy-nlc-india-poonawalla-fincorp-and-cummins-india/articleshow/134571657.cms",
+        "title": "Global Market: Japan 10-Year bond yield heads for record fifth quarterly gain",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japan-10-year-bond-yield-heads-for-record-fifth-quarterly-gain/articleshow/134583925.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 30 Sep 2026 06:00:00 +0530"
+        "pubDate": "Wed, 30 Sep 2026 12:01:37 +0530"
       },
       {
-        "title": "Pre-market action: Here's the trade setup for today's session",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134571298.cms",
+        "title": "Inox Clean Energy files DRHP for Rs 10,000 crore IPO, largest in Indian private sector renewable energy space",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/inox-clean-energy-files-drhp-for-rs-10000-crore-ipo-largest-in-indian-private-sector-renewable-energy-space/articleshow/134583774.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 30 Sep 2026 06:00:00 +0530"
+        "pubDate": "Wed, 30 Sep 2026 12:00:06 +0530"
       },
       {
-        "title": "Bond supply may outweigh demand, push yields higher",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/bond-supply-may-outweigh-demand-push-yields-higher/articleshow/134576512.cms",
+        "title": "TCS, Wipro, other IT stocks rebound up to 6%, snapping 8-day losing streak. Why is Jefferies cautious?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/tcs-wipro-other-it-stocks-rebound-up-to-6-snapping-8-day-losing-streak-why-is-jefferies-cautious/articleshow/134583730.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 30 Sep 2026 05:42:16 +0530"
+        "pubDate": "Wed, 30 Sep 2026 11:51:29 +0530"
       },
       {
-        "title": "Investment banks earn Rs 2,274 crore from 81 mainboard IPOs in 2026",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/investment-banks-earn-rs-2274-crore-from-81-mainboard-ipos/articleshow/134576533.cms",
+        "title": "Festive crash ahead? Nifty bulls face 4 bearish signs as October F&amp;O series begins",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/festive-crash-ahead-nifty-bulls-stare-at-4-bearish-signs-as-october-series-begins/articleshow/134583571.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 30 Sep 2026 05:40:23 +0530"
+        "pubDate": "Wed, 30 Sep 2026 11:41:59 +0530"
       },
       {
-        "title": "202 BSE 500 stocks trade below five-year average valuations",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/202-bse-500-stocks-trade-below-five-year-average-valuations/articleshow/134576586.cms",
+        "title": "STL Networks shares jump 5% after emerging as L1 bidder for RailTel contract worth Rs 250 crore",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stl-networks-shares-jump-5-after-emerging-as-l1-bidder-for-railtel-contract-worth-rs-250-crore/articleshow/134583391.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 30 Sep 2026 05:38:14 +0530"
+        "pubDate": "Wed, 30 Sep 2026 11:38:12 +0530"
       },
       {
-        "title": "Jobs in line as IRDAI commission caps force insurance brokers to rethink models",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jobs-in-line-as-irdai-commission-caps-force-insurance-brokers-to-rethink-models/articleshow/134576768.cms",
+        "title": "Avalon Tech shares fall 6% after Rs 883 crore block deal; 3 promoter entities likely sellers",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/avalon-tech-shares-fall-6-after-rs-883-crore-block-deal-3-promoter-entities-likely-sellers/articleshow/134583113.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 30 Sep 2026 01:58:00 +0530"
+        "pubDate": "Wed, 30 Sep 2026 11:32:08 +0530"
       }
     ],
     "acct": [
+      {
+        "title": "TABLE-Nissha 6-MTH group results (IFRS) - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLTJQemhBbnJOUlBmQWhWdmdvN0FEUmlybE9HRUc4SjJjRjFmMEJBRXVDNTNWTldhc3J3cE9fUnVYbVJNd1ptOWpNelNNcEh1THJrRDJsZUh2eDNIeGdLcjBQbEZscmJFd0xLckJOMzZKY2VJZXRhenV4UURnU2MxSWJBXzJFSlpoeVNCNVNkV1JwTEs3ZXJyMXRiQVBnLTJwSmZ4UXZYVTVwRFFZM0M4Q2g2RQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 30 Sep 2026 06:30:00 GMT"
+      },
+      {
+        "title": "Ind AS in Practice: How the Same Standards Work Differently Across NBFCs, Mining, Real Estate & Manufacturing - CAclubindia",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQXBYYjI5UlBaZjhNeTJJUFdxQVJlbTRfUUl1UHNlbGpta1NjZnRVY1pUOFBnUWdhZWdxVmFJbVZfSl83TGNGRFRzbWxidXVya3h4dm84NlBHQWZoVkpXS01ObmlGb0pJQTVkMS1iNS1SSXRLb25NZVpSeUsyUVJsSlFoVThXQnI0UmVNNWhSNnB3NmdENzNHTHVORDFJVmlWd2hiOFcyZWZfcUF2d3IxQXo2MzBOUUU1SnZkbU9OTUFqTWxhWi1GUTRfWkY1bHJycmlwVmpkVEFZX0VKekM2TlVVVmFPUQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 30 Sep 2026 03:30:00 GMT"
+      },
       {
         "title": "The Regulatory and Conceptual Framework Notes By PW - PW",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5UEhQajNHMTRLTS1XUUFQUFl6MFlaMy05Z0NJLUNMUFFqOElCMmh1bEtPR2MzS2dNRkQwdFk0aGNyYmFDWkJPdlNnS3NDdkhyRHN5SVBwZnljQXduOWhobEV0VnRkeVNXLTlJTzhTcw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 29 Sep 2026 14:28:47 GMT"
-      },
-      {
-        "title": "Exclusive: ICAI wants up to Rs 5 crore govt consultancy tenders reserved for smaller firms, working on draft.. - cfo.economictimes.indiatimes.com",
-        "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPWXBpdUdSa2Q5UGlhZm5lWUpwdVRPeDNPODJob0NGdXp5V205NXJDREJtbWpnOEFEeTZBRjVsUkJDOW1MVWFWcXk4cVpCNzBpX0M2aUtHMDRBenVlWWFYMU1pSEN6dGViUVFCOVdJYTFabzZ4YndOclF4LS1ndUpPTTh2S25nbzI5aXd4ZTJOVER1NG95V2hQNXRWSHZWRXhEaEhsdXdEYjBkbm52dEs4WEJlYWhaWElkenhzZHNrMk9BZmhBZTlvR3k1ZFhvLTZuSDRtcG1Pemp2UThZLVF5SUJZNE1RSUlGcldlMzY2anh0QTI0Q1lqcXZpby1NRnYtSEJRTkJ2cENDWXVZLVRYdDQybE45NnZaS1RpS0Fn0gGjAkFVX3lxTE5fZFVLT2NnaEFxQjU2NUlkQWFqZ19DUGVCOGZBUXlZcEN1OVBpeWlwMzVEWTNwdGw5MmVpcjRCWGRiOW44a2xhNFJ1N1JjdXJXWE9NUEdGaFFVUTFFZlFmVXlRampKQmF3SzY5MG5lZ21va3VhWG1Edll1bTVOaWMwa1ZOTVNLTXVDZGVaWjVQZ0ZrWmdkeTFzOXQxR0lrRTQxSXVLWVJEdm15d3RaaUZkak1Ea2lsXzdQUkxMeUVjQVA2MzlsLUlLZUhLQnAyak4xY1Q1TlAtR2kxQWdDMzU2bFB1a2h4MXZVdUNDanJYSktuMzVidkh6YXZxalB1OVRUdGptNDJRcGk3eHNONUhsWFBjR09vWXpkOVg3bmVWRFFjcw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 29 Sep 2026 02:35:32 GMT"
       },
       {
         "title": "India’s ICAI plans certification course for independent directors – report - theaccountant-online.com",
@@ -169,16 +175,22 @@
         "pubDate": "Fri, 25 Sep 2026 10:21:06 GMT"
       },
       {
+        "title": "Exclusive: ICAI wants up to Rs 5 crore govt consultancy tenders reserved for smaller firms, working on draft.. - cfo.economictimes.indiatimes.com",
+        "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPWXBpdUdSa2Q5UGlhZm5lWUpwdVRPeDNPODJob0NGdXp5V205NXJDREJtbWpnOEFEeTZBRjVsUkJDOW1MVWFWcXk4cVpCNzBpX0M2aUtHMDRBenVlWWFYMU1pSEN6dGViUVFCOVdJYTFabzZ4YndOclF4LS1ndUpPTTh2S25nbzI5aXd4ZTJOVER1NG95V2hQNXRWSHZWRXhEaEhsdXdEYjBkbm52dEs4WEJlYWhaWElkenhzZHNrMk9BZmhBZTlvR3k1ZFhvLTZuSDRtcG1Pemp2UThZLVF5SUJZNE1RSUlGcldlMzY2anh0QTI0Q1lqcXZpby1NRnYtSEJRTkJ2cENDWXVZLVRYdDQybE45NnZaS1RpS0Fn0gGjAkFVX3lxTE5fZFVLT2NnaEFxQjU2NUlkQWFqZ19DUGVCOGZBUXlZcEN1OVBpeWlwMzVEWTNwdGw5MmVpcjRCWGRiOW44a2xhNFJ1N1JjdXJXWE9NUEdGaFFVUTFFZlFmVXlRampKQmF3SzY5MG5lZ21va3VhWG1Edll1bTVOaWMwa1ZOTVNLTXVDZGVaWjVQZ0ZrWmdkeTFzOXQxR0lrRTQxSXVLWVJEdm15d3RaaUZkak1Ea2lsXzdQUkxMeUVjQVA2MzlsLUlLZUhLQnAyak4xY1Q1TlAtR2kxQWdDMzU2bFB1a2h4MXZVdUNDanJYSktuMzVidkh6YXZxalB1OVRUdGptNDJRcGk3eHNONUhsWFBjR09vWXpkOVg3bmVWRFFjcw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 29 Sep 2026 02:35:32 GMT"
+      },
+      {
         "title": "ICAI plans AI-focused CA curriculum, international programme for overseas students - The Indian Express",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRk5TU1Bpb2lPakFTUjFra1Z5amRRNTg5X1A5b3JFQ21Wd0c1X1dUQlNmN25Nd1phMzZCenRxQlZSeXV3UHJnU0dGVFF5dFBQaE5naDBjNDVXeUFGX0Q5WUZfdHJNR1RKeGxBb2dxZWRINDRGellwZ0ZqSXpDVlJhbExtQ21MUFU3ZzhQb3RkbVFsOW45Wm5NSDQtX3lnOC1UWlRHZlZIZUpNWkxCSk9HZFRvUDlBX2FBX19QQnlGaklXNmgtcDh3bjhzLUIxLTkw0gHXAUFVX3lxTFBNaElVcjk0cGFrRUFfbmJaMjlRX1ZtMnRTbTB5TGlkekQ5VmFSMjhlbDdjSHJYaEZiYnBnMVgxR2FsbVNBUElQYkk1ZF9UZ0h0UnBFdUQzQ3htYkdsWVJWRER0a2R1MkZlcG1td0RGeFhkQ3N1aEpjNmpCZGcycHFoU3AxMVpJejZfZTllYnRpTmhfLUtRU01sOXhhMkFCbDZJTEVKMmloNkIyQ2ZweEIzRkdGN2lpempIUUVmd1Q5ajJKUkN6bUM3Y2cyZU9jZlNHYW9JT3Nj?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 25 Sep 2026 04:49:06 GMT"
       },
       {
-        "title": "Form 4 SANGOMA TECHNOLOGIES CORP For: 29 September By Investing.com - Investing.com India",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRlU4d0htTE1Kdnp0TVI2LUN0V2hYcXVvZTljanhzN2h1Tl80OHRzUGduZzN6RU1yTG1DcDZQMmRtVWF5NjdrX0xvMTZ1ZEdYbWU0OUpLaFd3V0tGRUN1VTQ2VlVnX212V0V2dXltaTZlMk1fM0pCY0FHc3REY0xyM01WT3dDSlFHLS1OTnRTQk5oTnAwa0p3S3I3cElTSHp4anBKRWhmd1BSLW03V24w?oc=5",
+        "title": "GenSight Biologics: gross revenue impacted by IFRS 15 - marketscreener.com",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUlRRSkYtcnZucEJPMXZUdGx6Rm9rN0ZWeGhpN0JZMnRsV0hFUGFid1lSMlNTcDhFbjl5aXA3dGVzZTFNcUlXRkVRM1VweWxET2VRSmVjazJrckxRQWhIbXh3R3FkSExxRlJ3QUxRQ2dDNUo0bkhaZ2JNZERNRm4wVmhUSHc3cWRaSGd1S0d4ZTMzdXA0cmJ2WV9pV2VoRGNoNmdPTkF3clA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 29 Sep 2026 04:33:07 GMT"
+        "pubDate": "Wed, 30 Sep 2026 06:41:21 GMT"
       },
       {
         "title": "IFRS Sustainability handbook - kpmg.com",
@@ -187,28 +199,16 @@
         "pubDate": "Wed, 23 Sep 2026 18:23:19 GMT"
       },
       {
-        "title": "PowerBank Announces Fiscal Year End Results - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2RkbFFLMXZlYVQyLUVrT0RxbUdqWGZkY1ZJOU5qV1AxUVRpQmM0d3F6bVNGNUN5a2ZxM21yWUJTV3VUMEVwRzQ2ZnBWQkVneURlZHpsbUdtSTZ5ZVNHbXV5SDlYdTFhYmxNY194NE1Dd0gzTGRUU0JFSmllanAtNmd2bnBLNGhhRjY0R3BoYTNmN2JLSG1qeFpZVjZib2g1VkI0WElHMA?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 29 Sep 2026 11:45:00 GMT"
-      },
-      {
-        "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
+        "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - thehindu.com",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXhMY1ZubW01dm1XMHdBcDJvS2lyTkdrN0FoY0F4TjVwS0JDQ25TOWxicmduY0xJcVkwQ3c0dF9qMFVYU0FBblhRbWpXSEFmNDhaVE1OQW9KaUY1dXhzT3BQb0JydDU2aVRyeWFGaVZqZTYtOW52UHE1a1RZcE9idjUzSzdOWm1pUlh5cnR4ZjlvbHB1UDRYLWRCZE14M2ptcV83WWg0M3hBWDAxY0FVSGxWUTRFX09YUDRxa0ZvUVdzdkV2UVpRZFpJdmg5b2wtbHQ00gHaAUFVX3lxTE80dEE0dUlVelJhcnRKZEl6aDdOcF9Kb1FYWEw0a0pEblZrRmIyS21JMElVTTlJT0lHbDVaa1JmOE93VEVaYzBpeXgwNG1UY3VMbmVZT2RGSEJiSjhhdlZRVVdMb0hUWTdDbE5hM0RDOURMRGg0d29WT0NIbDUxMjlsNzBhUnpIVkFIWmhoUDZiaGN2NXZVQUMwZUxvdTdrSmxSZGh6RFF6OTY4Y0VsSnowNVRpdXd6WnBEUmt2c3pqbG9BUDBaeVdxVTVtN0lyQ2tVZWdkQTdrRHpR?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 22 Sep 2026 05:45:40 GMT"
+        "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
       },
       {
-        "title": "IFRS 18 unpacked: Practical Guidance for implementation - Moore Kazakhstan",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMVVGdWl2bzcxMXdweENsU1RKSlhHWUNLdEpaNzNEMkJpUUJkRWJKUnpMTjlMdHc1bDUyM1ZkS2ZCdlVGR195RXgwZHNUZktUNXhSclJDS01XZHJscnFfNTVXS1NzS0c5YlJmelkxb1N4U1lrUjYtY0N2Rm1zN29Sa2cya0toRElhVHJDNWNhdTF5Y2loMVE?oc=5",
+        "title": "Form 4 SANGOMA TECHNOLOGIES CORP For: 29 September By Investing.com - Investing.com India",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRlU4d0htTE1Kdnp0TVI2LUN0V2hYcXVvZTljanhzN2h1Tl80OHRzUGduZzN6RU1yTG1DcDZQMmRtVWF5NjdrX0xvMTZ1ZEdYbWU0OUpLaFd3V0tGRUN1VTQ2VlVnX212V0V2dXltaTZlMk1fM0pCY0FHc3REY0xyM01WT3dDSlFHLS1OTnRTQk5oTnAwa0p3S3I3cElTSHp4anBKRWhmd1BSLW03V24w?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 25 Sep 2026 11:46:56 GMT"
-      },
-      {
-        "title": "IASB reviews ‘unduly costly’ IFRS 9 hedge accounting rules - Business & Accountancy Daily",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0hyczM0VXRETWZ6UUxTbDhxazFPNEJjOFEwNTUzdlJ0dFBoTlBCWC1OaFU5ZkJ4MXJMUU1JTU1LM2pLMFRibnRpMHpoYzlYQ2FFV254VzV3WVFXdndqVElMQjkyXzRkU2tHOGVFTy1iSk5ubkpSdjhXVTduSjdHYWRsWW93QUJqalFJLUVzNHdCdw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 29 Sep 2026 07:30:00 GMT"
+        "pubDate": "Tue, 29 Sep 2026 04:33:07 GMT"
       }
     ]
   }
