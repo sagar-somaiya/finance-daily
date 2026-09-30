@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T19:31:57.945335+00:00",
+  "generatedAt": "2026-09-30T23:19:45.269812+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 83738,
-      "chg": 0.28
+      "price": 83675,
+      "chg": -0.14
     },
     "eth": {
-      "price": 2672.62,
-      "chg": -0.78
+      "price": 2687.68,
+      "chg": 0.11
     }
   },
   "fx": {
@@ -88,6 +88,12 @@
   },
   "news": {
     "corp": [
+      {
+        "title": "US stocks: Nasdaq rises while S&amp;P, Dow dip as softer inflation cools Fed hike bets",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-rises-while-sp-dow-dip-as-softer-inflation-cools-fed-hike-bets/articleshow/134601845.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 01 Oct 2026 01:40:47 +0530"
+      },
       {
         "title": "France’s 10-year bond yield heads for biggest quarterly surge since 1987",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/frances-10-year-bond-yield-heads-for-biggest-quarterly-surge-since-1987/articleshow/134601116.cms",
@@ -141,12 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/134598291.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Wed, 30 Sep 2026 21:26:32 +0530"
-      },
-      {
-        "title": "FII selling worsens; foreign investors pull out Rs 26,000 crore from Indian equities in three days",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fii-selling-worsens-foreign-investors-pull-out-rs-26000-crore-from-indian-equities-in-three-days/articleshow/134598196.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 30 Sep 2026 21:20:46 +0530"
       }
     ],
     "acct": [
@@ -154,7 +154,7 @@
         "title": "Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)' - Global Regulation Tomorrow",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObnhMNldQNzNvQnJYR09jYThiSnB1aFZKcXRFRTZYWXlLNmFQODZjMTNRcnM1cUlMdXNkcFl6N3VYdlp2UnJidFAzWWdLVE5Mc0d6NUZfMjVVWkU2OURyeW1zZE9SMUZrU256d1pybmcyMmZ0ajhVXzBMeHBETTRneGxmbThWVklpcy1UWmFVamp0R1RCb0tJWHR6VUlXUWxlSEVSVGxGWUJ1N0ZKVDMwSVRCMi1mQmZpV0RPdGFkS2FqVGNBajlXTVE0ZGplWm5QbGkzZQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 30 Sep 2026 16:34:26 GMT"
+        "pubDate": "Wed, 30 Sep 2026 16:43:47 GMT"
       },
       {
         "title": "EPC Groupe H1 IFRS EBITDA EUR 41.85 Million - TradingView",
@@ -169,28 +169,28 @@
         "pubDate": "Wed, 30 Sep 2026 14:50:34 GMT"
       },
       {
-        "title": "Ind AS in Practice: How the Same Standards Work Differently Across NBFCs, Mining, Real Estate & Manufacturing - CAclubindia",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQXBYYjI5UlBaZjhNeTJJUFdxQVJlbTRfUUl1UHNlbGpta1NjZnRVY1pUOFBnUWdhZWdxVmFJbVZfSl83TGNGRFRzbWxidXVya3h4dm84NlBHQWZoVkpXS01ObmlGb0pJQTVkMS1iNS1SSXRLb25NZVpSeUsyUVJsSlFoVThXQnI0UmVNNWhSNnB3NmdENzNHTHVORDFJVmlWd2hiOFcyZWZfcUF2d3IxQXo2MzBOUUU1SnZkbU9OTUFqTWxhWi1GUTRfWkY1bHJycmlwVmpkVEFZX0VKekM2TlVVVmFPUQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 30 Sep 2026 03:30:00 GMT"
-      },
-      {
         "title": "Exclusive: ICAI wants up to Rs 5 crore govt consultancy tenders reserved for smaller firms, working on draft.. - cfo.economictimes.indiatimes.com",
         "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPWXBpdUdSa2Q5UGlhZm5lWUpwdVRPeDNPODJob0NGdXp5V205NXJDREJtbWpnOEFEeTZBRjVsUkJDOW1MVWFWcXk4cVpCNzBpX0M2aUtHMDRBenVlWWFYMU1pSEN6dGViUVFCOVdJYTFabzZ4YndOclF4LS1ndUpPTTh2S25nbzI5aXd4ZTJOVER1NG95V2hQNXRWSHZWRXhEaEhsdXdEYjBkbm52dEs4WEJlYWhaWElkenhzZHNrMk9BZmhBZTlvR3k1ZFhvLTZuSDRtcG1Pemp2UThZLVF5SUJZNE1RSUlGcldlMzY2anh0QTI0Q1lqcXZpby1NRnYtSEJRTkJ2cENDWXVZLVRYdDQybE45NnZaS1RpS0Fn0gGjAkFVX3lxTE5fZFVLT2NnaEFxQjU2NUlkQWFqZ19DUGVCOGZBUXlZcEN1OVBpeWlwMzVEWTNwdGw5MmVpcjRCWGRiOW44a2xhNFJ1N1JjdXJXWE9NUEdGaFFVUTFFZlFmVXlRampKQmF3SzY5MG5lZ21va3VhWG1Edll1bTVOaWMwa1ZOTVNLTXVDZGVaWjVQZ0ZrWmdkeTFzOXQxR0lrRTQxSXVLWVJEdm15d3RaaUZkak1Ea2lsXzdQUkxMeUVjQVA2MzlsLUlLZUhLQnAyak4xY1Q1TlAtR2kxQWdDMzU2bFB1a2h4MXZVdUNDanJYSktuMzVidkh6YXZxalB1OVRUdGptNDJRcGk3eHNONUhsWFBjR09vWXpkOVg3bmVWRFFjcw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 29 Sep 2026 02:35:32 GMT"
       },
       {
-        "title": "ICAI plans AI-focused CA curriculum, international programme for overseas students - The Indian Express",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRk5TU1Bpb2lPakFTUjFra1Z5amRRNTg5X1A5b3JFQ21Wd0c1X1dUQlNmN25Nd1phMzZCenRxQlZSeXV3UHJnU0dGVFF5dFBQaE5naDBjNDVXeUFGX0Q5WUZfdHJNR1RKeGxBb2dxZWRINDRGellwZ0ZqSXpDVlJhbExtQ21MUFU3ZzhQb3RkbVFsOW45Wm5NSDQtX3lnOC1UWlRHZlZIZUpNWkxCSk9HZFRvUDlBX2FBX19QQnlGaklXNmgtcDh3bjhzLUIxLTkw0gHXAUFVX3lxTFBNaElVcjk0cGFrRUFfbmJaMjlRX1ZtMnRTbTB5TGlkekQ5VmFSMjhlbDdjSHJYaEZiYnBnMVgxR2FsbVNBUElQYkk1ZF9UZ0h0UnBFdUQzQ3htYkdsWVJWRER0a2R1MkZlcG1td0RGeFhkQ3N1aEpjNmpCZGcycHFoU3AxMVpJejZfZTllYnRpTmhfLUtRU01sOXhhMkFCbDZJTEVKMmloNkIyQ2ZweEIzRkdGN2lpempIUUVmd1Q5ajJKUkN6bUM3Y2cyZU9jZlNHYW9JT3Nj?oc=5",
+        "title": "Ind AS in Practice: How the Same Standards Work Differently Across NBFCs, Mining, Real Estate & Manufacturing - CAclubindia",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQXBYYjI5UlBaZjhNeTJJUFdxQVJlbTRfUUl1UHNlbGpta1NjZnRVY1pUOFBnUWdhZWdxVmFJbVZfSl83TGNGRFRzbWxidXVya3h4dm84NlBHQWZoVkpXS01ObmlGb0pJQTVkMS1iNS1SSXRLb25NZVpSeUsyUVJsSlFoVThXQnI0UmVNNWhSNnB3NmdENzNHTHVORDFJVmlWd2hiOFcyZWZfcUF2d3IxQXo2MzBOUUU1SnZkbU9OTUFqTWxhWi1GUTRfWkY1bHJycmlwVmpkVEFZX0VKekM2TlVVVmFPUQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 25 Sep 2026 04:49:06 GMT"
+        "pubDate": "Wed, 30 Sep 2026 03:30:00 GMT"
       },
       {
         "title": "India’s ICAI plans certification course for independent directors – report - theaccountant-online.com",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM2pBdVlUSG91U0FyRUxNbUZic3dPMDVsaUI3LTBKUEZuTUlvejc3WWZlcU5BWFNQdHd2NkhpOHBGMzJ4TXpPRmtIelJ4ME00Sm0tWC1pd1NPc1ZwUTRqLXZhVTlPTDNpQ19aOWJKRUg0NFRoOXBLekpsSkdReHVwaTUtT0V4TWdhR1QtbU9ueEdLc1FR?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 25 Sep 2026 10:21:06 GMT"
+      },
+      {
+        "title": "ICAI plans AI-focused CA curriculum, international programme for overseas students - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRk5TU1Bpb2lPakFTUjFra1Z5amRRNTg5X1A5b3JFQ21Wd0c1X1dUQlNmN25Nd1phMzZCenRxQlZSeXV3UHJnU0dGVFF5dFBQaE5naDBjNDVXeUFGX0Q5WUZfdHJNR1RKeGxBb2dxZWRINDRGellwZ0ZqSXpDVlJhbExtQ21MUFU3ZzhQb3RkbVFsOW45Wm5NSDQtX3lnOC1UWlRHZlZIZUpNWkxCSk9HZFRvUDlBX2FBX19QQnlGaklXNmgtcDh3bjhzLUIxLTkw0gHXAUFVX3lxTFBNaElVcjk0cGFrRUFfbmJaMjlRX1ZtMnRTbTB5TGlkekQ5VmFSMjhlbDdjSHJYaEZiYnBnMVgxR2FsbVNBUElQYkk1ZF9UZ0h0UnBFdUQzQ3htYkdsWVJWRER0a2R1MkZlcG1td0RGeFhkQ3N1aEpjNmpCZGcycHFoU3AxMVpJejZfZTllYnRpTmhfLUtRU01sOXhhMkFCbDZJTEVKMmloNkIyQ2ZweEIzRkdGN2lpempIUUVmd1Q5ajJKUkN6bUM3Y2cyZU9jZlNHYW9JT3Nj?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 25 Sep 2026 04:49:06 GMT"
       },
       {
         "title": "Delhi HC Upholds ICAI Decision on CA Misconduct Complaint - Taxscan",
@@ -205,10 +205,10 @@
         "pubDate": "Wed, 30 Sep 2026 16:27:53 GMT"
       },
       {
-        "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXhMY1ZubW01dm1XMHdBcDJvS2lyTkdrN0FoY0F4TjVwS0JDQ25TOWxicmduY0xJcVkwQ3c0dF9qMFVYU0FBblhRbWpXSEFmNDhaVE1OQW9KaUY1dXhzT3BQb0JydDU2aVRyeWFGaVZqZTYtOW52UHE1a1RZcE9idjUzSzdOWm1pUlh5cnR4ZjlvbHB1UDRYLWRCZE14M2ptcV83WWg0M3hBWDAxY0FVSGxWUTRFX09YUDRxa0ZvUVdzdkV2UVpRZFpJdmg5b2wtbHQ00gHaAUFVX3lxTE80dEE0dUlVelJhcnRKZEl6aDdOcF9Kb1FYWEw0a0pEblZrRmIyS21JMElVTTlJT0lHbDVaa1JmOE93VEVaYzBpeXgwNG1UY3VMbmVZT2RGSEJiSjhhdlZRVVdMb0hUWTdDbE5hM0RDOURMRGg0d29WT0NIbDUxMjlsNzBhUnpIVkFIWmhoUDZiaGN2NXZVQUMwZUxvdTdrSmxSZGh6RFF6OTY4Y0VsSnowNVRpdXd6WnBEUmt2c3pqbG9BUDBaeVdxVTVtN0lyQ2tVZWdkQTdrRHpR?oc=5",
+        "title": "What private enterprises reporting under IFRS need to know about IFRS 18 - MNP.ca",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNME1jbURDb0ZhNkE5X2JBNkFqRmFOTFVxQ0QxZHU2Y2NKdV81MEx0NEhqekpUMjFmeEhEX2tJbE1YNHg1UFpCVWVFMlBnX0tHNXc1RnV4Z0REWTlTaFg4Nk01cVk2ck5xUzd2dWo1b2p0R3UxWVlRX2ktRTB2Zmw4ZGpOZ0dpdnUxRm9wcnVxSnVYaVhKSDl0M0NMZ3JvTTJuc1g3aWdhMA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+        "pubDate": "Wed, 30 Sep 2026 15:42:14 GMT"
       }
     ]
   }
