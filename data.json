@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T22:46:10.101192+00:00",
+  "generatedAt": "2026-09-30T01:44:59.420027+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -70,76 +70,83 @@
     }
   ],
   "crypto": {
-    "ok": false,
-    "error": "403 Client Error: Forbidden for url: https://api.coingecko.com/api/v3/simple/price?ids=bitcoin%2Cethereum&vs_currencies=usd&include_24hr_change=true"
+    "ok": true,
+    "btc": {
+      "price": 83334,
+      "chg": 0.48
+    },
+    "eth": {
+      "price": 2668.78,
+      "chg": 0.23
+    }
   },
   "fx": {
     "ok": true,
-    "usdinr": 96.07,
-    "eurinr": 109.26,
-    "gbpinr": 127.33
+    "usdinr": 96.06,
+    "eurinr": 108.97,
+    "gbpinr": 127.07
   },
   "news": {
     "corp": [
       {
-        "title": "US stocks: US market ends slightly lower as bond yields hold near multi-decade highs",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/us-stocks-us-market-ends-slightly-lower-as-bond-yields-hold-near-multi-decade-highs/articleshow/134573718.cms",
+        "title": "Sensex falls over 20% in dollar terms in 2026 as weak sentiment, rupee drag returns",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-over-20-in-2026-amid-global-market-shifts-and-rupee-depreciation/articleshow/134576885.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 30 Sep 2026 01:42:07 +0530"
+        "pubDate": "Wed, 30 Sep 2026 06:31:57 +0530"
       },
       {
-        "title": "Fed rate hike 'not urgent', says John Williams; Austan Goolsbee warns against 'playing with fire'",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-rate-hike-not-urgent-says-john-williams-austan-goolsbee-warns-against-playing-with-fire/articleshow/134573558.cms",
+        "title": "KPIT Tech plunges 24% in 3 months as auto demand weakens",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/new-orders-could-put-kpit-tech-on-the-road-to-recovery/articleshow/134576853.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 30 Sep 2026 01:17:39 +0530"
+        "pubDate": "Wed, 30 Sep 2026 06:17:09 +0530"
       },
       {
-        "title": "Goldman Sachs, BNP Paribas divest over 68 lakh BSE shares worth Rs 2,186 crore ahead of Nifty 50 inclusion",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-bnp-paribas-divest-over-68-lakh-bse-shares-worth-rs-2186-crore-ahead-of-nifty-50-inclusion/articleshow/134573364.cms",
+        "title": "Global Market Today: Asian shares rise as tech stocks lead, bonds in focus",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-tech-stocks-lead-bonds-in-focus/articleshow/134576850.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 30 Sep 2026 00:54:26 +0530"
+        "pubDate": "Wed, 30 Sep 2026 06:14:48 +0530"
       },
       {
-        "title": "US 30-year Treasury yield tops 5.6%, reaching highest level since 2002",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-30-year-treasury-yield-tops-5-6-reaching-highest-level-since-2002/articleshow/134570770.cms",
+        "title": "SP Group to raise $125 million via tap issue, Rs 3,250 crore in rupee bonds",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/sp-group-to-raise-125-million-via-tap-issue-rs-3250-crore-in-rupee-bonds/articleshow/134576796.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 29 Sep 2026 22:14:38 +0530"
+        "pubDate": "Wed, 30 Sep 2026 06:09:21 +0530"
       },
       {
-        "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/134570219.cms",
+        "title": "Stocks in news: Tata Steel, KPI Green Energy, NLC India, Poonawalla Fincorp and Cummins India",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-steel-kpi-green-energy-nlc-india-poonawalla-fincorp-and-cummins-india/articleshow/134571657.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 29 Sep 2026 21:31:05 +0530"
+        "pubDate": "Wed, 30 Sep 2026 06:00:00 +0530"
       },
       {
-        "title": "CarMax's quarterly profit, revenue rise as pricing boosts used-car sales",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/carmaxs-quarterly-profit-revenue-rise-as-pricing-boosts-used-car-sales/articleshow/134569823.cms",
+        "title": "Pre-market action: Here's the trade setup for today's session",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134571298.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 29 Sep 2026 20:47:14 +0530"
+        "pubDate": "Wed, 30 Sep 2026 06:00:00 +0530"
       },
       {
-        "title": "Market Trading Guide: Adani Ports, Rashi Peripherals among 6 stock recommendations for Wednesday",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-adani-ports-rashi-peripherals-among-6-stock-recommendations-for-wednesday/slideshow/134569608.cms",
+        "title": "Bond supply may outweigh demand, push yields higher",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/bond-supply-may-outweigh-demand-push-yields-higher/articleshow/134576512.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 29 Sep 2026 20:21:18 +0530"
+        "pubDate": "Wed, 30 Sep 2026 05:42:16 +0530"
       },
       {
-        "title": "Lloyds Enterprises settles listing rule violations case with Sebi",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/lloyds-enterprises-settles-listing-rule-violations-case-with-sebi/articleshow/134569329.cms",
+        "title": "Investment banks earn Rs 2,274 crore from 81 mainboard IPOs in 2026",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/investment-banks-earn-rs-2274-crore-from-81-mainboard-ipos/articleshow/134576533.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 29 Sep 2026 20:10:06 +0530"
+        "pubDate": "Wed, 30 Sep 2026 05:40:23 +0530"
       },
       {
-        "title": "Nifty sees worst September series in 25 years. What does October hold?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-sees-worst-september-series-in-25-years-what-does-october-hold/articleshow/134569275.cms",
+        "title": "202 BSE 500 stocks trade below five-year average valuations",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/202-bse-500-stocks-trade-below-five-year-average-valuations/articleshow/134576586.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 29 Sep 2026 20:04:39 +0530"
+        "pubDate": "Wed, 30 Sep 2026 05:38:14 +0530"
       },
       {
-        "title": "Carnival raises annual profit forecast as demand grows",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/carnival-raises-annual-profit-forecast-as-demand-grows/articleshow/134568896.cms",
+        "title": "Jobs in line as IRDAI commission caps force insurance brokers to rethink models",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jobs-in-line-as-irdai-commission-caps-force-insurance-brokers-to-rethink-models/articleshow/134576768.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 29 Sep 2026 19:37:24 +0530"
+        "pubDate": "Wed, 30 Sep 2026 01:58:00 +0530"
       }
     ],
     "acct": [
@@ -186,6 +193,12 @@
         "pubDate": "Tue, 29 Sep 2026 11:45:00 GMT"
       },
       {
+        "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXhMY1ZubW01dm1XMHdBcDJvS2lyTkdrN0FoY0F4TjVwS0JDQ25TOWxicmduY0xJcVkwQ3c0dF9qMFVYU0FBblhRbWpXSEFmNDhaVE1OQW9KaUY1dXhzT3BQb0JydDU2aVRyeWFGaVZqZTYtOW52UHE1a1RZcE9idjUzSzdOWm1pUlh5cnR4ZjlvbHB1UDRYLWRCZE14M2ptcV83WWg0M3hBWDAxY0FVSGxWUTRFX09YUDRxa0ZvUVdzdkV2UVpRZFpJdmg5b2wtbHQ00gHaAUFVX3lxTE80dEE0dUlVelJhcnRKZEl6aDdOcF9Kb1FYWEw0a0pEblZrRmIyS21JMElVTTlJT0lHbDVaa1JmOE93VEVaYzBpeXgwNG1UY3VMbmVZT2RGSEJiSjhhdlZRVVdMb0hUWTdDbE5hM0RDOURMRGg0d29WT0NIbDUxMjlsNzBhUnpIVkFIWmhoUDZiaGN2NXZVQUMwZUxvdTdrSmxSZGh6RFF6OTY4Y0VsSnowNVRpdXd6WnBEUmt2c3pqbG9BUDBaeVdxVTVtN0lyQ2tVZWdkQTdrRHpR?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 22 Sep 2026 05:45:40 GMT"
+      },
+      {
         "title": "IFRS 18 unpacked: Practical Guidance for implementation - Moore Kazakhstan",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMVVGdWl2bzcxMXdweENsU1RKSlhHWUNLdEpaNzNEMkJpUUJkRWJKUnpMTjlMdHc1bDUyM1ZkS2ZCdlVGR195RXgwZHNUZktUNXhSclJDS01XZHJscnFfNTVXS1NzS0c5YlJmelkxb1N4U1lrUjYtY0N2Rm1zN29Sa2cya0toRElhVHJDNWNhdTF5Y2loMVE?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -196,12 +209,6 @@
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0hyczM0VXRETWZ6UUxTbDhxazFPNEJjOFEwNTUzdlJ0dFBoTlBCWC1OaFU5ZkJ4MXJMUU1JTU1LM2pLMFRibnRpMHpoYzlYQ2FFV254VzV3WVFXdndqVElMQjkyXzRkU2tHOGVFTy1iSk5ubkpSdjhXVTduSjdHYWRsWW93QUJqalFJLUVzNHdCdw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 29 Sep 2026 07:30:00 GMT"
-      },
-      {
-        "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXhMY1ZubW01dm1XMHdBcDJvS2lyTkdrN0FoY0F4TjVwS0JDQ25TOWxicmduY0xJcVkwQ3c0dF9qMFVYU0FBblhRbWpXSEFmNDhaVE1OQW9KaUY1dXhzT3BQb0JydDU2aVRyeWFGaVZqZTYtOW52UHE1a1RZcE9idjUzSzdOWm1pUlh5cnR4ZjlvbHB1UDRYLWRCZE14M2ptcV83WWg0M3hBWDAxY0FVSGxWUTRFX09YUDRxa0ZvUVdzdkV2UVpRZFpJdmg5b2wtbHQ00gHaAUFVX3lxTE80dEE0dUlVelJhcnRKZEl6aDdOcF9Kb1FYWEw0a0pEblZrRmIyS21JMElVTTlJT0lHbDVaa1JmOE93VEVaYzBpeXgwNG1UY3VMbmVZT2RGSEJiSjhhdlZRVVdMb0hUWTdDbE5hM0RDOURMRGg0d29WT0NIbDUxMjlsNzBhUnpIVkFIWmhoUDZiaGN2NXZVQUMwZUxvdTdrSmxSZGh6RFF6OTY4Y0VsSnowNVRpdXd6WnBEUmt2c3pqbG9BUDBaeVdxVTVtN0lyQ2tVZWdkQTdrRHpR?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 22 Sep 2026 05:45:40 GMT"
       }
     ]
   }
