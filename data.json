@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T02:15:47.779835+00:00",
+  "generatedAt": "2026-10-01T09:10:50.121767+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 83581,
-      "chg": 0.18
+      "price": 83583,
+      "chg": 0.46
     },
     "eth": {
-      "price": 2691.36,
-      "chg": 0.76
+      "price": 2687.24,
+      "chg": 0.41
     }
   },
   "fx": {
@@ -89,67 +89,73 @@
   "news": {
     "corp": [
       {
-        "title": "Growpital case: Sebi to refund money directly to investors for first time",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/growpital-case-sebi-to-refund-money-directly-to-investors-for-first-time/articleshow/134605764.cms",
+        "title": "Stock Market Holiday: Are BSE, NSE open or closed for Gandhi Jayanti tomorrow? Check upcoming market holidays",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-are-bse-nse-open-or-closed-for-gandhi-jayanti-tomorrow-check-upcoming-market-holidays/articleshow/134613448.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 01 Oct 2026 07:01:56 +0530"
+        "pubDate": "Thu, 01 Oct 2026 14:20:07 +0530"
       },
       {
-        "title": "IPO Rush: 50-plus firms file DRHPs ahead of Sebi deadline",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-50-plus-companies-file-drhps-ahead-of-sebi-deadline/articleshow/134605736.cms",
+        "title": "India bonds slide as US Treasury rout, supply weigh",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slide-as-us-treasury-rout-supply-weigh/articleshow/134613344.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 01 Oct 2026 06:31:12 +0530"
+        "pubDate": "Thu, 01 Oct 2026 14:09:08 +0530"
       },
       {
-        "title": "Global Market Today: Asian shares mixed as bond yields, oil keep investors on edge",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-mixed-as-bond-yields-oil-keep-investors-on-edge/articleshow/134605731.cms",
+        "title": "10-year US Treasury yield hits highest level since 2002",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/10-year-us-treasury-yield-hits-highest-since-2002/articleshow/134613220.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 01 Oct 2026 06:30:52 +0530"
+        "pubDate": "Thu, 01 Oct 2026 14:06:18 +0530"
       },
       {
-        "title": "Hospital stocks slip after SC query on steep cancer drug markups",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/hospital-stocks-slip-after-sc-query-on-steep-cancer-drug-markups/articleshow/134605708.cms",
+        "title": "Two tractor stocks: Escorts Kubota shares fall 6%; VST Tillers shares rally 5% after September sales",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/two-tractor-stocks-escorts-kubota-shares-fall-6-vst-tillers-shares-rally-5-after-september-sales/articleshow/134613134.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 01 Oct 2026 06:20:39 +0530"
+        "pubDate": "Thu, 01 Oct 2026 14:03:31 +0530"
       },
       {
-        "title": "D-St set for a negative opening as GIFT Nifty signals weak start",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134605497.cms",
+        "title": "US Market: Treasury bond purchases fall below $6 billion buyback cap",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-treasury-bond-purchases-fall-below-6-billion-buyback-cap/articleshow/134613053.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 01 Oct 2026 06:00:00 +0530"
+        "pubDate": "Thu, 01 Oct 2026 13:59:22 +0530"
       },
       {
-        "title": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms",
+        "title": "8 weeks, 2,000 points gone: Nifty’s longest losing streak in 25 years raises bear market fears",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/8-weeks-2000-points-gone-niftys-longest-losing-streak-in-25-years-raises-bear-market-fears/articleshow/134612838.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 01 Oct 2026 06:00:00 +0530"
+        "pubDate": "Thu, 01 Oct 2026 13:40:34 +0530"
       },
       {
-        "title": "Can October turn the tide for Indian stocks after September rout?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/usual-october-cheer-could-be-missing-after-rout-last-month/articleshow/134605523.cms",
+        "title": "MTNL shares rally 17% as board approves Rs 892 crore Powai property sale amid debt worries",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/mtnl-shares-rally-17-as-board-approves-rs-892-crore-powai-property-sale-amid-debt-worries/articleshow/134612668.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 01 Oct 2026 05:32:03 +0530"
+        "pubDate": "Thu, 01 Oct 2026 13:37:23 +0530"
       },
       {
-        "title": "Sebi, RBI join hands to make onboarding easier for FPIs",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-rbi-join-hands-to-make-onboarding-easier-for-fpis/articleshow/134605575.cms",
+        "title": "Global markets defy bond turmoil as stocks stay near record highs",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-markets-defy-bond-turmoil-as-stocks-stay-near-record-highs/articleshow/134612349.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 01 Oct 2026 05:30:50 +0530"
+        "pubDate": "Thu, 01 Oct 2026 13:27:28 +0530"
       },
       {
-        "title": "US stocks: Nasdaq rises while S&amp;P, Dow dip as softer inflation cools Fed hike bets",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-rises-while-sp-dow-dip-as-softer-inflation-cools-fed-hike-bets/articleshow/134601845.cms",
+        "title": "RIL Q2 Results: Nuvama sees 17% EBITDA growth, led by O2C biz. Here’s what to expect",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-q2-results-nuvama-sees-17-ebitda-growth-led-by-o2c-biz-heres-what-to-expect/articleshow/134612429.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 01 Oct 2026 01:40:47 +0530"
+        "pubDate": "Thu, 01 Oct 2026 13:23:51 +0530"
       },
       {
-        "title": "RBI net short forward position rises to $200 b",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-short-forward-position-rises-to-200-b/articleshow/134605609.cms",
+        "title": "Why is market crashing today? Sensex slumps 1,200 points, Nifty below 22,250. 5 key factors behind Rs 10 lakh crore wipeout",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-crashing-today-sensex-slumps-800-points-nifty-below-22400-5-key-factors-behind-rs-8-lakh-crore-wipeout/articleshow/134611854.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 01 Oct 2026 01:08:10 +0530"
+        "pubDate": "Thu, 01 Oct 2026 13:04:54 +0530"
       }
     ],
     "acct": [
+      {
+        "title": "ICAI Rules CA Not Guilty in Rs. 41,920 NRPC Tender Bid - Taxscan",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNlZBT1VxQTFYWjBwT1BlMDZRb3R1eXZiQ24xZFZXX0trMFhoWGxKT2VEOVdCQ2xCc2xQZXZpYXV5azNNYnpyMXlmUWdtaUJxNXhlaHR5Q0Y0VTZmX2lna2dRalR0UmRUQzljS1gwOXk5cU02V0VKNnNQRTRKNnBFQmptSjl2dXNKRHNXTFE1UHhMS09NNFlEaE9xMFF5U3piWWlxaDVnaU8tTVdIUE9YbnhncFcxMllYRXBZNTBZTjhPQjVlOGNVa1l0cUJIczhfaEtRaXcxTkVxc2c?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 01 Oct 2026 07:33:00 GMT"
+      },
       {
         "title": "Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)' - Global Regulation Tomorrow",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObnhMNldQNzNvQnJYR09jYThiSnB1aFZKcXRFRTZYWXlLNmFQODZjMTNRcnM1cUlMdXNkcFl6N3VYdlp2UnJidFAzWWdLVE5Mc0d6NUZfMjVVWkU2OURyeW1zZE9SMUZrU256d1pybmcyMmZ0ajhVXzBMeHBETTRneGxmbThWVklpcy1UWmFVamp0R1RCb0tJWHR6VUlXUWxlSEVSVGxGWUJ1N0ZKVDMwSVRCMi1mQmZpV0RPdGFkS2FqVGNBajlXTVE0ZGplWm5QbGkzZQ?oc=5",
@@ -157,22 +163,28 @@
         "pubDate": "Wed, 30 Sep 2026 16:43:47 GMT"
       },
       {
-        "title": "EPC Groupe H1 IFRS EBITDA EUR 41.85 Million - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVGs4T09VZl9iVU01NmNSSEdZVkptXzVUZDd5Q1Q5aks1Z3pKcFRXUUduV1NZT01Oa3NIUmpmcnU0NVJ0Y2tBeDlmTXNzaEZHNWxFVWdqd0Q1d1cwNHo2MzRVVWp2bncyY01jTy1BWlpZUkNleVB6YUpZNHVNQkQ2ZEZvMFBWVWFONjRVQ2wxZkFBaWUxOHlnMGRwcDYxRXoyazROQmpqOVBKS3BHSWg1QkdKQQ?oc=5",
+        "title": "From IFRS 18 to FINREP: What changes for banks? - Deloitte",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbjZGM0kwMmcxajg5RUJnaFNSWm8ycFZZOUdESXk3T1RaMTF4blRjZ3NWWFBkOUI0aEZXaTNkTjkwcW9WVTN1SUxaR2JZX29pWmdScF9YRHhtRGRDem9iQVNqdFFaLUZrVEx4Z0ZhUFlDaTFiakVuMjFTdWRzR0hIU2M4c3BGQUN5bFVlWjd1U3BvenhHcWkxeVhkV1pMU1pLZU80UXhJdmpFMVpVZWU4UA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 30 Sep 2026 16:24:29 GMT"
+        "pubDate": "Wed, 30 Sep 2026 02:10:16 GMT"
       },
       {
-        "title": "Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)' - Bank of England",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXJKbEUwZ0NrN0FEbHNWZnVqSnZVVjRrYWVCdXZESUR6OFFmd3FLd09nVmhhODFRUmVlWmQxQ0UzSUJUU3RIQzZFcWJ2RDRobTRtSGs0THNGQU1LRmpOWVg3VUVGUDJtZ0swdUQ0Yzk3Slh5V3JOTU1aOTB5bUdFcUVBQmRPUXBZTlNMbEg3MlFGT0lhdVhHaDFNOFZtLUJDdHFnUW1rRFFFeDk3MjIxLUhB?oc=5",
+        "title": "The Yield Curve and What It Actually Predicts - CAclubindia",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSDg5LVBKdEM2V1NfX200VkV4dUlEVlEyT3cta24yMmM2X2wteHZvUUt2OF85enMzeXJtVVpuRjQtLWxNbEltNmp6ZnJDY2lsbE5yTDJKdlp4Mktmc3NkVzNrLTdwYm5RdGxDaFNNRENEZlU2TXpzOG92eWFTQ2puVUdFTm1GcmJvUkFCLW1tOGZQRHNuLUFv?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 30 Sep 2026 14:50:34 GMT"
+        "pubDate": "Thu, 01 Oct 2026 03:25:00 GMT"
       },
       {
         "title": "Exclusive: ICAI wants up to Rs 5 crore govt consultancy tenders reserved for smaller firms, working on draft.. - cfo.economictimes.indiatimes.com",
         "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPWXBpdUdSa2Q5UGlhZm5lWUpwdVRPeDNPODJob0NGdXp5V205NXJDREJtbWpnOEFEeTZBRjVsUkJDOW1MVWFWcXk4cVpCNzBpX0M2aUtHMDRBenVlWWFYMU1pSEN6dGViUVFCOVdJYTFabzZ4YndOclF4LS1ndUpPTTh2S25nbzI5aXd4ZTJOVER1NG95V2hQNXRWSHZWRXhEaEhsdXdEYjBkbm52dEs4WEJlYWhaWElkenhzZHNrMk9BZmhBZTlvR3k1ZFhvLTZuSDRtcG1Pemp2UThZLVF5SUJZNE1RSUlGcldlMzY2anh0QTI0Q1lqcXZpby1NRnYtSEJRTkJ2cENDWXVZLVRYdDQybE45NnZaS1RpS0Fn0gGjAkFVX3lxTE5fZFVLT2NnaEFxQjU2NUlkQWFqZ19DUGVCOGZBUXlZcEN1OVBpeWlwMzVEWTNwdGw5MmVpcjRCWGRiOW44a2xhNFJ1N1JjdXJXWE9NUEdGaFFVUTFFZlFmVXlRampKQmF3SzY5MG5lZ21va3VhWG1Edll1bTVOaWMwa1ZOTVNLTXVDZGVaWjVQZ0ZrWmdkeTFzOXQxR0lrRTQxSXVLWVJEdm15d3RaaUZkak1Ea2lsXzdQUkxMeUVjQVA2MzlsLUlLZUhLQnAyak4xY1Q1TlAtR2kxQWdDMzU2bFB1a2h4MXZVdUNDanJYSktuMzVidkh6YXZxalB1OVRUdGptNDJRcGk3eHNONUhsWFBjR09vWXpkOVg3bmVWRFFjcw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 29 Sep 2026 02:35:32 GMT"
+      },
+      {
+        "title": "EPC Groupe H1 IFRS EBITDA EUR 41.85 Million - tradingview.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVGs4T09VZl9iVU01NmNSSEdZVkptXzVUZDd5Q1Q5aks1Z3pKcFRXUUduV1NZT01Oa3NIUmpmcnU0NVJ0Y2tBeDlmTXNzaEZHNWxFVWdqd0Q1d1cwNHo2MzRVVWp2bncyY01jTy1BWlpZUkNleVB6YUpZNHVNQkQ2ZEZvMFBWVWFONjRVQ2wxZkFBaWUxOHlnMGRwcDYxRXoyazROQmpqOVBKS3BHSWg1QkdKQQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 30 Sep 2026 16:24:29 GMT"
       },
       {
         "title": "India’s ICAI plans certification course for independent directors – report - theaccountant-online.com",
@@ -187,28 +199,16 @@
         "pubDate": "Fri, 25 Sep 2026 04:49:06 GMT"
       },
       {
-        "title": "Parliamentary panel seeks explanation from MCA over non-implementation of reservation policy in ICAI - thehindubusinessline.com",
+        "title": "Parliamentary panel seeks explanation from MCA over non-implementation of reservation policy in ICAI - BusinessLine",
         "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSmFRNXJGMHlzeVkyWjA0cnZSZU90a3ZlaUhhTU1qVVltbEphTWw3bkFHaG5JeXVoR3ZuOFVxazYtVi0wNUd0cnhTMXZUU0xvWTNUbVdwelg5X2ZqeXh5YVFlZzluVlBQWi1sdjhtaDVibTZUZmwzVkxTVHdrQXJONmVIVnY3cW5ZYkhtS05ZNkhYZXlhOTN1SU9JTVdlVXV0UEJYZ3pMVVJ3UjBZam5lQXlqdm1LcTBnQVFPSzhJdU5sNFdybUhKb3BjM3ByTEp5UW5GQW13clhvU3A4aWlPMHJhc25BdDBNeFhCUldHS1VuTHhFYUlRa9IB_wFBVV95cUxOQndtUm9sUmZuaXdaMThzYmVhWXM5TXZKUHZROENOMU1lOXJfdmJFR2J6alJFaDQtbTVRTWQ2bkFmT2dlMkM2c2hkQlNxRXBXOWVQNFhUdGROSkhjUkZicHF4NTVER2ZyNVRTZlBwa2x6S05FblBmWmRXOGtlZ3BFWm5WeG9oREplQlI4bl9sWlJldUw1Q0ExNGI5V2JnQUpXX2lnVlQ1Rk9jdnNmUlJnZkdjbXlnc2VZRmlEZlFCMHlSSXFzSmJfalBDRXhkNVFYYWdENFJUMlNrcUlRYmFZVkZwa1I1WUJRWVdJU2o3UXBqMk4ySWN5Um9xWXVtYmc?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Sun, 27 Sep 2026 13:52:23 GMT"
       },
       {
-        "title": "Ind AS in Practice: How the Same Standards Work Differently Across NBFCs, Mining, Real Estate & Manufacturing - CAclubindia",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQXBYYjI5UlBaZjhNeTJJUFdxQVJlbTRfUUl1UHNlbGpta1NjZnRVY1pUOFBnUWdhZWdxVmFJbVZfSl83TGNGRFRzbWxidXVya3h4dm84NlBHQWZoVkpXS01ObmlGb0pJQTVkMS1iNS1SSXRLb25NZVpSeUsyUVJsSlFoVThXQnI0UmVNNWhSNnB3NmdENzNHTHVORDFJVmlWd2hiOFcyZWZfcUF2d3IxQXo2MzBOUUU1SnZkbU9OTUFqTWxhWi1GUTRfWkY1bHJycmlwVmpkVEFZX0VKekM2TlVVVmFPUQ?oc=5",
+        "title": "Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)' - Bank of England",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXJKbEUwZ0NrN0FEbHNWZnVqSnZVVjRrYWVCdXZESUR6OFFmd3FLd09nVmhhODFRUmVlWmQxQ0UzSUJUU3RIQzZFcWJ2RDRobTRtSGs0THNGQU1LRmpOWVg3VUVGUDJtZ0swdUQ0Yzk3Slh5V3JOTU1aOTB5bUdFcUVBQmRPUXBZTlNMbEg3MlFGT0lhdVhHaDFNOFZtLUJDdHFnUW1rRFFFeDk3MjIxLUhB?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 30 Sep 2026 03:30:00 GMT"
-      },
-      {
-        "title": "Delhi HC Upholds ICAI Decision on CA Misconduct Complaint - Taxscan",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUHNhaGFjMzB0SFlCbS10ZzBkOE1pazJxOVlCalRIcmpVYnNsd0UwN0NPSUk0U0dYY0oyR1NzNkVWTFRMWEhGY1l0eVl1UGtUbmpXZ1VYSXZsVVlFUDlTZzNZWXo3czV5WHhWNV9TSVE2SzV4TnJ0MHR6VzlKd2JtRndwdktwbWV3eXhtdlQ0OGRnX1h4ZnlJSi1QMnFRWld1UDNXOElrT2h1a2hNaUR6cjRoRENDZU1SX1MzcW9vX3RQYklhSHU0cTZ4RUUyRzFJbEl3bEtXcEE0QUdRQjdpTWtEZlVkVUEzTl9mMU9ncV9zTkJkcmQ0RzNBRQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 30 Sep 2026 12:47:00 GMT"
-      },
-      {
-        "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXhMY1ZubW01dm1XMHdBcDJvS2lyTkdrN0FoY0F4TjVwS0JDQ25TOWxicmduY0xJcVkwQ3c0dF9qMFVYU0FBblhRbWpXSEFmNDhaVE1OQW9KaUY1dXhzT3BQb0JydDU2aVRyeWFGaVZqZTYtOW52UHE1a1RZcE9idjUzSzdOWm1pUlh5cnR4ZjlvbHB1UDRYLWRCZE14M2ptcV83WWg0M3hBWDAxY0FVSGxWUTRFX09YUDRxa0ZvUVdzdkV2UVpRZFpJdmg5b2wtbHQ00gHaAUFVX3lxTE80dEE0dUlVelJhcnRKZEl6aDdOcF9Kb1FYWEw0a0pEblZrRmIyS21JMElVTTlJT0lHbDVaa1JmOE93VEVaYzBpeXgwNG1UY3VMbmVZT2RGSEJiSjhhdlZRVVdMb0hUWTdDbE5hM0RDOURMRGg0d29WT0NIbDUxMjlsNzBhUnpIVkFIWmhoUDZiaGN2NXZVQUMwZUxvdTdrSmxSZGh6RFF6OTY4Y0VsSnowNVRpdXd6WnBEUmt2c3pqbG9BUDBaeVdxVTVtN0lyQ2tVZWdkQTdrRHpR?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+        "pubDate": "Wed, 30 Sep 2026 14:50:34 GMT"
       }
     ]
   }
