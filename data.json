@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T07:10:35.807303+00:00",
+  "generatedAt": "2026-10-02T13:58:55.279168+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 85970,
-      "chg": 2.16
+      "price": 86683,
+      "chg": 3.38
     },
     "eth": {
-      "price": 2728.54,
-      "chg": 0.4
+      "price": 2747.5,
+      "chg": 2.0
     }
   },
   "fx": {
@@ -89,67 +89,73 @@
   "news": {
     "corp": [
       {
-        "title": "Coal India, NTPC among 360 ONE Capital Research’s 8 stock picks for October. Check full list with target prices",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/coal-india-ntpc-among-360-one-capital-researchs-8-stock-picks-for-october-check-full-list-with-target-prices/slideshow/134633712.cms",
+        "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq surges over 1% as softer payrolls data, lower yields lift sentiment",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-israel-war-hormuz-talks-brent-crude-oil-inflation-treasury-bond-yields-fed-rate-hike-earnings-forecast-jobs-nike-nvidia-amd-moderna-ai-chip-stock-price-news-2-october-2026/liveblog/134639271.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 02 Oct 2026 12:09:12 +0530"
+        "pubDate": "Fri, 02 Oct 2026 17:35:57 +0530"
       },
       {
-        "title": "ETMarkets Smart Talk| ‘Desi to Videsi’: How GIFT City is changing the way Indians invest globally — Mustafa Pardiwala",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/etmarkets-smart-talk-desi-to-videsi-how-gift-city-is-changing-the-way-indians-invest-globally-mustafa-pardiwala/articleshow/134633325.cms",
+        "title": "Global equity funds draw $34.76 billion, log second straight week of inflows",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-equity-funds-draw-inflows-for-second-week-as-ai-optimism-holds/articleshow/134638303.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 02 Oct 2026 12:06:28 +0530"
+        "pubDate": "Fri, 02 Oct 2026 17:06:13 +0530"
       },
       {
-        "title": "Global Markets | Japan's Nikkei retreats from 6-week high as investors lock in gains",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-retreats-from-6-week-high-as-investors-lock-in-gains/articleshow/134633243.cms",
+        "title": "Sebi penalises SMC Global Securities for compliance lapses",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-penalises-smc-global-securities-for-compliance-lapses/articleshow/134638299.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 02 Oct 2026 11:43:31 +0530"
+        "pubDate": "Fri, 02 Oct 2026 17:01:34 +0530"
       },
       {
-        "title": "Bajaj Finance to raise Rs 17,500 cr via QIP, pref issue",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-to-raise-rs-17500-cr-via-qip-pref-issue/articleshow/134632864.cms",
+        "title": "FPIs turn net sellers, pull out Rs 35,860 cr in Sep",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-net-sellers-pull-out-rs-35860-cr-in-sep/articleshow/134637791.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 02 Oct 2026 11:35:44 +0530"
+        "pubDate": "Fri, 02 Oct 2026 16:39:02 +0530"
       },
       {
-        "title": "Jefferies is bullish on 6 healthcare stocks with upside potential of up to 46%. Own any?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-is-bullish-on-6-healthcare-stocks-with-upside-potential-of-up-to-46-own-any/slideshow/134632465.cms",
+        "title": "French 10-year risk premium soars to highest since late 2011",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/french-10-year-risk-premium-soars-to-highest-since-late-2011/articleshow/134637770.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 02 Oct 2026 10:45:24 +0530"
+        "pubDate": "Fri, 02 Oct 2026 16:37:51 +0530"
       },
       {
-        "title": "Market crash wipes out Rs 26 lakh cr in 8 weeks! Why soaring bond yields may hurt Sensex, Nifty more than elevated oil prices",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-crash-wipes-out-rs-26-lakh-cr-in-8-weeks-why-soaring-bond-yields-may-hurt-sensex-nifty-more-than-elevated-oil-prices/articleshow/134632014.cms",
+        "title": "Keventer, Saroj Poddar groups launch Rs 400-cr real estate debt fund",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/keventer-saroj-poddar-groups-launch-rs-400-cr-real-estate-debt-fund/articleshow/134637658.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 02 Oct 2026 10:22:32 +0530"
+        "pubDate": "Fri, 02 Oct 2026 16:28:47 +0530"
       },
       {
-        "title": "Gold price today: Precious metal slips ahead of US Jobs data; MCX closed for Gandhi Jayanti",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-today-precious-metal-slips-ahead-of-us-jobs-data-mcx-closed-for-gandhi-jayanti/articleshow/134631649.cms",
+        "title": "Office leasing at record 66.4 mn sq ft in Jan-Sep across top 9 cities, driven by GCCs: CBRE",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/office-leasing-at-record-66-4-mn-sq-ft-in-jan-sep-across-top-9-cities-driven-by-gccs-cbre/articleshow/134636708.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 02 Oct 2026 09:50:28 +0530"
+        "pubDate": "Fri, 02 Oct 2026 15:37:58 +0530"
       },
       {
-        "title": "Nifty valuations near post-Covid lows. Alchemy Capital’s Alok Agarwal explains what investors should buy now",
-        "link": "https://economictimes.indiatimes.com/markets/expert-view/nifty-valuations-near-post-covid-lows-alchemy-capitals-alok-agarwal-explains-what-investors-should-buy-now/articleshow/134631194.cms",
+        "title": "ET Alpha Wealth Summit 2.0: Decoding the new investment landscape and shift in smart money",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/the-macro-manifesto-decoding-the-new-world-order-re-routing-of-smart-money/articleshow/134635592.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 02 Oct 2026 09:08:25 +0530"
+        "pubDate": "Fri, 02 Oct 2026 14:24:21 +0530"
       },
       {
-        "title": "US Treasury yield hits the highest since 2002 at 5.34%",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yield-hits-the-highest-since-2002-at-5-34/articleshow/134631069.cms",
+        "title": "European shares edge higher after bonds-driven selloff, focus on inflation data",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-edge-higher-after-bonds-driven-selloff-focus-on-inflation-data/articleshow/134635254.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 02 Oct 2026 08:47:47 +0530"
+        "pubDate": "Fri, 02 Oct 2026 13:57:24 +0530"
       },
       {
-        "title": "D-Street logs longest spell of week slump in 25 years",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-logs-longest-spell-of-week-slump-in-25-years/articleshow/134630946.cms",
+        "title": "Inox Air Products files draft papers for IPO",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/inox-air-products-files-draft-papers-for-initial-offer/articleshow/134634874.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 02 Oct 2026 08:45:17 +0530"
+        "pubDate": "Fri, 02 Oct 2026 13:35:21 +0530"
       }
     ],
     "acct": [
+      {
+        "title": "IIPA, ICAI join hands to strengthen municipal financial governance; Jitendra Singh calls for evidence - DD News",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWGpoUmRWb0xZS3NheTFmQmlGZUM5ellSVy12SGc5Q2Y2MGNWdGFLcXcxbl9XZmhRYnNXM1R5S0RmSHlwQVVnRFBpTjVxbHZZUGFLbExGYWFkQ1h5bm1VclZKYWdpZUppd3RfUmFhQVF5b29YU044b25MSF9pWU5xcDZtVFVyTDBKZmNqbXBGMFpacDI1eTBVbXdtTjVyUkUxLUdBXzRLVTVrV01IVE1meXJnMjBFV29hSEppQWJUV1BVRktGeHUyMFM4SmJDaUs3Uy1zRFZtMVBUNFZGZEE?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 01 Oct 2026 07:07:57 GMT"
+      },
       {
         "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - facebook.com",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM2RvTTBFUXU5c1lGVDlQSFpJYWJkQXNFSHFiaG1MWFlPYmZQMGh4UDNNcGI2elptY1J3SjFJdUNCY1I5MVZ0TEt6ZFFMVk1xOXhNaEZNeGJhbGkxQWwxalM5TFlBQ2dWdjhQWVk4dGpkY2JzR0dmeV9RYk9TM2ljSDFpMDI4cFAxZXphZG4zOEdKNkowTGZkQnZKLVh3RExza2RBRmU3UXFwSXBndVlneTdLUjlXLV9GdWZ1U2JhckNMTUxhMmxISW50UHVyaUEyNnVETERzWmt4YjlxRzRfRDBB?oc=5",
@@ -157,10 +163,22 @@
         "pubDate": "Thu, 01 Oct 2026 14:27:58 GMT"
       },
       {
-        "title": "IIPA, ICAI join hands to strengthen municipal financial governance; Jitendra Singh calls for evidence - DD News",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWGpoUmRWb0xZS3NheTFmQmlGZUM5ellSVy12SGc5Q2Y2MGNWdGFLcXcxbl9XZmhRYnNXM1R5S0RmSHlwQVVnRFBpTjVxbHZZUGFLbExGYWFkQ1h5bm1VclZKYWdpZUppd3RfUmFhQVF5b29YU044b25MSF9pWU5xcDZtVFVyTDBKZmNqbXBGMFpacDI1eTBVbXdtTjVyUkUxLUdBXzRLVTVrV01IVE1meXJnMjBFV29hSEppQWJUV1BVRktGeHUyMFM4SmJDaUs3Uy1zRFZtMVBUNFZGZEE?oc=5",
+        "title": "Meet Harshita Goyal, The Chartered Accountant Who Secured UPSC Rank 2 - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSWp0LUZxVHdxSE51NEw4SFhtOTdKeW1WUmNRMVJGVlRhLVZteTFtc0FrUDZ3cVRKVWl3TUpUU21LVmlIeFlzZG5XUnRHQnpKUmVEem9SaEt5R1kxZWlUcmhpQWpKNjdseWdORGFkVEZYZjZua1ZSUDBvQ0pjbzhJRUFCTWdCWG93VzgtZnItTmFTNVMyU2RoRGRZS2d3T2VpdW1MYXF0T1ZrR3p40gG0AUFVX3lxTE43ZVotWktRTC1PemVra0JnZTR5ZHBnQlB6Q3pKMzJNSXlFd0FtLWJtelc5WEtUd1JyckFtbjZ2ZU5EZ2tOZTFlTlFWVWtkT3dHT2dsQjV4Qm9jdkFISllRU1ZCTnA3bWJMc0M0dmpWUU9ORlZ6NlVaNUdkTUJOTVB0cXAwQXN5bXd1NVdQT1JtbVZoQk9PYmNEeWZURGhUcGMyYVdWUkZGUDFUY0xjOWl3THhaVw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 01 Oct 2026 07:07:57 GMT"
+        "pubDate": "Fri, 02 Oct 2026 13:45:22 GMT"
+      },
+      {
+        "title": "Big Four gap: Why India lacks a home-grown Big Four despite a huge chartered accountant pool - Business Today",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQkdxNFI3c0xxNEx1NHhSUHRGQm4zNEZ6c254QWo5MzRtMXA5SDNETmh4SlM0UGhvUTNuaWJtR3M0RjljTjNvUE5pYnJzemR0WWpoZDgtTGhBaElLcm8takVQVlI5WWdDdDZYS05HRWNnQS1sVUpxOU5WRkpGR0FuUEJfbXhyRjlqYnluUy10d2ZYUDFEc015dUxLTWxvdVVXRTBUWFJEeEY0QjZUVVo2dUw5SDBSaEotS1J4UWktSUFHOW9Ed0RnaTdIcUM4MDVFb2pEeUtwclRac0trYzU4ZGN1ZzXSAeoBQVVfeXFMTjdOU1Nmcm0xNzdkR1lEdEVzbEJWcG9teWY4TnV4RzdyYVZ4ZU9veG1LeG5UanlaU2ZHbGpNVHhNU002UDVRTmJVRGpkeUxMYTFVV0l6OWM5YXBSUk9ma0xobUR1ZEhaUUpFTk5LYkVFYnhjbW9JU1VMWjYwWEQ2OHh3a2E4b0dqbWVNMVdwVnQ4RDVzbXQyVUxCWjdPUVhJaU1seFBkR0dsQkdVYzN4d3U3dFhNdUVkVmhSbWdEeDFkVXo3VE90OVhUa2FFQmgyWjNKZThxclpmMGJRQnhWWHlVbnVFZW1QZUJ3?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 02 Oct 2026 08:57:22 GMT"
+      },
+      {
+        "title": "TABLE-Infroneer Holdings -Q1 group results (IFRS) - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTUxoLTJjeTJraV9IS25ZcjdySDQtdXI3NE9pWFZfMXh2R2Jrc1BjM3lkeWFOaVNINTZjd2h4THNseEdwdFlRRThrR3hDaFNlZ3lpN2ZuOVFlblhvNjkzTFdGbDZiZlNKM0NoZnBoazBsTy0tWnRTY1VTZXpmMEkyYWRmZDZKVVh5THVDTkJHVndGLWtHMkhBR1N0ajREeXpoXzR0VmxTOTRabER3dW1JT09FSnltSnRTalRqNkc2OA?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 02 Oct 2026 07:00:11 GMT"
       },
       {
         "title": "From IFRS 18 to FINREP: What changes for banks? - Deloitte",
@@ -169,10 +187,10 @@
         "pubDate": "Wed, 30 Sep 2026 02:10:16 GMT"
       },
       {
-        "title": "Wärtsilä: Energy Storage JV finalized, with lower 2026 impact and IFRS 18 reporting changes from 2027 - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNGxqLWZXRmVyd0F6cElweEVHZ011Z1BuM3FSMEc5bkh4TkhyZzJJR1g5WHlMNjFyZTlSWHlUVU5aWUo3ckhhWlh2SGdEc05RVEpZbmZiR0tEU1I0ZnJYbUNTTmpnRGdhNnN4Wml2WWwwR21pNjlDRHgwQXNUQTlZQ00xcVlScE1TMHJFM0w3RzQ4N2YxRFR1OVVIbzNlendqcUYtRlMwSkF3SjV2U2Rsc1dHTXAxVFNBQjhxeVFZRllISUtzQzhVenFpTkRVR3BCT0o0dlliYVUyZE5MbFYzMzU5bS1zUzZaQ2lGN0xvZFk3T2lNVGtvclRmcDQyYUlUVkVlNGQ5UmxvalJ5UXc?oc=5",
+        "title": "56% of Indian companies plan to hire more CAs, CSs despite decline in exam applications: Survey - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPT1ZBNVBQMld4eXVuOUpuSmlvQlZfYWxZQVVLaGdUZm1CbTJyVkQ1MWcwQndHb21oZUtLbW5QR1l0VWlmZkNpZVN2LUZOeDNfQmJpNGppZTk2QUtZci02NEhlTFlLYlhVU21ubFVBUlA0X1QwNXFoTFJac3NNRXBqQjQ4UHBCZnlRSTRXclhFV3MzN3dWUjF2OHUzNUlQMk8wXzNROURaZWNxRHcyMHFaT0gyTzdiSFRDbDFVNEpEYUI4UDJwYzdWOThic2NzZDJKY3pIZGF0TW1SYW9FQkRBWjE4d0VtdktvLUVsSmxIZDBmT2hITzV0Rzh4SFl1dGlO0gGHAkFVX3lxTFA1NTVvNzFsSk5YOGJSNGFvMjVtVV9RYjBIZ19qMW1DSGpDOGJ6cnVjWU1HeVZKSjlKdzlmTVFCdmJzV1NzemNaY3dDY1Z2bHJod0o1Z0lCNHV5UXpyV282dzhhcjVCTmxid3JhclQyMnpnUDFVQVExaEV3S0FQNi1TZ1JuYmZMYmdudmtrX1dqRmdMZV9IbEtsSklTVnlBQ3pTdkwwaXQwdV90ZG5SWFF0NW5LajlsOTU2ejNqTG5VOURmZnNscWlucDNCWWNBWURfS0Nxajk3NWk0Z2JvNnZXR1hLb1dRMmZ6aWlqNUk5MlRsSHBzLVJPMFBrNjEzZUNHZkJraTZV?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 01 Oct 2026 13:26:17 GMT"
+        "pubDate": "Fri, 02 Oct 2026 08:48:38 GMT"
       },
       {
         "title": "Exclusive: ICAI wants up to Rs 5 crore govt consultancy tenders reserved for smaller firms, working on draft.. - cfo.economictimes.indiatimes.com",
@@ -191,24 +209,6 @@
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObnhMNldQNzNvQnJYR09jYThiSnB1aFZKcXRFRTZYWXlLNmFQODZjMTNRcnM1cUlMdXNkcFl6N3VYdlp2UnJidFAzWWdLVE5Mc0d6NUZfMjVVWkU2OURyeW1zZE9SMUZrU256d1pybmcyMmZ0ajhVXzBMeHBETTRneGxmbThWVklpcy1UWmFVamp0R1RCb0tJWHR6VUlXUWxlSEVSVGxGWUJ1N0ZKVDMwSVRCMi1mQmZpV0RPdGFkS2FqVGNBajlXTVE0ZGplWm5QbGkzZQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 30 Sep 2026 16:43:47 GMT"
-      },
-      {
-        "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXhMY1ZubW01dm1XMHdBcDJvS2lyTkdrN0FoY0F4TjVwS0JDQ25TOWxicmduY0xJcVkwQ3c0dF9qMFVYU0FBblhRbWpXSEFmNDhaVE1OQW9KaUY1dXhzT3BQb0JydDU2aVRyeWFGaVZqZTYtOW52UHE1a1RZcE9idjUzSzdOWm1pUlh5cnR4ZjlvbHB1UDRYLWRCZE14M2ptcV83WWg0M3hBWDAxY0FVSGxWUTRFX09YUDRxa0ZvUVdzdkV2UVpRZFpJdmg5b2wtbHQ00gHaAUFVX3lxTE80dEE0dUlVelJhcnRKZEl6aDdOcF9Kb1FYWEw0a0pEblZrRmIyS21JMElVTTlJT0lHbDVaa1JmOE93VEVaYzBpeXgwNG1UY3VMbmVZT2RGSEJiSjhhdlZRVVdMb0hUWTdDbE5hM0RDOURMRGg0d29WT0NIbDUxMjlsNzBhUnpIVkFIWmhoUDZiaGN2NXZVQUMwZUxvdTdrSmxSZGh6RFF6OTY4Y0VsSnowNVRpdXd6WnBEUmt2c3pqbG9BUDBaeVdxVTVtN0lyQ2tVZWdkQTdrRHpR?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
-      },
-      {
-        "title": "India’s ICAI plans certification course for independent directors – report - theaccountant-online.com",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM2pBdVlUSG91U0FyRUxNbUZic3dPMDVsaUI3LTBKUEZuTUlvejc3WWZlcU5BWFNQdHd2NkhpOHBGMzJ4TXpPRmtIelJ4ME00Sm0tWC1pd1NPc1ZwUTRqLXZhVTlPTDNpQ19aOWJKRUg0NFRoOXBLekpsSkdReHVwaTUtT0V4TWdhR1QtbU9ueEdLc1FR?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 25 Sep 2026 10:21:06 GMT"
-      },
-      {
-        "title": "ICAI Rules CA Not Guilty in Rs. 41,920 NRPC Tender Bid - Taxscan",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNlZBT1VxQTFYWjBwT1BlMDZRb3R1eXZiQ24xZFZXX0trMFhoWGxKT2VEOVdCQ2xCc2xQZXZpYXV5azNNYnpyMXlmUWdtaUJxNXhlaHR5Q0Y0VTZmX2lna2dRalR0UmRUQzljS1gwOXk5cU02V0VKNnNQRTRKNnBFQmptSjl2dXNKRHNXTFE1UHhMS09NNFlEaE9xMFF5U3piWWlxaDVnaU8tTVdIUE9YbnhncFcxMllYRXBZNTBZTjhPQjVlOGNVa1l0cUJIczhfaEtRaXcxTkVxc2c?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 01 Oct 2026 07:33:00 GMT"
       }
     ]
   }
