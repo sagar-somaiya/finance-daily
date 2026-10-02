@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T19:01:23.584747+00:00",
+  "generatedAt": "2026-10-02T23:06:52.236704+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 84252,
-      "chg": -0.61
+      "price": 84529,
+      "chg": -0.17
     },
     "eth": {
-      "price": 2664.99,
-      "chg": -1.26
+      "price": 2667.33,
+      "chg": -1.24
     }
   },
   "fx": {
@@ -88,6 +88,12 @@
   },
   "news": {
     "corp": [
+      {
+        "title": "Nasdaq rises 1%, Dow, S&amp;P close higher as weak jobs data tempers rate hike bets",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-rises-1-dow-sp-close-higher-as-weak-jobs-data-tempers-rate-hike-bets/articleshow/134646508.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 03 Oct 2026 01:45:20 +0530"
+      },
       {
         "title": "Fed officials give hints on rate decision as markets cut October rate hike odds",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-officials-give-hints-on-rate-decision-as-markets-cut-october-rate-hike-odds/articleshow/134645153.cms",
@@ -119,7 +125,7 @@
         "pubDate": "Fri, 02 Oct 2026 19:40:13 +0530"
       },
       {
-        "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq rises over 1% to hit record on softer jobs data; Europe to release diesel reserves",
+        "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq rises 1% after softer jobs data eases rate hike bets",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-israel-war-hormuz-talks-brent-crude-oil-inflation-treasury-bond-yields-fed-rate-hike-earnings-forecast-jobs-nike-nvidia-amd-moderna-ai-chip-stock-price-news-2-october-2026/liveblog/134639271.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Fri, 02 Oct 2026 17:35:57 +0530"
@@ -141,17 +147,11 @@
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-net-sellers-pull-out-rs-35860-cr-in-sep/articleshow/134637791.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Fri, 02 Oct 2026 16:39:02 +0530"
-      },
-      {
-        "title": "French 10-year risk premium soars to highest since late 2011",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/french-10-year-risk-premium-soars-to-highest-since-late-2011/articleshow/134637770.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 02 Oct 2026 16:37:51 +0530"
       }
     ],
     "acct": [
       {
-        "title": "IIPA, ICAI join hands to strengthen municipal financial governance; Jitendra Singh calls for evidence - ddnews.gov.in",
+        "title": "IIPA, ICAI join hands to strengthen municipal financial governance; Jitendra Singh calls for evidence - DD News",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWGpoUmRWb0xZS3NheTFmQmlGZUM5ellSVy12SGc5Q2Y2MGNWdGFLcXcxbl9XZmhRYnNXM1R5S0RmSHlwQVVnRFBpTjVxbHZZUGFLbExGYWFkQ1h5bm1VclZKYWdpZUppd3RfUmFhQVF5b29YU044b25MSF9pWU5xcDZtVFVyTDBKZmNqbXBGMFpacDI1eTBVbXdtTjVyUkUxLUdBXzRLVTVrV01IVE1meXJnMjBFV29hSEppQWJUV1BVRktGeHUyMFM4SmJDaUs3Uy1zRFZtMVBUNFZGZEE?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 01 Oct 2026 07:07:57 GMT"
@@ -169,22 +169,16 @@
         "pubDate": "Fri, 02 Oct 2026 12:41:20 GMT"
       },
       {
-        "title": "Big Four gap: Why India lacks a home-grown Big Four despite a huge chartered accountant pool - Business Today",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQkdxNFI3c0xxNEx1NHhSUHRGQm4zNEZ6c254QWo5MzRtMXA5SDNETmh4SlM0UGhvUTNuaWJtR3M0RjljTjNvUE5pYnJzemR0WWpoZDgtTGhBaElLcm8takVQVlI5WWdDdDZYS05HRWNnQS1sVUpxOU5WRkpGR0FuUEJfbXhyRjlqYnluUy10d2ZYUDFEc015dUxLTWxvdVVXRTBUWFJEeEY0QjZUVVo2dUw5SDBSaEotS1J4UWktSUFHOW9Ed0RnaTdIcUM4MDVFb2pEeUtwclRac0trYzU4ZGN1ZzXSAeoBQVVfeXFMTjdOU1Nmcm0xNzdkR1lEdEVzbEJWcG9teWY4TnV4RzdyYVZ4ZU9veG1LeG5UanlaU2ZHbGpNVHhNU002UDVRTmJVRGpkeUxMYTFVV0l6OWM5YXBSUk9ma0xobUR1ZEhaUUpFTk5LYkVFYnhjbW9JU1VMWjYwWEQ2OHh3a2E4b0dqbWVNMVdwVnQ4RDVzbXQyVUxCWjdPUVhJaU1seFBkR0dsQkdVYzN4d3U3dFhNdUVkVmhSbWdEeDFkVXo3VE90OVhUa2FFQmgyWjNKZThxclpmMGJRQnhWWHlVbnVFZW1QZUJ3?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 02 Oct 2026 08:57:22 GMT"
-      },
-      {
         "title": "From IFRS 18 to FINREP: What changes for banks? - Deloitte",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbjZGM0kwMmcxajg5RUJnaFNSWm8ycFZZOUdESXk3T1RaMTF4blRjZ3NWWFBkOUI0aEZXaTNkTjkwcW9WVTN1SUxaR2JZX29pWmdScF9YRHhtRGRDem9iQVNqdFFaLUZrVEx4Z0ZhUFlDaTFiakVuMjFTdWRzR0hIU2M4c3BGQUN5bFVlWjd1U3BvenhHcWkxeVhkV1pMU1pLZU80UXhJdmpFMVpVZWU4UA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 30 Sep 2026 02:10:16 GMT"
       },
       {
-        "title": "TABLE-Infroneer Holdings -Q1 group results (IFRS) - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTUxoLTJjeTJraV9IS25ZcjdySDQtdXI3NE9pWFZfMXh2R2Jrc1BjM3lkeWFOaVNINTZjd2h4THNseEdwdFlRRThrR3hDaFNlZ3lpN2ZuOVFlblhvNjkzTFdGbDZiZlNKM0NoZnBoazBsTy0tWnRTY1VTZXpmMEkyYWRmZDZKVVh5THVDTkJHVndGLWtHMkhBR1N0ajREeXpoXzR0VmxTOTRabER3dW1JT09FSnltSnRTalRqNkc2OA?oc=5",
+        "title": "Big Four gap: Why India lacks a home-grown Big Four despite a huge chartered accountant pool - Business Today",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQkdxNFI3c0xxNEx1NHhSUHRGQm4zNEZ6c254QWo5MzRtMXA5SDNETmh4SlM0UGhvUTNuaWJtR3M0RjljTjNvUE5pYnJzemR0WWpoZDgtTGhBaElLcm8takVQVlI5WWdDdDZYS05HRWNnQS1sVUpxOU5WRkpGR0FuUEJfbXhyRjlqYnluUy10d2ZYUDFEc015dUxLTWxvdVVXRTBUWFJEeEY0QjZUVVo2dUw5SDBSaEotS1J4UWktSUFHOW9Ed0RnaTdIcUM4MDVFb2pEeUtwclRac0trYzU4ZGN1ZzXSAeoBQVVfeXFMTjdOU1Nmcm0xNzdkR1lEdEVzbEJWcG9teWY4TnV4RzdyYVZ4ZU9veG1LeG5UanlaU2ZHbGpNVHhNU002UDVRTmJVRGpkeUxMYTFVV0l6OWM5YXBSUk9ma0xobUR1ZEhaUUpFTk5LYkVFYnhjbW9JU1VMWjYwWEQ2OHh3a2E4b0dqbWVNMVdwVnQ4RDVzbXQyVUxCWjdPUVhJaU1seFBkR0dsQkdVYzN4d3U3dFhNdUVkVmhSbWdEeDFkVXo3VE90OVhUa2FFQmgyWjNKZThxclpmMGJRQnhWWHlVbnVFZW1QZUJ3?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 02 Oct 2026 07:00:11 GMT"
+        "pubDate": "Fri, 02 Oct 2026 08:57:22 GMT"
       },
       {
         "title": "Exclusive: ICAI wants up to Rs 5 crore govt consultancy tenders reserved for smaller firms, working on draft.. - cfo.economictimes.indiatimes.com",
@@ -193,22 +187,28 @@
         "pubDate": "Tue, 29 Sep 2026 02:35:32 GMT"
       },
       {
+        "title": "TABLE-Infroneer Holdings -Q1 group results (IFRS) - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTUxoLTJjeTJraV9IS25ZcjdySDQtdXI3NE9pWFZfMXh2R2Jrc1BjM3lkeWFOaVNINTZjd2h4THNseEdwdFlRRThrR3hDaFNlZ3lpN2ZuOVFlblhvNjkzTFdGbDZiZlNKM0NoZnBoazBsTy0tWnRTY1VTZXpmMEkyYWRmZDZKVVh5THVDTkJHVndGLWtHMkhBR1N0ajREeXpoXzR0VmxTOTRabER3dW1JT09FSnltSnRTalRqNkc2OA?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 02 Oct 2026 07:00:11 GMT"
+      },
+      {
         "title": "Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)' - Bank of England",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXJKbEUwZ0NrN0FEbHNWZnVqSnZVVjRrYWVCdXZESUR6OFFmd3FLd09nVmhhODFRUmVlWmQxQ0UzSUJUU3RIQzZFcWJ2RDRobTRtSGs0THNGQU1LRmpOWVg3VUVGUDJtZ0swdUQ0Yzk3Slh5V3JOTU1aOTB5bUdFcUVBQmRPUXBZTlNMbEg3MlFGT0lhdVhHaDFNOFZtLUJDdHFnUW1rRFFFeDk3MjIxLUhB?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 30 Sep 2026 14:50:34 GMT"
       },
       {
-        "title": "56% of Indian companies plan to hire more CAs, CSs despite decline in exam applications: Survey - indianexpress.com",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPT1ZBNVBQMld4eXVuOUpuSmlvQlZfYWxZQVVLaGdUZm1CbTJyVkQ1MWcwQndHb21oZUtLbW5QR1l0VWlmZkNpZVN2LUZOeDNfQmJpNGppZTk2QUtZci02NEhlTFlLYlhVU21ubFVBUlA0X1QwNXFoTFJac3NNRXBqQjQ4UHBCZnlRSTRXclhFV3MzN3dWUjF2OHUzNUlQMk8wXzNROURaZWNxRHcyMHFaT0gyTzdiSFRDbDFVNEpEYUI4UDJwYzdWOThic2NzZDJKY3pIZGF0TW1SYW9FQkRBWjE4d0VtdktvLUVsSmxIZDBmT2hITzV0Rzh4SFl1dGlO0gGHAkFVX3lxTFA1NTVvNzFsSk5YOGJSNGFvMjVtVV9RYjBIZ19qMW1DSGpDOGJ6cnVjWU1HeVZKSjlKdzlmTVFCdmJzV1NzemNaY3dDY1Z2bHJod0o1Z0lCNHV5UXpyV282dzhhcjVCTmxid3JhclQyMnpnUDFVQVExaEV3S0FQNi1TZ1JuYmZMYmdudmtrX1dqRmdMZV9IbEtsSklTVnlBQ3pTdkwwaXQwdV90ZG5SWFF0NW5LajlsOTU2ejNqTG5VOURmZnNscWlucDNCWWNBWURfS0Nxajk3NWk0Z2JvNnZXR1hLb1dRMmZ6aWlqNUk5MlRsSHBzLVJPMFBrNjEzZUNHZkJraTZV?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 02 Oct 2026 08:48:38 GMT"
-      },
-      {
         "title": "Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)' - Global Regulation Tomorrow",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObnhMNldQNzNvQnJYR09jYThiSnB1aFZKcXRFRTZYWXlLNmFQODZjMTNRcnM1cUlMdXNkcFl6N3VYdlp2UnJidFAzWWdLVE5Mc0d6NUZfMjVVWkU2OURyeW1zZE9SMUZrU256d1pybmcyMmZ0ajhVXzBMeHBETTRneGxmbThWVklpcy1UWmFVamp0R1RCb0tJWHR6VUlXUWxlSEVSVGxGWUJ1N0ZKVDMwSVRCMi1mQmZpV0RPdGFkS2FqVGNBajlXTVE0ZGplWm5QbGkzZQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 30 Sep 2026 16:43:47 GMT"
+      },
+      {
+        "title": "56% of Indian companies plan to hire more CAs, CSs despite decline in exam applications: Survey - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPT1ZBNVBQMld4eXVuOUpuSmlvQlZfYWxZQVVLaGdUZm1CbTJyVkQ1MWcwQndHb21oZUtLbW5QR1l0VWlmZkNpZVN2LUZOeDNfQmJpNGppZTk2QUtZci02NEhlTFlLYlhVU21ubFVBUlA0X1QwNXFoTFJac3NNRXBqQjQ4UHBCZnlRSTRXclhFV3MzN3dWUjF2OHUzNUlQMk8wXzNROURaZWNxRHcyMHFaT0gyTzdiSFRDbDFVNEpEYUI4UDJwYzdWOThic2NzZDJKY3pIZGF0TW1SYW9FQkRBWjE4d0VtdktvLUVsSmxIZDBmT2hITzV0Rzh4SFl1dGlO0gGHAkFVX3lxTFA1NTVvNzFsSk5YOGJSNGFvMjVtVV9RYjBIZ19qMW1DSGpDOGJ6cnVjWU1HeVZKSjlKdzlmTVFCdmJzV1NzemNaY3dDY1Z2bHJod0o1Z0lCNHV5UXpyV282dzhhcjVCTmxid3JhclQyMnpnUDFVQVExaEV3S0FQNi1TZ1JuYmZMYmdudmtrX1dqRmdMZV9IbEtsSklTVnlBQ3pTdkwwaXQwdV90ZG5SWFF0NW5LajlsOTU2ejNqTG5VOURmZnNscWlucDNCWWNBWURfS0Nxajk3NWk0Z2JvNnZXR1hLb1dRMmZ6aWlqNUk5MlRsSHBzLVJPMFBrNjEzZUNHZkJraTZV?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 02 Oct 2026 08:48:38 GMT"
       }
     ]
   }
