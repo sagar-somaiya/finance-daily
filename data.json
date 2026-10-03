@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T23:06:52.236704+00:00",
+  "generatedAt": "2026-10-03T02:09:18.570172+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,19 +72,19 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 84529,
-      "chg": -0.17
+      "price": 84624,
+      "chg": -0.41
     },
     "eth": {
-      "price": 2667.33,
-      "chg": -1.24
+      "price": 2677.23,
+      "chg": -1.43
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 96.38,
-    "eurinr": 108.62,
-    "gbpinr": 127.3
+    "usdinr": 96.37,
+    "eurinr": 108.44,
+    "gbpinr": 127.42
   },
   "news": {
     "corp": [
@@ -93,6 +93,12 @@
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-rises-1-dow-sp-close-higher-as-weak-jobs-data-tempers-rate-hike-bets/articleshow/134646508.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Sat, 03 Oct 2026 01:45:20 +0530"
+      },
+      {
+        "title": "India's forex reserves fall $18.3 bn as RBI steps in to defend rupee",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/indias-forex-reserves-fall-18-3-bn-as-rbi-steps-in-to-defend-rupee/articleshow/134650624.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 03 Oct 2026 00:12:38 +0530"
       },
       {
         "title": "Fed officials give hints on rate decision as markets cut October rate hike odds",
@@ -141,12 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-penalises-smc-global-securities-for-compliance-lapses/articleshow/134638299.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Fri, 02 Oct 2026 17:01:34 +0530"
-      },
-      {
-        "title": "FPIs turn net sellers, pull out Rs 35,860 cr in Sep",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-turn-net-sellers-pull-out-rs-35860-cr-in-sep/articleshow/134637791.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 02 Oct 2026 16:39:02 +0530"
       }
     ],
     "acct": [
@@ -187,10 +187,10 @@
         "pubDate": "Tue, 29 Sep 2026 02:35:32 GMT"
       },
       {
-        "title": "TABLE-Infroneer Holdings -Q1 group results (IFRS) - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTUxoLTJjeTJraV9IS25ZcjdySDQtdXI3NE9pWFZfMXh2R2Jrc1BjM3lkeWFOaVNINTZjd2h4THNseEdwdFlRRThrR3hDaFNlZ3lpN2ZuOVFlblhvNjkzTFdGbDZiZlNKM0NoZnBoazBsTy0tWnRTY1VTZXpmMEkyYWRmZDZKVVh5THVDTkJHVndGLWtHMkhBR1N0ajREeXpoXzR0VmxTOTRabER3dW1JT09FSnltSnRTalRqNkc2OA?oc=5",
+        "title": "ICAI CA January 2027 Exam Dates - PW",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VM2lnWXNXdXZLTWp6UHBjT0IxU21NUFF3dVBHRTFzWl9lZFFuc0laVnFBM0R0NGk5RWRWQWNDUWdBQkFIU1l3c1N6UURmOWNneXljX2pBeS1TOUQ2X0pIYVFrdnJrRms?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 02 Oct 2026 07:00:11 GMT"
+        "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT"
       },
       {
         "title": "Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)' - Bank of England",
@@ -205,10 +205,10 @@
         "pubDate": "Wed, 30 Sep 2026 16:43:47 GMT"
       },
       {
-        "title": "56% of Indian companies plan to hire more CAs, CSs despite decline in exam applications: Survey - The Indian Express",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPT1ZBNVBQMld4eXVuOUpuSmlvQlZfYWxZQVVLaGdUZm1CbTJyVkQ1MWcwQndHb21oZUtLbW5QR1l0VWlmZkNpZVN2LUZOeDNfQmJpNGppZTk2QUtZci02NEhlTFlLYlhVU21ubFVBUlA0X1QwNXFoTFJac3NNRXBqQjQ4UHBCZnlRSTRXclhFV3MzN3dWUjF2OHUzNUlQMk8wXzNROURaZWNxRHcyMHFaT0gyTzdiSFRDbDFVNEpEYUI4UDJwYzdWOThic2NzZDJKY3pIZGF0TW1SYW9FQkRBWjE4d0VtdktvLUVsSmxIZDBmT2hITzV0Rzh4SFl1dGlO0gGHAkFVX3lxTFA1NTVvNzFsSk5YOGJSNGFvMjVtVV9RYjBIZ19qMW1DSGpDOGJ6cnVjWU1HeVZKSjlKdzlmTVFCdmJzV1NzemNaY3dDY1Z2bHJod0o1Z0lCNHV5UXpyV282dzhhcjVCTmxid3JhclQyMnpnUDFVQVExaEV3S0FQNi1TZ1JuYmZMYmdudmtrX1dqRmdMZV9IbEtsSklTVnlBQ3pTdkwwaXQwdV90ZG5SWFF0NW5LajlsOTU2ejNqTG5VOURmZnNscWlucDNCWWNBWURfS0Nxajk3NWk0Z2JvNnZXR1hLb1dRMmZ6aWlqNUk5MlRsSHBzLVJPMFBrNjEzZUNHZkJraTZV?oc=5",
+        "title": "TABLE-Infroneer Holdings -Q1 group results (IFRS) - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTUxoLTJjeTJraV9IS25ZcjdySDQtdXI3NE9pWFZfMXh2R2Jrc1BjM3lkeWFOaVNINTZjd2h4THNseEdwdFlRRThrR3hDaFNlZ3lpN2ZuOVFlblhvNjkzTFdGbDZiZlNKM0NoZnBoazBsTy0tWnRTY1VTZXpmMEkyYWRmZDZKVVh5THVDTkJHVndGLWtHMkhBR1N0ajREeXpoXzR0VmxTOTRabER3dW1JT09FSnltSnRTalRqNkc2OA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 02 Oct 2026 08:48:38 GMT"
+        "pubDate": "Fri, 02 Oct 2026 07:00:11 GMT"
       }
     ]
   }
