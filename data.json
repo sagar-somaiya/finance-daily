@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T13:33:52.939266+00:00",
+  "generatedAt": "2026-10-03T17:41:23.317005+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 84797,
-      "chg": -2.33
+      "price": 84893,
+      "chg": 0.38
     },
     "eth": {
-      "price": 2678.35,
-      "chg": -2.94
+      "price": 2683.65,
+      "chg": 0.1
     }
   },
   "fx": {
@@ -163,28 +163,34 @@
         "pubDate": "Thu, 01 Oct 2026 14:27:58 GMT"
       },
       {
+        "title": "Open Call: Essay Writing Competition on ICAI (India) - fundsforNGOs",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGU4NFVlUDlLOWQweHpudGNMYXBPSnBKbnd3UzNPbzR5bC1PVzR1c2pCd0dxNS13THcwTEFuRGdYcUl2NkVyb28xVFBNQ3FBb1lBeVRsZURhUlFEdTVjdFM2V3pTOHlVTThwLTFzMzdNMVFMZ1FUMmRlUENyWjRINmRvQ3NjcHNzcV80M3JOeGZoVmNfZGk00gGcAUFVX3lxTE1kWmlOOUl4U1pTU1JwbUI1cmFyNVhqc090dVFrai1BT1dKeGhuMjV2YTVqcVdnQVNLc1E2YmdHZms1bGdQTGNsOFJjNmNXRDNyMEdUUERNa1lhUnMydG9iY0RxOVRsempDUGVHTG13QnUwZzV4dHZydnp6RS1iTXVjdmowTG80MmZZVWVqQlh5NTJ5UHlsX1VCZ3ZONA?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT"
+      },
+      {
         "title": "ICAI releases landmark 10th Edition of Transfer Pricing Guidance Note under Section 92E; incorporates Finance Act, 2026 amendments, new block assessment mechanism and latest Form 3CEB reporting guidance - A2Z Taxcorp LLP",
         "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPdkJzWGVTRXQxQmcyREhWQ2JTZ21qTldiQ2lELTJqUGF6N3pEQzJEajRZTFprY09pNFNRMzJta2NqNmw3dXp2b0UxT1RHSnZsVGY3aDdzcXV3MmptRXZOOEd0Wjc5d0l5ZFlmUmQ4eVJ5eXFHcHIxc29pZ3p1UE1GS2VaN0hmUmR6bTFDbUlmUmNnOUV3Qm5zdmlsaTh5R21EcWREcndUQ1BxY2RtRk9zQmtJdHFudnBDUnRXV2hrMFl5bGFhZ1d5LU9iRVpLVzIwSUdsLUhzVkpINjByX0M4akwzNVJ5THBmMExzT1Z4YS0yeTh2Q3lyTlFjNG5iM0ZUVW1UaTdnd25UZXJHbngtc1MxUVpfbV9lV3BPZ1IybTRrMHY5YlRtTjhkOU9LMFh6ZVNRTTB4S2NxaHc5S3JBczRBaw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Sat, 03 Oct 2026 07:18:13 GMT"
       },
       {
-        "title": "From IFRS 18 to FINREP: What changes for banks? - Deloitte",
+        "title": "From IFRS 18 to FINREP: What changes for banks? - deloitte.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbjZGM0kwMmcxajg5RUJnaFNSWm8ycFZZOUdESXk3T1RaMTF4blRjZ3NWWFBkOUI0aEZXaTNkTjkwcW9WVTN1SUxaR2JZX29pWmdScF9YRHhtRGRDem9iQVNqdFFaLUZrVEx4Z0ZhUFlDaTFiakVuMjFTdWRzR0hIU2M4c3BGQUN5bFVlWjd1U3BvenhHcWkxeVhkV1pMU1pLZU80UXhJdmpFMVpVZWU4UA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 30 Sep 2026 02:10:16 GMT"
-      },
-      {
-        "title": "56% of Indian companies plan to hire more Company Secretaries, Chartered accountants: Survey - The Indian Express",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPT1ZBNVBQMld4eXVuOUpuSmlvQlZfYWxZQVVLaGdUZm1CbTJyVkQ1MWcwQndHb21oZUtLbW5QR1l0VWlmZkNpZVN2LUZOeDNfQmJpNGppZTk2QUtZci02NEhlTFlLYlhVU21ubFVBUlA0X1QwNXFoTFJac3NNRXBqQjQ4UHBCZnlRSTRXclhFV3MzN3dWUjF2OHUzNUlQMk8wXzNROURaZWNxRHcyMHFaT0gyTzdiSFRDbDFVNEpEYUI4UDJwYzdWOThic2NzZDJKY3pIZGF0TW1SYW9FQkRBWjE4d0VtdktvLUVsSmxIZDBmT2hITzV0Rzh4SFl1dGlO0gGHAkFVX3lxTFA1NTVvNzFsSk5YOGJSNGFvMjVtVV9RYjBIZ19qMW1DSGpDOGJ6cnVjWU1HeVZKSjlKdzlmTVFCdmJzV1NzemNaY3dDY1Z2bHJod0o1Z0lCNHV5UXpyV282dzhhcjVCTmxid3JhclQyMnpnUDFVQVExaEV3S0FQNi1TZ1JuYmZMYmdudmtrX1dqRmdMZV9IbEtsSklTVnlBQ3pTdkwwaXQwdV90ZG5SWFF0NW5LajlsOTU2ejNqTG5VOURmZnNscWlucDNCWWNBWURfS0Nxajk3NWk0Z2JvNnZXR1hLb1dRMmZ6aWlqNUk5MlRsSHBzLVJPMFBrNjEzZUNHZkJraTZV?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sat, 03 Oct 2026 04:56:00 GMT"
       },
       {
         "title": "ICAI CA January 2027 Exam Dates - PW",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VM2lnWXNXdXZLTWp6UHBjT0IxU21NUFF3dVBHRTFzWl9lZFFuc0laVnFBM0R0NGk5RWRWQWNDUWdBQkFIU1l3c1N6UURmOWNneXljX2pBeS1TOUQ2X0pIYVFrdnJrRms?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "56% of Indian companies plan to hire more Company Secretaries, Chartered accountants: Survey - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPT1ZBNVBQMld4eXVuOUpuSmlvQlZfYWxZQVVLaGdUZm1CbTJyVkQ1MWcwQndHb21oZUtLbW5QR1l0VWlmZkNpZVN2LUZOeDNfQmJpNGppZTk2QUtZci02NEhlTFlLYlhVU21ubFVBUlA0X1QwNXFoTFJac3NNRXBqQjQ4UHBCZnlRSTRXclhFV3MzN3dWUjF2OHUzNUlQMk8wXzNROURaZWNxRHcyMHFaT0gyTzdiSFRDbDFVNEpEYUI4UDJwYzdWOThic2NzZDJKY3pIZGF0TW1SYW9FQkRBWjE4d0VtdktvLUVsSmxIZDBmT2hITzV0Rzh4SFl1dGlO0gGHAkFVX3lxTFA1NTVvNzFsSk5YOGJSNGFvMjVtVV9RYjBIZ19qMW1DSGpDOGJ6cnVjWU1HeVZKSjlKdzlmTVFCdmJzV1NzemNaY3dDY1Z2bHJod0o1Z0lCNHV5UXpyV282dzhhcjVCTmxid3JhclQyMnpnUDFVQVExaEV3S0FQNi1TZ1JuYmZMYmdudmtrX1dqRmdMZV9IbEtsSklTVnlBQ3pTdkwwaXQwdV90ZG5SWFF0NW5LajlsOTU2ejNqTG5VOURmZnNscWlucDNCWWNBWURfS0Nxajk3NWk0Z2JvNnZXR1hLb1dRMmZ6aWlqNUk5MlRsSHBzLVJPMFBrNjEzZUNHZkJraTZV?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sat, 03 Oct 2026 04:56:00 GMT"
       },
       {
         "title": "ICAI moves to propose CA Act changes, draft in 2 months to build larger Indian accounting firms - cfo.economictimes.indiatimes.com",
@@ -199,16 +205,10 @@
         "pubDate": "Wed, 30 Sep 2026 14:50:34 GMT"
       },
       {
-        "title": "Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)' - regulationtomorrow.com",
+        "title": "Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)' - Global Regulation Tomorrow",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObnhMNldQNzNvQnJYR09jYThiSnB1aFZKcXRFRTZYWXlLNmFQODZjMTNRcnM1cUlMdXNkcFl6N3VYdlp2UnJidFAzWWdLVE5Mc0d6NUZfMjVVWkU2OURyeW1zZE9SMUZrU256d1pybmcyMmZ0ajhVXzBMeHBETTRneGxmbThWVklpcy1UWmFVamp0R1RCb0tJWHR6VUlXUWxlSEVSVGxGWUJ1N0ZKVDMwSVRCMi1mQmZpV0RPdGFkS2FqVGNBajlXTVE0ZGplWm5QbGkzZQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 30 Sep 2026 16:43:47 GMT"
-      },
-      {
-        "title": "ICAI Removes CA Over ₹568 Cr Loan Fraud Verification - Taxscan",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQmx6YVRCaEtqSFNtbWJoOW45RFdkckxHRzZnSFFhOGNhUlIyTG9BSkZqUGFjeHFXVEpEb0ZlX1FZaDhwQTZjOXlndDFjUDBUVVh1YlEyUW1uWHZkQjVaeWpycE90blBLZjlEVkhYVDlPTHRnV19hX25tNFhlNTNLR2Y1YVJLd2p4RzI0NXF3VzVxM3VNTUlBXzZaYkU2VVZfRW84UXNmaUdMTUxTTFJqc29Zd0ZHMW01RV8tUmxkY29RdXFz?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 02 Oct 2026 06:50:00 GMT"
       }
     ]
   }
