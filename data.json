@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T02:09:18.570172+00:00",
+  "generatedAt": "2026-10-03T08:22:32.633420+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 84624,
-      "chg": -0.41
+      "price": 84584,
+      "chg": -2.16
     },
     "eth": {
-      "price": 2677.23,
-      "chg": -1.43
+      "price": 2680.88,
+      "chg": -2.92
     }
   },
   "fx": {
@@ -89,73 +89,67 @@
   "news": {
     "corp": [
       {
-        "title": "Nasdaq rises 1%, Dow, S&amp;P close higher as weak jobs data tempers rate hike bets",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-rises-1-dow-sp-close-higher-as-weak-jobs-data-tempers-rate-hike-bets/articleshow/134646508.cms",
+        "title": "F&amp;O Talk: 22,600 is a key Nifty support; Sudeep Shah discusses PB Fintech, Infosys, TCS strategy ahead of Q2",
+        "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-22600-is-a-key-nifty-support-sudeep-shah-discusses-pb-fintech-infosys-tcs-strategy-ahead-of-q2/articleshow/134654760.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 03 Oct 2026 01:45:20 +0530"
+        "pubDate": "Sat, 03 Oct 2026 13:25:59 +0530"
       },
       {
-        "title": "India's forex reserves fall $18.3 bn as RBI steps in to defend rupee",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/indias-forex-reserves-fall-18-3-bn-as-rbi-steps-in-to-defend-rupee/articleshow/134650624.cms",
+        "title": "9 large-cap stocks that surged over 50% in the first half of FY27",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/9-large-cap-stocks-that-surged-over-50-in-the-first-half-of-fy27/slideshow/134653712.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 03 Oct 2026 00:12:38 +0530"
+        "pubDate": "Sat, 03 Oct 2026 12:00:20 +0530"
       },
       {
-        "title": "Fed officials give hints on rate decision as markets cut October rate hike odds",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-officials-give-hints-on-rate-decision-as-markets-cut-october-rate-hike-odds/articleshow/134645153.cms",
+        "title": "Stocks to buy: Axis picks 7 largecap stocks with upside potential of up to 44%. See full list",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-axis-picks-7-largecap-stocks-with-upside-potential-of-up-to-44-see-full-list/slideshow/134653534.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 03 Oct 2026 00:00:04 +0530"
+        "pubDate": "Sat, 03 Oct 2026 11:45:39 +0530"
       },
       {
-        "title": "Why US stocks are rising: Nasdaq hits record after weaker jobs data cools rate-hike bets; Nike shares drop on forecast",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-us-stocks-are-rising-nasdaq-hits-record-after-weaker-jobs-data-cools-rate-hike-bets-nike-shares-drop-on-forecast/articleshow/134642197.cms",
+        "title": "Indian stocks face a cyclical correction, not a deeper earnings reset: Mahindra Manulife MF CIO",
+        "link": "https://economictimes.indiatimes.com/markets/expert-view/indian-stocks-face-a-cyclical-correction-not-a-deeper-earnings-reset-mahindra-manulife-mf-cio/articleshow/134652752.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 02 Oct 2026 21:18:45 +0530"
+        "pubDate": "Sat, 03 Oct 2026 11:09:05 +0530"
       },
       {
-        "title": "Sleepless on Wall Street: All-night stock exchanges coming soon",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sleepless-on-wall-street-all-night-stock-exchanges-coming-soon/articleshow/134642205.cms",
+        "title": "Jio Platforms IPO may open on October 21, issue estimated at $3.8 billion: Report",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-may-open-on-october-21-issue-estimated-at-3-8-billion-report/articleshow/134652545.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 02 Oct 2026 20:29:09 +0530"
+        "pubDate": "Sat, 03 Oct 2026 10:46:10 +0530"
       },
       {
-        "title": "Bets on US Federal Reserve rate hike in October fall as job market cools",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bets-on-us-federal-reserve-rate-hike-in-october-fall-as-job-market-cools/articleshow/134640792.cms",
+        "title": "Robinhood stock tokens turbocharge a new era of meme trading",
+        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/robinhood-stock-tokens-turbocharge-a-new-era-of-meme-trading/articleshow/134652233.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 02 Oct 2026 20:07:12 +0530"
+        "pubDate": "Sat, 03 Oct 2026 10:34:50 +0530"
       },
       {
-        "title": "Nike's struggles test investor confidence in CEO Hill's turnaround effort",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nikes-struggles-test-investor-confidence-in-ceo-hills-turnaround-effort/articleshow/134641576.cms",
+        "title": "Concurrent Losers: 14 midcap stocks decline for 5 consecutive sessions",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-14-midcap-stocks-decline-for-5-consecutive-sessions/slideshow/134652347.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 02 Oct 2026 19:40:13 +0530"
+        "pubDate": "Sat, 03 Oct 2026 10:19:57 +0530"
       },
       {
-        "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: Nasdaq rises 1% after softer jobs data eases rate hike bets",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-israel-war-hormuz-talks-brent-crude-oil-inflation-treasury-bond-yields-fed-rate-hike-earnings-forecast-jobs-nike-nvidia-amd-moderna-ai-chip-stock-price-news-2-october-2026/liveblog/134639271.cms",
+        "title": "Bleak Winter! Why analysts are hinting at painful October even after 8 weeks of Nifty correction?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/bleak-winter-why-analysts-are-hinting-at-painful-october-even-after-8-weeks-of-nifty-correction/articleshow/134651765.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 02 Oct 2026 17:35:57 +0530"
+        "pubDate": "Sat, 03 Oct 2026 09:45:48 +0530"
       },
       {
-        "title": "Global equity funds draw $34.76 billion, log second straight week of inflows",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-equity-funds-draw-inflows-for-second-week-as-ai-optimism-holds/articleshow/134638303.cms",
+        "title": "IPO Calendar: Quiet week ahead after Rs 39,000 crore September rush, but Street to see 29 listings",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-quiet-week-ahead-after-rs-39000-crore-september-rush-but-street-to-see-29-listings/articleshow/134651498.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 02 Oct 2026 17:06:13 +0530"
+        "pubDate": "Sat, 03 Oct 2026 09:41:07 +0530"
       },
       {
-        "title": "Sebi penalises SMC Global Securities for compliance lapses",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-penalises-smc-global-securities-for-compliance-lapses/articleshow/134638299.cms",
+        "title": "​Bonus issues &amp; stock split: 5 stocks rewarding shareholders next week",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issues-stock-split-5-stocks-rewarding-shareholders-next-week/slideshow/134651748.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 02 Oct 2026 17:01:34 +0530"
+        "pubDate": "Sat, 03 Oct 2026 09:32:49 +0530"
       }
     ],
     "acct": [
-      {
-        "title": "IIPA, ICAI join hands to strengthen municipal financial governance; Jitendra Singh calls for evidence - DD News",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWGpoUmRWb0xZS3NheTFmQmlGZUM5ellSVy12SGc5Q2Y2MGNWdGFLcXcxbl9XZmhRYnNXM1R5S0RmSHlwQVVnRFBpTjVxbHZZUGFLbExGYWFkQ1h5bm1VclZKYWdpZUppd3RfUmFhQVF5b29YU044b25MSF9pWU5xcDZtVFVyTDBKZmNqbXBGMFpacDI1eTBVbXdtTjVyUkUxLUdBXzRLVTVrV01IVE1meXJnMjBFV29hSEppQWJUV1BVRktGeHUyMFM4SmJDaUs3Uy1zRFZtMVBUNFZGZEE?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 01 Oct 2026 07:07:57 GMT"
-      },
       {
         "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - facebook.com",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM2RvTTBFUXU5c1lGVDlQSFpJYWJkQXNFSHFiaG1MWFlPYmZQMGh4UDNNcGI2elptY1J3SjFJdUNCY1I5MVZ0TEt6ZFFMVk1xOXhNaEZNeGJhbGkxQWwxalM5TFlBQ2dWdjhQWVk4dGpkY2JzR0dmeV9RYk9TM2ljSDFpMDI4cFAxZXphZG4zOEdKNkowTGZkQnZKLVh3RExza2RBRmU3UXFwSXBndVlneTdLUjlXLV9GdWZ1U2JhckNMTUxhMmxISW50UHVyaUEyNnVETERzWmt4YjlxRzRfRDBB?oc=5",
@@ -163,10 +157,16 @@
         "pubDate": "Thu, 01 Oct 2026 14:27:58 GMT"
       },
       {
-        "title": "Meet Harshita Goyal, The Chartered Accountant Who Secured UPSC Rank 2 - NDTV",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSWp0LUZxVHdxSE51NEw4SFhtOTdKeW1WUmNRMVJGVlRhLVZteTFtc0FrUDZ3cVRKVWl3TUpUU21LVmlIeFlzZG5XUnRHQnpKUmVEem9SaEt5R1kxZWlUcmhpQWpKNjdseWdORGFkVEZYZjZua1ZSUDBvQ0pjbzhJRUFCTWdCWG93VzgtZnItTmFTNVMyU2RoRGRZS2d3T2VpdW1MYXF0T1ZrR3p40gG0AUFVX3lxTE43ZVotWktRTC1PemVra0JnZTR5ZHBnQlB6Q3pKMzJNSXlFd0FtLWJtelc5WEtUd1JyckFtbjZ2ZU5EZ2tOZTFlTlFWVWtkT3dHT2dsQjV4Qm9jdkFISllRU1ZCTnA3bWJMc0M0dmpWUU9ORlZ6NlVaNUdkTUJOTVB0cXAwQXN5bXd1NVdQT1JtbVZoQk9PYmNEeWZURGhUcGMyYVdWUkZGUDFUY0xjOWl3THhaVw?oc=5",
+        "title": "IIPA, ICAI join hands to strengthen municipal financial governance; Jitendra Singh calls for evidence - DD News",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWGpoUmRWb0xZS3NheTFmQmlGZUM5ellSVy12SGc5Q2Y2MGNWdGFLcXcxbl9XZmhRYnNXM1R5S0RmSHlwQVVnRFBpTjVxbHZZUGFLbExGYWFkQ1h5bm1VclZKYWdpZUppd3RfUmFhQVF5b29YU044b25MSF9pWU5xcDZtVFVyTDBKZmNqbXBGMFpacDI1eTBVbXdtTjVyUkUxLUdBXzRLVTVrV01IVE1meXJnMjBFV29hSEppQWJUV1BVRktGeHUyMFM4SmJDaUs3Uy1zRFZtMVBUNFZGZEE?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 02 Oct 2026 12:41:20 GMT"
+        "pubDate": "Thu, 01 Oct 2026 07:07:57 GMT"
+      },
+      {
+        "title": "ICAI releases landmark 10th Edition of Transfer Pricing Guidance Note under Section 92E; incorporates Finance Act, 2026 amendments, new block assessment mechanism and latest Form 3CEB reporting guidance - A2Z Taxcorp LLP",
+        "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPdkJzWGVTRXQxQmcyREhWQ2JTZ21qTldiQ2lELTJqUGF6N3pEQzJEajRZTFprY09pNFNRMzJta2NqNmw3dXp2b0UxT1RHSnZsVGY3aDdzcXV3MmptRXZOOEd0Wjc5d0l5ZFlmUmQ4eVJ5eXFHcHIxc29pZ3p1UE1GS2VaN0hmUmR6bTFDbUlmUmNnOUV3Qm5zdmlsaTh5R21EcWREcndUQ1BxY2RtRk9zQmtJdHFudnBDUnRXV2hrMFl5bGFhZ1d5LU9iRVpLVzIwSUdsLUhzVkpINjByX0M4akwzNVJ5THBmMExzT1Z4YS0yeTh2Q3lyTlFjNG5iM0ZUVW1UaTdnd25UZXJHbngtc1MxUVpfbV9lV3BPZ1IybTRrMHY5YlRtTjhkOU9LMFh6ZVNRTTB4S2NxaHc5S3JBczRBaw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sat, 03 Oct 2026 07:18:13 GMT"
       },
       {
         "title": "From IFRS 18 to FINREP: What changes for banks? - Deloitte",
@@ -175,22 +175,16 @@
         "pubDate": "Wed, 30 Sep 2026 02:10:16 GMT"
       },
       {
-        "title": "Big Four gap: Why India lacks a home-grown Big Four despite a huge chartered accountant pool - Business Today",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQkdxNFI3c0xxNEx1NHhSUHRGQm4zNEZ6c254QWo5MzRtMXA5SDNETmh4SlM0UGhvUTNuaWJtR3M0RjljTjNvUE5pYnJzemR0WWpoZDgtTGhBaElLcm8takVQVlI5WWdDdDZYS05HRWNnQS1sVUpxOU5WRkpGR0FuUEJfbXhyRjlqYnluUy10d2ZYUDFEc015dUxLTWxvdVVXRTBUWFJEeEY0QjZUVVo2dUw5SDBSaEotS1J4UWktSUFHOW9Ed0RnaTdIcUM4MDVFb2pEeUtwclRac0trYzU4ZGN1ZzXSAeoBQVVfeXFMTjdOU1Nmcm0xNzdkR1lEdEVzbEJWcG9teWY4TnV4RzdyYVZ4ZU9veG1LeG5UanlaU2ZHbGpNVHhNU002UDVRTmJVRGpkeUxMYTFVV0l6OWM5YXBSUk9ma0xobUR1ZEhaUUpFTk5LYkVFYnhjbW9JU1VMWjYwWEQ2OHh3a2E4b0dqbWVNMVdwVnQ4RDVzbXQyVUxCWjdPUVhJaU1seFBkR0dsQkdVYzN4d3U3dFhNdUVkVmhSbWdEeDFkVXo3VE90OVhUa2FFQmgyWjNKZThxclpmMGJRQnhWWHlVbnVFZW1QZUJ3?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 02 Oct 2026 08:57:22 GMT"
-      },
-      {
-        "title": "Exclusive: ICAI wants up to Rs 5 crore govt consultancy tenders reserved for smaller firms, working on draft.. - cfo.economictimes.indiatimes.com",
-        "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPWXBpdUdSa2Q5UGlhZm5lWUpwdVRPeDNPODJob0NGdXp5V205NXJDREJtbWpnOEFEeTZBRjVsUkJDOW1MVWFWcXk4cVpCNzBpX0M2aUtHMDRBenVlWWFYMU1pSEN6dGViUVFCOVdJYTFabzZ4YndOclF4LS1ndUpPTTh2S25nbzI5aXd4ZTJOVER1NG95V2hQNXRWSHZWRXhEaEhsdXdEYjBkbm52dEs4WEJlYWhaWElkenhzZHNrMk9BZmhBZTlvR3k1ZFhvLTZuSDRtcG1Pemp2UThZLVF5SUJZNE1RSUlGcldlMzY2anh0QTI0Q1lqcXZpby1NRnYtSEJRTkJ2cENDWXVZLVRYdDQybE45NnZaS1RpS0Fn0gGjAkFVX3lxTE5fZFVLT2NnaEFxQjU2NUlkQWFqZ19DUGVCOGZBUXlZcEN1OVBpeWlwMzVEWTNwdGw5MmVpcjRCWGRiOW44a2xhNFJ1N1JjdXJXWE9NUEdGaFFVUTFFZlFmVXlRampKQmF3SzY5MG5lZ21va3VhWG1Edll1bTVOaWMwa1ZOTVNLTXVDZGVaWjVQZ0ZrWmdkeTFzOXQxR0lrRTQxSXVLWVJEdm15d3RaaUZkak1Ea2lsXzdQUkxMeUVjQVA2MzlsLUlLZUhLQnAyak4xY1Q1TlAtR2kxQWdDMzU2bFB1a2h4MXZVdUNDanJYSktuMzVidkh6YXZxalB1OVRUdGptNDJRcGk3eHNONUhsWFBjR09vWXpkOVg3bmVWRFFjcw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 29 Sep 2026 02:35:32 GMT"
-      },
-      {
-        "title": "ICAI CA January 2027 Exam Dates - PW",
+        "title": "ICAI CA January 2027 Exam Dates - pw.live",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VM2lnWXNXdXZLTWp6UHBjT0IxU21NUFF3dVBHRTFzWl9lZFFuc0laVnFBM0R0NGk5RWRWQWNDUWdBQkFIU1l3c1N6UURmOWNneXljX2pBeS1TOUQ2X0pIYVFrdnJrRms?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Meet Harshita Goyal, The Chartered Accountant Who Secured UPSC Rank 2 - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSWp0LUZxVHdxSE51NEw4SFhtOTdKeW1WUmNRMVJGVlRhLVZteTFtc0FrUDZ3cVRKVWl3TUpUU21LVmlIeFlzZG5XUnRHQnpKUmVEem9SaEt5R1kxZWlUcmhpQWpKNjdseWdORGFkVEZYZjZua1ZSUDBvQ0pjbzhJRUFCTWdCWG93VzgtZnItTmFTNVMyU2RoRGRZS2d3T2VpdW1MYXF0T1ZrR3p40gG0AUFVX3lxTE43ZVotWktRTC1PemVra0JnZTR5ZHBnQlB6Q3pKMzJNSXlFd0FtLWJtelc5WEtUd1JyckFtbjZ2ZU5EZ2tOZTFlTlFWVWtkT3dHT2dsQjV4Qm9jdkFISllRU1ZCTnA3bWJMc0M0dmpWUU9ORlZ6NlVaNUdkTUJOTVB0cXAwQXN5bXd1NVdQT1JtbVZoQk9PYmNEeWZURGhUcGMyYVdWUkZGUDFUY0xjOWl3THhaVw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 02 Oct 2026 12:41:20 GMT"
       },
       {
         "title": "Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)' - Bank of England",
@@ -205,10 +199,16 @@
         "pubDate": "Wed, 30 Sep 2026 16:43:47 GMT"
       },
       {
-        "title": "TABLE-Infroneer Holdings -Q1 group results (IFRS) - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTUxoLTJjeTJraV9IS25ZcjdySDQtdXI3NE9pWFZfMXh2R2Jrc1BjM3lkeWFOaVNINTZjd2h4THNseEdwdFlRRThrR3hDaFNlZ3lpN2ZuOVFlblhvNjkzTFdGbDZiZlNKM0NoZnBoazBsTy0tWnRTY1VTZXpmMEkyYWRmZDZKVVh5THVDTkJHVndGLWtHMkhBR1N0ajREeXpoXzR0VmxTOTRabER3dW1JT09FSnltSnRTalRqNkc2OA?oc=5",
+        "title": "Exclusive: ICAI wants up to Rs 5 crore govt consultancy tenders reserved for smaller firms, working on draft.. - cfo.economictimes.indiatimes.com",
+        "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPWXBpdUdSa2Q5UGlhZm5lWUpwdVRPeDNPODJob0NGdXp5V205NXJDREJtbWpnOEFEeTZBRjVsUkJDOW1MVWFWcXk4cVpCNzBpX0M2aUtHMDRBenVlWWFYMU1pSEN6dGViUVFCOVdJYTFabzZ4YndOclF4LS1ndUpPTTh2S25nbzI5aXd4ZTJOVER1NG95V2hQNXRWSHZWRXhEaEhsdXdEYjBkbm52dEs4WEJlYWhaWElkenhzZHNrMk9BZmhBZTlvR3k1ZFhvLTZuSDRtcG1Pemp2UThZLVF5SUJZNE1RSUlGcldlMzY2anh0QTI0Q1lqcXZpby1NRnYtSEJRTkJ2cENDWXVZLVRYdDQybE45NnZaS1RpS0Fn0gGjAkFVX3lxTE5fZFVLT2NnaEFxQjU2NUlkQWFqZ19DUGVCOGZBUXlZcEN1OVBpeWlwMzVEWTNwdGw5MmVpcjRCWGRiOW44a2xhNFJ1N1JjdXJXWE9NUEdGaFFVUTFFZlFmVXlRampKQmF3SzY5MG5lZ21va3VhWG1Edll1bTVOaWMwa1ZOTVNLTXVDZGVaWjVQZ0ZrWmdkeTFzOXQxR0lrRTQxSXVLWVJEdm15d3RaaUZkak1Ea2lsXzdQUkxMeUVjQVA2MzlsLUlLZUhLQnAyak4xY1Q1TlAtR2kxQWdDMzU2bFB1a2h4MXZVdUNDanJYSktuMzVidkh6YXZxalB1OVRUdGptNDJRcGk3eHNONUhsWFBjR09vWXpkOVg3bmVWRFFjcw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 02 Oct 2026 07:00:11 GMT"
+        "pubDate": "Tue, 29 Sep 2026 02:35:32 GMT"
+      },
+      {
+        "title": "IFRS Foundation – Reducing the size of the boards - kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU1l0Z3lOZE93dENCcjlXVUxRRGE4a0RwSlN0U0JkSVFnbFc1RDFsQXNvT3RLLUdiZUJmVnRqLWoxS0tvME12N1plZ1pod1ZFWnllUWtqRXNZVjZIVkJHbG14ME0zOVJHVGsxSjYwUjJ1Ml9FS3V5Y1c0TVJjVUNMbUl3?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
       }
     ]
   }
