@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T23:12:59.603042+00:00",
+  "generatedAt": "2026-10-04T02:47:33.299848+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,19 +72,19 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 84748,
-      "chg": 0.32
+      "price": 84788,
+      "chg": 0.15
     },
     "eth": {
-      "price": 2685.61,
-      "chg": 0.74
+      "price": 2692.03,
+      "chg": 0.4
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 96.37,
-    "eurinr": 108.44,
-    "gbpinr": 127.42
+    "usdinr": 96.35,
+    "eurinr": 108.41,
+    "gbpinr": 127.38
   },
   "news": {
     "corp": [
@@ -193,7 +193,7 @@
         "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT"
       },
       {
-        "title": "Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)' - bankofengland.co.uk",
+        "title": "Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)' - Bank of England",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXJKbEUwZ0NrN0FEbHNWZnVqSnZVVjRrYWVCdXZESUR6OFFmd3FLd09nVmhhODFRUmVlWmQxQ0UzSUJUU3RIQzZFcWJ2RDRobTRtSGs0THNGQU1LRmpOWVg3VUVGUDJtZ0swdUQ0Yzk3Slh5V3JOTU1aOTB5bUdFcUVBQmRPUXBZTlNMbEg3MlFGT0lhdVhHaDFNOFZtLUJDdHFnUW1rRFFFeDk3MjIxLUhB?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 30 Sep 2026 14:50:34 GMT"
