@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T14:41:19.702243+00:00",
+  "generatedAt": "2026-10-04T18:28:25.604352+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 85128,
-      "chg": 0.46
+      "price": 85299,
+      "chg": 0.4
     },
     "eth": {
-      "price": 2694.89,
-      "chg": 0.58
+      "price": 2700.43,
+      "chg": 0.54
     }
   },
   "fx": {
@@ -169,22 +169,16 @@
         "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT"
       },
       {
+        "title": "Firstborn daughters may change male bosses’ hiring decisions: Chartered accountant explains why women coul - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPTHVLZnVnZG9xcXVMVTg1bkhYWjZRNUhoNXFiVDNGMGhvT3VHTkVXLUZfTDNPOC1tSDduLVRMYy01clBhaWl5ZXNDdTFPalNLQmluVTRKQ1QwMEIyVlhnSnRzbHhYUVdWZ21fUkhrdkhMeG9vNERDUE96YTI1bmFFUUY3cUVUWmY0WW44WnJTbXdaOFhfQnFsX3V1TURRVlhwazdsck5OZ1NPVUd6cHlmWGE4YlJHLVVKYkJmdV9id1RDcWdjNGxMMDZ0MWMyNE9ZeGhOT1NCX1ZTZFBlNktsbG90ak0wQnlwbU04cmg1ZDFzb2NjNFFwV2IwZ1FmdTFqNmg5eUJiWEp3ME1wSGdoSkFkaFdGYUpXQzVManZEQm1pMThzTEg3WDl30gGjAkFVX3lxTE1CbVpqOW0tTUNiREl1M2ZRdHVZVjZwUFVRMjRsTzgzTV9YbHR6OUh2ZUVyRkt5QzVuTEREZEZreVpxcDloU251UmNhRkZodHhzajRpb3VJZFByOF9SV2pzODVWYU1aalJsb0Z0aGp2Z19tUi1rNjJqd2x1eGhtX3MtLVlvUUl5SjBPZ1VsV0UyUC1IYUN2enRvZkVtOFgybGF2VDV1ek1RMHBNdDFURm1OSWdJT0J5bE5ncXdnUWVqTU9YNXdfUjB6MjF0ZnJSQmk1WmxNbjZ4bXBFUU1VQlhncHU3U1RNMThOLTVsTGlIN2h5NVZTWDNGOEQ5YTBxYVh3OWZoM3B3ZHVkRWdUeUFDRU5NOGlmSElqc2xsXzM4ZlZJcw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sun, 04 Oct 2026 16:27:27 GMT"
+      },
+      {
         "title": "From IFRS 18 to FINREP: What changes for banks? - Deloitte",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbjZGM0kwMmcxajg5RUJnaFNSWm8ycFZZOUdESXk3T1RaMTF4blRjZ3NWWFBkOUI0aEZXaTNkTjkwcW9WVTN1SUxaR2JZX29pWmdScF9YRHhtRGRDem9iQVNqdFFaLUZrVEx4Z0ZhUFlDaTFiakVuMjFTdWRzR0hIU2M4c3BGQUN5bFVlWjd1U3BvenhHcWkxeVhkV1pMU1pLZU80UXhJdmpFMVpVZWU4UA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 30 Sep 2026 02:10:16 GMT"
-      },
-      {
-        "title": "ICAI CA January 2027 Exam Dates - PW",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VM2lnWXNXdXZLTWp6UHBjT0IxU21NUFF3dVBHRTFzWl9lZFFuc0laVnFBM0R0NGk5RWRWQWNDUWdBQkFIU1l3c1N6UURmOWNneXljX2pBeS1TOUQ2X0pIYVFrdnJrRms?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT"
-      },
-      {
-        "title": "ICAI moves to propose CA Act changes, draft in 2 months to build larger Indian accounting firms - cfo.economictimes.indiatimes.com",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVW1WNm8xd2k4THJOZEFJQlh4NEh0TEIteHQydEwwczdISXdMX3h5emYyX0t1TURkcGRyVVAzMWloZXNnTWtiSTZXbkJ5QWR4TzJGRmQ5QlZYLVBuWHBWSmVWS0JCODkxSXlaNE9oelhPenNlbTdaYkpxelNhVENPTnFKVjJDbFcxQXJnejllUnpud3dRX2t1NVJ2NGVnZlBEY0xkMWlQc3R4aFdGMENSZXc3ZG1SQU1iTXYzU3NjTV8yVnhndDAxYWQyZ2REVUtJYW95WkRWOHBleEJpMWtLdTNHazc2dnFFT0FNWTdaX3N6OG9ZNXV0NF91WHRNRm9D0gGGAkFVX3lxTFBSUXlaVmNpM0pLdW5NWklCXzRBQjBJdEVqU2FNN2l0X2lvaTludUZURzJkVnhnS3JwdFN0S2pnbWhTbXFodTkzelZWa2ZWZFRWb0UyZGplZUNOQ2pwbTRXS1RLTHgzQ2ltamlKdGtFMzRlOXViYVVTdnRtTHB3Q0U5TjdGOGlFa0V5UHBFSzIxVTVkY05SUmFTYXZuekxyV2lWWU9FZjAwM1NHTHRwVTZHV09oV2w5UElSYjU1LWNFb2Y0dk50anoyaFNOOWVjNFBzaWlmaVA4MzlDQjF2M1NKak1ZRlctOVJVbFh0aEtPMHFUVUNhSFhkMGxrekEzaWF4bDNUSXc?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT"
       },
       {
         "title": "ICAI releases landmark 10th Edition of Transfer Pricing Guidance Note under Section 92E; incorporates Finance Act, 2026 amendments, new block assessment mechanism and latest Form 3CEB reporting guidance - A2Z Taxcorp LLP",
@@ -193,7 +187,7 @@
         "pubDate": "Sat, 03 Oct 2026 07:18:13 GMT"
       },
       {
-        "title": "Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)' - bankofengland.co.uk",
+        "title": "Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)' - Bank of England",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXJKbEUwZ0NrN0FEbHNWZnVqSnZVVjRrYWVCdXZESUR6OFFmd3FLd09nVmhhODFRUmVlWmQxQ0UzSUJUU3RIQzZFcWJ2RDRobTRtSGs0THNGQU1LRmpOWVg3VUVGUDJtZ0swdUQ0Yzk3Slh5V3JOTU1aOTB5bUdFcUVBQmRPUXBZTlNMbEg3MlFGT0lhdVhHaDFNOFZtLUJDdHFnUW1rRFFFeDk3MjIxLUhB?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 30 Sep 2026 14:50:34 GMT"
@@ -203,6 +197,12 @@
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObnhMNldQNzNvQnJYR09jYThiSnB1aFZKcXRFRTZYWXlLNmFQODZjMTNRcnM1cUlMdXNkcFl6N3VYdlp2UnJidFAzWWdLVE5Mc0d6NUZfMjVVWkU2OURyeW1zZE9SMUZrU256d1pybmcyMmZ0ajhVXzBMeHBETTRneGxmbThWVklpcy1UWmFVamp0R1RCb0tJWHR6VUlXUWxlSEVSVGxGWUJ1N0ZKVDMwSVRCMi1mQmZpV0RPdGFkS2FqVGNBajlXTVE0ZGplWm5QbGkzZQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 30 Sep 2026 16:43:47 GMT"
+      },
+      {
+        "title": "ICAI Removes CA Over ₹568 Cr Loan Fraud Verification - Taxscan",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQmx6YVRCaEtqSFNtbWJoOW45RFdkckxHRzZnSFFhOGNhUlIyTG9BSkZqUGFjeHFXVEpEb0ZlX1FZaDhwQTZjOXlndDFjUDBUVVh1YlEyUW1uWHZkQjVaeWpycE90blBLZjlEVkhYVDlPTHRnV19hX25tNFhlNTNLR2Y1YVJLd2p4RzI0NXF3VzVxM3VNTUlBXzZaYkU2VVZfRW84UXNmaUdMTUxTTFJqc29Zd0ZHMW01RV8tUmxkY29RdXFz?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 02 Oct 2026 06:50:00 GMT"
       },
       {
         "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
