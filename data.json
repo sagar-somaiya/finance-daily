@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T02:47:33.299848+00:00",
+  "generatedAt": "2026-10-04T08:59:11.390824+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 84788,
-      "chg": 0.15
+      "price": 85087,
+      "chg": 0.54
     },
     "eth": {
-      "price": 2692.03,
-      "chg": 0.4
+      "price": 2699.43,
+      "chg": 0.6
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
-        "title": "7 investing lessons from Jim Leitner for building the right market mindset",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/7-investing-lessons-from-jim-leitner-for-building-the-right-market-mindset/articleshow/134657619.cms",
+        "title": "ET Alpha Wealth Summit 2.0 2026: Date, venue, speakers, agenda and registration",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-2026-date-venue-speakers-agenda-and-registration/articleshow/134671923.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 03 Oct 2026 16:37:18 +0530"
+        "pubDate": "Sun, 04 Oct 2026 13:52:46 +0530"
       },
       {
-        "title": "D-Mart Q2 revenue rises 18% to Rs 19,206 cr; store count at 518",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/d-mart-q2-revenue-rise-18-pc-to-rs-19206-cr-store-count-at-518/articleshow/134656472.cms",
+        "title": "Bajaj Finance: Why this rare Nifty outperformer is likely to reward investors in a muted market",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-why-this-rare-nifty-outperformer-is-likely-to-reward-investors-in-a-muted-market/articleshow/134671703.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 03 Oct 2026 15:36:18 +0530"
+        "pubDate": "Sun, 04 Oct 2026 13:27:09 +0530"
       },
       {
-        "title": "Sebi examining position limits for non-agri contracts to boost liquidity",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-examining-position-limits-for-non-agri-contracts-to-boost-liquidity/articleshow/134656225.cms",
+        "title": "What will bring foreign investors back to Indian stock market? 5 things that should go right",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/what-will-bring-foreign-investors-back-to-indian-stock-market-5-things-that-should-go-right/articleshow/134671265.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 03 Oct 2026 15:16:13 +0530"
+        "pubDate": "Sun, 04 Oct 2026 12:44:52 +0530"
       },
       {
-        "title": "Dalal Street Week Ahead: Oversold Nifty may rebound as volatility stays high",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-oversold-nifty-may-rebound-as-volatility-stays-high/articleshow/134654990.cms",
+        "title": "Rate cut cycle near turning point. What lies ahead for Indian bonds?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/rate-cut-cycle-near-turning-point-what-lies-ahead-for-indian-bonds/articleshow/134671117.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 03 Oct 2026 15:08:01 +0530"
+        "pubDate": "Sun, 04 Oct 2026 12:37:02 +0530"
       },
       {
-        "title": "Cube Highways Trust secures Rs.1,150 crore through AAA-rated NCDs",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/cube-highways-trust-secures-rs-1150-crore-through-aaa-rated-ncds/articleshow/134655392.cms",
+        "title": "After Nifty’s longest losing streak in 25 years, what should investors do now?",
+        "link": "https://economictimes.indiatimes.com/markets/expert-view/afterniftys-longest-losing-streak-in-25-years-what-should-investors-do-now/articleshow/134670772.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 03 Oct 2026 14:10:16 +0530"
+        "pubDate": "Sun, 04 Oct 2026 12:07:35 +0530"
       },
       {
-        "title": "Sebi to soon issue framework on Closing Auction Session; receives over 3,500 comments",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-soon-issue-framework-on-closing-auction-session-receives-over-3500-comments/articleshow/134655426.cms",
+        "title": "Axis Direct picks 5 smallcap stocks with up to 40% upside potential. How many do you have?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/axis-direct-picks-5-smallcap-stocks-with-up-to-40-upside-potential-how-many-do-you-have/slideshow/134670761.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 03 Oct 2026 14:08:16 +0530"
+        "pubDate": "Sun, 04 Oct 2026 11:51:39 +0530"
       },
       {
-        "title": "Bitcoin holds near $84,000, Ethereum moves towards $2,700 as buyers remain active",
-        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-84000-ethereum-moves-towards-2700-as-buyers-remain-active/articleshow/134654918.cms",
+        "title": "7 midcap stocks with rising EPS for four straight quarters. Are they in your portfolio?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/7-midcap-stocks-with-rising-eps-for-four-straight-quarters-are-they-in-your-portfolio/slideshow/134670681.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 03 Oct 2026 13:31:37 +0530"
+        "pubDate": "Sun, 04 Oct 2026 11:34:50 +0530"
       },
       {
-        "title": "F&amp;O Talk: 22,600 is a key Nifty support; Sudeep Shah discusses PB Fintech, Infosys, TCS strategy ahead of Q2",
-        "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-22600-is-a-key-nifty-support-sudeep-shah-discusses-pb-fintech-infosys-tcs-strategy-ahead-of-q2/articleshow/134654760.cms",
+        "title": "Auto sales surge in September, but GST base clouds the picture. Can stocks rebound ahead of Q2 results?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/auto-sales-surge-in-september-but-gst-base-clouds-the-picture-can-stocks-rebound-ahead-of-q2-results/articleshow/134669703.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 03 Oct 2026 13:25:59 +0530"
+        "pubDate": "Sun, 04 Oct 2026 10:10:33 +0530"
       },
       {
-        "title": "9 large-cap stocks that surged over 50% in the first half of FY27",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/9-large-cap-stocks-that-surged-over-50-in-the-first-half-of-fy27/slideshow/134653712.cms",
+        "title": "Bonus issues, stock splits and dividends: 10 stocks turning ex-record date this week. Do you own any?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issues-stock-splits-and-dividends-10-stocks-turning-ex-record-date-this-week-do-you-own-any/articleshow/134669646.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 03 Oct 2026 12:00:20 +0530"
+        "pubDate": "Sun, 04 Oct 2026 10:03:45 +0530"
       },
       {
-        "title": "Stocks to buy: Axis picks 7 largecap stocks with upside potential of up to 44%. See full list",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-to-buy-axis-picks-7-largecap-stocks-with-upside-potential-of-up-to-44-see-full-list/slideshow/134653534.cms",
+        "title": "9 penny stocks crash up to 57% in just 2 months",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/9-penny-stocks-crash-up-to-57-in-just-2-months/slideshow/134669386.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 03 Oct 2026 11:45:39 +0530"
+        "pubDate": "Sun, 04 Oct 2026 09:22:13 +0530"
       }
     ],
     "acct": [
@@ -169,12 +169,6 @@
         "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT"
       },
       {
-        "title": "ICAI releases landmark 10th Edition of Transfer Pricing Guidance Note under Section 92E; incorporates Finance Act, 2026 amendments, new block assessment mechanism and latest Form 3CEB reporting guidance - A2Z Taxcorp LLP",
-        "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPdkJzWGVTRXQxQmcyREhWQ2JTZ21qTldiQ2lELTJqUGF6N3pEQzJEajRZTFprY09pNFNRMzJta2NqNmw3dXp2b0UxT1RHSnZsVGY3aDdzcXV3MmptRXZOOEd0Wjc5d0l5ZFlmUmQ4eVJ5eXFHcHIxc29pZ3p1UE1GS2VaN0hmUmR6bTFDbUlmUmNnOUV3Qm5zdmlsaTh5R21EcWREcndUQ1BxY2RtRk9zQmtJdHFudnBDUnRXV2hrMFl5bGFhZ1d5LU9iRVpLVzIwSUdsLUhzVkpINjByX0M4akwzNVJ5THBmMExzT1Z4YS0yeTh2Q3lyTlFjNG5iM0ZUVW1UaTdnd25UZXJHbngtc1MxUVpfbV9lV3BPZ1IybTRrMHY5YlRtTjhkOU9LMFh6ZVNRTTB4S2NxaHc5S3JBczRBaw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sat, 03 Oct 2026 07:18:13 GMT"
-      },
-      {
         "title": "From IFRS 18 to FINREP: What changes for banks? - Deloitte",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbjZGM0kwMmcxajg5RUJnaFNSWm8ycFZZOUdESXk3T1RaMTF4blRjZ3NWWFBkOUI0aEZXaTNkTjkwcW9WVTN1SUxaR2JZX29pWmdScF9YRHhtRGRDem9iQVNqdFFaLUZrVEx4Z0ZhUFlDaTFiakVuMjFTdWRzR0hIU2M4c3BGQUN5bFVlWjd1U3BvenhHcWkxeVhkV1pMU1pLZU80UXhJdmpFMVpVZWU4UA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -191,6 +185,12 @@
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVW1WNm8xd2k4THJOZEFJQlh4NEh0TEIteHQydEwwczdISXdMX3h5emYyX0t1TURkcGRyVVAzMWloZXNnTWtiSTZXbkJ5QWR4TzJGRmQ5QlZYLVBuWHBWSmVWS0JCODkxSXlaNE9oelhPenNlbTdaYkpxelNhVENPTnFKVjJDbFcxQXJnejllUnpud3dRX2t1NVJ2NGVnZlBEY0xkMWlQc3R4aFdGMENSZXc3ZG1SQU1iTXYzU3NjTV8yVnhndDAxYWQyZ2REVUtJYW95WkRWOHBleEJpMWtLdTNHazc2dnFFT0FNWTdaX3N6OG9ZNXV0NF91WHRNRm9D0gGGAkFVX3lxTFBSUXlaVmNpM0pLdW5NWklCXzRBQjBJdEVqU2FNN2l0X2lvaTludUZURzJkVnhnS3JwdFN0S2pnbWhTbXFodTkzelZWa2ZWZFRWb0UyZGplZUNOQ2pwbTRXS1RLTHgzQ2ltamlKdGtFMzRlOXViYVVTdnRtTHB3Q0U5TjdGOGlFa0V5UHBFSzIxVTVkY05SUmFTYXZuekxyV2lWWU9FZjAwM1NHTHRwVTZHV09oV2w5UElSYjU1LWNFb2Y0dk50anoyaFNOOWVjNFBzaWlmaVA4MzlDQjF2M1NKak1ZRlctOVJVbFh0aEtPMHFUVUNhSFhkMGxrekEzaWF4bDNUSXc?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "ICAI releases landmark 10th Edition of Transfer Pricing Guidance Note under Section 92E; incorporates Finance Act, 2026 amendments, new block assessment mechanism and latest Form 3CEB reporting guidance - A2Z Taxcorp LLP",
+        "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPdkJzWGVTRXQxQmcyREhWQ2JTZ21qTldiQ2lELTJqUGF6N3pEQzJEajRZTFprY09pNFNRMzJta2NqNmw3dXp2b0UxT1RHSnZsVGY3aDdzcXV3MmptRXZOOEd0Wjc5d0l5ZFlmUmQ4eVJ5eXFHcHIxc29pZ3p1UE1GS2VaN0hmUmR6bTFDbUlmUmNnOUV3Qm5zdmlsaTh5R21EcWREcndUQ1BxY2RtRk9zQmtJdHFudnBDUnRXV2hrMFl5bGFhZ1d5LU9iRVpLVzIwSUdsLUhzVkpINjByX0M4akwzNVJ5THBmMExzT1Z4YS0yeTh2Q3lyTlFjNG5iM0ZUVW1UaTdnd25UZXJHbngtc1MxUVpfbV9lV3BPZ1IybTRrMHY5YlRtTjhkOU9LMFh6ZVNRTTB4S2NxaHc5S3JBczRBaw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sat, 03 Oct 2026 07:18:13 GMT"
       },
       {
         "title": "Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)' - Bank of England",
