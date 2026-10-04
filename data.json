@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T08:59:11.390824+00:00",
+  "generatedAt": "2026-10-04T14:41:19.702243+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 85087,
-      "chg": 0.54
+      "price": 85128,
+      "chg": 0.46
     },
     "eth": {
-      "price": 2699.43,
-      "chg": 0.6
+      "price": 2694.89,
+      "chg": 0.58
     }
   },
   "fx": {
@@ -89,7 +89,37 @@
   "news": {
     "corp": [
       {
-        "title": "ET Alpha Wealth Summit 2.0 2026: Date, venue, speakers, agenda and registration",
+        "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/134673452.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 04 Oct 2026 16:17:40 +0530"
+      },
+      {
+        "title": "Valuations of IT stocks already capture most of AI disruption risk: Chintan Haria",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/valuations-of-it-stocks-already-capture-most-of-ai-disruption-risk-chintan-haria/articleshow/134673144.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 04 Oct 2026 15:47:17 +0530"
+      },
+      {
+        "title": "RBI may hike repo rate by 25 bps as inflation and oil risks mount: Sunil Sanghai",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-hike-repo-rate-by-25-bps-as-inflation-and-oil-risks-mount-sunil-sanghai/articleshow/134672762.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 04 Oct 2026 15:10:04 +0530"
+      },
+      {
+        "title": "IT Q2 Preview: Muted growth, steady margins likely; deal conversion, AI deflation in focus",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-q2-preview-muted-growth-steady-margins-likely-deal-conversion-ai-deflation-in-focus/articleshow/134672682.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 04 Oct 2026 14:59:30 +0530"
+      },
+      {
+        "title": "IPO bonanza: 29 companies to list this week; GMPs signal returns of up to 59%",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ipo-bonanza-29-companies-to-list-this-week-gmps-signal-returns-of-up-to-59/slideshow/134672937.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 04 Oct 2026 13:54:31 +0530"
+      },
+      {
+        "title": "ET Alpha Wealth Summit 2.0: Date, venue, speakers, agenda and registration",
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-2026-date-venue-speakers-agenda-and-registration/articleshow/134671923.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Sun, 04 Oct 2026 13:52:46 +0530"
@@ -117,36 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/expert-view/afterniftys-longest-losing-streak-in-25-years-what-should-investors-do-now/articleshow/134670772.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Sun, 04 Oct 2026 12:07:35 +0530"
-      },
-      {
-        "title": "Axis Direct picks 5 smallcap stocks with up to 40% upside potential. How many do you have?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/axis-direct-picks-5-smallcap-stocks-with-up-to-40-upside-potential-how-many-do-you-have/slideshow/134670761.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sun, 04 Oct 2026 11:51:39 +0530"
-      },
-      {
-        "title": "7 midcap stocks with rising EPS for four straight quarters. Are they in your portfolio?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/7-midcap-stocks-with-rising-eps-for-four-straight-quarters-are-they-in-your-portfolio/slideshow/134670681.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sun, 04 Oct 2026 11:34:50 +0530"
-      },
-      {
-        "title": "Auto sales surge in September, but GST base clouds the picture. Can stocks rebound ahead of Q2 results?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/auto-sales-surge-in-september-but-gst-base-clouds-the-picture-can-stocks-rebound-ahead-of-q2-results/articleshow/134669703.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sun, 04 Oct 2026 10:10:33 +0530"
-      },
-      {
-        "title": "Bonus issues, stock splits and dividends: 10 stocks turning ex-record date this week. Do you own any?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issues-stock-splits-and-dividends-10-stocks-turning-ex-record-date-this-week-do-you-own-any/articleshow/134669646.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sun, 04 Oct 2026 10:03:45 +0530"
-      },
-      {
-        "title": "9 penny stocks crash up to 57% in just 2 months",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/9-penny-stocks-crash-up-to-57-in-just-2-months/slideshow/134669386.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sun, 04 Oct 2026 09:22:13 +0530"
       }
     ],
     "acct": [
@@ -193,7 +193,7 @@
         "pubDate": "Sat, 03 Oct 2026 07:18:13 GMT"
       },
       {
-        "title": "Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)' - Bank of England",
+        "title": "Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)' - bankofengland.co.uk",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXJKbEUwZ0NrN0FEbHNWZnVqSnZVVjRrYWVCdXZESUR6OFFmd3FLd09nVmhhODFRUmVlWmQxQ0UzSUJUU3RIQzZFcWJ2RDRobTRtSGs0THNGQU1LRmpOWVg3VUVGUDJtZ0swdUQ0Yzk3Slh5V3JOTU1aOTB5bUdFcUVBQmRPUXBZTlNMbEg3MlFGT0lhdVhHaDFNOFZtLUJDdHFnUW1rRFFFeDk3MjIxLUhB?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 30 Sep 2026 14:50:34 GMT"
@@ -205,10 +205,10 @@
         "pubDate": "Wed, 30 Sep 2026 16:43:47 GMT"
       },
       {
-        "title": "ICAI Removes CA Over ₹568 Cr Loan Fraud Verification - Taxscan",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQmx6YVRCaEtqSFNtbWJoOW45RFdkckxHRzZnSFFhOGNhUlIyTG9BSkZqUGFjeHFXVEpEb0ZlX1FZaDhwQTZjOXlndDFjUDBUVVh1YlEyUW1uWHZkQjVaeWpycE90blBLZjlEVkhYVDlPTHRnV19hX25tNFhlNTNLR2Y1YVJLd2p4RzI0NXF3VzVxM3VNTUlBXzZaYkU2VVZfRW84UXNmaUdMTUxTTFJqc29Zd0ZHMW01RV8tUmxkY29RdXFz?oc=5",
+        "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXhMY1ZubW01dm1XMHdBcDJvS2lyTkdrN0FoY0F4TjVwS0JDQ25TOWxicmduY0xJcVkwQ3c0dF9qMFVYU0FBblhRbWpXSEFmNDhaVE1OQW9KaUY1dXhzT3BQb0JydDU2aVRyeWFGaVZqZTYtOW52UHE1a1RZcE9idjUzSzdOWm1pUlh5cnR4ZjlvbHB1UDRYLWRCZE14M2ptcV83WWg0M3hBWDAxY0FVSGxWUTRFX09YUDRxa0ZvUVdzdkV2UVpRZFpJdmg5b2wtbHQ00gHaAUFVX3lxTE80dEE0dUlVelJhcnRKZEl6aDdOcF9Kb1FYWEw0a0pEblZrRmIyS21JMElVTTlJT0lHbDVaa1JmOE93VEVaYzBpeXgwNG1UY3VMbmVZT2RGSEJiSjhhdlZRVVdMb0hUWTdDbE5hM0RDOURMRGg0d29WT0NIbDUxMjlsNzBhUnpIVkFIWmhoUDZiaGN2NXZVQUMwZUxvdTdrSmxSZGh6RFF6OTY4Y0VsSnowNVRpdXd6WnBEUmt2c3pqbG9BUDBaeVdxVTVtN0lyQ2tVZWdkQTdrRHpR?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 02 Oct 2026 06:50:00 GMT"
+        "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
       }
     ]
   }
