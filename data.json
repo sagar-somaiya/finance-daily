@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T13:49:04.881771+00:00",
+  "generatedAt": "2026-10-05T21:17:51.739810+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 86137,
-      "chg": 1.03
+      "price": 85752,
+      "chg": -0.31
     },
     "eth": {
-      "price": 2718.53,
-      "chg": 0.74
+      "price": 2712.57,
+      "chg": 0.18
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
-        "title": "Axis Bank’s gross advances rise 23% YoY to Rs 13.85 lakh crore in Q2, deposits up 21%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/axis-banks-gross-advances-rise-23-yoy-to-rs-13-85-lakh-crore-in-q2-deposits-up-21/articleshow/134707200.cms",
+        "title": "US stocks: Nasdaq gains 1% at close as investors focus on earnings",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-dow-close-1-higher-as-investors-focus-on-earnings/articleshow/134716734.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 05 Oct 2026 19:03:13 +0530"
+        "pubDate": "Tue, 06 Oct 2026 01:38:58 +0530"
       },
       {
-        "title": "Kotak Mahindra Bank’s net advances climb 25% YoY to Rs 5.77 lakh crore; deposits grow 23% in Q2",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-banks-net-advances-climb-25-yoy-to-rs-5-77-lakh-crore-deposits-grow-23-in-q2/articleshow/134706545.cms",
+        "title": "Euro hits 17-month low as French debt fears, US inflation lift dollar",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/euro-hits-17-month-low-as-french-debt-fears-us-inflation-lift-dollar/articleshow/134716587.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 05 Oct 2026 18:47:17 +0530"
+        "pubDate": "Tue, 06 Oct 2026 01:13:00 +0530"
       },
       {
-        "title": "Indian bonds hold tight range ahead of RBI policy meeting",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-hold-tight-range-ahead-of-rbi-policy-meeting/articleshow/134705629.cms",
+        "title": "French bond contagion fears are rattling the euro",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/french-bond-contagion-fears-are-rattling-the-euro/articleshow/134714445.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 05 Oct 2026 17:48:02 +0530"
+        "pubDate": "Mon, 05 Oct 2026 23:40:34 +0530"
       },
       {
-        "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US futures dip as tech stocks take a breather",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-iran-war-hormuz-deal-brent-crude-oil-fed-rate-hike-treasury-bond-yields-intel-micron-nvidia-ptc-cerebras-ai-chip-stock-price-news-5th-october-2026/liveblog/134705735.cms",
+        "title": "PTC shares soar nearly 34% after Schneider Electric agrees to $22.6 billion buyout",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ptc-shares-soar-nearly-34-after-schneider-electric-agrees-to-22-6-billion-buyout/articleshow/134714341.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 05 Oct 2026 17:43:44 +0530"
+        "pubDate": "Mon, 05 Oct 2026 23:30:47 +0530"
       },
       {
-        "title": "Hindustan Unilever, PB Fintech among 7 stocks that hit 52-week lows and slipped up to 47% in a month",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-unilever-pb-fintech-among-7-stocks-that-hit-52-week-lows-and-slipped-up-to-47-in-a-month/slideshow/134705609.cms",
+        "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/134711920.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 05 Oct 2026 17:42:33 +0530"
+        "pubDate": "Mon, 05 Oct 2026 21:27:49 +0530"
       },
       {
-        "title": "Bitcoin trades near $86,000 as weaker US jobs data dims October Fed rate hike bets",
-        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-86000-as-weaker-us-jobs-data-dims-october-fed-rate-hike-bets/articleshow/134705445.cms",
+        "title": "Marico raises stake in Plix parent to 84.09%; Q2 revenue expected to grow in double digits",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/marico-raises-stake-in-plix-parent-to-84-09-q2-revenue-expected-to-grow-in-double-digits/articleshow/134711889.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 05 Oct 2026 17:41:26 +0530"
+        "pubDate": "Mon, 05 Oct 2026 21:25:25 +0530"
       },
       {
-        "title": "Market wrap: ITC, BSE, HCL Tech, Asian Paints top gainers and losers on Nifty and Sensex on Monday",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-itc-bse-hcl-tech-asian-paints-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/134705072.cms",
+        "title": "Broadening rally in stocks hits an economic roadblock",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/broadening-rally-in-stocks-hits-an-economic-roadblock/articleshow/134711680.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 05 Oct 2026 17:39:43 +0530"
+        "pubDate": "Mon, 05 Oct 2026 21:15:54 +0530"
       },
       {
-        "title": "IPO Ahead! Electrical products maker Biocon Electric files draft papers with Sebi",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-ahead-electrical-products-maker-biocon-electric-files-draft-papers-with-sebi/articleshow/134702878.cms",
+        "title": "Vedanta dividend countdown: Anil Agarwal-led company to consider first FY27 payout on October 8",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/vedanta-dividend-countdown-anil-agarwal-led-company-to-consider-first-fy27-payout-on-october-8/articleshow/134711376.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 05 Oct 2026 16:58:31 +0530"
+        "pubDate": "Mon, 05 Oct 2026 20:49:17 +0530"
       },
       {
-        "title": "Rupee ends flat, anchored by RBI intervention in face of global strains",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-flat-anchored-by-rbi-intervention-in-face-of-global-strains/articleshow/134700361.cms",
+        "title": "Zerodha founders Nithin, Nikhil Kamath pick up 6.72% stake in Viceroy Hotels",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/zerodha-founders-nithin-nikhil-kamath-pick-up-6-72-stake-in-viceroy-hotels/articleshow/134709141.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 05 Oct 2026 16:16:05 +0530"
+        "pubDate": "Mon, 05 Oct 2026 19:55:35 +0530"
       },
       {
-        "title": "ET Alpha Wealth Summit 2.0: How portfolio management is evolving with AI",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-how-portfolio-management-is-evolving-with-ai/articleshow/134696486.cms",
+        "title": "Sebi launches awareness campaign to help investors in informed decision making",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-launches-awareness-campaign-to-help-investors-in-informed-decision-making/articleshow/134708313.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 05 Oct 2026 16:13:42 +0530"
+        "pubDate": "Mon, 05 Oct 2026 19:35:48 +0530"
       }
     ],
     "acct": [
@@ -163,10 +163,10 @@
         "pubDate": "Thu, 01 Oct 2026 14:27:58 GMT"
       },
       {
-        "title": "TABLE-World 6-MTH group results (IFRS) - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRVp3R0VETF9kV1R5MTVKMGpWWFFVMWtDNXRTTkJWRURUMTgwbmxhUGkyQ2pSMHZiMWc1dXBPZ0V6Z1BldjB1czBmWG4xR2tkNW5YdXlOdjZYR1ZtcmtQODBUTTF1UkF4cjdnejFGbVlqbHRsOVoxVU9EcUE1SjBGWVVmQzB3YUxUakMtVndvcGw5U2RwRkxPSHhwNzBQLUdnT05jQjhQdjdHMmJid3ZHMnV3?oc=5",
+        "title": "ICAI Proposes 32-Point GST Reform Agenda To Simplify Registration & Speed Up Refunds; Suggests ‘One PAN, One Biometric Verification’, system-driven deemed registration approval, reasoned REG-03/REG-05 orders, automatic interest on delayed refund - A2Z Taxcorp LLP",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTS1PRVlGUHVLczZhcWxGVmRSdkZsNUpKMnpacmViVk9mTGw2NjI0YzhiRm02VnlDRkVNR0pjWS1LUnROWmFFeE83Mk5EY3A1NUtBcWpxdTlGdEQtQzJXMXhNcHY4Wk9YSFdoWGthMGpxMS1TLTYxcmFmLU1XVkd4cE90bk5YV1RnZlBxSzZ0WWdIVm52aVlDcG5jZlJXR1hna1hud1V4bGYzWjVPMTFHM191UlA2aEpDb2dJUy1wSi1oRnlVRHRhMXBFZHlBY0JkNkRWdHEzdy1QejIzMU9NYnpPMGUyZlhWMC1YRXhQdDN1S1IyOUo3MVlMelBnNUtncERyaFpLRTJ3V200bVpwdw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 05 Oct 2026 06:30:28 GMT"
+        "pubDate": "Mon, 05 Oct 2026 10:49:47 GMT"
       },
       {
         "title": "Open Call: Essay Writing Competition on ICAI (India) - fundsforNGOs",
@@ -175,10 +175,10 @@
         "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT"
       },
       {
-        "title": "ICAI Proposes 32-Point GST Reform Agenda To Simplify Registration & Speed Up Refunds; Suggests ‘One PAN, One Biometric Verification’, system-driven deemed registration approval, reasoned REG-03/REG-05 orders, automatic interest on delayed refund - A2Z Taxcorp LLP",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTS1PRVlGUHVLczZhcWxGVmRSdkZsNUpKMnpacmViVk9mTGw2NjI0YzhiRm02VnlDRkVNR0pjWS1LUnROWmFFeE83Mk5EY3A1NUtBcWpxdTlGdEQtQzJXMXhNcHY4Wk9YSFdoWGthMGpxMS1TLTYxcmFmLU1XVkd4cE90bk5YV1RnZlBxSzZ0WWdIVm52aVlDcG5jZlJXR1hna1hud1V4bGYzWjVPMTFHM191UlA2aEpDb2dJUy1wSi1oRnlVRHRhMXBFZHlBY0JkNkRWdHEzdy1QejIzMU9NYnpPMGUyZlhWMC1YRXhQdDN1S1IyOUo3MVlMelBnNUtncERyaFpLRTJ3V200bVpwdw?oc=5",
+        "title": "TABLE-World 6-MTH group results (IFRS) - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRVp3R0VETF9kV1R5MTVKMGpWWFFVMWtDNXRTTkJWRURUMTgwbmxhUGkyQ2pSMHZiMWc1dXBPZ0V6Z1BldjB1czBmWG4xR2tkNW5YdXlOdjZYR1ZtcmtQODBUTTF1UkF4cjdnejFGbVlqbHRsOVoxVU9EcUE1SjBGWVVmQzB3YUxUakMtVndvcGw5U2RwRkxPSHhwNzBQLUdnT05jQjhQdjdHMmJid3ZHMnV3?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 05 Oct 2026 10:49:47 GMT"
+        "pubDate": "Mon, 05 Oct 2026 06:30:28 GMT"
       },
       {
         "title": "ICAI CA January 2027 Exam Dates - PW",
@@ -187,16 +187,16 @@
         "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT"
       },
       {
-        "title": "From IFRS 18 to FINREP: What changes for banks? - Deloitte",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbjZGM0kwMmcxajg5RUJnaFNSWm8ycFZZOUdESXk3T1RaMTF4blRjZ3NWWFBkOUI0aEZXaTNkTjkwcW9WVTN1SUxaR2JZX29pWmdScF9YRHhtRGRDem9iQVNqdFFaLUZrVEx4Z0ZhUFlDaTFiakVuMjFTdWRzR0hIU2M4c3BGQUN5bFVlWjd1U3BvenhHcWkxeVhkV1pMU1pLZU80UXhJdmpFMVpVZWU4UA?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 30 Sep 2026 02:10:16 GMT"
-      },
-      {
         "title": "ICAI moves to propose CA Act changes, draft in 2 months to build larger Indian accounting firms - cfo.economictimes.indiatimes.com",
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVW1WNm8xd2k4THJOZEFJQlh4NEh0TEIteHQydEwwczdISXdMX3h5emYyX0t1TURkcGRyVVAzMWloZXNnTWtiSTZXbkJ5QWR4TzJGRmQ5QlZYLVBuWHBWSmVWS0JCODkxSXlaNE9oelhPenNlbTdaYkpxelNhVENPTnFKVjJDbFcxQXJnejllUnpud3dRX2t1NVJ2NGVnZlBEY0xkMWlQc3R4aFdGMENSZXc3ZG1SQU1iTXYzU3NjTV8yVnhndDAxYWQyZ2REVUtJYW95WkRWOHBleEJpMWtLdTNHazc2dnFFT0FNWTdaX3N6OG9ZNXV0NF91WHRNRm9D0gGGAkFVX3lxTFBSUXlaVmNpM0pLdW5NWklCXzRBQjBJdEVqU2FNN2l0X2lvaTludUZURzJkVnhnS3JwdFN0S2pnbWhTbXFodTkzelZWa2ZWZFRWb0UyZGplZUNOQ2pwbTRXS1RLTHgzQ2ltamlKdGtFMzRlOXViYVVTdnRtTHB3Q0U5TjdGOGlFa0V5UHBFSzIxVTVkY05SUmFTYXZuekxyV2lWWU9FZjAwM1NHTHRwVTZHV09oV2w5UElSYjU1LWNFb2Y0dk50anoyaFNOOWVjNFBzaWlmaVA4MzlDQjF2M1NKak1ZRlctOVJVbFh0aEtPMHFUVUNhSFhkMGxrekEzaWF4bDNUSXc?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "From IFRS 18 to FINREP: What changes for banks? - Deloitte",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbjZGM0kwMmcxajg5RUJnaFNSWm8ycFZZOUdESXk3T1RaMTF4blRjZ3NWWFBkOUI0aEZXaTNkTjkwcW9WVTN1SUxaR2JZX29pWmdScF9YRHhtRGRDem9iQVNqdFFaLUZrVEx4Z0ZhUFlDaTFiakVuMjFTdWRzR0hIU2M4c3BGQUN5bFVlWjd1U3BvenhHcWkxeVhkV1pMU1pLZU80UXhJdmpFMVpVZWU4UA?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 30 Sep 2026 02:10:16 GMT"
       },
       {
         "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
