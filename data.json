@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T21:45:47.914561+00:00",
+  "generatedAt": "2026-10-05T00:19:34.869758+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,22 +72,28 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 85954,
-      "chg": 1.5
+      "price": 86427,
+      "chg": 1.88
     },
     "eth": {
-      "price": 2705.5,
-      "chg": 0.76
+      "price": 2726.74,
+      "chg": 1.41
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 96.35,
-    "eurinr": 108.41,
-    "gbpinr": 127.38
+    "usdinr": 96.4,
+    "eurinr": 108.45,
+    "gbpinr": 127.56
   },
   "news": {
     "corp": [
+      {
+        "title": "RBI likely to hike repo rate by 25 bps to 5.50% in October policy: ET Poll",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-likely-to-hike-repo-rate-by-25-bps-to-5-50-in-october-policy-et-poll/articleshow/134683262.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Mon, 05 Oct 2026 05:30:00 +0530"
+      },
       {
         "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/134673452.cms",
@@ -141,12 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/rate-cut-cycle-near-turning-point-what-lies-ahead-for-indian-bonds/articleshow/134671117.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Sun, 04 Oct 2026 12:37:02 +0530"
-      },
-      {
-        "title": "After Nifty’s longest losing streak in 25 years, what should investors do now?",
-        "link": "https://economictimes.indiatimes.com/markets/expert-view/afterniftys-longest-losing-streak-in-25-years-what-should-investors-do-now/articleshow/134670772.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sun, 04 Oct 2026 12:07:35 +0530"
       }
     ],
     "acct": [
@@ -157,7 +157,7 @@
         "pubDate": "Thu, 01 Oct 2026 07:07:57 GMT"
       },
       {
-        "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - Facebook",
+        "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - facebook.com",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM2RvTTBFUXU5c1lGVDlQSFpJYWJkQXNFSHFiaG1MWFlPYmZQMGh4UDNNcGI2elptY1J3SjFJdUNCY1I5MVZ0TEt6ZFFMVk1xOXhNaEZNeGJhbGkxQWwxalM5TFlBQ2dWdjhQWVk4dGpkY2JzR0dmeV9RYk9TM2ljSDFpMDI4cFAxZXphZG4zOEdKNkowTGZkQnZKLVh3RExza2RBRmU3UXFwSXBndVlneTdLUjlXLV9GdWZ1U2JhckNMTUxhMmxISW50UHVyaUEyNnVETERzWmt4YjlxRzRfRDBB?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 01 Oct 2026 14:27:58 GMT"
@@ -175,7 +175,7 @@
         "pubDate": "Sun, 04 Oct 2026 16:27:27 GMT"
       },
       {
-        "title": "From IFRS 18 to FINREP: What changes for banks? - Deloitte",
+        "title": "From IFRS 18 to FINREP: What changes for banks? - deloitte.com",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbjZGM0kwMmcxajg5RUJnaFNSWm8ycFZZOUdESXk3T1RaMTF4blRjZ3NWWFBkOUI0aEZXaTNkTjkwcW9WVTN1SUxaR2JZX29pWmdScF9YRHhtRGRDem9iQVNqdFFaLUZrVEx4Z0ZhUFlDaTFiakVuMjFTdWRzR0hIU2M4c3BGQUN5bFVlWjd1U3BvenhHcWkxeVhkV1pMU1pLZU80UXhJdmpFMVpVZWU4UA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 30 Sep 2026 02:10:16 GMT"
@@ -187,13 +187,13 @@
         "pubDate": "Sat, 03 Oct 2026 07:18:13 GMT"
       },
       {
-        "title": "Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)' - bankofengland.co.uk",
+        "title": "Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)' - Bank of England",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXJKbEUwZ0NrN0FEbHNWZnVqSnZVVjRrYWVCdXZESUR6OFFmd3FLd09nVmhhODFRUmVlWmQxQ0UzSUJUU3RIQzZFcWJ2RDRobTRtSGs0THNGQU1LRmpOWVg3VUVGUDJtZ0swdUQ0Yzk3Slh5V3JOTU1aOTB5bUdFcUVBQmRPUXBZTlNMbEg3MlFGT0lhdVhHaDFNOFZtLUJDdHFnUW1rRFFFeDk3MjIxLUhB?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 30 Sep 2026 14:50:34 GMT"
       },
       {
-        "title": "Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)' - regulationtomorrow.com",
+        "title": "Letter from David Bailey 'Thematic feedback on accounting for IFRS 9 expected credit losses (ECL)' - Global Regulation Tomorrow",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObnhMNldQNzNvQnJYR09jYThiSnB1aFZKcXRFRTZYWXlLNmFQODZjMTNRcnM1cUlMdXNkcFl6N3VYdlp2UnJidFAzWWdLVE5Mc0d6NUZfMjVVWkU2OURyeW1zZE9SMUZrU256d1pybmcyMmZ0ajhVXzBMeHBETTRneGxmbThWVklpcy1UWmFVamp0R1RCb0tJWHR6VUlXUWxlSEVSVGxGWUJ1N0ZKVDMwSVRCMi1mQmZpV0RPdGFkS2FqVGNBajlXTVE0ZGplWm5QbGkzZQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 30 Sep 2026 16:43:47 GMT"
