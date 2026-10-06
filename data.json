@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T08:19:17.980270+00:00",
+  "generatedAt": "2026-10-06T15:20:18.621512+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 85784,
-      "chg": -0.65
+      "price": 86619,
+      "chg": 1.31
     },
     "eth": {
-      "price": 2711.69,
-      "chg": -0.54
+      "price": 2721.77,
+      "chg": 0.76
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
-        "title": "Global Market: BOJ seen nearing 2% inflation target as markets eye December rate hike",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-boj-seen-nearing-2-inflation-target-as-markets-eye-december-rate-hike/articleshow/134727754.cms",
+        "title": "US stocks: US software shares scale fresh 2026 highs as AI disruption worries fade",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-software-shares-scale-fresh-2026-highs-as-ai-disruption-worries-fade/articleshow/134743282.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 06 Oct 2026 13:27:45 +0530"
+        "pubDate": "Tue, 06 Oct 2026 20:05:33 +0530"
       },
       {
-        "title": "Why junk bonds deliver equity-like returns but with far inferior volatility, explains Saurabh Mukherjea",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/why-junk-bonds-deliver-equity-like-returns-but-with-far-inferior-volatility-explains-saurabh-mukherjea/articleshow/134727904.cms",
+        "title": "Titan Q2FY27 update: Consumer businesses grow 25% YoY, jewellery up 21%",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/titan-q2fy27-update-consumer-businesses-grow-25-yoy-jewellery-up-21/articleshow/134742481.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 06 Oct 2026 13:26:59 +0530"
+        "pubDate": "Tue, 06 Oct 2026 19:22:56 +0530"
       },
       {
-        "title": "SRIT India shares hit 5% upper circuit after strong debut, jump 19% from IPO price. Should you buy, sell or hold?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/srit-india-shares-hit-5-upper-circuit-after-strong-debut-jump-19-from-ipo-price-should-you-buy-sell-or-hold/articleshow/134727442.cms",
+        "title": "Why US stocks are rising today: S&amp;P 500, Nasdaq hit records as easing yields and oil fuel AI rally",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-500-hits-intraday-record-high-as-ai-rally-continues/articleshow/134742430.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 06 Oct 2026 13:22:09 +0530"
+        "pubDate": "Tue, 06 Oct 2026 19:22:48 +0530"
       },
       {
-        "title": "Ambani’s Jio said to seek about Rs 11 lakh crore valuation in IPO",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ambanis-jio-said-to-seek-about-rs-11-lakh-crore-valuation-in-ipo/articleshow/134727599.cms",
+        "title": "Private equity inflow in office assets rises 7 pc to USD 945 million in Apr-Sep: Anarock",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/private-equity-inflow-in-office-assets-rises-7-pc-to-usd-945-million-in-apr-sep-anarock/articleshow/134742450.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 06 Oct 2026 13:19:19 +0530"
+        "pubDate": "Tue, 06 Oct 2026 19:19:56 +0530"
       },
       {
-        "title": "Orient Cables shares tumble 10% a day after strong market debut",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/orient-cables-shares-tumble-10-a-day-after-strong-market-debut/articleshow/134727066.cms",
+        "title": "Investor awareness key to long-term wealth creation, technology double-edged sword: ANMI President Kamlesh Shroff",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/investor-awareness-key-to-long-term-wealth-creation-technology-double-edged-sword-anmi-president-kamlesh-shroff/articleshow/134742397.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 06 Oct 2026 13:11:22 +0530"
+        "pubDate": "Tue, 06 Oct 2026 19:17:30 +0530"
       },
       {
-        "title": "Banks vs NBFCs: Which stocks could benefit as RBI set to hike rates for the first time in 3 years?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/banks-vs-nbfcs-which-stocks-could-benefit-as-rbi-set-to-hike-rates-for-the-first-time-in-3-years/articleshow/134726852.cms",
+        "title": "Utkarsh Small Finance Bank Q2 disbursements jump 55% YoY to Rs 3,525 crore; loan portfolio rises over 7%",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/utkarsh-small-finance-bank-q2-disbursements-jump-55-yoy-to-rs-3525-crore-loan-portfolio-rises-over-7/articleshow/134741617.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 06 Oct 2026 12:54:05 +0530"
+        "pubDate": "Tue, 06 Oct 2026 18:38:11 +0530"
       },
       {
-        "title": "Is CEG stock the biggest winner from the AI power boom?",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/is-ceg-stock-the-biggest-winner-from-the-ai-power-boom/slideshow/134726897.cms",
+        "title": "Toronto home sales post steepest decline since February on economic uncertainty",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/toronto-home-sales-post-steepest-decline-since-february-on-economic-uncertainty/articleshow/134741481.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 06 Oct 2026 12:32:20 +0530"
+        "pubDate": "Tue, 06 Oct 2026 18:35:23 +0530"
       },
       {
-        "title": "Global Market: Euro under pressure as France debt worries, Spain vote weigh",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-euro-under-pressure-as-france-debt-worries-spain-vote-weigh/articleshow/134726226.cms",
+        "title": "Max Estates sales bookings surge over 13-fold to Rs 2,100 crore in Q2",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/max-estates-sales-bookings-surge-over-13-fold-to-rs-2100-crore-in-q2/articleshow/134741418.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 06 Oct 2026 12:28:56 +0530"
+        "pubDate": "Tue, 06 Oct 2026 18:30:42 +0530"
       },
       {
-        "title": "CAS U-turn ahead? BSE, Groww, NSE, other capital market stocks jump up to 4% amid buzz around Sebi tweaking F&amp;O settlement rules",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/cas-u-turn-ahead-bse-groww-nse-other-capital-market-stocks-jump-up-to-4-amid-buzz-around-sebi-tweaking-fo-settlement-rules/articleshow/134725833.cms",
+        "title": "India's data centre sector attracted USD 173 bn since 2021, capacity seen 2 GW by year-end: CBRE",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-data-centre-sector-attracted-usd-173-bn-since-2021-capacity-seen-2-gw-by-year-end-cbre/articleshow/134741362.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 06 Oct 2026 12:19:08 +0530"
+        "pubDate": "Tue, 06 Oct 2026 18:29:07 +0530"
       },
       {
-        "title": "Viceroy Hotels shares rise 2% as Zerodha founders Nithin, Nikhil Kamath pick 6.72% stake",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/viceroy-hotels-shares-rise-2-as-zerodha-founders-nithin-nikhil-kamath-pick-6-72-stake/articleshow/134725913.cms",
+        "title": "India emerges as major investment destination with young, talented workforce: Singapore biz leaders",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/india-emerges-as-major-investment-destination-with-young-talented-workforce-singapore-biz-leaders/articleshow/134741277.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 06 Oct 2026 12:18:18 +0530"
+        "pubDate": "Tue, 06 Oct 2026 18:26:04 +0530"
       }
     ],
     "acct": [
@@ -155,6 +155,12 @@
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWGpoUmRWb0xZS3NheTFmQmlGZUM5ellSVy12SGc5Q2Y2MGNWdGFLcXcxbl9XZmhRYnNXM1R5S0RmSHlwQVVnRFBpTjVxbHZZUGFLbExGYWFkQ1h5bm1VclZKYWdpZUppd3RfUmFhQVF5b29YU044b25MSF9pWU5xcDZtVFVyTDBKZmNqbXBGMFpacDI1eTBVbXdtTjVyUkUxLUdBXzRLVTVrV01IVE1meXJnMjBFV29hSEppQWJUV1BVRktGeHUyMFM4SmJDaUs3Uy1zRFZtMVBUNFZGZEE?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 01 Oct 2026 07:07:57 GMT"
+      },
+      {
+        "title": "Oil shock, interest rates and credit risk: What has changed for our IFRS 9 and CECL scenarios? - Oxford Economics",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNWx3RU5fODBteWp5LXpZaUpQdmtWbEd5M3ZUeExISUR3aE8wWDNFZ25LUXlpTmtqRUZhUmdWZk1HdVBydV9VTS1ScmU2NWVyV1RfM3hvSU96RERNWC1DaWxuUmJFbGhKblJVQmM3blhDeFd3d1pzWkhUNEJKMGZYek1vSjhSaTNScVB3?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 06 Oct 2026 10:44:37 GMT"
       },
       {
         "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - facebook.com",
@@ -169,6 +175,12 @@
         "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT"
       },
       {
+        "title": "Abera Bioscience to transition to IFRS - marketscreener.com",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV1VRWU03MTFaLXNJRUFrOUYxOXF2NVJhdHJsY1VaNjRrT0pXb3A5dTZ0aGxjbTJQcV8xODNpRVpIWmJQM1FzSnB3MmJ0aWl3SWFYSk1PaS1xb0xBSXhldUhLYXlSb0NuNUpwUllDa1RsWWdJNVZYeWRZdlF1U2RoaUtWU01BNTNReUxTNGlPSzFOV1FKbkE?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 06 Oct 2026 12:08:44 GMT"
+      },
+      {
         "title": "ICAI CA January 2027 Exam Dates - PW",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VM2lnWXNXdXZLTWp6UHBjT0IxU21NUFF3dVBHRTFzWl9lZFFuc0laVnFBM0R0NGk5RWRWQWNDUWdBQkFIU1l3c1N6UURmOWNneXljX2pBeS1TOUQ2X0pIYVFrdnJrRms?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -181,34 +193,22 @@
         "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT"
       },
       {
-        "title": "ICAI Proposes 32-Point GST Reform Agenda To Simplify Registration & Speed Up Refunds; Suggests ‘One PAN, One Biometric Verification’, system-driven deemed registration approval, reasoned REG-03/REG-05 orders, automatic interest on delayed refund - A2Z Taxcorp LLP",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTS1PRVlGUHVLczZhcWxGVmRSdkZsNUpKMnpacmViVk9mTGw2NjI0YzhiRm02VnlDRkVNR0pjWS1LUnROWmFFeE83Mk5EY3A1NUtBcWpxdTlGdEQtQzJXMXhNcHY4Wk9YSFdoWGthMGpxMS1TLTYxcmFmLU1XVkd4cE90bk5YV1RnZlBxSzZ0WWdIVm52aVlDcG5jZlJXR1hna1hud1V4bGYzWjVPMTFHM191UlA2aEpDb2dJUy1wSi1oRnlVRHRhMXBFZHlBY0JkNkRWdHEzdy1QejIzMU9NYnpPMGUyZlhWMC1YRXhQdDN1S1IyOUo3MVlMelBnNUtncERyaFpLRTJ3V200bVpwdw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 05 Oct 2026 10:49:47 GMT"
-      },
-      {
         "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXhMY1ZubW01dm1XMHdBcDJvS2lyTkdrN0FoY0F4TjVwS0JDQ25TOWxicmduY0xJcVkwQ3c0dF9qMFVYU0FBblhRbWpXSEFmNDhaVE1OQW9KaUY1dXhzT3BQb0JydDU2aVRyeWFGaVZqZTYtOW52UHE1a1RZcE9idjUzSzdOWm1pUlh5cnR4ZjlvbHB1UDRYLWRCZE14M2ptcV83WWg0M3hBWDAxY0FVSGxWUTRFX09YUDRxa0ZvUVdzdkV2UVpRZFpJdmg5b2wtbHQ00gHaAUFVX3lxTE80dEE0dUlVelJhcnRKZEl6aDdOcF9Kb1FYWEw0a0pEblZrRmIyS21JMElVTTlJT0lHbDVaa1JmOE93VEVaYzBpeXgwNG1UY3VMbmVZT2RGSEJiSjhhdlZRVVdMb0hUWTdDbE5hM0RDOURMRGg0d29WT0NIbDUxMjlsNzBhUnpIVkFIWmhoUDZiaGN2NXZVQUMwZUxvdTdrSmxSZGh6RFF6OTY4Y0VsSnowNVRpdXd6WnBEUmt2c3pqbG9BUDBaeVdxVTVtN0lyQ2tVZWdkQTdrRHpR?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
       },
       {
-        "title": "From IFRS 18 to FINREP: What changes for banks? - Deloitte",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbjZGM0kwMmcxajg5RUJnaFNSWm8ycFZZOUdESXk3T1RaMTF4blRjZ3NWWFBkOUI0aEZXaTNkTjkwcW9WVTN1SUxaR2JZX29pWmdScF9YRHhtRGRDem9iQVNqdFFaLUZrVEx4Z0ZhUFlDaTFiakVuMjFTdWRzR0hIU2M4c3BGQUN5bFVlWjd1U3BvenhHcWkxeVhkV1pMU1pLZU80UXhJdmpFMVpVZWU4UA?oc=5",
+        "title": "ICAI releases landmark 10th Edition of Transfer Pricing Guidance Note under Section 92E; incorporates Finance Act, 2026 amendments, new block assessment mechanism and latest Form 3CEB reporting guidance - A2Z Taxcorp LLP",
+        "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPdkJzWGVTRXQxQmcyREhWQ2JTZ21qTldiQ2lELTJqUGF6N3pEQzJEajRZTFprY09pNFNRMzJta2NqNmw3dXp2b0UxT1RHSnZsVGY3aDdzcXV3MmptRXZOOEd0Wjc5d0l5ZFlmUmQ4eVJ5eXFHcHIxc29pZ3p1UE1GS2VaN0hmUmR6bTFDbUlmUmNnOUV3Qm5zdmlsaTh5R21EcWREcndUQ1BxY2RtRk9zQmtJdHFudnBDUnRXV2hrMFl5bGFhZ1d5LU9iRVpLVzIwSUdsLUhzVkpINjByX0M4akwzNVJ5THBmMExzT1Z4YS0yeTh2Q3lyTlFjNG5iM0ZUVW1UaTdnd25UZXJHbngtc1MxUVpfbV9lV3BPZ1IybTRrMHY5YlRtTjhkOU9LMFh6ZVNRTTB4S2NxaHc5S3JBczRBaw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 30 Sep 2026 02:10:16 GMT"
+        "pubDate": "Sat, 03 Oct 2026 07:18:13 GMT"
       },
       {
-        "title": "TABLE-World 6-MTH group results (IFRS) - TradingView",
+        "title": "TABLE-World 6-MTH group results (IFRS) - tradingview.com",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRVp3R0VETF9kV1R5MTVKMGpWWFFVMWtDNXRTTkJWRURUMTgwbmxhUGkyQ2pSMHZiMWc1dXBPZ0V6Z1BldjB1czBmWG4xR2tkNW5YdXlOdjZYR1ZtcmtQODBUTTF1UkF4cjdnejFGbVlqbHRsOVoxVU9EcUE1SjBGWVVmQzB3YUxUakMtVndvcGw5U2RwRkxPSHhwNzBQLUdnT05jQjhQdjdHMmJid3ZHMnV3?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 05 Oct 2026 06:30:28 GMT"
-      },
-      {
-        "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFhGX19mVjU0d0pwWWhNRndFUjliUTNFXzMtbFB1aXVETlZMdXk2aU9mOXFfUU1CYUZNY211QUVFNmYwbERsOWtrM0p0ZVhHSnJFQlY4OFpGb1JkOEFGeGFGMTA3Mzdrc2kycVM1TDhuV0pmRG5SME4tUXNhdTRTcWs1WXhWVWtFanBYTVBNemt2b0dLbjhwZW9nRjB3UUY3OU5TbUxRWQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 10 Jul 2026 14:35:46 GMT"
       }
     ]
   }
