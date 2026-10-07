@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T17:36:47.137044+00:00",
+  "generatedAt": "2026-10-07T22:26:49.630663+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 83219,
-      "chg": -2.8
+      "price": 83252,
+      "chg": -2.67
     },
     "eth": {
-      "price": 2560.39,
-      "chg": -5.07
+      "price": 2568.18,
+      "chg": -4.76
     }
   },
   "fx": {
@@ -88,6 +88,30 @@
   },
   "news": {
     "corp": [
+      {
+        "title": "US stocks: US market ends lower, off record highs, as Treasury yields climb",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-lower-off-record-highs-as-treasury-yields-climb/articleshow/134774342.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 08 Oct 2026 01:40:05 +0530"
+      },
+      {
+        "title": "US Fed minutes signal another rate hike by year-end as inflation stays high",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-minutes-show-members-backing-another-rate-hike-before-year-end/articleshow/134773656.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 08 Oct 2026 00:23:56 +0530"
+      },
+      {
+        "title": "Foreign investors pull out $26.3 billion from emerging markets in September as hawkish Fed pushes US Treasury yields higher",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/foreign-investors-pull-out-26-3-billion-from-emerging-markets-in-september-as-hawkish-fed-pushes-us-treasury-yields-higher/articleshow/134772977.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 07 Oct 2026 23:56:54 +0530"
+      },
+      {
+        "title": "US bond selloff resumes as 10- and 30-year yields hit fresh 24-year highs",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-bonds-selloff-resumes-as-10-year-30-yields-hit-new-24-year-high/articleshow/134771853.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 07 Oct 2026 23:01:51 +0530"
+      },
       {
         "title": "RBI says it will ensure 'undervalued' Rupee finds its correct level",
         "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-says-it-will-ensure-undervalued-rupee-finds-its-correct-level/articleshow/134770024.cms",
@@ -108,7 +132,7 @@
       },
       {
         "title": "US stocks: Webull shares plunge 18% after report flags structural ties to China",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/webull-sinks-over-19-after-cnbc-reports-us-house-panel-flagged-china-ties/articleshow/134769396.cms",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/webull-sinks-over-19-after-cnbc-reports-us-house-panel-flagged-china-ties/articleshow/134769396.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Wed, 07 Oct 2026 20:48:23 +0530"
       },
@@ -123,33 +147,15 @@
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-sec-will-not-pursue-charges-against-climate-group-warns-of-disclosure-obligations/articleshow/134768910.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Wed, 07 Oct 2026 20:23:50 +0530"
-      },
-      {
-        "title": "Iraq devalues its currency as Mideast war disrupts oil shipping routes",
-        "link": "https://economictimes.indiatimes.com/markets/forex/iraq-devalues-its-currency-as-iran-us-war-disrupts-oil-shipping-routes/articleshow/134768571.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 20:01:19 +0530"
-      },
-      {
-        "title": "Gold slides to two-month low as robust dollar, yields add pressure",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/gold-slides-to-two-month-low-as-robust-dollar-yields-add-pressure/articleshow/134768281.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 19:42:27 +0530"
-      },
-      {
-        "title": "Ola Electric board approves rights issue at 26% discount; shareholders to pay in two calls",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-board-approves-rights-issue-at-26-pc-discount-shareholders-to-pay-in-two-calls/articleshow/134768186.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 19:39:43 +0530"
-      },
-      {
-        "title": "Adani Enterprises gets rating upgrade from CARE Ratings to AA; Stable; shares up 21% in 2026",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-enterprises-gets-rating-upgrade-from-care-ratings-to-aa-stable-shares-up-21-in-2026/articleshow/134768104.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 19:34:27 +0530"
       }
     ],
     "acct": [
+      {
+        "title": "Banks: Are you ready for IFRS 18? - kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcHJBbm56U1ZSdmVSZGk2VlF6aXYxd1hjOHZOaGhSa0VEVDR3UkVuMTdfOHQ0TmduMnc4RVNKUDNVVDhiczRwazl4RWdJUGJ4dWRReTNIM3cxLU1UeGkxS0RwTlJwdVhJTDA5YWttbW1UTkxsU05BS0dmeHhGdlRYYzc0QlpFZ0VUUjVmTEJ0MmZNSW9B?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 07 Oct 2026 17:38:27 GMT"
+      },
       {
         "title": "ICAI advances Ind AS 118 work, eyes Schedule III revamp - cfo.economictimes.indiatimes.com",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMENlQl9Vd0hwZkdlR0pKSkZtOEs5M1ByUlN6NnRkVmJ3S1A1WGdzc3JNNHhCOUNvcm1Vb1Bmd1dxdDBRQWZiNXphZ3dIOG9pRHZib2JqcF81V215cE90RGxjYjZiS19ONHJ2cEJvNW9aMHY3X3JVLXpKTnJrOUtMd1cxV2FzMldZUzdaWnc3NmZYRnF5a1VvV2dPLWU3TWpWTnFMVHRHWFZaYXB6UEhxRko1UmNzMkpjTnhBVEd6XzU2cXA4TEhraEctWdIB0AFBVV95cUxPd1I1elB0bFNTNVVpbmpSZGV2SklFdm1ZMVJaVmlMME1KeEE4LW5Pd0xfZjVQWklJZE4zekRQb0hmc1hFOUZhQS0zOWppa2tDbjZKSkZSTHZVX09fT2xkNWlNUUNacXl5ckV2bmFMdXIxQVJHTXVtb29Ta3BnekNXelNTNnd6aXQ0UmVHQ3ZyckUwSGRfdDM0RHNlRS1NZ1hJd21zeVdMZVgySzhHS0ZkbElPYnp5bi0yMW8tTk5DNXhSVDFoNnBxYnFYQUpkLUpp?oc=5",
@@ -163,22 +169,28 @@
         "pubDate": "Thu, 01 Oct 2026 14:27:58 GMT"
       },
       {
+        "title": "ICAI CA January 2027 Exam Dates - PW",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VM2lnWXNXdXZLTWp6UHBjT0IxU21NUFF3dVBHRTFzWl9lZFFuc0laVnFBM0R0NGk5RWRWQWNDUWdBQkFIU1l3c1N6UURmOWNneXljX2pBeS1TOUQ2X0pIYVFrdnJrRms?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT"
+      },
+      {
         "title": "Vivo Money Laundering Case: Supreme Court Sets Aside Lookout Circular Against CA Nitin Garg, Says He Is... - LawBeat",
         "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUWs2eV9uRHh1NE9GSXhsUnF2YzdBRGVkUW9mWExkRkl0ZWtNdVFVekx6bVgwSFNCa1NtSnVEVVdwMHFmWlVIY0lCanNKWmZRMjQ4cmhFaFFUYS1xMXRKb1RTTWlXUzZQaGxpem1EU1VBZnV5bkhMU292ZzJQOU9aNHMybEtXSzE4ak16Y0p0SWZZNldUZXB1TGRYU2NNWnJsa3MtcDNnQ2ZONG5WZjBuUWdOdElJZjF6MlB4OUhCaU5rWkJUbHlXQlVaaGlVSUJRWTlGT3VFeVQ3YWxlYktrQmtVTml1cnBXaGdMMTRuQUFoa0hlZzVzUkZ5aVXSAYICQVVfeXFMUHRlWGRCUDM5OGtkdW1xdllBZklhd2pEMVFMVGdBVTZQMWpHT3RNOE5UQ2hZNmMwVEFiM2ZzWWZ1QkppNGYxLTY1eFFWb0Rac2prR0Z6NVNNbWRVTlhBWXVyRFhhSHkxM3NWeF8wVURmYkIzS3E5VnNRTlN6VXA1QkI5YkEwM09xSWdHMmQzUUtsdU0xVlRDZC1EQ09Dbk5iMlVoN1I3LVFlVFZFTF9NVDNZMkpVc3Z3WTBjRG0wU1dDVXJUS0NCSmVFUEtRVmgzZXhTeEp5WVN2NDNpYzlFUy1KbThOU2M1bnFELU1ZZ1BUMmxwWEVreWR4ZC1lTGgybkFB?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 06 Oct 2026 13:40:07 GMT"
       },
       {
-        "title": "Open Call: Essay Writing Competition on ICAI (India) - fundsforNGOs - Grants and Resources for Sustainability",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGU4NFVlUDlLOWQweHpudGNMYXBPSnBKbnd3UzNPbzR5bC1PVzR1c2pCd0dxNS13THcwTEFuRGdYcUl2NkVyb28xVFBNQ3FBb1lBeVRsZURhUlFEdTVjdFM2V3pTOHlVTThwLTFzMzdNMVFMZ1FUMmRlUENyWjRINmRvQ3NjcHNzcV80M3JOeGZoVmNfZGk00gGcAUFVX3lxTE1kWmlOOUl4U1pTU1JwbUI1cmFyNVhqc090dVFrai1BT1dKeGhuMjV2YTVqcVdnQVNLc1E2YmdHZms1bGdQTGNsOFJjNmNXRDNyMEdUUERNa1lhUnMydG9iY0RxOVRsempDUGVHTG13QnUwZzV4dHZydnp6RS1iTXVjdmowTG80MmZZVWVqQlh5NTJ5UHlsX1VCZ3ZONA?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT"
-      },
-      {
         "title": "ICAI Removes CA’s Name Over ₹1,150 Cr Siphoning - Taxscan",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYVl4LTU5VGxhRkVaaEo3ZWFnVVJ0T3REWTVKT1Q3MG1EVWtfbzFVWEl4SUxCNW1saldZcEw3M0NKRUtUSkRycjVoYWlpdC1nWEV0V2VoLVdmWlFoSDQ5YTRXNjYteWVjTFhPbXgxQXFVSEVRM2hNYXJfUENobmlrYlFYR19xLWhMRFA1dy1yWDRSUjVIUDNMbVhXNDJVQWxCSUJXeFBlWUJBbFhpdUpzUkVoaU9ES3J2ekEyakVDdi11X0VCWklWYXdsc1Jfb05DUG9r?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 06 Oct 2026 11:41:00 GMT"
+      },
+      {
+        "title": "Open Call: Essay Writing Competition on ICAI (India) - fundsforNGOs - Grants and Resources for Sustainability",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGU4NFVlUDlLOWQweHpudGNMYXBPSnBKbnd3UzNPbzR5bC1PVzR1c2pCd0dxNS13THcwTEFuRGdYcUl2NkVyb28xVFBNQ3FBb1lBeVRsZURhUlFEdTVjdFM2V3pTOHlVTThwLTFzMzdNMVFMZ1FUMmRlUENyWjRINmRvQ3NjcHNzcV80M3JOeGZoVmNfZGk00gGcAUFVX3lxTE1kWmlOOUl4U1pTU1JwbUI1cmFyNVhqc090dVFrai1BT1dKeGhuMjV2YTVqcVdnQVNLc1E2YmdHZms1bGdQTGNsOFJjNmNXRDNyMEdUUERNa1lhUnMydG9iY0RxOVRsempDUGVHTG13QnUwZzV4dHZydnp6RS1iTXVjdmowTG80MmZZVWVqQlh5NTJ5UHlsX1VCZ3ZONA?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT"
       },
       {
         "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
@@ -191,18 +203,6 @@
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNWx3RU5fODBteWp5LXpZaUpQdmtWbEd5M3ZUeExISUR3aE8wWDNFZ25LUXlpTmtqRUZhUmdWZk1HdVBydV9VTS1ScmU2NWVyV1RfM3hvSU96RERNWC1DaWxuUmJFbGhKblJVQmM3blhDeFd3d1pzWkhUNEJKMGZYek1vSjhSaTNScVB3?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 06 Oct 2026 10:44:37 GMT"
-      },
-      {
-        "title": "IFRS Foundation – Reducing the size of the boards - kpmg.com",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU1l0Z3lOZE93dENCcjlXVUxRRGE4a0RwSlN0U0JkSVFnbFc1RDFsQXNvT3RLLUdiZUJmVnRqLWoxS0tvME12N1plZ1pod1ZFWnllUWtqRXNZVjZIVkJHbG14ME0zOVJHVGsxSjYwUjJ1Ml9FS3V5Y1c0TVJjVUNMbUl3?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
-      },
-      {
-        "title": "ICAI Proposes 32-Point GST Reform Agenda To Simplify Registration & Speed Up Refunds; Suggests ‘One PAN, One Biometric Verification’, system-driven deemed registration approval, reasoned REG-03/REG-05 orders, automatic interest on delayed refund - A2Z Taxcorp LLP",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTS1PRVlGUHVLczZhcWxGVmRSdkZsNUpKMnpacmViVk9mTGw2NjI0YzhiRm02VnlDRkVNR0pjWS1LUnROWmFFeE83Mk5EY3A1NUtBcWpxdTlGdEQtQzJXMXhNcHY4Wk9YSFdoWGthMGpxMS1TLTYxcmFmLU1XVkd4cE90bk5YV1RnZlBxSzZ0WWdIVm52aVlDcG5jZlJXR1hna1hud1V4bGYzWjVPMTFHM191UlA2aEpDb2dJUy1wSi1oRnlVRHRhMXBFZHlBY0JkNkRWdHEzdy1QejIzMU9NYnpPMGUyZlhWMC1YRXhQdDN1S1IyOUo3MVlMelBnNUtncERyaFpLRTJ3V200bVpwdw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 05 Oct 2026 10:49:47 GMT"
       },
       {
         "title": "India’s ICAI plans certification course for independent directors – report - theaccountant-online.com",
