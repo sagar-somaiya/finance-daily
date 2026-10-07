@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T03:46:35.232311+00:00",
+  "generatedAt": "2026-10-07T10:42:25.140020+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 84125,
-      "chg": -1.55
+      "price": 83706,
+      "chg": -2.74
     },
     "eth": {
-      "price": 2611.69,
-      "chg": -3.15
+      "price": 2577.9,
+      "chg": -5.03
     }
   },
   "fx": {
@@ -89,72 +89,72 @@
   "news": {
     "corp": [
       {
-        "title": "Kalyan Jewellers shares in focus as Q2 revenue grows 26% YoY, jeweller records 20% same-store-sales growth",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/kalyan-jewellers-shares-in-focus-as-q2-revenue-grows-26-yoy-jeweller-records-20-same-store-sales-growth/articleshow/134754963.cms",
+        "title": "US 30-year bond yield hits fresh 24-year high",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/us-30-year-bond-yield-hits-fresh-24-year-high/articleshow/134763100.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 08:57:55 +0530"
+        "pubDate": "Wed, 07 Oct 2026 15:51:05 +0530"
       },
       {
-        "title": "RBI to hike repo rate by 25 bps? These rate sensitive sectors will be in focus on Wednesday",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-to-hike-repo-rate-by-25-bps-these-rate-sensitive-sectors-will-be-in-focus-on-wednesday/articleshow/134754911.cms",
+        "title": "Rupee nears record low despite RBI hike, governor says markets can be irrational",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-nears-record-low-despite-rbi-hike-governor-says-markets-can-be-irrational/articleshow/134763067.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 08:53:10 +0530"
+        "pubDate": "Wed, 07 Oct 2026 15:49:47 +0530"
       },
       {
-        "title": "Urban Company among 6 stocks showing RSI trending up",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/urban-company-among-6-stocks-showing-rsi-trending-up/slideshow/134754853.cms",
+        "title": "Bharti Airtel shares defy weak markets, rise over 2% after launch of new plans",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharti-airtel-shares-defy-weak-markets-rise-over-2-after-launch-of-new-plans/articleshow/134762997.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 08:39:31 +0530"
+        "pubDate": "Wed, 07 Oct 2026 15:46:20 +0530"
       },
       {
-        "title": "Oil Price Today (October 7): Crude oil rises to $101, up 45% in 3 months. Two reasons behind Wednesday’s surge",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-7-crude-oil-rises-to-101-up-45-in-3-months-two-reasons-behind-wednesdays-surge/articleshow/134754015.cms",
+        "title": "Global Market: UK Gilt yields rise as oil, US Treasury yields weigh on bonds",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-uk-gilt-yields-rise-as-oil-us-treasury-yields-weigh-on-bonds/articleshow/134762712.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 07:52:22 +0530"
+        "pubDate": "Wed, 07 Oct 2026 15:41:50 +0530"
       },
       {
-        "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade higher",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-titan-hcltech-share-price-07-october-2026/liveblog/134753791.cms",
+        "title": "Markets can be irrational in the short run: What RBI Governor Sanjay Malhotra said as rupee nears lifetime low",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/markets-can-be-irrational-in-the-short-run-what-rbi-guv-sanjay-malhotra-said-as-rupee-nears-lifetime-low/articleshow/134762634.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 07:31:06 +0530"
+        "pubDate": "Wed, 07 Oct 2026 15:38:07 +0530"
       },
       {
-        "title": "Positive Breakout: These 9 stocks cross above their 200 DMAs",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-9-stocks-cross-above-their-200-dmas/slideshow/134753798.cms",
+        "title": "Global Market: Nomura Asset Management targets global investors as Japan markets regain appeal",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-nomura-asset-management-targets-global-investors-as-japan-markets-regain-appeal/articleshow/134762175.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 07:30:42 +0530"
+        "pubDate": "Wed, 07 Oct 2026 15:13:25 +0530"
       },
       {
-        "title": "Gold flat as focus turns to Fed minutes",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-flat-as-focus-turns-to-fed-minutes/articleshow/134753704.cms",
+        "title": "Global Market: European shares fall as rising yields, oil lift risk concerns",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-fall-as-rising-yields-oil-lift-risk-concerns/articleshow/134762039.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 07:28:13 +0530"
+        "pubDate": "Wed, 07 Oct 2026 15:09:21 +0530"
       },
       {
-        "title": "Dollar holds losses as markets await Fed minutes, speakers",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-holds-losses-as-markets-await-fed-minutes-speakers/articleshow/134753668.cms",
+        "title": "Why Warren Buffett considers interest rates key to stock valuations",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-warren-buffett-considers-interest-rates-key-to-stock-valuations/articleshow/134761762.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 07:25:14 +0530"
+        "pubDate": "Wed, 07 Oct 2026 14:49:44 +0530"
       },
       {
-        "title": "Oil prices rise as storms and air strikes threaten supply",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-as-storms-and-air-strikes-threaten-supply/articleshow/134753652.cms",
+        "title": "HD Fire Protect IPO price band set at Rs 258-271; Rs 712 crore issue opens on October 13",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/hd-fire-protect-ipo-price-band-set-at-rs-258-271-rs-712-crore-issue-opens-on-october-13/articleshow/134761449.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 07:22:50 +0530"
+        "pubDate": "Wed, 07 Oct 2026 14:36:30 +0530"
       },
       {
-        "title": "Pimco touts diversification need as yields lure at 24-year high",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/pimco-bets-on-bonds-as-24-year-high-yields-lure/articleshow/134753343.cms",
+        "title": "Global Market: France faces rising market pressure to rein in public finances",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-france-faces-rising-market-pressure-to-rein-in-public-finances/articleshow/134760755.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 06:52:44 +0530"
+        "pubDate": "Wed, 07 Oct 2026 14:03:45 +0530"
       }
     ],
     "acct": [
       {
-        "title": "Vivo Money Laundering Case: Supreme Court Sets Aside Lookout Circular Against CA Nitin Garg, Says He Is... - LawBeat",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUWs2eV9uRHh1NE9GSXhsUnF2YzdBRGVkUW9mWExkRkl0ZWtNdVFVekx6bVgwSFNCa1NtSnVEVVdwMHFmWlVIY0lCanNKWmZRMjQ4cmhFaFFUYS1xMXRKb1RTTWlXUzZQaGxpem1EU1VBZnV5bkhMU292ZzJQOU9aNHMybEtXSzE4ak16Y0p0SWZZNldUZXB1TGRYU2NNWnJsa3MtcDNnQ2ZONG5WZjBuUWdOdElJZjF6MlB4OUhCaU5rWkJUbHlXQlVaaGlVSUJRWTlGT3VFeVQ3YWxlYktrQmtVTml1cnBXaGdMMTRuQUFoa0hlZzVzUkZ5aVXSAYICQVVfeXFMUHRlWGRCUDM5OGtkdW1xdllBZklhd2pEMVFMVGdBVTZQMWpHT3RNOE5UQ2hZNmMwVEFiM2ZzWWZ1QkppNGYxLTY1eFFWb0Rac2prR0Z6NVNNbWRVTlhBWXVyRFhhSHkxM3NWeF8wVURmYkIzS3E5VnNRTlN6VXA1QkI5YkEwM09xSWdHMmQzUUtsdU0xVlRDZC1EQ09Dbk5iMlVoN1I3LVFlVFZFTF9NVDNZMkpVc3Z3WTBjRG0wU1dDVXJUS0NCSmVFUEtRVmgzZXhTeEp5WVN2NDNpYzlFUy1KbThOU2M1bnFELU1ZZ1BUMmxwWEVreWR4ZC1lTGgybkFB?oc=5",
+        "title": "ICAI advances Ind AS 118 work, eyes Schedule III revamp - cfo.economictimes.indiatimes.com",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMENlQl9Vd0hwZkdlR0pKSkZtOEs5M1ByUlN6NnRkVmJ3S1A1WGdzc3JNNHhCOUNvcm1Vb1Bmd1dxdDBRQWZiNXphZ3dIOG9pRHZib2JqcF81V215cE90RGxjYjZiS19ONHJ2cEJvNW9aMHY3X3JVLXpKTnJrOUtMd1cxV2FzMldZUzdaWnc3NmZYRnF5a1VvV2dPLWU3TWpWTnFMVHRHWFZaYXB6UEhxRko1UmNzMkpjTnhBVEd6XzU2cXA4TEhraEctWdIB0AFBVV95cUxPd1I1elB0bFNTNVVpbmpSZGV2SklFdm1ZMVJaVmlMME1KeEE4LW5Pd0xfZjVQWklJZE4zekRQb0hmc1hFOUZhQS0zOWppa2tDbjZKSkZSTHZVX09fT2xkNWlNUUNacXl5ckV2bmFMdXIxQVJHTXVtb29Ta3BnekNXelNTNnd6aXQ0UmVHQ3ZyckUwSGRfdDM0RHNlRS1NZ1hJd21zeVdMZVgySzhHS0ZkbElPYnp5bi0yMW8tTk5DNXhSVDFoNnBxYnFYQUpkLUpp?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 06 Oct 2026 13:40:07 GMT"
+        "pubDate": "Tue, 06 Oct 2026 05:13:55 GMT"
       },
       {
         "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - Facebook",
@@ -163,16 +163,10 @@
         "pubDate": "Thu, 01 Oct 2026 14:27:58 GMT"
       },
       {
-        "title": "ICAI Removes CA’s Name Over ₹1,150 Cr Siphoning - Taxscan",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYVl4LTU5VGxhRkVaaEo3ZWFnVVJ0T3REWTVKT1Q3MG1EVWtfbzFVWEl4SUxCNW1saldZcEw3M0NKRUtUSkRycjVoYWlpdC1nWEV0V2VoLVdmWlFoSDQ5YTRXNjYteWVjTFhPbXgxQXFVSEVRM2hNYXJfUENobmlrYlFYR19xLWhMRFA1dy1yWDRSUjVIUDNMbVhXNDJVQWxCSUJXeFBlWUJBbFhpdUpzUkVoaU9ES3J2ekEyakVDdi11X0VCWklWYXdsc1Jfb05DUG9r?oc=5",
+        "title": "Vivo Money Laundering Case: Supreme Court Sets Aside Lookout Circular Against CA Nitin Garg, Says He Is... - LawBeat",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUWs2eV9uRHh1NE9GSXhsUnF2YzdBRGVkUW9mWExkRkl0ZWtNdVFVekx6bVgwSFNCa1NtSnVEVVdwMHFmWlVIY0lCanNKWmZRMjQ4cmhFaFFUYS1xMXRKb1RTTWlXUzZQaGxpem1EU1VBZnV5bkhMU292ZzJQOU9aNHMybEtXSzE4ak16Y0p0SWZZNldUZXB1TGRYU2NNWnJsa3MtcDNnQ2ZONG5WZjBuUWdOdElJZjF6MlB4OUhCaU5rWkJUbHlXQlVaaGlVSUJRWTlGT3VFeVQ3YWxlYktrQmtVTml1cnBXaGdMMTRuQUFoa0hlZzVzUkZ5aVXSAYICQVVfeXFMUHRlWGRCUDM5OGtkdW1xdllBZklhd2pEMVFMVGdBVTZQMWpHT3RNOE5UQ2hZNmMwVEFiM2ZzWWZ1QkppNGYxLTY1eFFWb0Rac2prR0Z6NVNNbWRVTlhBWXVyRFhhSHkxM3NWeF8wVURmYkIzS3E5VnNRTlN6VXA1QkI5YkEwM09xSWdHMmQzUUtsdU0xVlRDZC1EQ09Dbk5iMlVoN1I3LVFlVFZFTF9NVDNZMkpVc3Z3WTBjRG0wU1dDVXJUS0NCSmVFUEtRVmgzZXhTeEp5WVN2NDNpYzlFUy1KbThOU2M1bnFELU1ZZ1BUMmxwWEVreWR4ZC1lTGgybkFB?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 06 Oct 2026 11:41:00 GMT"
-      },
-      {
-        "title": "Oil shock, interest rates and credit risk: What has changed for our IFRS 9 and CECL scenarios? - Oxford Economics",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNWx3RU5fODBteWp5LXpZaUpQdmtWbEd5M3ZUeExISUR3aE8wWDNFZ25LUXlpTmtqRUZhUmdWZk1HdVBydV9VTS1ScmU2NWVyV1RfM3hvSU96RERNWC1DaWxuUmJFbGhKblJVQmM3blhDeFd3d1pzWkhUNEJKMGZYek1vSjhSaTNScVB3?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 06 Oct 2026 10:44:37 GMT"
+        "pubDate": "Tue, 06 Oct 2026 13:40:07 GMT"
       },
       {
         "title": "ICAI CA January 2027 Exam Dates - PW",
@@ -181,16 +175,16 @@
         "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT"
       },
       {
+        "title": "ICAI Removes CA’s Name Over ₹1,150 Cr Siphoning - Taxscan",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYVl4LTU5VGxhRkVaaEo3ZWFnVVJ0T3REWTVKT1Q3MG1EVWtfbzFVWEl4SUxCNW1saldZcEw3M0NKRUtUSkRycjVoYWlpdC1nWEV0V2VoLVdmWlFoSDQ5YTRXNjYteWVjTFhPbXgxQXFVSEVRM2hNYXJfUENobmlrYlFYR19xLWhMRFA1dy1yWDRSUjVIUDNMbVhXNDJVQWxCSUJXeFBlWUJBbFhpdUpzUkVoaU9ES3J2ekEyakVDdi11X0VCWklWYXdsc1Jfb05DUG9r?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 06 Oct 2026 11:41:00 GMT"
+      },
+      {
         "title": "Open Call: Essay Writing Competition on ICAI (India) - fundsforNGOs - Grants and Resources for Sustainability",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGU4NFVlUDlLOWQweHpudGNMYXBPSnBKbnd3UzNPbzR5bC1PVzR1c2pCd0dxNS13THcwTEFuRGdYcUl2NkVyb28xVFBNQ3FBb1lBeVRsZURhUlFEdTVjdFM2V3pTOHlVTThwLTFzMzdNMVFMZ1FUMmRlUENyWjRINmRvQ3NjcHNzcV80M3JOeGZoVmNfZGk00gGcAUFVX3lxTE1kWmlOOUl4U1pTU1JwbUI1cmFyNVhqc090dVFrai1BT1dKeGhuMjV2YTVqcVdnQVNLc1E2YmdHZms1bGdQTGNsOFJjNmNXRDNyMEdUUERNa1lhUnMydG9iY0RxOVRsempDUGVHTG13QnUwZzV4dHZydnp6RS1iTXVjdmowTG80MmZZVWVqQlh5NTJ5UHlsX1VCZ3ZONA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT"
-      },
-      {
-        "title": "ICAI moves to propose CA Act changes, draft in 2 months to build larger Indian accounting firms - cfo.economictimes.indiatimes.com",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVW1WNm8xd2k4THJOZEFJQlh4NEh0TEIteHQydEwwczdISXdMX3h5emYyX0t1TURkcGRyVVAzMWloZXNnTWtiSTZXbkJ5QWR4TzJGRmQ5QlZYLVBuWHBWSmVWS0JCODkxSXlaNE9oelhPenNlbTdaYkpxelNhVENPTnFKVjJDbFcxQXJnejllUnpud3dRX2t1NVJ2NGVnZlBEY0xkMWlQc3R4aFdGMENSZXc3ZG1SQU1iTXYzU3NjTV8yVnhndDAxYWQyZ2REVUtJYW95WkRWOHBleEJpMWtLdTNHazc2dnFFT0FNWTdaX3N6OG9ZNXV0NF91WHRNRm9D0gGGAkFVX3lxTFBSUXlaVmNpM0pLdW5NWklCXzRBQjBJdEVqU2FNN2l0X2lvaTludUZURzJkVnhnS3JwdFN0S2pnbWhTbXFodTkzelZWa2ZWZFRWb0UyZGplZUNOQ2pwbTRXS1RLTHgzQ2ltamlKdGtFMzRlOXViYVVTdnRtTHB3Q0U5TjdGOGlFa0V5UHBFSzIxVTVkY05SUmFTYXZuekxyV2lWWU9FZjAwM1NHTHRwVTZHV09oV2w5UElSYjU1LWNFb2Y0dk50anoyaFNOOWVjNFBzaWlmaVA4MzlDQjF2M1NKak1ZRlctOVJVbFh0aEtPMHFUVUNhSFhkMGxrekEzaWF4bDNUSXc?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT"
       },
       {
         "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
@@ -199,16 +193,22 @@
         "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
       },
       {
-        "title": "Abera Bioscience to transition to IFRS - www.marketscreener.com",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV1VRWU03MTFaLXNJRUFrOUYxOXF2NVJhdHJsY1VaNjRrT0pXb3A5dTZ0aGxjbTJQcV8xODNpRVpIWmJQM1FzSnB3MmJ0aWl3SWFYSk1PaS1xb0xBSXhldUhLYXlSb0NuNUpwUllDa1RsWWdJNVZYeWRZdlF1U2RoaUtWU01BNTNReUxTNGlPSzFOV1FKbkE?oc=5",
+        "title": "Oil shock, interest rates and credit risk: What has changed for our IFRS 9 and CECL scenarios? - Oxford Economics",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNWx3RU5fODBteWp5LXpZaUpQdmtWbEd5M3ZUeExISUR3aE8wWDNFZ25LUXlpTmtqRUZhUmdWZk1HdVBydV9VTS1ScmU2NWVyV1RfM3hvSU96RERNWC1DaWxuUmJFbGhKblJVQmM3blhDeFd3d1pzWkhUNEJKMGZYek1vSjhSaTNScVB3?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 06 Oct 2026 12:08:44 GMT"
+        "pubDate": "Tue, 06 Oct 2026 10:44:37 GMT"
       },
       {
-        "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFhGX19mVjU0d0pwWWhNRndFUjliUTNFXzMtbFB1aXVETlZMdXk2aU9mOXFfUU1CYUZNY211QUVFNmYwbERsOWtrM0p0ZVhHSnJFQlY4OFpGb1JkOEFGeGFGMTA3Mzdrc2kycVM1TDhuV0pmRG5SME4tUXNhdTRTcWs1WXhWVWtFanBYTVBNemt2b0dLbjhwZW9nRjB3UUY3OU5TbUxRWQ?oc=5",
+        "title": "ICAI releases landmark 10th Edition of Transfer Pricing Guidance Note under Section 92E; incorporates Finance Act, 2026 amendments, new block assessment mechanism and latest Form 3CEB reporting guidance - A2Z Taxcorp LLP",
+        "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPdkJzWGVTRXQxQmcyREhWQ2JTZ21qTldiQ2lELTJqUGF6N3pEQzJEajRZTFprY09pNFNRMzJta2NqNmw3dXp2b0UxT1RHSnZsVGY3aDdzcXV3MmptRXZOOEd0Wjc5d0l5ZFlmUmQ4eVJ5eXFHcHIxc29pZ3p1UE1GS2VaN0hmUmR6bTFDbUlmUmNnOUV3Qm5zdmlsaTh5R21EcWREcndUQ1BxY2RtRk9zQmtJdHFudnBDUnRXV2hrMFl5bGFhZ1d5LU9iRVpLVzIwSUdsLUhzVkpINjByX0M4akwzNVJ5THBmMExzT1Z4YS0yeTh2Q3lyTlFjNG5iM0ZUVW1UaTdnd25UZXJHbngtc1MxUVpfbV9lV3BPZ1IybTRrMHY5YlRtTjhkOU9LMFh6ZVNRTTB4S2NxaHc5S3JBczRBaw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 10 Jul 2026 14:35:46 GMT"
+        "pubDate": "Sat, 03 Oct 2026 07:18:13 GMT"
+      },
+      {
+        "title": "IFRS Foundation – Reducing the size of the boards - kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU1l0Z3lOZE93dENCcjlXVUxRRGE4a0RwSlN0U0JkSVFnbFc1RDFsQXNvT3RLLUdiZUJmVnRqLWoxS0tvME12N1plZ1pod1ZFWnllUWtqRXNZVjZIVkJHbG14ME0zOVJHVGsxSjYwUjJ1Ml9FS3V5Y1c0TVJjVUNMbUl3?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
       }
     ]
   }
