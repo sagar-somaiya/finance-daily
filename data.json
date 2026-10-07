@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T23:56:27.604305+00:00",
+  "generatedAt": "2026-10-07T03:46:35.232311+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,81 +72,81 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 85574,
-      "chg": -0.27
+      "price": 84125,
+      "chg": -1.55
     },
     "eth": {
-      "price": 2699.09,
-      "chg": -0.44
+      "price": 2611.69,
+      "chg": -3.15
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 96.38,
-    "eurinr": 108.04,
-    "gbpinr": 127.41
+    "usdinr": 96.47,
+    "eurinr": 108.54,
+    "gbpinr": 127.94
   },
   "news": {
     "corp": [
       {
-        "title": "US stocks: S&amp;P 500, Nasdaq reach record closing highs as focus pivots to earnings",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-nasdaq-reach-record-closing-highs-as-focus-pivots-to-earnings/articleshow/134749835.cms",
+        "title": "Kalyan Jewellers shares in focus as Q2 revenue grows 26% YoY, jeweller records 20% same-store-sales growth",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/kalyan-jewellers-shares-in-focus-as-q2-revenue-grows-26-yoy-jeweller-records-20-same-store-sales-growth/articleshow/134754963.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 01:40:11 +0530"
+        "pubDate": "Wed, 07 Oct 2026 08:57:55 +0530"
       },
       {
-        "title": "Kalshi launches perpetual futures tied to US 500 stock index",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/kalshi-launches-perpetual-futures-tied-to-us-500-stock-index/articleshow/134749721.cms",
+        "title": "RBI to hike repo rate by 25 bps? These rate sensitive sectors will be in focus on Wednesday",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-to-hike-repo-rate-by-25-bps-these-rate-sensitive-sectors-will-be-in-focus-on-wednesday/articleshow/134754911.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 01:12:01 +0530"
+        "pubDate": "Wed, 07 Oct 2026 08:53:10 +0530"
       },
       {
-        "title": "SAP to acquire workforce data firm TechWolf",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sap-to-acquire-workforce-data-firm-techwolf/articleshow/134748843.cms",
+        "title": "Urban Company among 6 stocks showing RSI trending up",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/urban-company-among-6-stocks-showing-rsi-trending-up/slideshow/134754853.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 00:11:57 +0530"
+        "pubDate": "Wed, 07 Oct 2026 08:39:31 +0530"
       },
       {
-        "title": "Gold industry expects price rise to $5,013 an ounce over 12 months",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/gold-industry-expects-price-rise-to-5013-an-ounce-over-12-months/articleshow/134748558.cms",
+        "title": "Oil Price Today (October 7): Crude oil rises to $101, up 45% in 3 months. Two reasons behind Wednesday’s surge",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-7-crude-oil-rises-to-101-up-45-in-3-months-two-reasons-behind-wednesdays-surge/articleshow/134754015.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 06 Oct 2026 23:57:20 +0530"
+        "pubDate": "Wed, 07 Oct 2026 07:52:22 +0530"
       },
       {
-        "title": "US EIA lifts Brent forecast to $98 as Iran war tightens global supplies",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-eia-lifts-brent-forecast-to-98-as-iran-war-tightens-global-supplies/articleshow/134748141.cms",
+        "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade higher",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-titan-hcltech-share-price-07-october-2026/liveblog/134753791.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 06 Oct 2026 23:52:59 +0530"
+        "pubDate": "Wed, 07 Oct 2026 07:31:06 +0530"
       },
       {
-        "title": "Fed plans bank-supervision overhaul to strengthen accountability, says Vice Chair Michelle Bowman",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/fed-plans-bank-supervision-overhaul-to-strengthen-accountability-says-vice-chair-michelle-bowman/articleshow/134747705.cms",
+        "title": "Positive Breakout: These 9 stocks cross above their 200 DMAs",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-9-stocks-cross-above-their-200-dmas/slideshow/134753798.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 06 Oct 2026 23:35:43 +0530"
+        "pubDate": "Wed, 07 Oct 2026 07:30:42 +0530"
       },
       {
-        "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/134744628.cms",
+        "title": "Gold flat as focus turns to Fed minutes",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-flat-as-focus-turns-to-fed-minutes/articleshow/134753704.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 06 Oct 2026 21:10:54 +0530"
+        "pubDate": "Wed, 07 Oct 2026 07:28:13 +0530"
       },
       {
-        "title": "Rupee loses 13 paise to close at 96.42 per US dollar",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-loses-13-paise-to-close-at-96-42-per-us-dollar/articleshow/134744262.cms",
+        "title": "Dollar holds losses as markets await Fed minutes, speakers",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-holds-losses-as-markets-await-fed-minutes-speakers/articleshow/134753668.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 06 Oct 2026 20:46:44 +0530"
+        "pubDate": "Wed, 07 Oct 2026 07:25:14 +0530"
       },
       {
-        "title": "US stocks: US software shares hit 2026 highs as AI disruption fears ease",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-software-shares-scale-fresh-2026-highs-as-ai-disruption-worries-fade/articleshow/134743282.cms",
+        "title": "Oil prices rise as storms and air strikes threaten supply",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-as-storms-and-air-strikes-threaten-supply/articleshow/134753652.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 06 Oct 2026 20:05:33 +0530"
+        "pubDate": "Wed, 07 Oct 2026 07:22:50 +0530"
       },
       {
-        "title": "Why US stocks are rising today: S&amp;P 500, Nasdaq hit records as easing yields and oil fuel AI rally",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-500-hits-intraday-record-high-as-ai-rally-continues/articleshow/134742430.cms",
+        "title": "Pimco touts diversification need as yields lure at 24-year high",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/pimco-bets-on-bonds-as-24-year-high-yields-lure/articleshow/134753343.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 06 Oct 2026 19:22:48 +0530"
+        "pubDate": "Wed, 07 Oct 2026 06:52:44 +0530"
       }
     ],
     "acct": [
@@ -193,16 +193,16 @@
         "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT"
       },
       {
-        "title": "Abera Bioscience to transition to IFRS - www.marketscreener.com",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV1VRWU03MTFaLXNJRUFrOUYxOXF2NVJhdHJsY1VaNjRrT0pXb3A5dTZ0aGxjbTJQcV8xODNpRVpIWmJQM1FzSnB3MmJ0aWl3SWFYSk1PaS1xb0xBSXhldUhLYXlSb0NuNUpwUllDa1RsWWdJNVZYeWRZdlF1U2RoaUtWU01BNTNReUxTNGlPSzFOV1FKbkE?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 06 Oct 2026 12:08:44 GMT"
-      },
-      {
         "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXhMY1ZubW01dm1XMHdBcDJvS2lyTkdrN0FoY0F4TjVwS0JDQ25TOWxicmduY0xJcVkwQ3c0dF9qMFVYU0FBblhRbWpXSEFmNDhaVE1OQW9KaUY1dXhzT3BQb0JydDU2aVRyeWFGaVZqZTYtOW52UHE1a1RZcE9idjUzSzdOWm1pUlh5cnR4ZjlvbHB1UDRYLWRCZE14M2ptcV83WWg0M3hBWDAxY0FVSGxWUTRFX09YUDRxa0ZvUVdzdkV2UVpRZFpJdmg5b2wtbHQ00gHaAUFVX3lxTE80dEE0dUlVelJhcnRKZEl6aDdOcF9Kb1FYWEw0a0pEblZrRmIyS21JMElVTTlJT0lHbDVaa1JmOE93VEVaYzBpeXgwNG1UY3VMbmVZT2RGSEJiSjhhdlZRVVdMb0hUWTdDbE5hM0RDOURMRGg0d29WT0NIbDUxMjlsNzBhUnpIVkFIWmhoUDZiaGN2NXZVQUMwZUxvdTdrSmxSZGh6RFF6OTY4Y0VsSnowNVRpdXd6WnBEUmt2c3pqbG9BUDBaeVdxVTVtN0lyQ2tVZWdkQTdrRHpR?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Abera Bioscience to transition to IFRS - www.marketscreener.com",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNV1VRWU03MTFaLXNJRUFrOUYxOXF2NVJhdHJsY1VaNjRrT0pXb3A5dTZ0aGxjbTJQcV8xODNpRVpIWmJQM1FzSnB3MmJ0aWl3SWFYSk1PaS1xb0xBSXhldUhLYXlSb0NuNUpwUllDa1RsWWdJNVZYeWRZdlF1U2RoaUtWU01BNTNReUxTNGlPSzFOV1FKbkE?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 06 Oct 2026 12:08:44 GMT"
       },
       {
         "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
