@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T09:13:25.124050+00:00",
+  "generatedAt": "2026-10-08T16:40:48.075326+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 82977,
-      "chg": -1.13
+      "price": 81205,
+      "chg": -2.68
     },
     "eth": {
-      "price": 2564.22,
-      "chg": -1.71
+      "price": 2429.23,
+      "chg": -5.43
     }
   },
   "fx": {
@@ -89,78 +89,78 @@
   "news": {
     "corp": [
       {
-        "title": "Nifty just 100 points away from a new 52-week low. What technical levels may bring some support?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-just-100-points-away-from-a-new-52-week-low-what-technical-levels-may-bring-some-support/articleshow/134785090.cms",
+        "title": "Infosys, Wipro ADRs fall nearly 3% after TCS earnings, US crackdown on H-1B-linked green card programme",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/infosys-wipro-adrs-fall-nearly-3-after-tcs-earnings-us-crackdown-on-h-1b-linked-green-card-programme/articleshow/134794915.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 14:17:09 +0530"
+        "pubDate": "Thu, 08 Oct 2026 21:27:31 +0530"
       },
       {
-        "title": "Jefferies sees 76% upside in Kalyan Jewellers in bull case; here is why",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-sees-76-upside-in-kalyan-jewellers-in-bull-case-here-is-why/articleshow/134784177.cms",
+        "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/134794702.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 13:33:19 +0530"
+        "pubDate": "Thu, 08 Oct 2026 21:17:00 +0530"
       },
       {
-        "title": "Germany regains safe haven status as European bond risks mount",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/germany-regains-safe-haven-status-as-european-bond-risks-mount/articleshow/134784080.cms",
+        "title": "Market Trading Guide: Deepa Jewellers among 2 stock recommendations for Friday",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-deepa-jewellers-among-2-stock-recommendations-for-friday/articleshow/134794477.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 13:26:45 +0530"
+        "pubDate": "Thu, 08 Oct 2026 21:00:03 +0530"
       },
       {
-        "title": "Mastek shares defy weak markets, gain 3% after Staffordshire County council picks company for Oracle Cloud transformation",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/mastek-shares-defy-weak-markets-gain-3-after-staffordshire-county-council-picks-company-for-oracle-cloud-transformation/articleshow/134783762.cms",
+        "title": "Rs 9,395 crore block deal! GQG exits ITC shares after a sharp 30% crash this year",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-9395-crore-block-deal-gqg-exits-itc-shares-after-a-sharp-30-crash-this-year/articleshow/134793639.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 13:13:07 +0530"
+        "pubDate": "Thu, 08 Oct 2026 20:07:46 +0530"
       },
       {
-        "title": "Global Market: TSMC third-quarter revenue jumps 50% as AI chip demand surges",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-tsmc-third-quarter-revenue-jumps-50-as-ai-chip-demand-surges/articleshow/134783719.cms",
+        "title": "US stocks: US markets fall as higher yields and oil prices flag inflation risk",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-as-higher-yields-and-oil-prices-flag-inflation-risk/articleshow/134793270.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 13:07:44 +0530"
+        "pubDate": "Thu, 08 Oct 2026 19:49:57 +0530"
       },
       {
-        "title": "Nilesh Shah on What India Needs to Do to Bring FPIs Back",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nilesh-shah-on-what-india-needs-to-do-to-bring-fpis-back/videoshow/134783736.cms",
+        "title": "US jobless claims hover near 57-year low for fourth consecutive week",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-jobless-claims-hover-near-57-year-low-for-fourth-consecutive-week/articleshow/134793234.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 13:06:55 +0530"
+        "pubDate": "Thu, 08 Oct 2026 19:46:02 +0530"
       },
       {
-        "title": "Multibagger stock! Cupid shares jump 4%, soar 238% in 2026. What's driving the rally?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/multibagger-stock-cupid-shares-jump-4-soar-238-in-2026-whats-driving-the-rally/articleshow/134782891.cms",
+        "title": "Absence of AI in equities will become India's strength in a year, mkts to start attracting flows: CEA",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/absence-of-ai-in-equities-will-become-indias-strength-in-a-year-mkts-to-start-attracting-flows-cea/articleshow/134793195.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 12:44:23 +0530"
+        "pubDate": "Thu, 08 Oct 2026 19:44:02 +0530"
       },
       {
-        "title": "Paytm shares crash 10%, wipe off Rs 10,970 crore from m-cap. More pain ahead?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-crash-10-wipe-off-rs-10970-crore-m-cap-more-pain-ahead/articleshow/134783164.cms",
+        "title": "PepsiCo to cut costs as weak North America business hurts annual core profit forecast",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/pepsico-to-cut-costs-as-weak-north-america-business-hurts-annual-core-profit-forecast/articleshow/134792154.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 12:43:08 +0530"
+        "pubDate": "Thu, 08 Oct 2026 19:00:24 +0530"
       },
       {
-        "title": "Indian firms seen posting faster profit growth despite global headwinds",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-firms-seen-posting-faster-profit-growth-despite-global-headwinds/articleshow/134782749.cms",
+        "title": "China has no need or intention to weaken yuan for trade edge, central bank says",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/china-has-no-need-or-intention-to-weaken-yuan-for-trade-edge-central-bank-says/articleshow/134792111.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 12:28:12 +0530"
+        "pubDate": "Thu, 08 Oct 2026 18:58:38 +0530"
       },
       {
-        "title": "ET Alpha Wealth Summit 2.0: Bear markets can breed best investment ideas, says Nilesh Shah",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-bear-markets-can-breed-best-investment-ideas-says-nilesh-shah/articleshow/134781340.cms",
+        "title": "Bank of England's Bailey says government debt commitments needed more than ever",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bank-of-englands-bailey-says-government-debt-commitments-needed-more-than-ever/articleshow/134792070.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 11:53:24 +0530"
+        "pubDate": "Thu, 08 Oct 2026 18:56:10 +0530"
       }
     ],
     "acct": [
-      {
-        "title": "Banks: Are you ready for IFRS 18? - kpmg.com",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcHJBbm56U1ZSdmVSZGk2VlF6aXYxd1hjOHZOaGhSa0VEVDR3UkVuMTdfOHQ0TmduMnc4RVNKUDNVVDhiczRwazl4RWdJUGJ4dWRReTNIM3cxLU1UeGkxS0RwTlJwdVhJTDA5YWttbW1UTkxsU05BS0dmeHhGdlRYYzc0QlpFZ0VUUjVmTEJ0MmZNSW9B?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 07 Oct 2026 17:38:27 GMT"
-      },
       {
         "title": "ICAI advances Ind AS 118 work, eyes Schedule III revamp - cfo.economictimes.indiatimes.com",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMENlQl9Vd0hwZkdlR0pKSkZtOEs5M1ByUlN6NnRkVmJ3S1A1WGdzc3JNNHhCOUNvcm1Vb1Bmd1dxdDBRQWZiNXphZ3dIOG9pRHZib2JqcF81V215cE90RGxjYjZiS19ONHJ2cEJvNW9aMHY3X3JVLXpKTnJrOUtMd1cxV2FzMldZUzdaWnc3NmZYRnF5a1VvV2dPLWU3TWpWTnFMVHRHWFZaYXB6UEhxRko1UmNzMkpjTnhBVEd6XzU2cXA4TEhraEctWdIB0AFBVV95cUxPd1I1elB0bFNTNVVpbmpSZGV2SklFdm1ZMVJaVmlMME1KeEE4LW5Pd0xfZjVQWklJZE4zekRQb0hmc1hFOUZhQS0zOWppa2tDbjZKSkZSTHZVX09fT2xkNWlNUUNacXl5ckV2bmFMdXIxQVJHTXVtb29Ta3BnekNXelNTNnd6aXQ0UmVHQ3ZyckUwSGRfdDM0RHNlRS1NZ1hJd21zeVdMZVgySzhHS0ZkbElPYnp5bi0yMW8tTk5DNXhSVDFoNnBxYnFYQUpkLUpp?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 06 Oct 2026 05:13:55 GMT"
+      },
+      {
+        "title": "Banks: Are you ready for IFRS 18? - kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcHJBbm56U1ZSdmVSZGk2VlF6aXYxd1hjOHZOaGhSa0VEVDR3UkVuMTdfOHQ0TmduMnc4RVNKUDNVVDhiczRwazl4RWdJUGJ4dWRReTNIM3cxLU1UeGkxS0RwTlJwdVhJTDA5YWttbW1UTkxsU05BS0dmeHhGdlRYYzc0QlpFZ0VUUjVmTEJ0MmZNSW9B?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 07 Oct 2026 17:38:27 GMT"
       },
       {
         "title": "IFRS 18: A New Era for Financial Disclosure - FTI Consulting",
@@ -175,10 +175,10 @@
         "pubDate": "Thu, 01 Oct 2026 14:27:58 GMT"
       },
       {
-        "title": "Vivo Money Laundering Case: Supreme Court Sets Aside Lookout Circular Against CA Nitin Garg, Says He Is... - LawBeat",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUWs2eV9uRHh1NE9GSXhsUnF2YzdBRGVkUW9mWExkRkl0ZWtNdVFVekx6bVgwSFNCa1NtSnVEVVdwMHFmWlVIY0lCanNKWmZRMjQ4cmhFaFFUYS1xMXRKb1RTTWlXUzZQaGxpem1EU1VBZnV5bkhMU292ZzJQOU9aNHMybEtXSzE4ak16Y0p0SWZZNldUZXB1TGRYU2NNWnJsa3MtcDNnQ2ZONG5WZjBuUWdOdElJZjF6MlB4OUhCaU5rWkJUbHlXQlVaaGlVSUJRWTlGT3VFeVQ3YWxlYktrQmtVTml1cnBXaGdMMTRuQUFoa0hlZzVzUkZ5aVXSAYICQVVfeXFMUHRlWGRCUDM5OGtkdW1xdllBZklhd2pEMVFMVGdBVTZQMWpHT3RNOE5UQ2hZNmMwVEFiM2ZzWWZ1QkppNGYxLTY1eFFWb0Rac2prR0Z6NVNNbWRVTlhBWXVyRFhhSHkxM3NWeF8wVURmYkIzS3E5VnNRTlN6VXA1QkI5YkEwM09xSWdHMmQzUUtsdU0xVlRDZC1EQ09Dbk5iMlVoN1I3LVFlVFZFTF9NVDNZMkpVc3Z3WTBjRG0wU1dDVXJUS0NCSmVFUEtRVmgzZXhTeEp5WVN2NDNpYzlFUy1KbThOU2M1bnFELU1ZZ1BUMmxwWEVreWR4ZC1lTGgybkFB?oc=5",
+        "title": "Open Call: Essay Writing Competition on ICAI (India) - fundsforNGOs - Grants and Resources for Sustainability",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGU4NFVlUDlLOWQweHpudGNMYXBPSnBKbnd3UzNPbzR5bC1PVzR1c2pCd0dxNS13THcwTEFuRGdYcUl2NkVyb28xVFBNQ3FBb1lBeVRsZURhUlFEdTVjdFM2V3pTOHlVTThwLTFzMzdNMVFMZ1FUMmRlUENyWjRINmRvQ3NjcHNzcV80M3JOeGZoVmNfZGk00gGcAUFVX3lxTE1kWmlOOUl4U1pTU1JwbUI1cmFyNVhqc090dVFrai1BT1dKeGhuMjV2YTVqcVdnQVNLc1E2YmdHZms1bGdQTGNsOFJjNmNXRDNyMEdUUERNa1lhUnMydG9iY0RxOVRsempDUGVHTG13QnUwZzV4dHZydnp6RS1iTXVjdmowTG80MmZZVWVqQlh5NTJ5UHlsX1VCZ3ZONA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 06 Oct 2026 13:40:07 GMT"
+        "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT"
       },
       {
         "title": "ICAI Removes CA’s Name Over ₹1,150 Cr Siphoning - Taxscan",
@@ -187,16 +187,16 @@
         "pubDate": "Tue, 06 Oct 2026 11:41:00 GMT"
       },
       {
-        "title": "Open Call: Essay Writing Competition on ICAI (India) - fundsforNGOs - Grants and Resources for Sustainability",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGU4NFVlUDlLOWQweHpudGNMYXBPSnBKbnd3UzNPbzR5bC1PVzR1c2pCd0dxNS13THcwTEFuRGdYcUl2NkVyb28xVFBNQ3FBb1lBeVRsZURhUlFEdTVjdFM2V3pTOHlVTThwLTFzMzdNMVFMZ1FUMmRlUENyWjRINmRvQ3NjcHNzcV80M3JOeGZoVmNfZGk00gGcAUFVX3lxTE1kWmlOOUl4U1pTU1JwbUI1cmFyNVhqc090dVFrai1BT1dKeGhuMjV2YTVqcVdnQVNLc1E2YmdHZms1bGdQTGNsOFJjNmNXRDNyMEdUUERNa1lhUnMydG9iY0RxOVRsempDUGVHTG13QnUwZzV4dHZydnp6RS1iTXVjdmowTG80MmZZVWVqQlh5NTJ5UHlsX1VCZ3ZONA?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT"
-      },
-      {
         "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXhMY1ZubW01dm1XMHdBcDJvS2lyTkdrN0FoY0F4TjVwS0JDQ25TOWxicmduY0xJcVkwQ3c0dF9qMFVYU0FBblhRbWpXSEFmNDhaVE1OQW9KaUY1dXhzT3BQb0JydDU2aVRyeWFGaVZqZTYtOW52UHE1a1RZcE9idjUzSzdOWm1pUlh5cnR4ZjlvbHB1UDRYLWRCZE14M2ptcV83WWg0M3hBWDAxY0FVSGxWUTRFX09YUDRxa0ZvUVdzdkV2UVpRZFpJdmg5b2wtbHQ00gHaAUFVX3lxTE80dEE0dUlVelJhcnRKZEl6aDdOcF9Kb1FYWEw0a0pEblZrRmIyS21JMElVTTlJT0lHbDVaa1JmOE93VEVaYzBpeXgwNG1UY3VMbmVZT2RGSEJiSjhhdlZRVVdMb0hUWTdDbE5hM0RDOURMRGg0d29WT0NIbDUxMjlsNzBhUnpIVkFIWmhoUDZiaGN2NXZVQUMwZUxvdTdrSmxSZGh6RFF6OTY4Y0VsSnowNVRpdXd6WnBEUmt2c3pqbG9BUDBaeVdxVTVtN0lyQ2tVZWdkQTdrRHpR?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFhGX19mVjU0d0pwWWhNRndFUjliUTNFXzMtbFB1aXVETlZMdXk2aU9mOXFfUU1CYUZNY211QUVFNmYwbERsOWtrM0p0ZVhHSnJFQlY4OFpGb1JkOEFGeGFGMTA3Mzdrc2kycVM1TDhuV0pmRG5SME4tUXNhdTRTcWs1WXhWVWtFanBYTVBNemt2b0dLbjhwZW9nRjB3UUY3OU5TbUxRWQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 10 Jul 2026 14:35:46 GMT"
       },
       {
         "title": "Oil shock, interest rates and credit risk: What has changed for our IFRS 9 and CECL scenarios? - Oxford Economics",
