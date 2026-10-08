@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T02:10:05.628467+00:00",
+  "generatedAt": "2026-10-08T09:13:25.124050+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 83004,
-      "chg": -1.1
+      "price": 82977,
+      "chg": -1.13
     },
     "eth": {
-      "price": 2576.77,
-      "chg": -1.39
+      "price": 2564.22,
+      "chg": -1.71
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
-        "title": "Sebi unveils six-tier credit risk-o-meter for debt securities",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-unveils-six-tier-credit-risk-o-meter-for-debt-securities/articleshow/134777374.cms",
+        "title": "Nifty just 100 points away from a new 52-week low. What technical levels may bring some support?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-just-100-points-away-from-a-new-52-week-low-what-technical-levels-may-bring-some-support/articleshow/134785090.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 06:50:58 +0530"
+        "pubDate": "Thu, 08 Oct 2026 14:17:09 +0530"
       },
       {
-        "title": "PCBL Chemical shares gain 25% in 6 months on supply, export optimism",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/pcbl-chemical-rises-25-on-supply-export-and-earnings-hopes/articleshow/134777293.cms",
+        "title": "Jefferies sees 76% upside in Kalyan Jewellers in bull case; here is why",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-sees-76-upside-in-kalyan-jewellers-in-bull-case-here-is-why/articleshow/134784177.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 06:39:23 +0530"
+        "pubDate": "Thu, 08 Oct 2026 13:33:19 +0530"
       },
       {
-        "title": "Global Market Today: Asian stocks drop on inflation concerns, oil gains",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-on-inflation-concerns-oil-gains/articleshow/134777205.cms",
+        "title": "Germany regains safe haven status as European bond risks mount",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/germany-regains-safe-haven-status-as-european-bond-risks-mount/articleshow/134784080.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 06:07:13 +0530"
+        "pubDate": "Thu, 08 Oct 2026 13:26:45 +0530"
       },
       {
-        "title": "FPIs sell Rs 21,745 crore in second half of September, oil &amp; gas, auto &amp; financials lead outflows",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-sell-rs-21745-crore-in-second-half-of-sep-in-oil-gas-auto-financials/articleshow/134777179.cms",
+        "title": "Mastek shares defy weak markets, gain 3% after Staffordshire County council picks company for Oracle Cloud transformation",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/mastek-shares-defy-weak-markets-gain-3-after-staffordshire-county-council-picks-company-for-oracle-cloud-transformation/articleshow/134783762.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 06:05:29 +0530"
+        "pubDate": "Thu, 08 Oct 2026 13:13:07 +0530"
       },
       {
-        "title": "Stocks in news: TCS, Adani Enterprises, Ola Electric, HCL Tech, Tata Power and Varun Beverages",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-adani-enterprises-ola-electric-hcl-tech-tata-power-and-varun-beverages/articleshow/134771196.cms",
+        "title": "Global Market: TSMC third-quarter revenue jumps 50% as AI chip demand surges",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-tsmc-third-quarter-revenue-jumps-50-as-ai-chip-demand-surges/articleshow/134783719.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 06:00:00 +0530"
+        "pubDate": "Thu, 08 Oct 2026 13:07:44 +0530"
       },
       {
-        "title": "D-St braces for weak opening on negative GIFT Nifty cues",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134770728.cms",
+        "title": "Nilesh Shah on What India Needs to Do to Bring FPIs Back",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nilesh-shah-on-what-india-needs-to-do-to-bring-fpis-back/videoshow/134783736.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 06:00:00 +0530"
+        "pubDate": "Thu, 08 Oct 2026 13:06:55 +0530"
       },
       {
-        "title": "RBI raises repo rate to 5.5% in first hike under Governor Sanjay Malhotra, shifts stance to ‘calibrated tightening’",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-raises-repo-rate-to-5-5-in-first-hike-under-governor-sanjay-malhotra-shifts-stance-to-calibrated-tightening/articleshow/134777167.cms",
+        "title": "Multibagger stock! Cupid shares jump 4%, soar 238% in 2026. What's driving the rally?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/multibagger-stock-cupid-shares-jump-4-soar-238-in-2026-whats-driving-the-rally/articleshow/134782891.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 05:30:00 +0530"
+        "pubDate": "Thu, 08 Oct 2026 12:44:23 +0530"
       },
       {
-        "title": "US stocks: US market ends lower, off record highs, as Treasury yields climb",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-lower-off-record-highs-as-treasury-yields-climb/articleshow/134774342.cms",
+        "title": "Paytm shares crash 10%, wipe off Rs 10,970 crore from m-cap. More pain ahead?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-shares-crash-10-wipe-off-rs-10970-crore-m-cap-more-pain-ahead/articleshow/134783164.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 01:40:05 +0530"
+        "pubDate": "Thu, 08 Oct 2026 12:43:08 +0530"
       },
       {
-        "title": "What will happen to economy if India-US FTA doesn't happen? RBI Governor reveals",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/what-will-happen-to-economy-if-india-us-fta-doesnt-happen-rbi-governor-reveals/articleshow/134777246.cms",
+        "title": "Indian firms seen posting faster profit growth despite global headwinds",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-firms-seen-posting-faster-profit-growth-despite-global-headwinds/articleshow/134782749.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 00:27:17 +0530"
+        "pubDate": "Thu, 08 Oct 2026 12:28:12 +0530"
       },
       {
-        "title": "US Fed minutes signal another rate hike by year-end as inflation stays high",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-minutes-show-members-backing-another-rate-hike-before-year-end/articleshow/134773656.cms",
+        "title": "ET Alpha Wealth Summit 2.0: Bear markets can breed best investment ideas, says Nilesh Shah",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-bear-markets-can-breed-best-investment-ideas-says-nilesh-shah/articleshow/134781340.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 00:23:56 +0530"
+        "pubDate": "Thu, 08 Oct 2026 11:53:24 +0530"
       }
     ],
     "acct": [
@@ -157,16 +157,16 @@
         "pubDate": "Wed, 07 Oct 2026 17:38:27 GMT"
       },
       {
-        "title": "IFRS 18: A New Era for Financial Disclosure - FTI Consulting",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ1pwa2xXVTViUU11UVJUZGNnY3hfeTFmeVpuYlpWcVA2M3lTZ044bEQ1bkZrNnZkVXg3SURKTmMyYlRlakJZZzR2NGY3RW5XZjgxMVk5dUhqNjd5RzhZVEZ3WFBTb0xjVmg2TnRQVEEzOGh5Z3diZXpnZ0pXc19Kdi11Q3dKbGl1eVRr?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 08 Oct 2026 00:50:44 GMT"
-      },
-      {
         "title": "ICAI advances Ind AS 118 work, eyes Schedule III revamp - cfo.economictimes.indiatimes.com",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMENlQl9Vd0hwZkdlR0pKSkZtOEs5M1ByUlN6NnRkVmJ3S1A1WGdzc3JNNHhCOUNvcm1Vb1Bmd1dxdDBRQWZiNXphZ3dIOG9pRHZib2JqcF81V215cE90RGxjYjZiS19ONHJ2cEJvNW9aMHY3X3JVLXpKTnJrOUtMd1cxV2FzMldZUzdaWnc3NmZYRnF5a1VvV2dPLWU3TWpWTnFMVHRHWFZaYXB6UEhxRko1UmNzMkpjTnhBVEd6XzU2cXA4TEhraEctWdIB0AFBVV95cUxPd1I1elB0bFNTNVVpbmpSZGV2SklFdm1ZMVJaVmlMME1KeEE4LW5Pd0xfZjVQWklJZE4zekRQb0hmc1hFOUZhQS0zOWppa2tDbjZKSkZSTHZVX09fT2xkNWlNUUNacXl5ckV2bmFMdXIxQVJHTXVtb29Ta3BnekNXelNTNnd6aXQ0UmVHQ3ZyckUwSGRfdDM0RHNlRS1NZ1hJd21zeVdMZVgySzhHS0ZkbElPYnp5bi0yMW8tTk5DNXhSVDFoNnBxYnFYQUpkLUpp?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 06 Oct 2026 05:13:55 GMT"
+      },
+      {
+        "title": "IFRS 18: A New Era for Financial Disclosure - FTI Consulting",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ1pwa2xXVTViUU11UVJUZGNnY3hfeTFmeVpuYlpWcVA2M3lTZ044bEQ1bkZrNnZkVXg3SURKTmMyYlRlakJZZzR2NGY3RW5XZjgxMVk5dUhqNjd5RzhZVEZ3WFBTb0xjVmg2TnRQVEEzOGh5Z3diZXpnZ0pXc19Kdi11Q3dKbGl1eVRr?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 08 Oct 2026 00:50:44 GMT"
       },
       {
         "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - Facebook",
