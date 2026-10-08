@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T22:26:49.630663+00:00",
+  "generatedAt": "2026-10-08T02:10:05.628467+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,22 +72,64 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 83252,
-      "chg": -2.67
+      "price": 83004,
+      "chg": -1.1
     },
     "eth": {
-      "price": 2568.18,
-      "chg": -4.76
+      "price": 2576.77,
+      "chg": -1.39
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 96.47,
-    "eurinr": 108.54,
-    "gbpinr": 127.94
+    "usdinr": 96.83,
+    "eurinr": 108.44,
+    "gbpinr": 127.99
   },
   "news": {
     "corp": [
+      {
+        "title": "Sebi unveils six-tier credit risk-o-meter for debt securities",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-unveils-six-tier-credit-risk-o-meter-for-debt-securities/articleshow/134777374.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 08 Oct 2026 06:50:58 +0530"
+      },
+      {
+        "title": "PCBL Chemical shares gain 25% in 6 months on supply, export optimism",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/pcbl-chemical-rises-25-on-supply-export-and-earnings-hopes/articleshow/134777293.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 08 Oct 2026 06:39:23 +0530"
+      },
+      {
+        "title": "Global Market Today: Asian stocks drop on inflation concerns, oil gains",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-on-inflation-concerns-oil-gains/articleshow/134777205.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 08 Oct 2026 06:07:13 +0530"
+      },
+      {
+        "title": "FPIs sell Rs 21,745 crore in second half of September, oil &amp; gas, auto &amp; financials lead outflows",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-sell-rs-21745-crore-in-second-half-of-sep-in-oil-gas-auto-financials/articleshow/134777179.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 08 Oct 2026 06:05:29 +0530"
+      },
+      {
+        "title": "Stocks in news: TCS, Adani Enterprises, Ola Electric, HCL Tech, Tata Power and Varun Beverages",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-adani-enterprises-ola-electric-hcl-tech-tata-power-and-varun-beverages/articleshow/134771196.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 08 Oct 2026 06:00:00 +0530"
+      },
+      {
+        "title": "D-St braces for weak opening on negative GIFT Nifty cues",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134770728.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 08 Oct 2026 06:00:00 +0530"
+      },
+      {
+        "title": "RBI raises repo rate to 5.5% in first hike under Governor Sanjay Malhotra, shifts stance to ‘calibrated tightening’",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-raises-repo-rate-to-5-5-in-first-hike-under-governor-sanjay-malhotra-shifts-stance-to-calibrated-tightening/articleshow/134777167.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 08 Oct 2026 05:30:00 +0530"
+      },
       {
         "title": "US stocks: US market ends lower, off record highs, as Treasury yields climb",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-lower-off-record-highs-as-treasury-yields-climb/articleshow/134774342.cms",
@@ -95,58 +137,16 @@
         "pubDate": "Thu, 08 Oct 2026 01:40:05 +0530"
       },
       {
+        "title": "What will happen to economy if India-US FTA doesn't happen? RBI Governor reveals",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/what-will-happen-to-economy-if-india-us-fta-doesnt-happen-rbi-governor-reveals/articleshow/134777246.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 08 Oct 2026 00:27:17 +0530"
+      },
+      {
         "title": "US Fed minutes signal another rate hike by year-end as inflation stays high",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-minutes-show-members-backing-another-rate-hike-before-year-end/articleshow/134773656.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Thu, 08 Oct 2026 00:23:56 +0530"
-      },
-      {
-        "title": "Foreign investors pull out $26.3 billion from emerging markets in September as hawkish Fed pushes US Treasury yields higher",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/foreign-investors-pull-out-26-3-billion-from-emerging-markets-in-september-as-hawkish-fed-pushes-us-treasury-yields-higher/articleshow/134772977.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 23:56:54 +0530"
-      },
-      {
-        "title": "US bond selloff resumes as 10- and 30-year yields hit fresh 24-year highs",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-bonds-selloff-resumes-as-10-year-30-yields-hit-new-24-year-high/articleshow/134771853.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 23:01:51 +0530"
-      },
-      {
-        "title": "RBI says it will ensure 'undervalued' Rupee finds its correct level",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-says-it-will-ensure-undervalued-rupee-finds-its-correct-level/articleshow/134770024.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 21:36:09 +0530"
-      },
-      {
-        "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/134769947.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 21:30:50 +0530"
-      },
-      {
-        "title": "Market Trading Guide: Kotak Mahindra Bank among 5 stock recommendations for Thursday",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-kotak-mahindra-bank-among-5-stock-recommendations-for-thursday/slideshow/134769639.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 21:00:12 +0530"
-      },
-      {
-        "title": "US stocks: Webull shares plunge 18% after report flags structural ties to China",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/webull-sinks-over-19-after-cnbc-reports-us-house-panel-flagged-china-ties/articleshow/134769396.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 20:48:23 +0530"
-      },
-      {
-        "title": "UK 30-year gilt yields hit 28-year high in global selloff",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-30-year-gilt-yields-hit-28-year-high-in-global-selloff/articleshow/134769020.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 20:25:28 +0530"
-      },
-      {
-        "title": "US SEC will not pursue charges against climate group, warns of disclosure obligations",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-sec-will-not-pursue-charges-against-climate-group-warns-of-disclosure-obligations/articleshow/134768910.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 07 Oct 2026 20:23:50 +0530"
       }
     ],
     "acct": [
@@ -155,6 +155,12 @@
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcHJBbm56U1ZSdmVSZGk2VlF6aXYxd1hjOHZOaGhSa0VEVDR3UkVuMTdfOHQ0TmduMnc4RVNKUDNVVDhiczRwazl4RWdJUGJ4dWRReTNIM3cxLU1UeGkxS0RwTlJwdVhJTDA5YWttbW1UTkxsU05BS0dmeHhGdlRYYzc0QlpFZ0VUUjVmTEJ0MmZNSW9B?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 07 Oct 2026 17:38:27 GMT"
+      },
+      {
+        "title": "IFRS 18: A New Era for Financial Disclosure - FTI Consulting",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ1pwa2xXVTViUU11UVJUZGNnY3hfeTFmeVpuYlpWcVA2M3lTZ044bEQ1bkZrNnZkVXg3SURKTmMyYlRlakJZZzR2NGY3RW5XZjgxMVk5dUhqNjd5RzhZVEZ3WFBTb0xjVmg2TnRQVEEzOGh5Z3diZXpnZ0pXc19Kdi11Q3dKbGl1eVRr?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 08 Oct 2026 00:50:44 GMT"
       },
       {
         "title": "ICAI advances Ind AS 118 work, eyes Schedule III revamp - cfo.economictimes.indiatimes.com",
@@ -167,12 +173,6 @@
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM2RvTTBFUXU5c1lGVDlQSFpJYWJkQXNFSHFiaG1MWFlPYmZQMGh4UDNNcGI2elptY1J3SjFJdUNCY1I5MVZ0TEt6ZFFMVk1xOXhNaEZNeGJhbGkxQWwxalM5TFlBQ2dWdjhQWVk4dGpkY2JzR0dmeV9RYk9TM2ljSDFpMDI4cFAxZXphZG4zOEdKNkowTGZkQnZKLVh3RExza2RBRmU3UXFwSXBndVlneTdLUjlXLV9GdWZ1U2JhckNMTUxhMmxISW50UHVyaUEyNnVETERzWmt4YjlxRzRfRDBB?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 01 Oct 2026 14:27:58 GMT"
-      },
-      {
-        "title": "ICAI CA January 2027 Exam Dates - PW",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VM2lnWXNXdXZLTWp6UHBjT0IxU21NUFF3dVBHRTFzWl9lZFFuc0laVnFBM0R0NGk5RWRWQWNDUWdBQkFIU1l3c1N6UURmOWNneXljX2pBeS1TOUQ2X0pIYVFrdnJrRms?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT"
       },
       {
         "title": "Vivo Money Laundering Case: Supreme Court Sets Aside Lookout Circular Against CA Nitin Garg, Says He Is... - LawBeat",
