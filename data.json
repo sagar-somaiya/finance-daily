@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T16:40:48.075326+00:00",
+  "generatedAt": "2026-10-08T21:39:12.773822+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 81205,
-      "chg": -2.68
+      "price": 81622,
+      "chg": -1.95
     },
     "eth": {
-      "price": 2429.23,
-      "chg": -5.43
+      "price": 2472.81,
+      "chg": -3.69
     }
   },
   "fx": {
@@ -88,6 +88,30 @@
   },
   "news": {
     "corp": [
+      {
+        "title": "US stocks: S&amp;P 500, Nasdaq end lower as crude prices jump, chip stocks weigh",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-nasdaq-end-lower-as-crude-prices-jump-chip-stocks-weigh/articleshow/134800283.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 09 Oct 2026 01:38:56 +0530"
+      },
+      {
+        "title": "Tech stocks drag Nasdaq lower on report of OpenAI revenue fall, high yields",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/tech-stocks-drag-nasdaq-lower-on-report-of-openai-revenue-fall-high-yields/articleshow/134800145.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 09 Oct 2026 01:26:06 +0530"
+      },
+      {
+        "title": "US 30-year fixed-rate mortgage rate hits 7.40%, likely to further erode housing demand",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-30-year-fixed-rate-mortgage-rate-hits-7-40-likely-to-further-erode-housing-demand/articleshow/134798770.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 08 Oct 2026 23:57:58 +0530"
+      },
+      {
+        "title": "US President Donald Trump buys $1 million-plus stakes in Meta, Microsoft, McDonald’s; adds SpaceX debt",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-president-donald-trump-buys-1-million-plus-stakes-in-meta-microsoft-mcdonalds-adds-spacex-debt/articleshow/134798553.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 08 Oct 2026 23:47:47 +0530"
+      },
       {
         "title": "Infosys, Wipro ADRs fall nearly 3% after TCS earnings, US crackdown on H-1B-linked green card programme",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/infosys-wipro-adrs-fall-nearly-3-after-tcs-earnings-us-crackdown-on-h-1b-linked-green-card-programme/articleshow/134794915.cms",
@@ -123,30 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-jobless-claims-hover-near-57-year-low-for-fourth-consecutive-week/articleshow/134793234.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Thu, 08 Oct 2026 19:46:02 +0530"
-      },
-      {
-        "title": "Absence of AI in equities will become India's strength in a year, mkts to start attracting flows: CEA",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/absence-of-ai-in-equities-will-become-indias-strength-in-a-year-mkts-to-start-attracting-flows-cea/articleshow/134793195.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 19:44:02 +0530"
-      },
-      {
-        "title": "PepsiCo to cut costs as weak North America business hurts annual core profit forecast",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/pepsico-to-cut-costs-as-weak-north-america-business-hurts-annual-core-profit-forecast/articleshow/134792154.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 19:00:24 +0530"
-      },
-      {
-        "title": "China has no need or intention to weaken yuan for trade edge, central bank says",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/china-has-no-need-or-intention-to-weaken-yuan-for-trade-edge-central-bank-says/articleshow/134792111.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 18:58:38 +0530"
-      },
-      {
-        "title": "Bank of England's Bailey says government debt commitments needed more than ever",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bank-of-englands-bailey-says-government-debt-commitments-needed-more-than-ever/articleshow/134792070.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 08 Oct 2026 18:56:10 +0530"
       }
     ],
     "acct": [
@@ -167,6 +167,12 @@
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ1pwa2xXVTViUU11UVJUZGNnY3hfeTFmeVpuYlpWcVA2M3lTZ044bEQ1bkZrNnZkVXg3SURKTmMyYlRlakJZZzR2NGY3RW5XZjgxMVk5dUhqNjd5RzhZVEZ3WFBTb0xjVmg2TnRQVEEzOGh5Z3diZXpnZ0pXc19Kdi11Q3dKbGl1eVRr?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 08 Oct 2026 00:50:44 GMT"
+      },
+      {
+        "title": "Vivo Money Laundering Case: Supreme Court Sets Aside Lookout Circular Against CA Nitin Garg, Says He Is Not Flight Risk - LawBeat",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUWs2eV9uRHh1NE9GSXhsUnF2YzdBRGVkUW9mWExkRkl0ZWtNdVFVekx6bVgwSFNCa1NtSnVEVVdwMHFmWlVIY0lCanNKWmZRMjQ4cmhFaFFUYS1xMXRKb1RTTWlXUzZQaGxpem1EU1VBZnV5bkhMU292ZzJQOU9aNHMybEtXSzE4ak16Y0p0SWZZNldUZXB1TGRYU2NNWnJsa3MtcDNnQ2ZONG5WZjBuUWdOdElJZjF6MlB4OUhCaU5rWkJUbHlXQlVaaGlVSUJRWTlGT3VFeVQ3YWxlYktrQmtVTml1cnBXaGdMMTRuQUFoa0hlZzVzUkZ5aVU?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 06 Oct 2026 13:40:07 GMT"
       },
       {
         "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - Facebook",
@@ -203,12 +209,6 @@
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNWx3RU5fODBteWp5LXpZaUpQdmtWbEd5M3ZUeExISUR3aE8wWDNFZ25LUXlpTmtqRUZhUmdWZk1HdVBydV9VTS1ScmU2NWVyV1RfM3hvSU96RERNWC1DaWxuUmJFbGhKblJVQmM3blhDeFd3d1pzWkhUNEJKMGZYek1vSjhSaTNScVB3?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 06 Oct 2026 10:44:37 GMT"
-      },
-      {
-        "title": "India’s ICAI plans certification course for independent directors – report - theaccountant-online.com",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM2pBdVlUSG91U0FyRUxNbUZic3dPMDVsaUI3LTBKUEZuTUlvejc3WWZlcU5BWFNQdHd2NkhpOHBGMzJ4TXpPRmtIelJ4ME00Sm0tWC1pd1NPc1ZwUTRqLXZhVTlPTDNpQ19aOWJKRUg0NFRoOXBLekpsSkdReHVwaTUtT0V4TWdhR1QtbU9ueEdLc1FR?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 25 Sep 2026 07:00:00 GMT"
       }
     ]
   }
