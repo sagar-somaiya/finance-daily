@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T01:33:57.331966+00:00",
+  "generatedAt": "2026-10-09T08:11:00.493242+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 81758,
-      "chg": -1.81
+      "price": 82619,
+      "chg": -0.44
     },
     "eth": {
-      "price": 2476.26,
-      "chg": -4.14
+      "price": 2502.02,
+      "chg": -2.52
     }
   },
   "fx": {
@@ -89,67 +89,73 @@
   "news": {
     "corp": [
       {
-        "title": "Weak rains clouds recovery in Rs 3.3 lakh crore microfinance sector",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/weak-rains-clouds-recovery-in-rs-3-3-lakh-crore-microfinance-sector/articleshow/134803775.cms",
+        "title": "Global IPO market faces setback as high-profile listings are scrapped, delayed in 2026",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-ipo-market-faces-setback-as-high-profile-listings-are-scrapped-delayed-in-2026/articleshow/134821533.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 09 Oct 2026 06:55:17 +0530"
+        "pubDate": "Fri, 09 Oct 2026 13:18:25 +0530"
       },
       {
-        "title": "BoE to put barn owls, bees on future notes",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/boe-to-put-barn-owls-bees-on-future-notes/articleshow/134803351.cms",
+        "title": "Vedanta shares jump over 3% after Rs 5 interim dividend announcement",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-jump-over-3-after-rs-5-interim-dividend-announcement/articleshow/134820925.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 09 Oct 2026 06:41:08 +0530"
+        "pubDate": "Fri, 09 Oct 2026 13:10:34 +0530"
       },
       {
-        "title": "Vedanta announces Rs 5 per share dividend, sets October 14 as record date",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-to-pay-rs-5-per-share-dividend/articleshow/134803307.cms",
+        "title": "Global Market: China stocks hit over one-year low as AI selloff deepens; Hong Kong rebounds",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-hit-over-one-year-low-as-ai-selloff-deepens-hong-kong-rebounds/articleshow/134819429.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 09 Oct 2026 06:32:07 +0530"
+        "pubDate": "Fri, 09 Oct 2026 12:52:16 +0530"
       },
       {
-        "title": "Jane Street hits back at Sebi’s allegations, says ‘regulator changed the goal posts’",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jane-street-hits-back-at-sebis-allegations-says-regulator-changed-the-goal-posts/articleshow/134803282.cms",
+        "title": "Global Market: Singapore likely to tighten monetary policy as growth and inflation risks mount",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-singapore-likely-to-tighten-monetary-policy-as-growth-and-inflation-risks-mount/articleshow/134818744.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 09 Oct 2026 06:26:38 +0530"
+        "pubDate": "Fri, 09 Oct 2026 12:42:17 +0530"
       },
       {
-        "title": "Global Market Today: Asian stocks drop on tech jitters, oil edges lower",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-on-tech-jitters-oil-edges-lower/articleshow/134803253.cms",
+        "title": "Vivriti Asset Management returns over Rs 3,400 crore to investors across two fund vintages",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/vivriti-asset-management-returns-over-rs-3400-crore-to-investors-across-two-fund-vintages/articleshow/134815238.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 09 Oct 2026 06:18:02 +0530"
+        "pubDate": "Fri, 09 Oct 2026 12:01:08 +0530"
       },
       {
-        "title": "Stocks in news: TCS, ITC, Infosys, Cochin Shipyard and RIL",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tcs-itc-infosys-cochin-shipyard-and-ril/articleshow/134798204.cms",
+        "title": "Global Market: Maas Group shares plunge 11% after Nvidia-backed Firmus scraps $5 billion IPO",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-maas-group-shares-plunge-11-after-nvidia-backed-firmus-scraps-5-billion-ipo/articleshow/134814805.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 09 Oct 2026 06:00:00 +0530"
+        "pubDate": "Fri, 09 Oct 2026 11:56:23 +0530"
       },
       {
-        "title": "Pre-market action: Here's the trade setup for today's session",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134797262.cms",
+        "title": "15,410% rally in 5 years! Multibagger Cupid shares jump 3% to hit fresh 52-week high",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/15410-rally-in-5-years-multibagger-cupid-shares-jump-3-to-hit-fresh-52-week-high/articleshow/134812919.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 09 Oct 2026 06:00:00 +0530"
+        "pubDate": "Fri, 09 Oct 2026 11:38:27 +0530"
       },
       {
-        "title": "Anup Bagchi set to become India's highest-paid bank CEO, may earn Rs 35.9 crore a year",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/anup-bagchi-set-to-become-indias-highest-paid-bank-ceo-may-earn-rs-35-9-crore-a-year/articleshow/134803148.cms",
+        "title": "Why is Broadcom stock falling despite strong AI demand?",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-is-broadcom-stock-falling-despite-strong-ai-demand/slideshow/134814635.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 09 Oct 2026 05:57:53 +0530"
+        "pubDate": "Fri, 09 Oct 2026 11:35:15 +0530"
       },
       {
-        "title": "JM Financial tops investment banking league table in H1 FY27",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jm-financial-tops-investment-banking-league-table-in-h1-fy27-with-rs-75775-crore/articleshow/134802728.cms",
+        "title": "Chipotle shares rally: What investors should know about the Starbucks deal",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/chipotle-shares-rally-what-investors-should-know-about-the-starbucks-deal/slideshow/134812589.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 09 Oct 2026 05:46:12 +0530"
+        "pubDate": "Fri, 09 Oct 2026 11:17:39 +0530"
       },
       {
-        "title": "GQG Partners sells Rs 24,400 cr worth of Indian stocks in 2026; ITC, Adani shares among key exits",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/gqg-partners-trims-stake-in-itc-to-rs-9395-crore-amidst-broader-market-sell-off-in-2026/articleshow/134803001.cms",
+        "title": "Apollo, Max Health, other hospital stocks rally up to 5% despite cancer drug price caps. Why Jefferies stays bullish",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/apollo-hospitals-max-health-hospital-stocks-jump-up-to-5-after-30-cap-on-cancer-drugs-what-is-jefferies-saying/articleshow/134811131.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 09 Oct 2026 05:40:26 +0530"
+        "pubDate": "Fri, 09 Oct 2026 11:14:14 +0530"
       }
     ],
     "acct": [
+      {
+        "title": "J&K Branch of NIRC of ICAI organises industrial visit for CA students - Rising Kashmir",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUmF1VEhweWtwY2pKVWc4N1g4QjgtekVSaUdneVNNaGdPTDZIN0NpOTVtUmhhM2p1Mi1RbW04VlMwSEZIMXFCWlJ1UzZmVDJEYW02RUdYcDhWcEEwb3VOWTJiX0NMQ1BDRWZhclVHbGZuVXhJWUxWbmVZZXJzUGd6Qmc0V1EzT2tsMU9QdFNNQlZVS3oyQjhsQnc3dV9rQWFWTFBiREJ5dURzamJKUGVRSmc0OG1rRmFKTUgtMFhpY2ZvT25wTjhaSi15eGdBWGc?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 09 Oct 2026 02:27:42 GMT"
+      },
       {
         "title": "ICAI advances Ind AS 118 work, eyes Schedule III revamp - cfo.economictimes.indiatimes.com",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMENlQl9Vd0hwZkdlR0pKSkZtOEs5M1ByUlN6NnRkVmJ3S1A1WGdzc3JNNHhCOUNvcm1Vb1Bmd1dxdDBRQWZiNXphZ3dIOG9pRHZib2JqcF81V215cE90RGxjYjZiS19ONHJ2cEJvNW9aMHY3X3JVLXpKTnJrOUtMd1cxV2FzMldZUzdaWnc3NmZYRnF5a1VvV2dPLWU3TWpWTnFMVHRHWFZaYXB6UEhxRko1UmNzMkpjTnhBVEd6XzU2cXA4TEhraEctWdIB0AFBVV95cUxPd1I1elB0bFNTNVVpbmpSZGV2SklFdm1ZMVJaVmlMME1KeEE4LW5Pd0xfZjVQWklJZE4zekRQb0hmc1hFOUZhQS0zOWppa2tDbjZKSkZSTHZVX09fT2xkNWlNUUNacXl5ckV2bmFMdXIxQVJHTXVtb29Ta3BnekNXelNTNnd6aXQ0UmVHQ3ZyckUwSGRfdDM0RHNlRS1NZ1hJd21zeVdMZVgySzhHS0ZkbElPYnp5bi0yMW8tTk5DNXhSVDFoNnBxYnFYQUpkLUpp?oc=5",
@@ -161,12 +167,6 @@
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcHJBbm56U1ZSdmVSZGk2VlF6aXYxd1hjOHZOaGhSa0VEVDR3UkVuMTdfOHQ0TmduMnc4RVNKUDNVVDhiczRwazl4RWdJUGJ4dWRReTNIM3cxLU1UeGkxS0RwTlJwdVhJTDA5YWttbW1UTkxsU05BS0dmeHhGdlRYYzc0QlpFZ0VUUjVmTEJ0MmZNSW9B?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 07 Oct 2026 17:38:27 GMT"
-      },
-      {
-        "title": "Industrial visit for CA students organized by NIRC - Daily Excelsior",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR3lYajNkMDJHYU1oVE9hYVRnLWdOU1Z2bFdPZkU5enkyYmJXaUNCWTRRbUpOdktJVDNmWEZVOWIyOWd1MWxGX1dUNGdmMndoaGNHSmpiWTJKeVRLYVFkb2cyeWZnUm82VU9aM3BOVnZSc0QtNmhiOTRoWlJUMThseDBqQURCeHpSZXfSAY4BQVVfeXFMTlkwZ2NZUFE5cG5rYXFobWh1NUxHeDV5c1JmcGYtMGhJTHQxQ1NNNDh6NU85bkdqcG5Pak9zcFFYNVJMZ1JqZDAxMXhoelFHOTViSFNyUWVLRlBNYk02a0RfQWNqdEVkUGRHMmp0dWJObGZrbHRkU3d5RTJrR185SkdDLTRhMzNpWVRxYmFtdw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 08 Oct 2026 22:40:10 GMT"
       },
       {
         "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - Facebook",
@@ -187,10 +187,10 @@
         "pubDate": "Thu, 08 Oct 2026 00:50:44 GMT"
       },
       {
-        "title": "Open Call: Essay Writing Competition on ICAI (India) - fundsforNGOs - Grants and Resources for Sustainability",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGU4NFVlUDlLOWQweHpudGNMYXBPSnBKbnd3UzNPbzR5bC1PVzR1c2pCd0dxNS13THcwTEFuRGdYcUl2NkVyb28xVFBNQ3FBb1lBeVRsZURhUlFEdTVjdFM2V3pTOHlVTThwLTFzMzdNMVFMZ1FUMmRlUENyWjRINmRvQ3NjcHNzcV80M3JOeGZoVmNfZGk00gGcAUFVX3lxTE1kWmlOOUl4U1pTU1JwbUI1cmFyNVhqc090dVFrai1BT1dKeGhuMjV2YTVqcVdnQVNLc1E2YmdHZms1bGdQTGNsOFJjNmNXRDNyMEdUUERNa1lhUnMydG9iY0RxOVRsempDUGVHTG13QnUwZzV4dHZydnp6RS1iTXVjdmowTG80MmZZVWVqQlh5NTJ5UHlsX1VCZ3ZONA?oc=5",
+        "title": "Industrial visit for CA students organized by NIRC - Daily Excelsior",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR3lYajNkMDJHYU1oVE9hYVRnLWdOU1Z2bFdPZkU5enkyYmJXaUNCWTRRbUpOdktJVDNmWEZVOWIyOWd1MWxGX1dUNGdmMndoaGNHSmpiWTJKeVRLYVFkb2cyeWZnUm82VU9aM3BOVnZSc0QtNmhiOTRoWlJUMThseDBqQURCeHpSZXfSAY4BQVVfeXFMTlkwZ2NZUFE5cG5rYXFobWh1NUxHeDV5c1JmcGYtMGhJTHQxQ1NNNDh6NU85bkdqcG5Pak9zcFFYNVJMZ1JqZDAxMXhoelFHOTViSFNyUWVLRlBNYk02a0RfQWNqdEVkUGRHMmp0dWJObGZrbHRkU3d5RTJrR185SkdDLTRhMzNpWVRxYmFtdw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT"
+        "pubDate": "Thu, 08 Oct 2026 22:40:10 GMT"
       },
       {
         "title": "ICAI Removes CA’s Name Over ₹1,150 Cr Siphoning - Taxscan",
@@ -205,10 +205,10 @@
         "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
       },
       {
-        "title": "Oil shock, interest rates and credit risk: What has changed for our IFRS 9 and CECL scenarios? - Oxford Economics",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNWx3RU5fODBteWp5LXpZaUpQdmtWbEd5M3ZUeExISUR3aE8wWDNFZ25LUXlpTmtqRUZhUmdWZk1HdVBydV9VTS1ScmU2NWVyV1RfM3hvSU96RERNWC1DaWxuUmJFbGhKblJVQmM3blhDeFd3d1pzWkhUNEJKMGZYek1vSjhSaTNScVB3?oc=5",
+        "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFhGX19mVjU0d0pwWWhNRndFUjliUTNFXzMtbFB1aXVETlZMdXk2aU9mOXFfUU1CYUZNY211QUVFNmYwbERsOWtrM0p0ZVhHSnJFQlY4OFpGb1JkOEFGeGFGMTA3Mzdrc2kycVM1TDhuV0pmRG5SME4tUXNhdTRTcWs1WXhWVWtFanBYTVBNemt2b0dLbjhwZW9nRjB3UUY3OU5TbUxRWQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 06 Oct 2026 10:44:37 GMT"
+        "pubDate": "Fri, 10 Jul 2026 14:35:46 GMT"
       }
     ]
   }
