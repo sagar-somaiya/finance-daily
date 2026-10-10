@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T20:53:38.901305+00:00",
+  "generatedAt": "2026-10-10T23:59:02.179136+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 83001,
-      "chg": 0.68
+      "price": 82918,
+      "chg": 0.44
     },
     "eth": {
-      "price": 2507.8,
-      "chg": 1.1
+      "price": 2504.54,
+      "chg": 0.75
     }
   },
   "fx": {
@@ -163,16 +163,16 @@
         "pubDate": "Wed, 07 Oct 2026 17:38:27 GMT"
       },
       {
-        "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - Facebook",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM2RvTTBFUXU5c1lGVDlQSFpJYWJkQXNFSHFiaG1MWFlPYmZQMGh4UDNNcGI2elptY1J3SjFJdUNCY1I5MVZ0TEt6ZFFMVk1xOXhNaEZNeGJhbGkxQWwxalM5TFlBQ2dWdjhQWVk4dGpkY2JzR0dmeV9RYk9TM2ljSDFpMDI4cFAxZXphZG4zOEdKNkowTGZkQnZKLVh3RExza2RBRmU3UXFwSXBndVlneTdLUjlXLV9GdWZ1U2JhckNMTUxhMmxISW50UHVyaUEyNnVETERzWmt4YjlxRzRfRDBB?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 01 Oct 2026 14:27:58 GMT"
-      },
-      {
         "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXhMY1ZubW01dm1XMHdBcDJvS2lyTkdrN0FoY0F4TjVwS0JDQ25TOWxicmduY0xJcVkwQ3c0dF9qMFVYU0FBblhRbWpXSEFmNDhaVE1OQW9KaUY1dXhzT3BQb0JydDU2aVRyeWFGaVZqZTYtOW52UHE1a1RZcE9idjUzSzdOWm1pUlh5cnR4ZjlvbHB1UDRYLWRCZE14M2ptcV83WWg0M3hBWDAxY0FVSGxWUTRFX09YUDRxa0ZvUVdzdkV2UVpRZFpJdmg5b2wtbHQ00gHaAUFVX3lxTE80dEE0dUlVelJhcnRKZEl6aDdOcF9Kb1FYWEw0a0pEblZrRmIyS21JMElVTTlJT0lHbDVaa1JmOE93VEVaYzBpeXgwNG1UY3VMbmVZT2RGSEJiSjhhdlZRVVdMb0hUWTdDbE5hM0RDOURMRGg0d29WT0NIbDUxMjlsNzBhUnpIVkFIWmhoUDZiaGN2NXZVQUMwZUxvdTdrSmxSZGh6RFF6OTY4Y0VsSnowNVRpdXd6WnBEUmt2c3pqbG9BUDBaeVdxVTVtN0lyQ2tVZWdkQTdrRHpR?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - Facebook",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM2RvTTBFUXU5c1lGVDlQSFpJYWJkQXNFSHFiaG1MWFlPYmZQMGh4UDNNcGI2elptY1J3SjFJdUNCY1I5MVZ0TEt6ZFFMVk1xOXhNaEZNeGJhbGkxQWwxalM5TFlBQ2dWdjhQWVk4dGpkY2JzR0dmeV9RYk9TM2ljSDFpMDI4cFAxZXphZG4zOEdKNkowTGZkQnZKLVh3RExza2RBRmU3UXFwSXBndVlneTdLUjlXLV9GdWZ1U2JhckNMTUxhMmxISW50UHVyaUEyNnVETERzWmt4YjlxRzRfRDBB?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 01 Oct 2026 14:27:58 GMT"
       },
       {
         "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
@@ -193,16 +193,16 @@
         "pubDate": "Fri, 25 Sep 2026 07:00:00 GMT"
       },
       {
+        "title": "ICAI CA January 2027 Exam Dates - PW",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VM2lnWXNXdXZLTWp6UHBjT0IxU21NUFF3dVBHRTFzWl9lZFFuc0laVnFBM0R0NGk5RWRWQWNDUWdBQkFIU1l3c1N6UURmOWNneXljX2pBeS1TOUQ2X0pIYVFrdnJrRms?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT"
+      },
+      {
         "title": "Oil shock, interest rates and credit risk: What has changed for our IFRS 9 and CECL scenarios? - Oxford Economics",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNWx3RU5fODBteWp5LXpZaUpQdmtWbEd5M3ZUeExISUR3aE8wWDNFZ25LUXlpTmtqRUZhUmdWZk1HdVBydV9VTS1ScmU2NWVyV1RfM3hvSU96RERNWC1DaWxuUmJFbGhKblJVQmM3blhDeFd3d1pzWkhUNEJKMGZYek1vSjhSaTNScVB3?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 06 Oct 2026 10:44:37 GMT"
-      },
-      {
-        "title": "16-Year-Old Lakshmanan Meyyappan Becomes World's Youngest Chartered Accountant - NDTV",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU1Ca256TGM4V1gtNWlvUTRqWU9rQmV1aWJsa09HbS14NjJhTFZGUTVQMElXSTJpX19kVVZRRHZEbmNHTm1tV0hBdzI3ejBmTzVwSklZWWY0S1lySVhub1VRZVJocmdnNkZJZUFQSmZPQ21uSUdJTmJlSWRXbEJ1dDBHNDNXMkxoSE1TX1h0MnkzOHMtNHdGT0hvZDBaVjJVeHdiQzhZaGc3RGstN3NQeHVwVDh2S01I0gHAAUFVX3lxTFBuOHRrR2xDaEREa1BKOGhvemdwdkUzMjBINzNrWXFTS2RlNUpVUjltYVVkZ19QX05wSEVWRUNjeHhxVjNuNjJDZ1lFRzhwdXRHdXhTQUk3Nnh4MExpa0hWaDZ6LTBuaTNNRjl1MWNMVUZFVmJNYnU4UU05elpTdndhRHZoaTRfSHl0Y0haUVdYenQ2dHozUExKSVQ2enh6Tk9QdUxXeDNDbWhUcTM4WW8wbVVORFVTTXg2a1BrQ2RzeA?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT"
       },
       {
         "title": "ICAI moves to propose CA Act changes, draft in 2 months to build larger Indian accounting firms - cfo.economictimes.indiatimes.com",
