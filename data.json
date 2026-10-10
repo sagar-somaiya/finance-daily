@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T06:06:28.486325+00:00",
+  "generatedAt": "2026-10-10T12:47:12.372870+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 82749,
-      "chg": 0.46
+      "price": 82785,
+      "chg": -0.32
     },
     "eth": {
-      "price": 2494.59,
-      "chg": 0.09
+      "price": 2495.83,
+      "chg": 0.01
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
-        "title": "Brent commands a war premium as Middle East supply risks keep oil on edge",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/brent-commands-a-war-premium-as-middle-east-supply-risks-keep-oil-on-edge/articleshow/134848278.cms",
+        "title": "Industrial, warehousing space leasing hits record 59.1 mn sq ft in top 24 cities in Jan-Sep: Savills",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/industrial-warehousing-space-leasing-hits-record-59-1-mn-sq-ft-in-top-24-cities-in-jan-sep-savills/articleshow/134853108.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 10 Oct 2026 11:26:50 +0530"
+        "pubDate": "Sat, 10 Oct 2026 16:57:20 +0530"
       },
       {
-        "title": "Market crash ahead? Warren Buffett's guide to navigate through bear attacks",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/market-crash-ahead-warren-buffetts-guide-to-navigate-through-bear-attacks/articleshow/134847888.cms",
+        "title": "BPTP sells 150 apartments in its new housing project at Faridabad",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/bptp-sells-150-apartments-in-its-new-housing-project-at-faridabad/articleshow/134853093.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 10 Oct 2026 10:55:34 +0530"
+        "pubDate": "Sat, 10 Oct 2026 16:56:30 +0530"
       },
       {
-        "title": "RBI tightens forex derivative rules: What changes for hedging, cancelled trades",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-tightens-forex-derivative-rules-what-changes-for-hedging-cancelled-trades/articleshow/134847351.cms",
+        "title": "Adani Green Energy H1 Update: Operational capacity rises 24% YoY to 20,763 MW, energy sales jump 32%",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-green-energy-h1-update-operational-capacity-rises-24-yoy-to-20763-mw-energy-sales-jump-32/articleshow/134852554.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 10 Oct 2026 10:05:34 +0530"
+        "pubDate": "Sat, 10 Oct 2026 16:22:59 +0530"
       },
       {
-        "title": "Wall Street Week Ahead: Bank earnings, CPI headline busy markets week as S&amp;P 500 hovers near records",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-bank-earnings-cpi-headline-busy-markets-week-as-sp-500-hovers-near-records/articleshow/134847295.cms",
+        "title": "DMart Q2 Results: Cons profit rises nearly 9% YoY to Rs 743 crore, revenue jumps 18%",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/dmart-q2-results-cons-profit-rises-nearly-9-yoy-to-rs-743-crore-revenue-jumps-18/articleshow/134851993.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 10 Oct 2026 09:59:09 +0530"
+        "pubDate": "Sat, 10 Oct 2026 16:01:51 +0530"
       },
       {
-        "title": "Euro falls, set for fifth straight weekly drop as oil prices rise",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/euro-falls-set-for-fifth-straight-weekly-drop-as-oil-prices-rise/articleshow/134847274.cms",
+        "title": "Bitcoin reclaims $82,500 as improved ETF flows lift market sentiment. Here is what experts say",
+        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-reclaims-82500-as-improved-etf-flows-lift-market-sentiment-here-is-what-experts-say/articleshow/134852150.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 10 Oct 2026 09:55:51 +0530"
+        "pubDate": "Sat, 10 Oct 2026 15:55:39 +0530"
       },
       {
-        "title": "IT stocks surge despite US immigration curbs",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-surge-despite-us-immigration-curbs/articleshow/134847206.cms",
+        "title": "Peter Cundill’s investing lessons: Why patience, research and value matter in stock picking",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/peter-cundills-investing-lessons-why-patience-research-and-value-matter-in-stock-picking/articleshow/134851796.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 10 Oct 2026 09:49:39 +0530"
+        "pubDate": "Sat, 10 Oct 2026 15:34:20 +0530"
       },
       {
-        "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-one-week-high-heads-for-weekly-gain-on-bargain-hunting/articleshow/134847226.cms",
+        "title": "FIIs dump Indian stocks for eight straight weeks: Is a reversal on the cards or more pain ahead?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-dump-indian-stocks-for-eight-straight-weeks-is-a-reversal-on-the-cards-or-more-pain-ahead/articleshow/134851502.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 10 Oct 2026 09:48:40 +0530"
+        "pubDate": "Sat, 10 Oct 2026 15:11:53 +0530"
       },
       {
-        "title": "Poonawalla Fincorp Q2 profit soars five-fold YoY to Rs 375 crore",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/poonawalla-fincorp-q2-profit-soars-five-fold-yoy-to-rs-375-crore/articleshow/134847141.cms",
+        "title": "Canara HSBC Life Q2 profit rises 5% YoY to Rs 43 crore",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/canara-hsbc-life-q2-profit-rises-5-yoy-to-rs-43-crore/articleshow/134850519.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 10 Oct 2026 09:41:23 +0530"
+        "pubDate": "Sat, 10 Oct 2026 13:58:54 +0530"
       },
       {
-        "title": "Rupee rises to intra-day high, then slips on dollar demand",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-to-intra-day-high-then-slips-on-dollar-demand/articleshow/134847163.cms",
+        "title": "RBI to conduct Rs 25,000 cr OMO sale auction of government securities on Oct 13",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/rbi-to-conduct-rs-25000-cr-omo-sale-auction-of-government-securities-on-oct-13/articleshow/134850360.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 10 Oct 2026 09:40:30 +0530"
+        "pubDate": "Sat, 10 Oct 2026 13:47:29 +0530"
       },
       {
-        "title": "Sebi notifies new settlement rule; unveils formula, fast-track route. Check details",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-notifies-new-settlement-rule-unveils-formula-fast-track-route-check-details/articleshow/134847119.cms",
+        "title": "RBI to sell $2.6 billion of bonds, tighten bank reserve need to squeeze cash",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/rbi-to-sell-2-6-bln-of-bonds-tighten-bank-reserve-need-to-squeeze-cash/articleshow/134850313.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 10 Oct 2026 09:36:27 +0530"
+        "pubDate": "Sat, 10 Oct 2026 13:43:28 +0530"
       }
     ],
     "acct": [
@@ -163,28 +163,22 @@
         "pubDate": "Wed, 07 Oct 2026 17:38:27 GMT"
       },
       {
-        "title": "J&K Branch of NIRC of ICAI organises industrial visit for CA students - Rising Kashmir",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUmF1VEhweWtwY2pKVWc4N1g4QjgtekVSaUdneVNNaGdPTDZIN0NpOTVtUmhhM2p1Mi1RbW04VlMwSEZIMXFCWlJ1UzZmVDJEYW02RUdYcDhWcEEwb3VOWTJiX0NMQ1BDRWZhclVHbGZuVXhJWUxWbmVZZXJzUGd6Qmc0V1EzT2tsMU9QdFNNQlZVS3oyQjhsQnc3dV9rQWFWTFBiREJ5dURzamJKUGVRSmc0OG1rRmFKTUgtMFhpY2ZvT25wTjhaSi15eGdBWGc?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 09 Oct 2026 02:27:42 GMT"
-      },
-      {
         "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - Facebook",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM2RvTTBFUXU5c1lGVDlQSFpJYWJkQXNFSHFiaG1MWFlPYmZQMGh4UDNNcGI2elptY1J3SjFJdUNCY1I5MVZ0TEt6ZFFMVk1xOXhNaEZNeGJhbGkxQWwxalM5TFlBQ2dWdjhQWVk4dGpkY2JzR0dmeV9RYk9TM2ljSDFpMDI4cFAxZXphZG4zOEdKNkowTGZkQnZKLVh3RExza2RBRmU3UXFwSXBndVlneTdLUjlXLV9GdWZ1U2JhckNMTUxhMmxISW50UHVyaUEyNnVETERzWmt4YjlxRzRfRDBB?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 01 Oct 2026 14:27:58 GMT"
       },
       {
-        "title": "IFRS 18: A New Era for Financial Disclosure - FTI Consulting",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ1pwa2xXVTViUU11UVJUZGNnY3hfeTFmeVpuYlpWcVA2M3lTZ044bEQ1bkZrNnZkVXg3SURKTmMyYlRlakJZZzR2NGY3RW5XZjgxMVk5dUhqNjd5RzhZVEZ3WFBTb0xjVmg2TnRQVEEzOGh5Z3diZXpnZ0pXc19Kdi11Q3dKbGl1eVRr?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 08 Oct 2026 00:50:44 GMT"
-      },
-      {
         "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXhMY1ZubW01dm1XMHdBcDJvS2lyTkdrN0FoY0F4TjVwS0JDQ25TOWxicmduY0xJcVkwQ3c0dF9qMFVYU0FBblhRbWpXSEFmNDhaVE1OQW9KaUY1dXhzT3BQb0JydDU2aVRyeWFGaVZqZTYtOW52UHE1a1RZcE9idjUzSzdOWm1pUlh5cnR4ZjlvbHB1UDRYLWRCZE14M2ptcV83WWg0M3hBWDAxY0FVSGxWUTRFX09YUDRxa0ZvUVdzdkV2UVpRZFpJdmg5b2wtbHQ00gHaAUFVX3lxTE80dEE0dUlVelJhcnRKZEl6aDdOcF9Kb1FYWEw0a0pEblZrRmIyS21JMElVTTlJT0lHbDVaa1JmOE93VEVaYzBpeXgwNG1UY3VMbmVZT2RGSEJiSjhhdlZRVVdMb0hUWTdDbE5hM0RDOURMRGg0d29WT0NIbDUxMjlsNzBhUnpIVkFIWmhoUDZiaGN2NXZVQUMwZUxvdTdrSmxSZGh6RFF6OTY4Y0VsSnowNVRpdXd6WnBEUmt2c3pqbG9BUDBaeVdxVTVtN0lyQ2tVZWdkQTdrRHpR?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "IFRS 18: A New Era for Financial Disclosure - FTI Consulting",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ1pwa2xXVTViUU11UVJUZGNnY3hfeTFmeVpuYlpWcVA2M3lTZ044bEQ1bkZrNnZkVXg3SURKTmMyYlRlakJZZzR2NGY3RW5XZjgxMVk5dUhqNjd5RzhZVEZ3WFBTb0xjVmg2TnRQVEEzOGh5Z3diZXpnZ0pXc19Kdi11Q3dKbGl1eVRr?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 08 Oct 2026 00:50:44 GMT"
       },
       {
         "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
@@ -203,6 +197,12 @@
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNWx3RU5fODBteWp5LXpZaUpQdmtWbEd5M3ZUeExISUR3aE8wWDNFZ25LUXlpTmtqRUZhUmdWZk1HdVBydV9VTS1ScmU2NWVyV1RfM3hvSU96RERNWC1DaWxuUmJFbGhKblJVQmM3blhDeFd3d1pzWkhUNEJKMGZYek1vSjhSaTNScVB3?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 06 Oct 2026 10:44:37 GMT"
+      },
+      {
+        "title": "16-Year-Old Lakshmanan Meyyappan Becomes World's Youngest Chartered Accountant - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU1Ca256TGM4V1gtNWlvUTRqWU9rQmV1aWJsa09HbS14NjJhTFZGUTVQMElXSTJpX19kVVZRRHZEbmNHTm1tV0hBdzI3ejBmTzVwSklZWWY0S1lySVhub1VRZVJocmdnNkZJZUFQSmZPQ21uSUdJTmJlSWRXbEJ1dDBHNDNXMkxoSE1TX1h0MnkzOHMtNHdGT0hvZDBaVjJVeHdiQzhZaGc3RGstN3NQeHVwVDh2S01I0gHAAUFVX3lxTFBuOHRrR2xDaEREa1BKOGhvemdwdkUzMjBINzNrWXFTS2RlNUpVUjltYVVkZ19QX05wSEVWRUNjeHhxVjNuNjJDZ1lFRzhwdXRHdXhTQUk3Nnh4MExpa0hWaDZ6LTBuaTNNRjl1MWNMVUZFVmJNYnU4UU05elpTdndhRHZoaTRfSHl0Y0haUVdYenQ2dHozUExKSVQ2enh6Tk9QdUxXeDNDbWhUcTM4WW8wbVVORFVTTXg2a1BrQ2RzeA?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT"
       },
       {
         "title": "ICAI moves to propose CA Act changes, draft in 2 months to build larger Indian accounting firms - cfo.economictimes.indiatimes.com",
