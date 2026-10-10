@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T17:32:31.754655+00:00",
+  "generatedAt": "2026-10-10T20:53:38.901305+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 82989,
-      "chg": 0.53
+      "price": 83001,
+      "chg": 0.68
     },
     "eth": {
-      "price": 2504.67,
-      "chg": 0.86
+      "price": 2507.8,
+      "chg": 1.1
     }
   },
   "fx": {
@@ -199,16 +199,16 @@
         "pubDate": "Tue, 06 Oct 2026 10:44:37 GMT"
       },
       {
+        "title": "16-Year-Old Lakshmanan Meyyappan Becomes World's Youngest Chartered Accountant - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU1Ca256TGM4V1gtNWlvUTRqWU9rQmV1aWJsa09HbS14NjJhTFZGUTVQMElXSTJpX19kVVZRRHZEbmNHTm1tV0hBdzI3ejBmTzVwSklZWWY0S1lySVhub1VRZVJocmdnNkZJZUFQSmZPQ21uSUdJTmJlSWRXbEJ1dDBHNDNXMkxoSE1TX1h0MnkzOHMtNHdGT0hvZDBaVjJVeHdiQzhZaGc3RGstN3NQeHVwVDh2S01I0gHAAUFVX3lxTFBuOHRrR2xDaEREa1BKOGhvemdwdkUzMjBINzNrWXFTS2RlNUpVUjltYVVkZ19QX05wSEVWRUNjeHhxVjNuNjJDZ1lFRzhwdXRHdXhTQUk3Nnh4MExpa0hWaDZ6LTBuaTNNRjl1MWNMVUZFVmJNYnU4UU05elpTdndhRHZoaTRfSHl0Y0haUVdYenQ2dHozUExKSVQ2enh6Tk9QdUxXeDNDbWhUcTM4WW8wbVVORFVTTXg2a1BrQ2RzeA?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 17 Aug 2026 07:00:00 GMT"
+      },
+      {
         "title": "ICAI moves to propose CA Act changes, draft in 2 months to build larger Indian accounting firms - cfo.economictimes.indiatimes.com",
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVW1WNm8xd2k4THJOZEFJQlh4NEh0TEIteHQydEwwczdISXdMX3h5emYyX0t1TURkcGRyVVAzMWloZXNnTWtiSTZXbkJ5QWR4TzJGRmQ5QlZYLVBuWHBWSmVWS0JCODkxSXlaNE9oelhPenNlbTdaYkpxelNhVENPTnFKVjJDbFcxQXJnejllUnpud3dRX2t1NVJ2NGVnZlBEY0xkMWlQc3R4aFdGMENSZXc3ZG1SQU1iTXYzU3NjTV8yVnhndDAxYWQyZ2REVUtJYW95WkRWOHBleEJpMWtLdTNHazc2dnFFT0FNWTdaX3N6OG9ZNXV0NF91WHRNRm9D0gGGAkFVX3lxTFBSUXlaVmNpM0pLdW5NWklCXzRBQjBJdEVqU2FNN2l0X2lvaTludUZURzJkVnhnS3JwdFN0S2pnbWhTbXFodTkzelZWa2ZWZFRWb0UyZGplZUNOQ2pwbTRXS1RLTHgzQ2ltamlKdGtFMzRlOXViYVVTdnRtTHB3Q0U5TjdGOGlFa0V5UHBFSzIxVTVkY05SUmFTYXZuekxyV2lWWU9FZjAwM1NHTHRwVTZHV09oV2w5UElSYjU1LWNFb2Y0dk50anoyaFNOOWVjNFBzaWlmaVA4MzlDQjF2M1NKak1ZRlctOVJVbFh0aEtPMHFUVUNhSFhkMGxrekEzaWF4bDNUSXc?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT"
-      },
-      {
-        "title": "IFRS 18: Advanced concepts and additional considerations - kpmg.com",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX1Z2WElldjFMNGRpWkQ2RGhBSDFTLWQ1d2ZjRXlyUFBRT1h6aDBZY0lxcHNJTWROU1VHZVdNYXVIcjBtd0NhbXRmbVhYdkFUN0diQnFXVEZuVENGRWgyWWdVeVBNTDF5M0VWdnpXMkppY0NXY3NyRjhTbUFDZEdjRDhSa3ZLNVl6YUtkM3lmUWEwNHVZVjVvLWZtNjB0N1h1SEVJ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT"
       }
     ]
   }
