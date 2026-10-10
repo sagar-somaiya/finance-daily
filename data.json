@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T20:10:40.202143+00:00",
+  "generatedAt": "2026-10-10T00:08:03.590368+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 82266,
-      "chg": 0.55
+      "price": 82527,
+      "chg": 1.0
     },
     "eth": {
-      "price": 2474.49,
-      "chg": 0.3
+      "price": 2484.54,
+      "chg": 0.39
     }
   },
   "fx": {
@@ -88,6 +88,12 @@
   },
   "news": {
     "corp": [
+      {
+        "title": "US stocks: US market posts weekly gains with earnings, inflation data on tap",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-posts-weekly-gains-with-earnings-inflation-data-on-tap/articleshow/134842368.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 10 Oct 2026 01:39:34 +0530"
+      },
       {
         "title": "Gold, silver boom puts US bank trading revenues on track for record $5 billion",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-silver-boom-puts-us-bank-trading-revenues-on-track-for-record-5-billion/articleshow/134841433.cms",
@@ -141,12 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/half-of-indias-mtf-book-is-in-smallcaps-nithin-kamath-flags-liquidity-risks/articleshow/134835308.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Fri, 09 Oct 2026 19:01:23 +0530"
-      },
-      {
-        "title": "Adani Power shares: GQG Partners-managed entities cut stake to 5.72% from 5.74%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-power-shares-gqg-partners-managed-entities-cut-stake-to-5-72-from-5-74/articleshow/134834452.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 09 Oct 2026 18:28:05 +0530"
       }
     ],
     "acct": [
@@ -173,12 +173,6 @@
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM2RvTTBFUXU5c1lGVDlQSFpJYWJkQXNFSHFiaG1MWFlPYmZQMGh4UDNNcGI2elptY1J3SjFJdUNCY1I5MVZ0TEt6ZFFMVk1xOXhNaEZNeGJhbGkxQWwxalM5TFlBQ2dWdjhQWVk4dGpkY2JzR0dmeV9RYk9TM2ljSDFpMDI4cFAxZXphZG4zOEdKNkowTGZkQnZKLVh3RExza2RBRmU3UXFwSXBndVlneTdLUjlXLV9GdWZ1U2JhckNMTUxhMmxISW50UHVyaUEyNnVETERzWmt4YjlxRzRfRDBB?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 01 Oct 2026 14:27:58 GMT"
-      },
-      {
-        "title": "Vivo Money Laundering Case: Supreme Court Sets Aside Lookout Circular Against CA Nitin Garg, Says He Is Not Flight Risk - LawBeat",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUWs2eV9uRHh1NE9GSXhsUnF2YzdBRGVkUW9mWExkRkl0ZWtNdVFVekx6bVgwSFNCa1NtSnVEVVdwMHFmWlVIY0lCanNKWmZRMjQ4cmhFaFFUYS1xMXRKb1RTTWlXUzZQaGxpem1EU1VBZnV5bkhMU292ZzJQOU9aNHMybEtXSzE4ak16Y0p0SWZZNldUZXB1TGRYU2NNWnJsa3MtcDNnQ2ZONG5WZjBuUWdOdElJZjF6MlB4OUhCaU5rWkJUbHlXQlVaaGlVSUJRWTlGT3VFeVQ3YWxlYktrQmtVTml1cnBXaGdMMTRuQUFoa0hlZzVzUkZ5aVU?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 06 Oct 2026 13:40:07 GMT"
       },
       {
         "title": "IFRS 18: A New Era for Financial Disclosure - FTI Consulting",
@@ -209,6 +203,12 @@
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNWx3RU5fODBteWp5LXpZaUpQdmtWbEd5M3ZUeExISUR3aE8wWDNFZ25LUXlpTmtqRUZhUmdWZk1HdVBydV9VTS1ScmU2NWVyV1RfM3hvSU96RERNWC1DaWxuUmJFbGhKblJVQmM3blhDeFd3d1pzWkhUNEJKMGZYek1vSjhSaTNScVB3?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 06 Oct 2026 10:44:37 GMT"
+      },
+      {
+        "title": "ICAI moves to propose CA Act changes, draft in 2 months to build larger Indian accounting firms - cfo.economictimes.indiatimes.com",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVW1WNm8xd2k4THJOZEFJQlh4NEh0TEIteHQydEwwczdISXdMX3h5emYyX0t1TURkcGRyVVAzMWloZXNnTWtiSTZXbkJ5QWR4TzJGRmQ5QlZYLVBuWHBWSmVWS0JCODkxSXlaNE9oelhPenNlbTdaYkpxelNhVENPTnFKVjJDbFcxQXJnejllUnpud3dRX2t1NVJ2NGVnZlBEY0xkMWlQc3R4aFdGMENSZXc3ZG1SQU1iTXYzU3NjTV8yVnhndDAxYWQyZ2REVUtJYW95WkRWOHBleEJpMWtLdTNHazc2dnFFT0FNWTdaX3N6OG9ZNXV0NF91WHRNRm9D0gGGAkFVX3lxTFBSUXlaVmNpM0pLdW5NWklCXzRBQjBJdEVqU2FNN2l0X2lvaTludUZURzJkVnhnS3JwdFN0S2pnbWhTbXFodTkzelZWa2ZWZFRWb0UyZGplZUNOQ2pwbTRXS1RLTHgzQ2ltamlKdGtFMzRlOXViYVVTdnRtTHB3Q0U5TjdGOGlFa0V5UHBFSzIxVTVkY05SUmFTYXZuekxyV2lWWU9FZjAwM1NHTHRwVTZHV09oV2w5UElSYjU1LWNFb2Y0dk50anoyaFNOOWVjNFBzaWlmaVA4MzlDQjF2M1NKak1ZRlctOVJVbFh0aEtPMHFUVUNhSFhkMGxrekEzaWF4bDNUSXc?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT"
       }
     ]
   }
