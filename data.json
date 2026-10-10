@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T00:08:03.590368+00:00",
+  "generatedAt": "2026-10-10T06:06:28.486325+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,81 +72,81 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 82527,
-      "chg": 1.0
+      "price": 82749,
+      "chg": 0.46
     },
     "eth": {
-      "price": 2484.54,
-      "chg": 0.39
+      "price": 2494.59,
+      "chg": 0.09
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 96.88,
-    "eurinr": 108.58,
-    "gbpinr": 128.07
+    "usdinr": 96.87,
+    "eurinr": 108.55,
+    "gbpinr": 128.16
   },
   "news": {
     "corp": [
       {
-        "title": "US stocks: US market posts weekly gains with earnings, inflation data on tap",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-posts-weekly-gains-with-earnings-inflation-data-on-tap/articleshow/134842368.cms",
+        "title": "Brent commands a war premium as Middle East supply risks keep oil on edge",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/brent-commands-a-war-premium-as-middle-east-supply-risks-keep-oil-on-edge/articleshow/134848278.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 10 Oct 2026 01:39:34 +0530"
+        "pubDate": "Sat, 10 Oct 2026 11:26:50 +0530"
       },
       {
-        "title": "Gold, silver boom puts US bank trading revenues on track for record $5 billion",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-silver-boom-puts-us-bank-trading-revenues-on-track-for-record-5-billion/articleshow/134841433.cms",
+        "title": "Market crash ahead? Warren Buffett's guide to navigate through bear attacks",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/market-crash-ahead-warren-buffetts-guide-to-navigate-through-bear-attacks/articleshow/134847888.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 10 Oct 2026 00:18:08 +0530"
+        "pubDate": "Sat, 10 Oct 2026 10:55:34 +0530"
       },
       {
-        "title": "US bull market nears fourth anniversary, but narrow rally raises risks",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-bull-market-nears-fourth-anniversary-but-narrow-rally-raises-risks/articleshow/134839055.cms",
+        "title": "RBI tightens forex derivative rules: What changes for hedging, cancelled trades",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-tightens-forex-derivative-rules-what-changes-for-hedging-cancelled-trades/articleshow/134847351.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 09 Oct 2026 22:23:51 +0530"
+        "pubDate": "Sat, 10 Oct 2026 10:05:34 +0530"
       },
       {
-        "title": "Anthem Biosciences block deal: Portsmouth Technologies sells 30 lakh shares worth Rs 250 crore",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/anthem-biosciences-block-deal-portsmouth-technologies-sells-30-lakh-shares-worth-rs-250-crore/articleshow/134838383.cms",
+        "title": "Wall Street Week Ahead: Bank earnings, CPI headline busy markets week as S&amp;P 500 hovers near records",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-bank-earnings-cpi-headline-busy-markets-week-as-sp-500-hovers-near-records/articleshow/134847295.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 09 Oct 2026 21:53:16 +0530"
+        "pubDate": "Sat, 10 Oct 2026 09:59:09 +0530"
       },
       {
-        "title": "Poonawalla Fincorp Q2 profit surges fivefold as income rises",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/poonawalla-fincorp-q2-profit-surges-fivefold-as-income-rises/articleshow/134838286.cms",
+        "title": "Euro falls, set for fifth straight weekly drop as oil prices rise",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/euro-falls-set-for-fifth-straight-weekly-drop-as-oil-prices-rise/articleshow/134847274.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 09 Oct 2026 21:45:36 +0530"
+        "pubDate": "Sat, 10 Oct 2026 09:55:51 +0530"
       },
       {
-        "title": "Rupee recovers to 96.73 vs US dollar after RBI intervention, but dollar demand persists",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-recovers-to-96-73-vs-us-dollar-after-rbi-intervention-but-dollar-demand-persists/articleshow/134838115.cms",
+        "title": "IT stocks surge despite US immigration curbs",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/it-stocks-surge-despite-us-immigration-curbs/articleshow/134847206.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 09 Oct 2026 21:42:35 +0530"
+        "pubDate": "Sat, 10 Oct 2026 09:49:39 +0530"
       },
       {
-        "title": "US stocks: US market rises as oil retreats; SpaceX spectrum deal hammers telecoms",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-as-oil-slips-telecoms-hit-by-spacex-spectrum-deal/articleshow/134836014.cms",
+        "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-one-week-high-heads-for-weekly-gain-on-bargain-hunting/articleshow/134847226.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 09 Oct 2026 19:26:51 +0530"
+        "pubDate": "Sat, 10 Oct 2026 09:48:40 +0530"
       },
       {
-        "title": "Poonawalla Fincorp Q2 Results: Profit skyrockets 407% YoY to Rs 375 crore, NII rises 81%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/poonawalla-fincorp-q2-results-profit-skyrockets-407-yoy-to-rs-375-crore-nii-rises-81/articleshow/134835689.cms",
+        "title": "Poonawalla Fincorp Q2 profit soars five-fold YoY to Rs 375 crore",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/poonawalla-fincorp-q2-profit-soars-five-fold-yoy-to-rs-375-crore/articleshow/134847141.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 09 Oct 2026 19:13:49 +0530"
+        "pubDate": "Sat, 10 Oct 2026 09:41:23 +0530"
       },
       {
-        "title": "Anand Rathi Wealth Q2 Results: Profit rises 22% to Rs 122 crore; co declares dividend of Rs 4 per share",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/anand-rathi-wealth-q2-results-profit-rises-22-to-rs-122-crore-co-declares-dividend-of-rs-4-per-share/articleshow/134835390.cms",
+        "title": "Rupee rises to intra-day high, then slips on dollar demand",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-to-intra-day-high-then-slips-on-dollar-demand/articleshow/134847163.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 09 Oct 2026 19:12:02 +0530"
+        "pubDate": "Sat, 10 Oct 2026 09:40:30 +0530"
       },
       {
-        "title": "Half of India’s MTF book is in smallcaps; Nithin Kamath flags liquidity risks",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/half-of-indias-mtf-book-is-in-smallcaps-nithin-kamath-flags-liquidity-risks/articleshow/134835308.cms",
+        "title": "Sebi notifies new settlement rule; unveils formula, fast-track route. Check details",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-notifies-new-settlement-rule-unveils-formula-fast-track-route-check-details/articleshow/134847119.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 09 Oct 2026 19:01:23 +0530"
+        "pubDate": "Sat, 10 Oct 2026 09:36:27 +0530"
       }
     ],
     "acct": [
@@ -157,16 +157,16 @@
         "pubDate": "Tue, 06 Oct 2026 05:13:55 GMT"
       },
       {
-        "title": "J&K Branch of NIRC of ICAI organises industrial visit for CA students - Rising Kashmir",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUmF1VEhweWtwY2pKVWc4N1g4QjgtekVSaUdneVNNaGdPTDZIN0NpOTVtUmhhM2p1Mi1RbW04VlMwSEZIMXFCWlJ1UzZmVDJEYW02RUdYcDhWcEEwb3VOWTJiX0NMQ1BDRWZhclVHbGZuVXhJWUxWbmVZZXJzUGd6Qmc0V1EzT2tsMU9QdFNNQlZVS3oyQjhsQnc3dV9rQWFWTFBiREJ5dURzamJKUGVRSmc0OG1rRmFKTUgtMFhpY2ZvT25wTjhaSi15eGdBWGc?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 09 Oct 2026 02:27:42 GMT"
-      },
-      {
         "title": "Banks: Are you ready for IFRS 18? - kpmg.com",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcHJBbm56U1ZSdmVSZGk2VlF6aXYxd1hjOHZOaGhSa0VEVDR3UkVuMTdfOHQ0TmduMnc4RVNKUDNVVDhiczRwazl4RWdJUGJ4dWRReTNIM3cxLU1UeGkxS0RwTlJwdVhJTDA5YWttbW1UTkxsU05BS0dmeHhGdlRYYzc0QlpFZ0VUUjVmTEJ0MmZNSW9B?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 07 Oct 2026 17:38:27 GMT"
+      },
+      {
+        "title": "J&K Branch of NIRC of ICAI organises industrial visit for CA students - Rising Kashmir",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUmF1VEhweWtwY2pKVWc4N1g4QjgtekVSaUdneVNNaGdPTDZIN0NpOTVtUmhhM2p1Mi1RbW04VlMwSEZIMXFCWlJ1UzZmVDJEYW02RUdYcDhWcEEwb3VOWTJiX0NMQ1BDRWZhclVHbGZuVXhJWUxWbmVZZXJzUGd6Qmc0V1EzT2tsMU9QdFNNQlZVS3oyQjhsQnc3dV9rQWFWTFBiREJ5dURzamJKUGVRSmc0OG1rRmFKTUgtMFhpY2ZvT25wTjhaSi15eGdBWGc?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 09 Oct 2026 02:27:42 GMT"
       },
       {
         "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - Facebook",
