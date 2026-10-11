@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T23:59:02.179136+00:00",
+  "generatedAt": "2026-10-11T04:28:44.094823+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,19 +72,19 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 82918,
-      "chg": 0.44
+      "price": 82815,
+      "chg": 0.25
     },
     "eth": {
-      "price": 2504.54,
-      "chg": 0.75
+      "price": 2501.54,
+      "chg": 0.39
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 96.87,
-    "eurinr": 108.55,
-    "gbpinr": 128.16
+    "usdinr": 96.83,
+    "eurinr": 108.5,
+    "gbpinr": 128.09
   },
   "news": {
     "corp": [
@@ -163,6 +163,12 @@
         "pubDate": "Wed, 07 Oct 2026 17:38:27 GMT"
       },
       {
+        "title": "Taiwan eases IFRS sustainability disclosure rules, cutting mandatory scope - digitimes",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YYVRlZG5Wc0h1aExyMVpiX2Q0dDREbElCaG1zbEZDN3ZUeXNmN3ZmQU1DbTdObTJEOTZQcWlmM1Y4dlY0d20tSS1hdWlCVDljMDJiTURwazJlaUl4dnpQWHowX19NWng0Q2FPREpJVXI1UQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sun, 11 Oct 2026 02:36:55 GMT"
+      },
+      {
         "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXhMY1ZubW01dm1XMHdBcDJvS2lyTkdrN0FoY0F4TjVwS0JDQ25TOWxicmduY0xJcVkwQ3c0dF9qMFVYU0FBblhRbWpXSEFmNDhaVE1OQW9KaUY1dXhzT3BQb0JydDU2aVRyeWFGaVZqZTYtOW52UHE1a1RZcE9idjUzSzdOWm1pUlh5cnR4ZjlvbHB1UDRYLWRCZE14M2ptcV83WWg0M3hBWDAxY0FVSGxWUTRFX09YUDRxa0ZvUVdzdkV2UVpRZFpJdmg5b2wtbHQ00gHaAUFVX3lxTE80dEE0dUlVelJhcnRKZEl6aDdOcF9Kb1FYWEw0a0pEblZrRmIyS21JMElVTTlJT0lHbDVaa1JmOE93VEVaYzBpeXgwNG1UY3VMbmVZT2RGSEJiSjhhdlZRVVdMb0hUWTdDbE5hM0RDOURMRGg0d29WT0NIbDUxMjlsNzBhUnpIVkFIWmhoUDZiaGN2NXZVQUMwZUxvdTdrSmxSZGh6RFF6OTY4Y0VsSnowNVRpdXd6WnBEUmt2c3pqbG9BUDBaeVdxVTVtN0lyQ2tVZWdkQTdrRHpR?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -173,6 +179,12 @@
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM2RvTTBFUXU5c1lGVDlQSFpJYWJkQXNFSHFiaG1MWFlPYmZQMGh4UDNNcGI2elptY1J3SjFJdUNCY1I5MVZ0TEt6ZFFMVk1xOXhNaEZNeGJhbGkxQWwxalM5TFlBQ2dWdjhQWVk4dGpkY2JzR0dmeV9RYk9TM2ljSDFpMDI4cFAxZXphZG4zOEdKNkowTGZkQnZKLVh3RExza2RBRmU3UXFwSXBndVlneTdLUjlXLV9GdWZ1U2JhckNMTUxhMmxISW50UHVyaUEyNnVETERzWmt4YjlxRzRfRDBB?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 01 Oct 2026 14:27:58 GMT"
+      },
+      {
+        "title": "India’s ICAI plans certification course for independent directors – report - theaccountant-online.com",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM2pBdVlUSG91U0FyRUxNbUZic3dPMDVsaUI3LTBKUEZuTUlvejc3WWZlcU5BWFNQdHd2NkhpOHBGMzJ4TXpPRmtIelJ4ME00Sm0tWC1pd1NPc1ZwUTRqLXZhVTlPTDNpQ19aOWJKRUg0NFRoOXBLekpsSkdReHVwaTUtT0V4TWdhR1QtbU9ueEdLc1FR?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 25 Sep 2026 07:00:00 GMT"
       },
       {
         "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
@@ -187,22 +199,10 @@
         "pubDate": "Thu, 08 Oct 2026 00:50:44 GMT"
       },
       {
-        "title": "India’s ICAI plans certification course for independent directors – report - theaccountant-online.com",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM2pBdVlUSG91U0FyRUxNbUZic3dPMDVsaUI3LTBKUEZuTUlvejc3WWZlcU5BWFNQdHd2NkhpOHBGMzJ4TXpPRmtIelJ4ME00Sm0tWC1pd1NPc1ZwUTRqLXZhVTlPTDNpQ19aOWJKRUg0NFRoOXBLekpsSkdReHVwaTUtT0V4TWdhR1QtbU9ueEdLc1FR?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 25 Sep 2026 07:00:00 GMT"
-      },
-      {
         "title": "ICAI CA January 2027 Exam Dates - PW",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VM2lnWXNXdXZLTWp6UHBjT0IxU21NUFF3dVBHRTFzWl9lZFFuc0laVnFBM0R0NGk5RWRWQWNDUWdBQkFIU1l3c1N6UURmOWNneXljX2pBeS1TOUQ2X0pIYVFrdnJrRms?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Oil shock, interest rates and credit risk: What has changed for our IFRS 9 and CECL scenarios? - Oxford Economics",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNWx3RU5fODBteWp5LXpZaUpQdmtWbEd5M3ZUeExISUR3aE8wWDNFZ25LUXlpTmtqRUZhUmdWZk1HdVBydV9VTS1ScmU2NWVyV1RfM3hvSU96RERNWC1DaWxuUmJFbGhKblJVQmM3blhDeFd3d1pzWkhUNEJKMGZYek1vSjhSaTNScVB3?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 06 Oct 2026 10:44:37 GMT"
       },
       {
         "title": "ICAI moves to propose CA Act changes, draft in 2 months to build larger Indian accounting firms - cfo.economictimes.indiatimes.com",
