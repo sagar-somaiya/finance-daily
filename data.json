@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T00:06:57.385053+00:00",
+  "generatedAt": "2026-10-12T06:14:31.776392+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,81 +72,81 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 83688,
-      "chg": 0.92
+      "price": 83793,
+      "chg": 0.98
     },
     "eth": {
-      "price": 2534.8,
-      "chg": 1.21
+      "price": 2556.85,
+      "chg": 2.22
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 96.83,
-    "eurinr": 108.5,
-    "gbpinr": 128.09
+    "usdinr": 96.96,
+    "eurinr": 108.63,
+    "gbpinr": 128.33
   },
   "news": {
     "corp": [
       {
-        "title": "Ahead of Market: 10 things that will decide D-Street action on Monday",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/134869422.cms",
+        "title": "Equity today, debt tomorrow: How Mirae Asset’s Life Cycle Fund 2056 plans your retirement",
+        "link": "https://economictimes.indiatimes.com/markets/expert-view/equity-today-debt-tomorrow-how-mirae-assets-life-cycle-fund-2056-plans-your-retirement/articleshow/134883505.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 11 Oct 2026 16:48:54 +0530"
+        "pubDate": "Mon, 12 Oct 2026 11:00:04 +0530"
       },
       {
-        "title": "Ashish Kacholia, Mukul Agrawal, others invest Rs 120 crore in IPO-bound Fusion CX",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-mukul-agrawal-others-invest-rs-120-crore-in-ipo-bound-fusion-cx/articleshow/134867844.cms",
+        "title": "Lenskart Solutions shares crack 5% after Rs 1,985-crore block deal; Alpha Wave likely sells take",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/lenskart-solutions-shares-crack-5-after-rs-1985-crore-block-deal-alpha-wave-likely-sells-take/articleshow/134883511.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 11 Oct 2026 14:33:08 +0530"
+        "pubDate": "Mon, 12 Oct 2026 10:58:39 +0530"
       },
       {
-        "title": "9 stocks zoom up to 37% in 3 months; MFs raise stakes in September quarter",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/9-stocks-zoom-up-to-37-in-3-months-mfs-raise-stakes-in-september-quarter/slideshow/134867235.cms",
+        "title": "Global Markets: 5 key triggers to watch out for this week",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-5-key-triggers-to-watch-out-for-this-week/slideshow/134883687.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 11 Oct 2026 13:27:57 +0530"
+        "pubDate": "Mon, 12 Oct 2026 10:56:05 +0530"
       },
       {
-        "title": "FII selloff intensifies! Foreign investors sell Indian equities worth Rs 45,000 crore in just 6 sessions. What can reverse the trend?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fii-selloff-intensifies-foreign-investors-sell-indian-equities-worth-rs-45000-crore-in-just-6-sessions-what-can-reverse-the-trend/articleshow/134866745.cms",
+        "title": "India 10-year bond yield tops 7.35% as RBI's liquidity clamp down hurts",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-yield-tops-7-35-as-rbis-liquidity-clamp-down-hurts/articleshow/134883445.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 11 Oct 2026 12:44:14 +0530"
+        "pubDate": "Mon, 12 Oct 2026 10:49:55 +0530"
       },
       {
-        "title": "ET Alpha Wealth Summit 2.0: What do Shah Rukh Khan and SIFs have in common? Radhika Gupta explains",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-what-do-shah-rukh-khan-and-sifs-have-in-common-radhika-gupta-explains/articleshow/134866717.cms",
+        "title": "PC Jeweller shares jump 5% to fresh 52-week high, market value swells by Rs 2,500 crore in 4 sessions",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/pc-jeweller-shares-jump-5-to-fresh-52-week-high-market-value-swells-by-rs-2500-crore-in-4-sessions/articleshow/134883453.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 11 Oct 2026 12:40:18 +0530"
+        "pubDate": "Mon, 12 Oct 2026 10:49:43 +0530"
       },
       {
-        "title": "NTPC invites industrial partners for 26% equity in co-generation projects",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ntpc-invites-industrial-partners-for-26-equity-in-co-generation-projects/articleshow/134866656.cms",
+        "title": "63 Moons Technologies shares rally 9% as subsidiary raises FY27 revenue guidance to Rs 600 crore",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/63-moons-technologies-shares-rally-9-as-subsidiary-raises-fy27-revenue-guidance-to-rs-600-crore/articleshow/134883373.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 11 Oct 2026 12:32:04 +0530"
+        "pubDate": "Mon, 12 Oct 2026 10:44:25 +0530"
       },
       {
-        "title": "9 penny stocks surged up to 315% in 6 months; 3 turned multibaggers",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/9-penny-stocks-surged-up-to-315-in-6-months-3-turned-multibaggers/slideshow/134866632.cms",
+        "title": "HCL Tech Q2 Results Live Updates: IT major likely to report steady earnings; Q2 profit could rise up to 12% YoY",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/hcl-tech-q2-results-live-hcl-technologies-q2-fy27-revenue-earnings-dividend-profit-loss-bonus-shares-date-time-12-october-2026/liveblog/134883372.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 11 Oct 2026 12:15:07 +0530"
+        "pubDate": "Mon, 12 Oct 2026 10:38:43 +0530"
       },
       {
-        "title": "F&amp;O Talk: Nifty’s break above 22,750 could open doors for 23,000; Sudeep Shah picks 5 stocks for next week",
-        "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-niftys-break-above-22750-could-open-doors-for-23000-sudeep-shah-picks-5-stocks-for-next-week/articleshow/134866209.cms",
+        "title": "Crude oil, rupee &amp; interest rates: Is the macroeconomic squeeze spreading to equities?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/crude-oil-rupee-interest-rates-is-the-macroeconomic-squeeze-spreading-to-equities/articleshow/134883255.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 11 Oct 2026 11:50:50 +0530"
+        "pubDate": "Mon, 12 Oct 2026 10:37:02 +0530"
       },
       {
-        "title": "Earnings Tracker: HDFC Bank, HCL Tech, Wipro among 129 companies set to report Q2 results this week",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/earnings-tracker-hdfc-bank-hcl-tech-wipro-among-129-companies-set-to-report-q2-results-this-week/articleshow/134866148.cms",
+        "title": "Indian debt funds set to extend $4.5 billion bond selloff after RBI policy shift",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/indian-debt-funds-set-to-extend-4-5-billion-bond-selloff-after-rbi-policy-shift/articleshow/134883201.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 11 Oct 2026 11:44:41 +0530"
+        "pubDate": "Mon, 12 Oct 2026 10:34:41 +0530"
       },
       {
-        "title": "Weekly Market Outlook: Nifty snaps 8-week losing streak, but can bulls reclaim the crucial 200-week moving average?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/weekly-market-outlook-nifty-snaps-8-week-losing-streak-but-can-bulls-reclaim-the-crucial-200-week-moving-average/articleshow/134865763.cms",
+        "title": "Suzlon Energy shares drop 30% in a year, but Motilal Oswal screams Buy. Here's why it sees 73% upside",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/suzlon-energy-shares-drop-30-in-a-year-but-motilal-oswal-screams-buy-heres-why-it-sees-73-upside/articleshow/134883115.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 11 Oct 2026 11:26:55 +0530"
+        "pubDate": "Mon, 12 Oct 2026 10:31:58 +0530"
       }
     ],
     "acct": [
@@ -199,16 +199,16 @@
         "pubDate": "Tue, 06 Oct 2026 13:40:07 GMT"
       },
       {
-        "title": "ICAI CA January 2027 Exam Dates - PW",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VM2lnWXNXdXZLTWp6UHBjT0IxU21NUFF3dVBHRTFzWl9lZFFuc0laVnFBM0R0NGk5RWRWQWNDUWdBQkFIU1l3c1N6UURmOWNneXljX2pBeS1TOUQ2X0pIYVFrdnJrRms?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 23 Sep 2026 07:00:00 GMT"
-      },
-      {
         "title": "ICAI moves to propose CA Act changes, draft in 2 months to build larger Indian accounting firms - cfo.economictimes.indiatimes.com",
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVW1WNm8xd2k4THJOZEFJQlh4NEh0TEIteHQydEwwczdISXdMX3h5emYyX0t1TURkcGRyVVAzMWloZXNnTWtiSTZXbkJ5QWR4TzJGRmQ5QlZYLVBuWHBWSmVWS0JCODkxSXlaNE9oelhPenNlbTdaYkpxelNhVENPTnFKVjJDbFcxQXJnejllUnpud3dRX2t1NVJ2NGVnZlBEY0xkMWlQc3R4aFdGMENSZXc3ZG1SQU1iTXYzU3NjTV8yVnhndDAxYWQyZ2REVUtJYW95WkRWOHBleEJpMWtLdTNHazc2dnFFT0FNWTdaX3N6OG9ZNXV0NF91WHRNRm9D0gGGAkFVX3lxTFBSUXlaVmNpM0pLdW5NWklCXzRBQjBJdEVqU2FNN2l0X2lvaTludUZURzJkVnhnS3JwdFN0S2pnbWhTbXFodTkzelZWa2ZWZFRWb0UyZGplZUNOQ2pwbTRXS1RLTHgzQ2ltamlKdGtFMzRlOXViYVVTdnRtTHB3Q0U5TjdGOGlFa0V5UHBFSzIxVTVkY05SUmFTYXZuekxyV2lWWU9FZjAwM1NHTHRwVTZHV09oV2w5UElSYjU1LWNFb2Y0dk50anoyaFNOOWVjNFBzaWlmaVA4MzlDQjF2M1NKak1ZRlctOVJVbFh0aEtPMHFUVUNhSFhkMGxrekEzaWF4bDNUSXc?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Insurers: Are you ready for IFRS 18? - kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wcDhQbmt3OExHbWtkWXE0VU9relJ3MlJoVTBSeTBxMVFCMkRBd1M3NTVLNUxtb1BpS3l6N1ZKazZiSFhXbTNLYmJ3MTNaN3h1YU1Rc1JyMGlKOGhDemgwSkpZQnZFWjNOMnVsS3lKZjh5NXdS?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 26 May 2026 07:00:00 GMT"
       }
     ]
   }
