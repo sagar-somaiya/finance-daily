@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T15:49:23.809284+00:00",
+  "generatedAt": "2026-10-12T22:39:46.688752+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 82678,
-      "chg": -0.81
+      "price": 82536,
+      "chg": -1.26
     },
     "eth": {
-      "price": 2529.28,
-      "chg": 0.18
+      "price": 2487.16,
+      "chg": -1.78
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
+        "title": "US stocks: Nasdaq ends lower as oil prices surge ahead of earnings, economic data",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-ends-lower-as-oil-prices-surge-ahead-of-earnings-economic-data/articleshow/134902064.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Tue, 13 Oct 2026 01:39:06 +0530"
+      },
+      {
+        "title": "Cleveland Fed's Hammack backs restrictive policy, says better if it comes 'relatively quickly'",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/cleveland-feds-hammack-backs-restrictive-policy-says-better-if-it-comes-relatively-quickly/articleshow/134901637.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Tue, 13 Oct 2026 00:33:57 +0530"
+      },
+      {
+        "title": "US Stocks: Dating app Bumble shares surge 52% on talks to go private at $1 billion valuation",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dating-app-bumble-shares-surge-52-on-talks-to-go-private-at-1-billion-valuation-report/articleshow/134901295.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Tue, 13 Oct 2026 00:11:25 +0530"
+      },
+      {
+        "title": "US bank stocks near correction as earnings loom, consumer outlook in focus",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-bank-stocks-near-correction-as-earnings-loom-consumer-outlook-in-focus/articleshow/134900177.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Mon, 12 Oct 2026 23:29:50 +0530"
+      },
+      {
+        "title": "Polycab India’s F&amp;O exit: NSE sets December 30 deadline; NCLAT stays insolvency order",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/polycab-indias-fo-exit-nse-sets-december-30-deadline-nclat-stays-insolvency-order/articleshow/134898074.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Mon, 12 Oct 2026 21:54:24 +0530"
+      },
+      {
+        "title": "Indian Gas Exchange secures Sebi's nod to float IPO",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/indian-gas-exchange-secures-sebis-nod-to-float-ipo/articleshow/134897335.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Mon, 12 Oct 2026 21:19:49 +0530"
+      },
+      {
+        "title": "Singularity AMC pays over Rs 40 lakh to settle AIF rule violation case with Sebi",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/singularity-amc-pays-over-rs-40-lakh-to-settle-aif-rule-violation-case-with-sebi/articleshow/134897222.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Mon, 12 Oct 2026 21:16:57 +0530"
+      },
+      {
+        "title": "Jubilant Pharmova block deal: Quant Mutual Fund offloads Rs 190 crore stake amid Rs 800 crore fundraising plan; Abakkus buys 11 lakh shares",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jubilant-pharmova-block-deal-quant-mutual-fund-offloads-rs-190-crore-stake-amid-rs-800-crore-fundraising-plan-abakkus-buys-11-lakh-shares/articleshow/134897154.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Mon, 12 Oct 2026 21:14:54 +0530"
+      },
+      {
+        "title": "SBI economists call for scrapping LTCG tax on equities",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-economists-call-for-scrapping-ltcg-tax-on-equities/articleshow/134897107.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Mon, 12 Oct 2026 21:12:52 +0530"
+      },
+      {
         "title": "Market Trading Guide: Astra Microwave, Manappuram among 5 stock recommendations for Tuesday",
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-astra-microwave-manappuram-among-5-stock-recommendations-for-tuesday/slideshow/134896872.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Mon, 12 Oct 2026 20:54:15 +0530"
-      },
-      {
-        "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/134896643.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Mon, 12 Oct 2026 20:53:00 +0530"
-      },
-      {
-        "title": "Rupee rebounds nearly 1% after RBI moves to curb speculative trades",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rebounds-nearly-1-after-rbi-moves-to-curb-speculative-trades/articleshow/134896489.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Mon, 12 Oct 2026 20:37:39 +0530"
-      },
-      {
-        "title": "Goldman upgrades global equities on earnings optimism",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-upgrades-global-equities-on-earnings-optimism/articleshow/134895714.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Mon, 12 Oct 2026 19:54:20 +0530"
-      },
-      {
-        "title": "US stocks muted as tech weakness offsets energy gains; earnings in focus",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-steady-at-open-as-oil-jumps-ahead-of-key-earnings/articleshow/134894878.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Mon, 12 Oct 2026 19:15:03 +0530"
-      },
-      {
-        "title": "ICICI Prudential AMC Q2 Results: Profit rises 6% YoY to Rs 889 crore; co declares Rs 30/share dividend",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-prudential-amc-q2-results-profit-rises-6-yoy-to-rs-889-crore-co-declares-rs-30/share-dividend/articleshow/134893738.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Mon, 12 Oct 2026 18:25:20 +0530"
-      },
-      {
-        "title": "PVR Inox among 4 stocks hitting 52-week highs; rallied up to 13% in a month",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/pvr-inox-among-4-stocks-hitting-52-week-highs-rallied-up-to-13-in-a-month/slideshow/134893470.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Mon, 12 Oct 2026 18:03:44 +0530"
-      },
-      {
-        "title": "India benchmark bond posts worst day in six months on RBI measures",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/india-benchmark-bond-posts-worst-day-in-six-months-on-rbi-measures/articleshow/134893334.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Mon, 12 Oct 2026 18:02:43 +0530"
-      },
-      {
-        "title": "The ₹1 Crore Portfolio Problem: When Your Money Grows, Your Mistakes Get More Expensive",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/the-1-crore-portfolio-problem-when-your-money-grows-your-mistakes-get-more-expensive/articleshow/134893217.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Mon, 12 Oct 2026 18:02:03 +0530"
-      },
-      {
-        "title": "HCL Tech dividend alert! IT major declares Rs 12 interim dividend for FY27; Q2 profit jumps 21% YoY to Rs 5,132 crore",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hcl-tech-dividend-alert-it-major-declares-rs-12-interim-dividend-for-fy27-q2-profit-jumps-21-yoy-to-rs-5132-crore/articleshow/134893266.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Mon, 12 Oct 2026 18:00:27 +0530"
       }
     ],
     "acct": [
@@ -169,22 +169,10 @@
         "pubDate": "Wed, 07 Oct 2026 17:38:27 GMT"
       },
       {
-        "title": "EBA rolls out reporting framework update for IFRS 18 and Pillar 3 disclosures - Traders Union",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONHVLaU42VGwtUFpwcFJnaWlPcGhDOFV2ZGxHRHdFZ0lxZXh3R1hpNXBTSTYwcXVTTHR5bkpZRWR5MUZ4eDkxXy1mbWx3SF9VVEhaUW1odGpWOXBudHJrX1VOZzFBaWNMWEllLU5WOEpWLU9iblViNVM5bDVoUnpJVzRsUTREQTNESWJzSURVUExUbzVf?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 12 Oct 2026 14:21:30 GMT"
-      },
-      {
         "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - Facebook",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPM2RvTTBFUXU5c1lGVDlQSFpJYWJkQXNFSHFiaG1MWFlPYmZQMGh4UDNNcGI2elptY1J3SjFJdUNCY1I5MVZ0TEt6ZFFMVk1xOXhNaEZNeGJhbGkxQWwxalM5TFlBQ2dWdjhQWVk4dGpkY2JzR0dmeV9RYk9TM2ljSDFpMDI4cFAxZXphZG4zOEdKNkowTGZkQnZKLVh3RExza2RBRmU3UXFwSXBndVlneTdLUjlXLV9GdWZ1U2JhckNMTUxhMmxISW50UHVyaUEyNnVETERzWmt4YjlxRzRfRDBB?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 01 Oct 2026 14:27:58 GMT"
-      },
-      {
-        "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXhMY1ZubW01dm1XMHdBcDJvS2lyTkdrN0FoY0F4TjVwS0JDQ25TOWxicmduY0xJcVkwQ3c0dF9qMFVYU0FBblhRbWpXSEFmNDhaVE1OQW9KaUY1dXhzT3BQb0JydDU2aVRyeWFGaVZqZTYtOW52UHE1a1RZcE9idjUzSzdOWm1pUlh5cnR4ZjlvbHB1UDRYLWRCZE14M2ptcV83WWg0M3hBWDAxY0FVSGxWUTRFX09YUDRxa0ZvUVdzdkV2UVpRZFpJdmg5b2wtbHQ00gHaAUFVX3lxTE80dEE0dUlVelJhcnRKZEl6aDdOcF9Kb1FYWEw0a0pEblZrRmIyS21JMElVTTlJT0lHbDVaa1JmOE93VEVaYzBpeXgwNG1UY3VMbmVZT2RGSEJiSjhhdlZRVVdMb0hUWTdDbE5hM0RDOURMRGg0d29WT0NIbDUxMjlsNzBhUnpIVkFIWmhoUDZiaGN2NXZVQUMwZUxvdTdrSmxSZGh6RFF6OTY4Y0VsSnowNVRpdXd6WnBEUmt2c3pqbG9BUDBaeVdxVTVtN0lyQ2tVZWdkQTdrRHpR?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
       },
       {
         "title": "India’s ICAI plans certification course for independent directors – report - theaccountant-online.com",
@@ -193,16 +181,28 @@
         "pubDate": "Fri, 25 Sep 2026 07:00:00 GMT"
       },
       {
+        "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXhMY1ZubW01dm1XMHdBcDJvS2lyTkdrN0FoY0F4TjVwS0JDQ25TOWxicmduY0xJcVkwQ3c0dF9qMFVYU0FBblhRbWpXSEFmNDhaVE1OQW9KaUY1dXhzT3BQb0JydDU2aVRyeWFGaVZqZTYtOW52UHE1a1RZcE9idjUzSzdOWm1pUlh5cnR4ZjlvbHB1UDRYLWRCZE14M2ptcV83WWg0M3hBWDAxY0FVSGxWUTRFX09YUDRxa0ZvUVdzdkV2UVpRZFpJdmg5b2wtbHQ00gHaAUFVX3lxTE80dEE0dUlVelJhcnRKZEl6aDdOcF9Kb1FYWEw0a0pEblZrRmIyS21JMElVTTlJT0lHbDVaa1JmOE93VEVaYzBpeXgwNG1UY3VMbmVZT2RGSEJiSjhhdlZRVVdMb0hUWTdDbE5hM0RDOURMRGg0d29WT0NIbDUxMjlsNzBhUnpIVkFIWmhoUDZiaGN2NXZVQUMwZUxvdTdrSmxSZGh6RFF6OTY4Y0VsSnowNVRpdXd6WnBEUmt2c3pqbG9BUDBaeVdxVTVtN0lyQ2tVZWdkQTdrRHpR?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "EBA rolls out reporting framework update for IFRS 18 and Pillar 3 disclosures - Traders Union",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONHVLaU42VGwtUFpwcFJnaWlPcGhDOFV2ZGxHRHdFZ0lxZXh3R1hpNXBTSTYwcXVTTHR5bkpZRWR5MUZ4eDkxXy1mbWx3SF9VVEhaUW1odGpWOXBudHJrX1VOZzFBaWNMWEllLU5WOEpWLU9iblViNVM5bDVoUnpJVzRsUTREQTNESWJzSURVUExUbzVf?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 12 Oct 2026 14:21:30 GMT"
+      },
+      {
         "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFhGX19mVjU0d0pwWWhNRndFUjliUTNFXzMtbFB1aXVETlZMdXk2aU9mOXFfUU1CYUZNY211QUVFNmYwbERsOWtrM0p0ZVhHSnJFQlY4OFpGb1JkOEFGeGFGMTA3Mzdrc2kycVM1TDhuV0pmRG5SME4tUXNhdTRTcWs1WXhWVWtFanBYTVBNemt2b0dLbjhwZW9nRjB3UUY3OU5TbUxRWQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 10 Jul 2026 14:35:46 GMT"
       },
       {
-        "title": "GST on Education and Training: ICAI Releases Comprehensive Sectoral Guide Highlighting GST Exemptions, 18% Tax on Coaching, Skill Development Relief and Affiliation Fee Disputes - A2Z Taxcorp LLP",
-        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQQmxzM3FtWEphcDdkakMtdmpmR3RNbkVwOUhDcDZIcWVfaEhtWGFJWmJ0SHAybnI1VFBiTWo2Z21MNXVKNzJKWDZQRmpXQ0g2N1RUWmJRaFJJMEpmY09iUFYyeE05MnI5QnJTcTdLZmhIWm1NM1RQYkVIbGtSM0F1VFRnNjhwZjZjVVg4cmdERUlEaTV1cmtITmI4U2VWT2xaUTZmRWQwQmFwNHpnMW9IN3RHeDgtWDkwSk5IbkpRZWtnNTBxZzQ3ZjZhdmhla3lGLXhPMHNIOTJuNmN5V3lyalFtUHAyczgyLVdDTE1NcnBqU054RXJCOGt4RnJvalhzYWw0dW5KVm0yOHptdXQ1NENBbThCRzJESWhkNDU2alo3aFk?oc=5",
+        "title": "FSS urges Korea firms to ready for K-IFRS 1118 adoption next year - CHOSUNBIZ - Chosunbiz",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNlMwWWFPeGd0QUZUTEE0dlZxY0J4QTRNZmpWUzRnUElOM3pzTnl3MXBnRVcyUG50cUMwTXlvNEdnclZSb1dnSXJURTJkQmdtZGxIRnVrWWJ3cEFyQjhjeE5QWFR2em1XakxHN1R6OTFtZXFIejZUTXpLNlF4aHpyd9IBlAFBVV95cUxQX1JYMnh6MnBWUGxDQnRDR2FBQ3d6UmlmcVdubHhjSHdOSVo4ckdhc3RidWx0TkZiNnR2aVhwd3JrZVZTSTFUUElvWnRUSURkUHlfQXFFRS1ib2JkUjEwOUtaUGRIWnVxQkE5LXlyTUxpMWNXWkFKR2NrQnA2SUxocExHX2gzWDhEX0V5bWwxSkhEU2xp?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 12 Oct 2026 08:01:31 GMT"
+        "pubDate": "Mon, 12 Oct 2026 21:00:00 GMT"
       },
       {
         "title": "IFRS 18: A New Era for Financial Disclosure - FTI Consulting",
