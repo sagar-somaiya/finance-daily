@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T17:51:45.327442+00:00",
+  "generatedAt": "2026-10-13T22:06:15.425330+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 83129,
-      "chg": 0.85
+      "price": 83397,
+      "chg": 1.03
     },
     "eth": {
-      "price": 2501.61,
-      "chg": -0.28
+      "price": 2508.57,
+      "chg": 0.71
     }
   },
   "fx": {
@@ -88,6 +88,18 @@
   },
   "news": {
     "corp": [
+      {
+        "title": "US stocks: Nasdaq ends down as chipmakers fall and bank earnings roll in",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-ends-down-as-chipmakers-fall-and-bank-earnings-roll-in/articleshow/134926328.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 14 Oct 2026 01:43:21 +0530"
+      },
+      {
+        "title": "NY Fed President Williams sees no need for a rate hike in 2027",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/ny-fed-president-williams-sees-no-need-for-a-rate-hike-in-2027/articleshow/134925718.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 14 Oct 2026 00:28:02 +0530"
+      },
       {
         "title": "US chip stocks slide as China’s CXMT advances; AI spending fears rattle investors",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-chip-stocks-slide-as-chinas-cxmt-advances-ai-spending-fears-rattle-investors/articleshow/134923498.cms",
@@ -135,18 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-banks-post-strong-profits-but-inflation-and-rate-risks-cloud-outlook/articleshow/134920643.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Tue, 13 Oct 2026 20:15:10 +0530"
-      },
-      {
-        "title": "Prestige Estates Q2 sales bookings rise 20% to Rs 7,225 cr on better housing demand",
-        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/prestige-estates-q2-sales-bookings-rise-20-to-rs-7225-cr-on-better-housing-demand/articleshow/134920350.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 13 Oct 2026 19:57:02 +0530"
-      },
-      {
-        "title": "Puravankara Q2 sales bookings surge 62% to Rs 2,136 crore on housing demand",
-        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/puravankara-ltd-q2-sales-bookings-surge-62-pc-to-rs-2136-cr-on-housing-demand/articleshow/134920310.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 13 Oct 2026 19:52:59 +0530"
       }
     ],
     "acct": [
@@ -161,6 +161,12 @@
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQby1zZ2x1c0FkN0pESDlXb1VxdlRoVUx1OV9yemdEQTFTLTlsdndRWm56bWYzZk5maHZoeFFCMHlrMkN3SENpX1h5UHNnSVhZV3NucU95VDE1Xy1uOG9zVTZReEhEaTFVUDUxYlVxeDVGVDRKRHRVYjYyQUx5M0sxQjBUS21lUUlIRjgxeVU1N3pIRFFJb1FwLXBmZTRNVkRVR3RoQU15QjQ5cXYxQkRxVG5qTGJxQWR4dUdQcDV5T1RFeGwwc2NRLXhidw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 13 Oct 2026 16:32:48 GMT"
+      },
+      {
+        "title": "SAP Pairs Cloud ERP Upgrade With IFRS 18 Compliance as Joule Work Nears Full Rollout - ad-hoc-news.de",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNd3pLSmk2TEZJYlc1WTNYcHM5Sm92RXpFS2ZfVUhHemJRb1VWNDdQSGVqNTE4ZVBWckQwNHJWQ0FFSzh3MjRPbnp5Mkdwd3Jaa212MXZxTFBybjZmbElPSG9iMklpa1l1NlJHZTg4MXhkNm0wWlREdVd0TUhGVUR2WG01ZjZzNUNHb3lWdFlfdnFERjhEZFVYWU5taE9fRThIM2wzVGdPN3o5S0tWNjJsS21DVnc5TXdiQUcwYng1YWNBT2t1eGZPa2J5ZmtuZ0hkWklobWZ6cG03enc?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 13 Oct 2026 18:41:04 GMT"
       },
       {
         "title": "New ICAI guidelines address sustainability assurance, greenwashing | Analysis - The Hindu",
@@ -203,12 +209,6 @@
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX1Z2WElldjFMNGRpWkQ2RGhBSDFTLWQ1d2ZjRXlyUFBRT1h6aDBZY0lxcHNJTWROU1VHZVdNYXVIcjBtd0NhbXRmbVhYdkFUN0diQnFXVEZuVENGRWgyWWdVeVBNTDF5M0VWdnpXMkppY0NXY3NyRjhTbUFDZEdjRDhSa3ZLNVl6YUtkM3lmUWEwNHVZVjVvLWZtNjB0N1h1SEVJ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 27 Aug 2026 07:00:00 GMT"
-      },
-      {
-        "title": "ICAI moves to propose CA Act changes, draft in 2 months to build larger Indian accounting firms - cfo.economictimes.indiatimes.com",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVW1WNm8xd2k4THJOZEFJQlh4NEh0TEIteHQydEwwczdISXdMX3h5emYyX0t1TURkcGRyVVAzMWloZXNnTWtiSTZXbkJ5QWR4TzJGRmQ5QlZYLVBuWHBWSmVWS0JCODkxSXlaNE9oelhPenNlbTdaYkpxelNhVENPTnFKVjJDbFcxQXJnejllUnpud3dRX2t1NVJ2NGVnZlBEY0xkMWlQc3R4aFdGMENSZXc3ZG1SQU1iTXYzU3NjTV8yVnhndDAxYWQyZ2REVUtJYW95WkRWOHBleEJpMWtLdTNHazc2dnFFT0FNWTdaX3N6OG9ZNXV0NF91WHRNRm9D0gGGAkFVX3lxTFBSUXlaVmNpM0pLdW5NWklCXzRBQjBJdEVqU2FNN2l0X2lvaTludUZURzJkVnhnS3JwdFN0S2pnbWhTbXFodTkzelZWa2ZWZFRWb0UyZGplZUNOQ2pwbTRXS1RLTHgzQ2ltamlKdGtFMzRlOXViYVVTdnRtTHB3Q0U5TjdGOGlFa0V5UHBFSzIxVTVkY05SUmFTYXZuekxyV2lWWU9FZjAwM1NHTHRwVTZHV09oV2w5UElSYjU1LWNFb2Y0dk50anoyaFNOOWVjNFBzaWlmaVA4MzlDQjF2M1NKak1ZRlctOVJVbFh0aEtPMHFUVUNhSFhkMGxrekEzaWF4bDNUSXc?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 21 Sep 2026 07:00:00 GMT"
       }
     ]
   }
