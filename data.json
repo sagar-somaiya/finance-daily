@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T20:43:31.282064+00:00",
+  "generatedAt": "2026-10-15T23:26:08.770369+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 82325,
-      "chg": 0.73
+      "price": 82088,
+      "chg": 0.74
     },
     "eth": {
-      "price": 2459.09,
-      "chg": 1.64
+      "price": 2437.58,
+      "chg": 0.83
     }
   },
   "fx": {
@@ -193,12 +193,6 @@
         "pubDate": "Mon, 12 Oct 2026 12:48:01 GMT"
       },
       {
-        "title": "ICAI CA Intermediate September Result 2026 date and time announced: Check download steps, link and details - Moneycontrol.com",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOR2xfTjdLRHpYeUs4M01rdm5nWVBYRHdRMm9HYXE0cWQ5TGZCZ0xDbEZLQUhYOUhzclQtWHFaM1l2UV8ydEtxeWFocG1ITGNobC1adXQ1d0VEOTNiT015cWZDM0JaelJtWlcwQXlYTW1sQmlzUV9xU0tqMnlOR2I4ZU9qOGxjM01XdjJwQ0wwQ19DSmsyblFQLWV6VG5BVV9pT3ZmQlg1WGxNZHFOTWN2S3gwU3lpekNXUVRmaUNtdTUyT2gwbEtBSVNsRUtMYVNQYVI2UDB4bi1CdmFNbEVQaWRsc0s4bEtQU1J6Vmd4WnpFZjFZVHFXMdIB_gFBVV95cUxNN3R3Rm9HV25uYUhrVG1ULTZwc2VHR20xRFRpYlFoMC1MVzB6SGFzZjR5X3Bhbl9wa1pYaGVxQWRtMUtRSHp5ZzlELVpKeEQ5YnR0UEhUUjZMcWRSU1FxWUtaYTJseGZRbkFiYkpHMzNHeDlxa3hvMVowWFJzTmpMVmo3anc4U2RRa0dGR3MyTFd1a2thLWZKc2hJcnRjWjU3SEZ0bFNKaHFFTGxTMk5EV2pVUW94VFYxZHFXR1piV3JNNHdtVjRESnVmZzZueEZWTzg5b2paM1lyYU5EQnNUM1RTUUNiOWFfMjZ2RFpnQU1DSjl2SzNacWlMQnNVZw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 15 Oct 2026 05:50:41 GMT"
-      },
-      {
         "title": "ICAI Observer Empanelment for CA Exams January 2027,Eligibility & Apply Online - PW",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95d0hYaG9RVk03ZHBueUN6Q2pXLVNiMjZzUmp1V2I5X25Ld3ZYelJQekxTRk1yUEQySXdUampnb1QzU1Q1UUFDTmMwdDJhNURzcXkxSlRsd2kxcUNqMDBSRlEwXzhNV3NDMWh0dnJ0ZllxQnlnVGc?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -209,6 +203,12 @@
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPU2FYZGJ5RlQxNkhJRk91a2xiT2ZpR09HNWphZXV1dDJkMVdGYUNCYnFORW5ZWVRFYnZHSGFHNV9fYmZJMDNwVzZCNFFpdE5iSWpleV9zcUtfZ1l2WUpCNXBia3lQMjl5V0VMejM1TVRkVjl5MDMtX0IxM1BLOTRsUHZvOVlJTkZBQms0ZGZHdm5NX0t3eFN5N2V6dFlvNXpIT2k5NkJGX2F5MV9zdEhRUGR3NThvNmtFR2FmajM3eHpDMkNQdXhwZVJHaVkzT1FSRUxSbXBJRjd6cXdkdVhoMkhHRVFCbjhLS3VpZzRaV0RUOTdoOVE?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 14 Oct 2026 10:17:09 GMT"
+      },
+      {
+        "title": "ICAI CA Intermediate September Result 2026 date and time announced: Check download steps, link and details - Moneycontrol.com",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOR2xfTjdLRHpYeUs4M01rdm5nWVBYRHdRMm9HYXE0cWQ5TGZCZ0xDbEZLQUhYOUhzclQtWHFaM1l2UV8ydEtxeWFocG1ITGNobC1adXQ1d0VEOTNiT015cWZDM0JaelJtWlcwQXlYTW1sQmlzUV9xU0tqMnlOR2I4ZU9qOGxjM01XdjJwQ0wwQ19DSmsyblFQLWV6VG5BVV9pT3ZmQlg1WGxNZHFOTWN2S3gwU3lpekNXUVRmaUNtdTUyT2gwbEtBSVNsRUtMYVNQYVI2UDB4bi1CdmFNbEVQaWRsc0s4bEtQU1J6Vmd4WnpFZjFZVHFXMdIB_gFBVV95cUxNN3R3Rm9HV25uYUhrVG1ULTZwc2VHR20xRFRpYlFoMC1MVzB6SGFzZjR5X3Bhbl9wa1pYaGVxQWRtMUtRSHp5ZzlELVpKeEQ5YnR0UEhUUjZMcWRSU1FxWUtaYTJseGZRbkFiYkpHMzNHeDlxa3hvMVowWFJzTmpMVmo3anc4U2RRa0dGR3MyTFd1a2thLWZKc2hJcnRjWjU3SEZ0bFNKaHFFTGxTMk5EV2pVUW94VFYxZHFXR1piV3JNNHdtVjRESnVmZzZueEZWTzg5b2paM1lyYU5EQnNUM1RTUUNiOWFfMjZ2RFpnQU1DSjl2SzNacWlMQnNVZw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 15 Oct 2026 05:50:41 GMT"
       }
     ]
   }
