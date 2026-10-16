@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T19:37:13.295538+00:00",
+  "generatedAt": "2026-10-16T22:20:14.176166+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 81379,
-      "chg": -1.12
+      "price": 81697,
+      "chg": -0.77
     },
     "eth": {
-      "price": 2408.31,
-      "chg": -1.7
+      "price": 2420.77,
+      "chg": -1.57
     }
   },
   "fx": {
@@ -88,6 +88,12 @@
   },
   "news": {
     "corp": [
+      {
+        "title": "US stocks: US market ends down sharply; worries about AI trade and high oil prices weigh",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-sharply-worries-about-ai-trade-and-high-oil-prices-weigh/articleshow/135003266.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 17 Oct 2026 01:38:41 +0530"
+      },
       {
         "title": "Big US bank stocks head for longest weekly losing streak since 2008",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/big-us-bank-stocks-head-for-longest-weekly-losing-streak-since-2008/articleshow/135002546.cms",
@@ -141,20 +147,26 @@
         "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-1-9-in-a-week-closes-below-95-per-dollar/articleshow/134996292.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Fri, 16 Oct 2026 18:44:16 +0530"
-      },
-      {
-        "title": "Federal Bank Q2 profit jumps 45% to record Rs 1,386 crore",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/federal-bank-q2-profit-jumps-45-to-record-rs-1386-crore/articleshow/134996156.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 16 Oct 2026 18:39:30 +0530"
       }
     ],
     "acct": [
+      {
+        "title": "IIPA, ICAI join hands to strengthen municipal financial governance; Jitendra Singh calls for evidence - DD News",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWGpoUmRWb0xZS3NheTFmQmlGZUM5ellSVy12SGc5Q2Y2MGNWdGFLcXcxbl9XZmhRYnNXM1R5S0RmSHlwQVVnRFBpTjVxbHZZUGFLbExGYWFkQ1h5bm1VclZKYWdpZUppd3RfUmFhQVF5b29YU044b25MSF9pWU5xcDZtVFVyTDBKZmNqbXBGMFpacDI1eTBVbXdtTjVyUkUxLUdBXzRLVTVrV01IVE1meXJnMjBFV29hSEppQWJUV1BVRktGeHUyMFM4SmJDaUs3Uy1zRFZtMVBUNFZGZEE?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 16 Oct 2026 07:13:37 GMT"
+      },
       {
         "title": "Getting ready for IFRS 18 - kpmg.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm1Idm5QWU1kM2hSQ2RjQWdzZ0U1ZnBIb2ZieThWZEs3Y0ZHV1BKVWowNTJUWDZwbDVkanBtN1BBbWlCb1g4aTdINXZvNFdfaWZwNXRvSzA3ODkyQVRRQjZJdnlQYWkzQnhKdXM3QXhGUFkzR3BRZ1FPWGZEWUZ3aTB5TDlsZ2dWbmJKSVVJYktiVVh4MzFhTjQ5VmVBdGJrdmVXd3JJUTFVMGtzTFdhVENBZkd4U1d5TE1mcEZxWDU?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "ICAI Admit Card 2026 Expected Soon, Check Release Date and Download Steps - PW",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKZk1HM05KWGNSNU5YVjlZREdQeGJrY3lzQ2o0RmJIcklYbDM3b2pubDlqY1pVWFIyS3ZrQm9pYTVuMXQxcHk4aGllQlZERXl3U2ZuWmhycWtSbElNT3czSXBDRU03Z2R3Y3Y4?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 16 Oct 2026 16:46:03 GMT"
       },
       {
         "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - Facebook",
@@ -163,16 +175,16 @@
         "pubDate": "Tue, 13 Oct 2026 13:12:10 GMT"
       },
       {
-        "title": "ICAI CA Intermediate Result 2026 Expected on October 22: How Candidates Can Check Scores - www.nationpathindia.com",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNXJBNUszb3NKaUpDNUJITDJYdzFOQ0s5Y0p4b0J3VGNsck40UkE4Q05odTA3VF9XREJIWGpnRDNQLUNIWXQtSjNTN3pzRnhvbldUMEEyNlpPRVJDeFIxbTBpMmlZZmNYT1p6UHMwb2N3N2gwYnhmUzI1LWEwRGRVMFl0SDZpSXQzMm5NakJBLTc2ME1sRjR5ME53QkVBYkZ1OHNzRmhlZkk5LXA0RmVMMHNjYlBkbGtXcDdPbUZvbk9yV1U?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 16 Oct 2026 00:02:27 GMT"
-      },
-      {
         "title": "ICAI CA Jan 2027 Registration to Begin on November 3: Check Important Dates & Exam Fees - Taxscan",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbjEyWXZOWV9obG82ZURKMHB5ekRUMmw5NW01eTFON2oxR2JNbGludjdIRTR0WkFDN1dUaDYyWnh3S1lCbmc1b2ozczVJSURkYkpickdUX2xXNWRQWjZFUnJTeVVQVllFa2Y4OHVWbXF4T09QcWtzTHZ5Slp3ZXdhSERKQzlqbDdSSFBPeERkaWpjcmk4VFNtYmwyS09ia3V3Q19tYm5lMzVqaEhHbWFObW9xVGQ1a0dLdlZPZzdCV2o?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 12 Oct 2026 12:41:00 GMT"
+      },
+      {
+        "title": "ICAI CA Intermediate Result 2026 Expected on October 22: How Candidates Can Check Scores - www.nationpathindia.com",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNXJBNUszb3NKaUpDNUJITDJYdzFOQ0s5Y0p4b0J3VGNsck40UkE4Q05odTA3VF9XREJIWGpnRDNQLUNIWXQtSjNTN3pzRnhvbldUMEEyNlpPRVJDeFIxbTBpMmlZZmNYT1p6UHMwb2N3N2gwYnhmUzI1LWEwRGRVMFl0SDZpSXQzMm5NakJBLTc2ME1sRjR5ME53QkVBYkZ1OHNzRmhlZkk5LXA0RmVMMHNjYlBkbGtXcDdPbUZvbk9yV1U?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 16 Oct 2026 00:02:27 GMT"
       },
       {
         "title": "ICAI CA Intermediate Result 2026 likely on October 22 - The Indian Express",
@@ -187,12 +199,6 @@
         "pubDate": "Fri, 16 Oct 2026 10:40:01 GMT"
       },
       {
-        "title": "ICAI Observer Empanelment for CA Exams January 2027,Eligibility & Apply Online - PW",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95d0hYaG9RVk03ZHBueUN6Q2pXLVNiMjZzUmp1V2I5X25Ld3ZYelJQekxTRk1yUEQySXdUampnb1QzU1Q1UUFDTmMwdDJhNURzcXkxSlRsd2kxcUNqMDBSRlEwXzhNV3NDMWh0dnJ0ZllxQnlnVGc?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 14 Oct 2026 10:00:15 GMT"
-      },
-      {
         "title": "CA Intermediate Result 2026: Scorecards Expected On October 22 - NDTV",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0ZQSVpkc054MGozZjZqQkwxb2MzTThyTTFBd3RzWmcxa0RkRGVDbzhDamZfLTVpTUdTdmtic19leWRCWnQ5LVBSalVJbDloUEtiWlJidUhYajMtbGMyNlZmV3RoNkFTME5QV2pYaUFad2d4SkJScjZNYTMzRlYyRDlacllsNktGOEtZUGdCVUducTR5ek1NSHczU0dGU3VqS1FQWEZESnJhUdIBsgFBVV95cUxPVVhhT2c2aFRBTnIwY1JMc0E1T043UWk3TE01NHN1TEdVZG5JUkIxVV9Oc0lhaHdHekFfRF9jWEE5UjAxZ19EMmM3TzdlMFp5eDlHR0ktSVFMdlY0TWZPVm5ZTWZIVHAzTEVlWHJucWRsU3JTekJkdGNFY1NmTmRoazZ5TjdkYkRzTm9hSVBqdE40T0VmdERIWUNFODl5MlpYSkMxbVlTUV9CTGhsbGlsQThn?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -203,12 +209,6 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdm1OeHRGenNhQjlMdVNqR1Q2OXFWYUlhamFsMUtRTGNMbUJOZzJzdGQyRkY3MndnMi1pcHA1RU95YUZsejBaX3I2bHpmN2FyWHNDRmlfWDNZRGVIQk1GUkZxSm9rQm1BUnJxajBVMFdLTWJtdmF6cm5GUWdBVVJIU1lyU2pCbGwxcUJKSmxiMll5QUJEbzc0WmFDYzFfVVgtTVdqT2FJQ3ZLQXdNY3pwTkswZ0dTcUdrMWlJMFlBUFE2YU5TZ093?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 14 Oct 2026 11:37:00 GMT"
-      },
-      {
-        "title": "ICAI CA Inter September 2026 Result Expected on October 22: Official notice released at icai.org - EdexLive",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3BhRXp4Q1hmRC1VNHNRM0FSSDhBZ1NpTkotOWV1ZXlkb0VtaDJhWTFqOGJzc3FlM1FVTWZZWmp1QS1RbFFkZ2swbnBHbG5kQlBtekhMLWE3bHFYc0lyRUdzeVBPc0t1MDJvNjlqb2ZDdllSQVdTSWc4LXJzOFQ0V25OUXlKS3lKb21VOTJvekVtc3d2MmZVV21MeHJHVHPSAawBQVVfeXFMTTliOTFaYzZBRkxMWWFwUlJibVJVc3NmRUhjeldLeE5OdFJBRW01YTN5NkpxNk9rS0pETGZjNHVPVlR3X3Q3ZDg2ek1QRFU3RHRucTlzVHJQS1R6X1ppU2RmZ1Vtb0JnRmNEaVZYN1FXOERHT1RlaEczb0JpMWx3ZjhXY241dTZGRkRZZFFKOEhoYnhkaW9iOTNWX2N2U0gwZS1nRTdJN08tTldNcw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 14 Oct 2026 12:59:26 GMT"
       }
     ]
   }
