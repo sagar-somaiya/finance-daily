@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T22:20:14.176166+00:00",
+  "generatedAt": "2026-10-17T00:38:18.094724+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,19 +72,19 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 81697,
-      "chg": -0.77
+      "price": 81570,
+      "chg": -0.9
     },
     "eth": {
-      "price": 2420.77,
-      "chg": -1.57
+      "price": 2421.73,
+      "chg": -0.78
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 95.1,
-    "eurinr": 106.66,
-    "gbpinr": 126.12
+    "usdinr": 95.11,
+    "eurinr": 106.93,
+    "gbpinr": 126.67
   },
   "news": {
     "corp": [
@@ -181,16 +181,22 @@
         "pubDate": "Mon, 12 Oct 2026 12:41:00 GMT"
       },
       {
-        "title": "ICAI CA Intermediate Result 2026 Expected on October 22: How Candidates Can Check Scores - www.nationpathindia.com",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNXJBNUszb3NKaUpDNUJITDJYdzFOQ0s5Y0p4b0J3VGNsck40UkE4Q05odTA3VF9XREJIWGpnRDNQLUNIWXQtSjNTN3pzRnhvbldUMEEyNlpPRVJDeFIxbTBpMmlZZmNYT1p6UHMwb2N3N2gwYnhmUzI1LWEwRGRVMFl0SDZpSXQzMm5NakJBLTc2ME1sRjR5ME53QkVBYkZ1OHNzRmhlZkk5LXA0RmVMMHNjYlBkbGtXcDdPbUZvbk9yV1U?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 16 Oct 2026 00:02:27 GMT"
-      },
-      {
         "title": "ICAI CA Intermediate Result 2026 likely on October 22 - The Indian Express",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX3RfbWhCYVhLT0tBTjFXbzd6RUcyR3p3VmdtcGNUR1ctdzRwdjdUTy0zOHRrdkUyTFdhNW5FU0ZMS09naVZpSlVncF9hVWFpb25GcVZIUk9qMlN3VUMzTE5rQTIyMXQ0UlhfV1FXVl9RZUozbWNkSlpSbHVjVU1SZ0Q3ZDBvWjJ0SlFqQlFPZGltSWhya05CMEtpVlpJaEZhbFRqdzZSOTFoYjVJSjdSLVhSa0lGUWxKdGdhVWJEc9IBxgFBVV95cUxNNXlyUEU5X29xNGtEZ2xTQzBOenEwdjBVX3k1TkRPYW91X0kzT3FzaVRIQ0pDaU42Z1RsazJzXzJZOHJvaUFSY2g5MGdrc1pFYlRNM1l6S3JDVWZQa3BQSXRaOUkycUxWQjJMMlBqRG1NYVRRejNtcjdBeW1Md2NZWHZ6WkZSalVuT0p2M3NMLVFSWEdEaGlsUi03Y2V1NDYtUVVfcXRFQ21SWDZ2b2pCM2R1Nl9FcVlMUWZRWFhOMTIzUGVXM3c?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 15 Oct 2026 05:27:59 GMT"
+      },
+      {
+        "title": "CA Inter result 2026: ICAI likely to announce September exam results on October 22 - Deccan Herald",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdm1OeHRGenNhQjlMdVNqR1Q2OXFWYUlhamFsMUtRTGNMbUJOZzJzdGQyRkY3MndnMi1pcHA1RU95YUZsejBaX3I2bHpmN2FyWHNDRmlfWDNZRGVIQk1GUkZxSm9rQm1BUnJxajBVMFdLTWJtdmF6cm5GUWdBVVJIU1lyU2pCbGwxcUJKSmxiMll5QUJEbzc0WmFDYzFfVVgtTVdqT2FJQ3ZLQXdNY3pwTkswZ0dTcUdrMWlJMFlBUFE2YU5TZ093?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 14 Oct 2026 11:37:00 GMT"
+      },
+      {
+        "title": "ICAI CA Intermediate Result 2026 Expected on October 22: How Candidates Can Check Scores - www.nationpathindia.com",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNXJBNUszb3NKaUpDNUJITDJYdzFOQ0s5Y0p4b0J3VGNsck40UkE4Q05odTA3VF9XREJIWGpnRDNQLUNIWXQtSjNTN3pzRnhvbldUMEEyNlpPRVJDeFIxbTBpMmlZZmNYT1p6UHMwb2N3N2gwYnhmUzI1LWEwRGRVMFl0SDZpSXQzMm5NakJBLTc2ME1sRjR5ME53QkVBYkZ1OHNzRmhlZkk5LXA0RmVMMHNjYlBkbGtXcDdPbUZvbk9yV1U?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 16 Oct 2026 00:02:27 GMT"
       },
       {
         "title": "ECB permits IAS 1 or IFRS 18 reporting during 2027 transition - Yahoo Finance",
@@ -199,16 +205,10 @@
         "pubDate": "Fri, 16 Oct 2026 10:40:01 GMT"
       },
       {
-        "title": "CA Intermediate Result 2026: Scorecards Expected On October 22 - NDTV",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0ZQSVpkc054MGozZjZqQkwxb2MzTThyTTFBd3RzWmcxa0RkRGVDbzhDamZfLTVpTUdTdmtic19leWRCWnQ5LVBSalVJbDloUEtiWlJidUhYajMtbGMyNlZmV3RoNkFTME5QV2pYaUFad2d4SkJScjZNYTMzRlYyRDlacllsNktGOEtZUGdCVUducTR5ek1NSHczU0dGU3VqS1FQWEZESnJhUdIBsgFBVV95cUxPVVhhT2c2aFRBTnIwY1JMc0E1T043UWk3TE01NHN1TEdVZG5JUkIxVV9Oc0lhaHdHekFfRF9jWEE5UjAxZ19EMmM3TzdlMFp5eDlHR0ktSVFMdlY0TWZPVm5ZTWZIVHAzTEVlWHJucWRsU3JTekJkdGNFY1NmTmRoazZ5TjdkYkRzTm9hSVBqdE40T0VmdERIWUNFODl5MlpYSkMxbVlTUV9CTGhsbGlsQThn?oc=5",
+        "title": "ICAI CA Inter September 2026 Result Expected on October 22: Official notice released at icai.org - EdexLive",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3BhRXp4Q1hmRC1VNHNRM0FSSDhBZ1NpTkotOWV1ZXlkb0VtaDJhWTFqOGJzc3FlM1FVTWZZWmp1QS1RbFFkZ2swbnBHbG5kQlBtekhMLWE3bHFYc0lyRUdzeVBPc0t1MDJvNjlqb2ZDdllSQVdTSWc4LXJzOFQ0V25OUXlKS3lKb21VOTJvekVtc3d2MmZVV21MeHJHVHPSAawBQVVfeXFMTTliOTFaYzZBRkxMWWFwUlJibVJVc3NmRUhjeldLeE5OdFJBRW01YTN5NkpxNk9rS0pETGZjNHVPVlR3X3Q3ZDg2ek1QRFU3RHRucTlzVHJQS1R6X1ppU2RmZ1Vtb0JnRmNEaVZYN1FXOERHT1RlaEczb0JpMWx3ZjhXY241dTZGRkRZZFFKOEhoYnhkaW9iOTNWX2N2U0gwZS1nRTdJN08tTldNcw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 15 Oct 2026 08:27:04 GMT"
-      },
-      {
-        "title": "CA Inter result 2026: ICAI likely to announce September exam results on October 22 - Deccan Herald",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdm1OeHRGenNhQjlMdVNqR1Q2OXFWYUlhamFsMUtRTGNMbUJOZzJzdGQyRkY3MndnMi1pcHA1RU95YUZsejBaX3I2bHpmN2FyWHNDRmlfWDNZRGVIQk1GUkZxSm9rQm1BUnJxajBVMFdLTWJtdmF6cm5GUWdBVVJIU1lyU2pCbGwxcUJKSmxiMll5QUJEbzc0WmFDYzFfVVgtTVdqT2FJQ3ZLQXdNY3pwTkswZ0dTcUdrMWlJMFlBUFE2YU5TZ093?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 14 Oct 2026 11:37:00 GMT"
+        "pubDate": "Wed, 14 Oct 2026 12:59:26 GMT"
       }
     ]
   }
