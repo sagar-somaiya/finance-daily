@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T16:32:17.899846+00:00",
+  "generatedAt": "2026-10-17T18:57:03.048864+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 81235,
-      "chg": -0.37
+      "price": 81468,
+      "chg": 0.73
     },
     "eth": {
-      "price": 2406.04,
-      "chg": -1.43
+      "price": 2415.83,
+      "chg": 0.79
     }
   },
   "fx": {
@@ -151,6 +151,12 @@
     ],
     "acct": [
       {
+        "title": "ICAI CA Final Admit Card 2026 released at eservices.icai.org: Download November hall ticket here - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUzRZZ2Vtcm90d28xMTBVOGthOFRORVl2NjJmSFFwN0hrWTNONjdSX1JHQW5LajE0TDBSRUJGYVRzSEZLV25ZY0ZDQkFQNGZ2UHBBX0Fyb2hOaUJkVklxZHhUNGV6a0pYTFNwNTBqdUN1M3hZek5ucXlKQ1BwdVI5ZDNrYkVJVGdFeGk1VDk0cktsSUJYVjA5bTBxM0MyNXBLNkJ5STBjckJnS3Z4YmFndFRwQkpKS2tRd0o3ZWRCTHVRSjR3bk1qTkVESENLelZqaldRTlc5Y2NlaUpLRm1xRk1KV01YVlJsV3lNN2FjVzFZeUQyb1poRDlJSHhBcTM2N3fSAYcCQVVfeXFMTzY5d2IyTnBfc1VraWJkTXpfbnpjQzRCQU9yR1RMREdtaC1CMm9NaFlQMTVHVWxCR3dMTHNvOHUzY0VPNVZzSUhJbzhfRU1qcUJuWVUtc1JURlNIX0lmdlRvOUh1dDRmaEJ6RVpVOE9aMHdsMkFqSi15YzktcFcwUUhfSmFPNnNjQjlfbFJraW8zcUlyVFU5SlM1NzVhaERVTzRIYUc1cExsRUxjTi1DX2pjdG1LVFFoWFUtWlczem1IUXN0ME5nakhFajRLZzJabHA5UzhKYm1uc0FBM2dKU1JWSkJrUDhLbHdzSFFSUnM5MFJGUFJwakxlSmNaaHkwS1dHcVVVTDQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sat, 17 Oct 2026 11:01:00 GMT"
+      },
+      {
         "title": "Getting ready for IFRS 18 - kpmg.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm1Idm5QWU1kM2hSQ2RjQWdzZ0U1ZnBIb2ZieThWZEs3Y0ZHV1BKVWowNTJUWDZwbDVkanBtN1BBbWlCb1g4aTdINXZvNFdfaWZwNXRvSzA3ODkyQVRRQjZJdnlQYWkzQnhKdXM3QXhGUFkzR3BRZ1FPWGZEWUZ3aTB5TDlsZ2dWbmJKSVVJYktiVVh4MzFhTjQ5VmVBdGJrdmVXd3JJUTFVMGtzTFdhVENBZkd4U1d5TE1mcEZxWDU?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -163,10 +169,10 @@
         "pubDate": "Sat, 17 Oct 2026 12:43:21 GMT"
       },
       {
-        "title": "ICAI CA Final Admit Card 2026 released at eservices.icai.org: Download November hall ticket here - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUzRZZ2Vtcm90d28xMTBVOGthOFRORVl2NjJmSFFwN0hrWTNONjdSX1JHQW5LajE0TDBSRUJGYVRzSEZLV25ZY0ZDQkFQNGZ2UHBBX0Fyb2hOaUJkVklxZHhUNGV6a0pYTFNwNTBqdUN1M3hZek5ucXlKQ1BwdVI5ZDNrYkVJVGdFeGk1VDk0cktsSUJYVjA5bTBxM0MyNXBLNkJ5STBjckJnS3Z4YmFndFRwQkpKS2tRd0o3ZWRCTHVRSjR3bk1qTkVESENLelZqaldRTlc5Y2NlaUpLRm1xRk1KV01YVlJsV3lNN2FjVzFZeUQyb1poRDlJSHhBcTM2N3fSAYcCQVVfeXFMTzY5d2IyTnBfc1VraWJkTXpfbnpjQzRCQU9yR1RMREdtaC1CMm9NaFlQMTVHVWxCR3dMTHNvOHUzY0VPNVZzSUhJbzhfRU1qcUJuWVUtc1JURlNIX0lmdlRvOUh1dDRmaEJ6RVpVOE9aMHdsMkFqSi15YzktcFcwUUhfSmFPNnNjQjlfbFJraW8zcUlyVFU5SlM1NzVhaERVTzRIYUc1cExsRUxjTi1DX2pjdG1LVFFoWFUtWlczem1IUXN0ME5nakhFajRLZzJabHA5UzhKYm1uc0FBM2dKU1JWSkJrUDhLbHdzSFFSUnM5MFJGUFJwakxlSmNaaHkwS1dHcVVVTDQ?oc=5",
+        "title": "IIPA, ICAI join hands to strengthen municipal financial governance; Jitendra Singh calls for evidence - DD News",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWGpoUmRWb0xZS3NheTFmQmlGZUM5ellSVy12SGc5Q2Y2MGNWdGFLcXcxbl9XZmhRYnNXM1R5S0RmSHlwQVVnRFBpTjVxbHZZUGFLbExGYWFkQ1h5bm1VclZKYWdpZUppd3RfUmFhQVF5b29YU044b25MSF9pWU5xcDZtVFVyTDBKZmNqbXBGMFpacDI1eTBVbXdtTjVyUkUxLUdBXzRLVTVrV01IVE1meXJnMjBFV29hSEppQWJUV1BVRktGeHUyMFM4SmJDaUs3Uy1zRFZtMVBUNFZGZEE?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sat, 17 Oct 2026 11:01:00 GMT"
+        "pubDate": "Fri, 16 Oct 2026 07:13:37 GMT"
       },
       {
         "title": "ICAI CA Final admit card 2026 released, exam to be conducted in November; check details - Education Times",
@@ -179,12 +185,6 @@
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcmVmWjBWNE55ckstUXF6QXViSUpQOFBCaFNGajVWLVZ1aVZWcU5SZjhvNzJYb0lWMXk0Ynh3NEVlc19OOVFNSGR6ZHd5aFJ2QWNCbmhjZmlsRWdGZmY5VTlsejIyYTdoUVhTSzJZemVDQzVnemJ5LXB2RGFsYWZsXzhCMWpaa2FuSXQydDJReUVCMXB1MGhkUER5ZlNuZ3VGeURvUFZLRWdSVzNuZzN5OGtQUGlJbENHWGoydW5tNE1RM2fSAcgBQVVfeXFMTjI5RHl6elg0ZWFOR0V0T0dvZVpqRDd2RGxqSDduTk9USmlVckhJY25IRG5rUW1DYjJMZ3hJd3Q3aFFmQURvQ25nWGs0V1ZVd0lyRHktZnBXUlV5NF9DcWVrRFVTVFctOU9FbzBycEc0dW5fb1RoWlF4WE41V1Q3LUR0UUhkOTMtODdXMzF2N2RpX0l1RDI4SG03WTVIdk5BODR3cldBU1A2ejltSUN0QjgwOTFEbVhxYlFGeDJMamhYQTNOTGFPWGY?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Sat, 17 Oct 2026 11:29:24 GMT"
-      },
-      {
-        "title": "IIPA, ICAI join hands to strengthen municipal financial governance; Jitendra Singh calls for evidence - DD News",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWGpoUmRWb0xZS3NheTFmQmlGZUM5ellSVy12SGc5Q2Y2MGNWdGFLcXcxbl9XZmhRYnNXM1R5S0RmSHlwQVVnRFBpTjVxbHZZUGFLbExGYWFkQ1h5bm1VclZKYWdpZUppd3RfUmFhQVF5b29YU044b25MSF9pWU5xcDZtVFVyTDBKZmNqbXBGMFpacDI1eTBVbXdtTjVyUkUxLUdBXzRLVTVrV01IVE1meXJnMjBFV29hSEppQWJUV1BVRktGeHUyMFM4SmJDaUs3Uy1zRFZtMVBUNFZGZEE?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 16 Oct 2026 07:13:37 GMT"
       },
       {
         "title": "ICAI CA Final admit card 2026 released; exams from November 2 - EdexLive",
