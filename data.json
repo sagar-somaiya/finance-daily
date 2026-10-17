@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:38:18.094724+00:00",
+  "generatedAt": "2026-10-17T05:11:59.142882+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 81570,
-      "chg": -0.9
+      "price": 81534,
+      "chg": -0.82
     },
     "eth": {
-      "price": 2421.73,
-      "chg": -0.78
+      "price": 2426.86,
+      "chg": -0.87
     }
   },
   "fx": {
@@ -89,6 +89,54 @@
   "news": {
     "corp": [
       {
+        "title": "AI bubble burst may trigger 2008-like banking crisis, says Gary Marcus",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-bubble-burst-may-trigger-2008-like-banking-crisis-says-gary-marcus/articleshow/135007219.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 17 Oct 2026 09:56:04 +0530"
+      },
+      {
+        "title": "IT's time to celebrate when chips are down; Nifty IT soars 11.7% to log biggest weekly rally since 2008",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/its-time-to-celebrate-when-chips-are-down-nifty-it-soars-11-7-to-log-biggest-weekly-rally-since-2008/articleshow/135007166.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 17 Oct 2026 09:46:40 +0530"
+      },
+      {
+        "title": "Dollar heads for weekly loss as Fed hike bets fade, AI jitters linger",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-heads-for-weekly-loss-as-fed-hike-bets-fade-ai-jitters-linger/articleshow/135007121.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 17 Oct 2026 09:38:05 +0530"
+      },
+      {
+        "title": "Gold set for a weekly drop as traders assess Fed signals",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-a-weekly-drop-as-traders-assess-fed-signals/articleshow/135007093.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 17 Oct 2026 09:36:22 +0530"
+      },
+      {
+        "title": "European shares close out best week since June as earnings soften blow from tech selloff",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-close-out-best-week-since-june-as-earnings-soften-blow-from-tech-selloff/articleshow/135007075.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 17 Oct 2026 09:34:44 +0530"
+      },
+      {
+        "title": "Global markets: Stocks slip as dollar heads for weekly loss",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-stocks-slip-as-dollar-heads-for-weekly-loss/articleshow/135007060.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 17 Oct 2026 09:32:22 +0530"
+      },
+      {
+        "title": "Wall Street Week Ahead: As AI rally wobbles, stock market's spotlight turns to earnings",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-as-ai-rally-wobbles-stock-markets-spotlight-turns-to-earnings/articleshow/135007046.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 17 Oct 2026 09:29:31 +0530"
+      },
+      {
+        "title": "Jio’s $3.2 billion IPO tests Ambani appeal with young Indians",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jios-3-2-billion-ipo-tests-ambani-appeal-with-young-indians/articleshow/135006812.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 17 Oct 2026 09:18:41 +0530"
+      },
+      {
         "title": "US stocks: US market ends down sharply; worries about AI trade and high oil prices weigh",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-sharply-worries-about-ai-trade-and-high-oil-prices-weigh/articleshow/135003266.cms",
         "source": "Markets-Economic Times",
@@ -99,68 +147,20 @@
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/big-us-bank-stocks-head-for-longest-weekly-losing-streak-since-2008/articleshow/135002546.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Sat, 17 Oct 2026 00:24:46 +0530"
-      },
-      {
-        "title": "Chip selloff deepens Wall Street losses as doubts grew over AI returns",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/chip-selloff-deepens-wall-street-losses-as-doubts-grew-over-ai-returns/articleshow/135001236.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 16 Oct 2026 23:29:09 +0530"
-      },
-      {
-        "title": "CoreWeave stock wipeout exposes divide between AI fear and greed",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed/articleshow/134998742.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 16 Oct 2026 21:33:56 +0530"
-      },
-      {
-        "title": "Crompton Greaves Consumer Electricals Ltd Q2 Results: Profit surges 65% to Rs 124 crore",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/crompton-greaves-q2-results-profit-surges-65-to-rs-124-crore/articleshow/134998426.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 16 Oct 2026 21:03:01 +0530"
-      },
-      {
-        "title": "Cult.fit receives Sebi approval for proposed IPO",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/cult-fit-receives-sebi-approval-for-proposed-ipo/articleshow/134997161.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 16 Oct 2026 19:32:27 +0530"
-      },
-      {
-        "title": "US stocks: S&amp;P 500 muted as AI concerns hit chip stocks; bank gains lift Dow",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-wall-st-opens-muted-as-tech-jitters-linger-tesla-gains/articleshow/134996865.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 16 Oct 2026 19:15:27 +0530"
-      },
-      {
-        "title": "DLF Q2 profit rises to Rs 1,301 crore as luxury project sells out",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/dlf-q2-profit-rises-to-rs-1301-crore-as-luxury-project-sells-out/articleshow/134996827.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 16 Oct 2026 19:10:03 +0530"
-      },
-      {
-        "title": "Ujjivan SFB to raise Rs 409 crore from IFC, three insurers",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ujjivan-sfb-to-raise-rs-409-crore-from-ifc-three-insurers/articleshow/134996772.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 16 Oct 2026 19:07:46 +0530"
-      },
-      {
-        "title": "Rupee rises 1.9% in a week, closes below 95 per dollar",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-1-9-in-a-week-closes-below-95-per-dollar/articleshow/134996292.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 16 Oct 2026 18:44:16 +0530"
       }
     ],
     "acct": [
-      {
-        "title": "IIPA, ICAI join hands to strengthen municipal financial governance; Jitendra Singh calls for evidence - DD News",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWGpoUmRWb0xZS3NheTFmQmlGZUM5ellSVy12SGc5Q2Y2MGNWdGFLcXcxbl9XZmhRYnNXM1R5S0RmSHlwQVVnRFBpTjVxbHZZUGFLbExGYWFkQ1h5bm1VclZKYWdpZUppd3RfUmFhQVF5b29YU044b25MSF9pWU5xcDZtVFVyTDBKZmNqbXBGMFpacDI1eTBVbXdtTjVyUkUxLUdBXzRLVTVrV01IVE1meXJnMjBFV29hSEppQWJUV1BVRktGeHUyMFM4SmJDaUs3Uy1zRFZtMVBUNFZGZEE?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 16 Oct 2026 07:13:37 GMT"
-      },
       {
         "title": "Getting ready for IFRS 18 - kpmg.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm1Idm5QWU1kM2hSQ2RjQWdzZ0U1ZnBIb2ZieThWZEs3Y0ZHV1BKVWowNTJUWDZwbDVkanBtN1BBbWlCb1g4aTdINXZvNFdfaWZwNXRvSzA3ODkyQVRRQjZJdnlQYWkzQnhKdXM3QXhGUFkzR3BRZ1FPWGZEWUZ3aTB5TDlsZ2dWbmJKSVVJYktiVVh4MzFhTjQ5VmVBdGJrdmVXd3JJUTFVMGtzTFdhVENBZkd4U1d5TE1mcEZxWDU?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "IIPA, ICAI join hands to strengthen municipal financial governance; Jitendra Singh calls for evidence - DD News",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWGpoUmRWb0xZS3NheTFmQmlGZUM5ellSVy12SGc5Q2Y2MGNWdGFLcXcxbl9XZmhRYnNXM1R5S0RmSHlwQVVnRFBpTjVxbHZZUGFLbExGYWFkQ1h5bm1VclZKYWdpZUppd3RfUmFhQVF5b29YU044b25MSF9pWU5xcDZtVFVyTDBKZmNqbXBGMFpacDI1eTBVbXdtTjVyUkUxLUdBXzRLVTVrV01IVE1meXJnMjBFV29hSEppQWJUV1BVRktGeHUyMFM4SmJDaUs3Uy1zRFZtMVBUNFZGZEE?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 16 Oct 2026 07:13:37 GMT"
       },
       {
         "title": "ICAI Admit Card 2026 Expected Soon, Check Release Date and Download Steps - PW",
@@ -175,6 +175,12 @@
         "pubDate": "Tue, 13 Oct 2026 13:12:10 GMT"
       },
       {
+        "title": "ICAI CA Final admit card 2026: Hall ticket expected soon, check official link, group-wise exam dates - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZEw4UXc2TGpiUDJqeG55OGRRYkhMdk5ZNDJVRWRmTUgtdlQwVmN1NnNSMXVneVd3VEFKczVOWjRwbGdSNlZqQzRLR3pBNTBxV1Q3NDMwREVBM1NCWGtnQ2hHNmlsaUd5ZHNtVVp1Um1FaEdZb1BWWEhnSjlYVkhIUlpuX1MxcERyc1VsVWRYZWkxTWI3ck9WQUxMZDJpOXlwbTJsMmRIcVZ4WlR4dVVwNE9McnVZUWN4eGJ4MFJOMlJKWGU2aEZva0JfRWswYTc0YmtPelZJeTJBRjNrV2hfZGNnemJrVmt0YW5xa3Fuc2pld9IB9wFBVV95cUxOTFlKbDI1TjZaTVNJQWJ3eFlfSzdlSTJkZFVEaXY0M1Rxd2JGeXNWRk81VkJnTWhUWmZsTnR2NXFpbmpIWlI2UUgtUEtQaTRON3hvX28wbDA0cVp4bEd1dDlRcjR6ZEphY1ZBSGNqVkRaUVMzdkEwbzE0RG9tTG9VUHFPd2VGOEswSi1XZklUYy01VWR3VjdXVUdVYVNDc0M5VHlqc3plWHI3a2E2Y3RpYzFtcUdrdkdwQS1iaHJaeXJjQTdFcWRwZmdWeFZZSjFnajMxeEx0TkJuV0hzdkdrOWF1SWNxUGJMQm5WWUpoRmJmVmZVSzN3?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 14 Oct 2026 06:51:00 GMT"
+      },
+      {
         "title": "ICAI CA Jan 2027 Registration to Begin on November 3: Check Important Dates & Exam Fees - Taxscan",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbjEyWXZOWV9obG82ZURKMHB5ekRUMmw5NW01eTFON2oxR2JNbGludjdIRTR0WkFDN1dUaDYyWnh3S1lCbmc1b2ozczVJSURkYkpickdUX2xXNWRQWjZFUnJTeVVQVllFa2Y4OHVWbXF4T09QcWtzTHZ5Slp3ZXdhSERKQzlqbDdSSFBPeERkaWpjcmk4VFNtYmwyS09ia3V3Q19tYm5lMzVqaEhHbWFObW9xVGQ1a0dLdlZPZzdCV2o?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -187,28 +193,22 @@
         "pubDate": "Thu, 15 Oct 2026 05:27:59 GMT"
       },
       {
-        "title": "CA Inter result 2026: ICAI likely to announce September exam results on October 22 - Deccan Herald",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdm1OeHRGenNhQjlMdVNqR1Q2OXFWYUlhamFsMUtRTGNMbUJOZzJzdGQyRkY3MndnMi1pcHA1RU95YUZsejBaX3I2bHpmN2FyWHNDRmlfWDNZRGVIQk1GUkZxSm9rQm1BUnJxajBVMFdLTWJtdmF6cm5GUWdBVVJIU1lyU2pCbGwxcUJKSmxiMll5QUJEbzc0WmFDYzFfVVgtTVdqT2FJQ3ZLQXdNY3pwTkswZ0dTcUdrMWlJMFlBUFE2YU5TZ093?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 14 Oct 2026 11:37:00 GMT"
-      },
-      {
         "title": "ICAI CA Intermediate Result 2026 Expected on October 22: How Candidates Can Check Scores - www.nationpathindia.com",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNXJBNUszb3NKaUpDNUJITDJYdzFOQ0s5Y0p4b0J3VGNsck40UkE4Q05odTA3VF9XREJIWGpnRDNQLUNIWXQtSjNTN3pzRnhvbldUMEEyNlpPRVJDeFIxbTBpMmlZZmNYT1p6UHMwb2N3N2gwYnhmUzI1LWEwRGRVMFl0SDZpSXQzMm5NakJBLTc2ME1sRjR5ME53QkVBYkZ1OHNzRmhlZkk5LXA0RmVMMHNjYlBkbGtXcDdPbUZvbk9yV1U?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 16 Oct 2026 00:02:27 GMT"
       },
       {
+        "title": "CA Inter result 2026: ICAI likely to announce September exam results on October 22 - Deccan Herald",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdm1OeHRGenNhQjlMdVNqR1Q2OXFWYUlhamFsMUtRTGNMbUJOZzJzdGQyRkY3MndnMi1pcHA1RU95YUZsejBaX3I2bHpmN2FyWHNDRmlfWDNZRGVIQk1GUkZxSm9rQm1BUnJxajBVMFdLTWJtdmF6cm5GUWdBVVJIU1lyU2pCbGwxcUJKSmxiMll5QUJEbzc0WmFDYzFfVVgtTVdqT2FJQ3ZLQXdNY3pwTkswZ0dTcUdrMWlJMFlBUFE2YU5TZ093?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 14 Oct 2026 11:37:00 GMT"
+      },
+      {
         "title": "ECB permits IAS 1 or IFRS 18 reporting during 2027 transition - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yLVBIMlEyZzNIZGNaTm91bVFabUF3TElURW8zN3BmNzk5UkRwNnNVOW5GbzVLNkRXQ005dVNXR2doOTVkQU9JVVAzSW1paTItQUswR1JIRFNLOEFxQlp3OUM4RVNXREdnbW1JaGxUMnZGRGxkUlJV?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 16 Oct 2026 10:40:01 GMT"
-      },
-      {
-        "title": "ICAI CA Inter September 2026 Result Expected on October 22: Official notice released at icai.org - EdexLive",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX3BhRXp4Q1hmRC1VNHNRM0FSSDhBZ1NpTkotOWV1ZXlkb0VtaDJhWTFqOGJzc3FlM1FVTWZZWmp1QS1RbFFkZ2swbnBHbG5kQlBtekhMLWE3bHFYc0lyRUdzeVBPc0t1MDJvNjlqb2ZDdllSQVdTSWc4LXJzOFQ0V25OUXlKS3lKb21VOTJvekVtc3d2MmZVV21MeHJHVHPSAawBQVVfeXFMTTliOTFaYzZBRkxMWWFwUlJibVJVc3NmRUhjeldLeE5OdFJBRW01YTN5NkpxNk9rS0pETGZjNHVPVlR3X3Q3ZDg2ek1QRFU3RHRucTlzVHJQS1R6X1ppU2RmZ1Vtb0JnRmNEaVZYN1FXOERHT1RlaEczb0JpMWx3ZjhXY241dTZGRkRZZFFKOEhoYnhkaW9iOTNWX2N2U0gwZS1nRTdJN08tTldNcw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 14 Oct 2026 12:59:26 GMT"
       }
     ]
   }
