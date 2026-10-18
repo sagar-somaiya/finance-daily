@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T01:17:40.569782+00:00",
+  "generatedAt": "2026-10-18T06:10:47.695389+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 81484,
-      "chg": 0.02
+      "price": 81659,
+      "chg": 0.22
     },
     "eth": {
-      "price": 2404.58,
-      "chg": -0.64
+      "price": 2409.93,
+      "chg": -0.7
     }
   },
   "fx": {
@@ -89,67 +89,73 @@
   "news": {
     "corp": [
       {
-        "title": "Central Bank of India Q2 profit rises 21% as loans grow 30%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/central-bank-of-india-q2-profit-rises-21-as-loans-grow-30/articleshow/135014014.cms",
+        "title": "Mega Jio Platforms IPO to lead Rs 31,663 crore offerings this week; 9 listings lined up",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/mega-jio-platforms-ipo-to-lead-rs-31663-crore-offerings-this-week-9-listings-lined-up/articleshow/135024121.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 17 Oct 2026 17:44:25 +0530"
+        "pubDate": "Sun, 18 Oct 2026 10:41:00 +0530"
       },
       {
-        "title": "Rising borrowing costs signal funding risks for global AI expansion: Jefferies report",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/rising-borrowing-costs-signal-funding-risks-for-global-ai-expansion-jefferies-report/articleshow/135012567.cms",
+        "title": "Can Nifty, Sensex rally further or will bears reign in? 5 factors to steer market this week",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-nifty-sensex-rally-further-or-will-bears-reign-in-5-factors-to-decide-market-action-next-week/articleshow/135023916.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 17 Oct 2026 16:34:01 +0530"
+        "pubDate": "Sun, 18 Oct 2026 10:15:18 +0530"
       },
       {
-        "title": "AI race may depend more on access to power, infrastructure than chip supply: Morgan Stanley",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-race-may-depend-more-on-access-to-power-infrastructure-than-chip-supply-morgan-stanley/articleshow/135012540.cms",
+        "title": "ICICI Bank profit spurts 20% on NII; core profitability a tad lower on FCNR(B)",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-profit-spurts-20-on-nii-core-profitability-a-tad-lower-on-fcnrb/articleshow/135023892.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 17 Oct 2026 16:32:52 +0530"
+        "pubDate": "Sun, 18 Oct 2026 10:12:18 +0530"
       },
       {
-        "title": "ixigo Q2 profit at Rs 63 cr on robust show in hotel booking biz",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ixigo-q2-profit-at-rs-63-cr-on-robust-show-in-hotel-booking-biz/articleshow/135012396.cms",
+        "title": "HDFC Bank PAT ticks up 5% amid pressure",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-bank-pat-ticks-up-5-amid-pressure/articleshow/135023863.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 17 Oct 2026 16:21:46 +0530"
+        "pubDate": "Sun, 18 Oct 2026 10:08:20 +0530"
       },
       {
-        "title": "ICICI Bank Q2 Results: Net profit jumps 20% YoY to Rs 14,843 crore, NII rises 18%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/icici-bank-q2-results-net-profit-jumps-20-to-rs-14843-crore-nii-rises-18-yoy/articleshow/135011810.cms",
+        "title": "Paras Healthcare IPO opens Oct 21, sets price band at 660-693 per share",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/paras-healthcare-ipo-opens-oct-21-sets-price-band-at-660-693-per-share/articleshow/135023842.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 17 Oct 2026 15:47:31 +0530"
+        "pubDate": "Sun, 18 Oct 2026 10:03:52 +0530"
       },
       {
-        "title": "IDBI Bank Q2 results: Net profit tanks 39% YoY to Rs 2,205 crore; NII dips 49% YoY",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/idbi-bank-q2-results-net-profit-tanks-39-yoy-to-rs-2205-crore-nii-dips-49-yoy/articleshow/135011867.cms",
+        "title": "Ixigo Q2 profit jumps to 63 cr; revenue up 13%",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ixigo-q2-profit-jumps-to-63-cr-revenue-up-13/articleshow/135023827.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 17 Oct 2026 15:44:42 +0530"
+        "pubDate": "Sun, 18 Oct 2026 10:00:53 +0530"
       },
       {
-        "title": "Nifty reclaims 200 WMA; eyes further gains as key resistance shapes next move",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-reclaims-200-wma-eyes-further-gains-as-key-resistance-shapes-next-move/articleshow/135011480.cms",
+        "title": "Axis Bank Q2 profit up 38% on loan growth",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-q2-profit-up-38-on-loan-growth/articleshow/135023818.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 17 Oct 2026 15:19:28 +0530"
+        "pubDate": "Sun, 18 Oct 2026 09:59:20 +0530"
       },
       {
-        "title": "10 smallcap stocks surge up to 65% in 3 months despite market weakness",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-smallcap-stocks-surge-up-to-65-in-3-months-despite-market-weakness/slideshow/135010857.cms",
+        "title": "Central Bank of India’s Q2 profit jumps 21% YoY to Rs 1,469 crore",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/central-bank-of-indias-q2-profit-jumps-21-yoy-to-rs-1469-crore/articleshow/135023806.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 17 Oct 2026 14:16:40 +0530"
+        "pubDate": "Sun, 18 Oct 2026 09:56:58 +0530"
       },
       {
-        "title": "HDFC Bank Q2 Results: Net profit rises 5% YoY to Rs 19,510 crore; NII grows 10%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hdfc-bank-q2-results-net-profit-rises-5-yoy-to-rs-19510-crore-nii-grows-10/articleshow/135010605.cms",
+        "title": "YES Bank Q2 profit rises 65%; AT1 hit may risk 5,217 cr loss",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/yes-bank-q2-profit-rises-65-at1-hit-may-risk-5217-cr-loss/articleshow/135023793.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 17 Oct 2026 14:16:36 +0530"
+        "pubDate": "Sun, 18 Oct 2026 09:54:42 +0530"
       },
       {
-        "title": "Crypto’s leverage machine finds new life beyond Bitcoin bets",
-        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/cryptos-leverage-machine-finds-new-life-beyond-bitcoin-bets/articleshow/135007267.cms",
+        "title": "IDBI Bank Q2 net profit slides 39% to 2,205 crore",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/idbi-bank-q2-net-profit-slides-39-to-2205-crore/articleshow/135023782.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 17 Oct 2026 13:57:30 +0530"
+        "pubDate": "Sun, 18 Oct 2026 09:52:35 +0530"
       }
     ],
     "acct": [
+      {
+        "title": "ICAI releases Chartered Accountant admit cards for November exams. Direct link here - India Today",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMHhfei1GQlNWUE5GTkZSb2NkdTBuLTJLZTdyQjNUbHRRNTB0dWtGUlpGTVd3T3VaeHMwYVVMeVJtek4zLWlVYXhVYTVjc1JDMjRBNjh3S1lYNlBBZW1LenpYRm14c0lvb2p4N2pPT0daODd0S2g1YlJuYXN0YVZ1eVZUWlN5a0s4SUg4NllUMk54c0wxTmduQ1VycHE5aUFiTFVjNHpYbHpoVlh4QnI0MjZTenhycWVPUS1tSG5CNUVJYXljMVo1WVVZckQwMzFHa0FyTEFQd0duelY3Ylhad2Q3dXl4OVVaQlE?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sun, 18 Oct 2026 04:39:41 GMT"
+      },
       {
         "title": "Getting ready for IFRS 18 - kpmg.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm1Idm5QWU1kM2hSQ2RjQWdzZ0U1ZnBIb2ZieThWZEs3Y0ZHV1BKVWowNTJUWDZwbDVkanBtN1BBbWlCb1g4aTdINXZvNFdfaWZwNXRvSzA3ODkyQVRRQjZJdnlQYWkzQnhKdXM3QXhGUFkzR3BRZ1FPWGZEWUZ3aTB5TDlsZ2dWbmJKSVVJYktiVVh4MzFhTjQ5VmVBdGJrdmVXd3JJUTFVMGtzTFdhVENBZkd4U1d5TE1mcEZxWDU?oc=5",
@@ -163,10 +169,22 @@
         "pubDate": "Sat, 17 Oct 2026 11:01:00 GMT"
       },
       {
+        "title": "ICAI Chartered Accountant Final Admit Card 2026 Out: Know Exam Guidelines - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa0RHcTk1ZzYzc29uWUh3N0E1eHd0dWRtek1LWE4wZ3RQMVhLeWR4aG9DTlRtTHlQNUl0RkloTVJvS2VBbUFNVUV2Ml9kdDA0N2x4cjR4enFsbEYzbDNCMEh2Wk5DT2FqMlZWTjVtdHR3aGFGYTVTcXhacnFnQTF3dV82TGpucFhuNExFTGRZaXJ6U2MzQkFZWTJHT0Fab3JPTldNcWdEdm1pSkpkMU92TnFB0gG6AUFVX3lxTE91UHUtd3o0SXZpQWdSS1FZTDRjNTJRT2MwQ2xzOWU3UnhTTFF1N0VCbW5rOFJOTGJHRnhYOWRPMmNrVVRPbEFvOU1RRjRUU1NZdlo4NW9ZYTBjQnBVczM2WGhXVWJBcGpTbzNvSEFSb2lTdUJ5d0lldTlxQ0FZV1VETjIyUm5zR1VvT1hoSjUyb3lyUVZYZjYwSlVYZ283LUE4Z3lUTTR3WjdHc1MxTU1mcmdBVEdmSnpzZw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sun, 18 Oct 2026 01:53:38 GMT"
+      },
+      {
         "title": "IIPA, ICAI join hands to strengthen municipal financial governance; Jitendra Singh calls for evidence - DD News",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWGpoUmRWb0xZS3NheTFmQmlGZUM5ellSVy12SGc5Q2Y2MGNWdGFLcXcxbl9XZmhRYnNXM1R5S0RmSHlwQVVnRFBpTjVxbHZZUGFLbExGYWFkQ1h5bm1VclZKYWdpZUppd3RfUmFhQVF5b29YU044b25MSF9pWU5xcDZtVFVyTDBKZmNqbXBGMFpacDI1eTBVbXdtTjVyUkUxLUdBXzRLVTVrV01IVE1meXJnMjBFV29hSEppQWJUV1BVRktGeHUyMFM4SmJDaUs3Uy1zRFZtMVBUNFZGZEE?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 16 Oct 2026 07:13:37 GMT"
+      },
+      {
+        "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - Facebook",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUER6ajFzREstYnhYMGlzYnJ4YmVrQlNBVWNGLVd1eWZ4VW9wTnV6RWdYWjhkVVB6ZGV1WGVBU0dfVThxQ3UtT0lDam5Ia0hROWliTFJ5NWdIdmpuNEgyNThRQjBwS2QzbmlIMG9YcDBMam5UVHlMcUFNZWY0Mmx0R3dKb3hXV21nRkUxaThxOGIxWDJ6ekh4LXBFMFpZLTlVaE5LdjRDOEpNWkRMWjAzU2JwdjlxdnhQY2NfVmVvYnFtZ0NST0ZCU3I4T3FEeUtYaGlnZFR4ZllXRm01emlvTUxR?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 13 Oct 2026 13:12:10 GMT"
       },
       {
         "title": "ICAI CA Final admit card 2026 out at eservices.icai.org; exams from November 2 - Careers360",
@@ -181,12 +199,6 @@
         "pubDate": "Sat, 17 Oct 2026 12:43:21 GMT"
       },
       {
-        "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - Facebook",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUER6ajFzREstYnhYMGlzYnJ4YmVrQlNBVWNGLVd1eWZ4VW9wTnV6RWdYWjhkVVB6ZGV1WGVBU0dfVThxQ3UtT0lDam5Ia0hROWliTFJ5NWdIdmpuNEgyNThRQjBwS2QzbmlIMG9YcDBMam5UVHlMcUFNZWY0Mmx0R3dKb3hXV21nRkUxaThxOGIxWDJ6ekh4LXBFMFpZLTlVaE5LdjRDOEpNWkRMWjAzU2JwdjlxdnhQY2NfVmVvYnFtZ0NST0ZCU3I4T3FEeUtYaGlnZFR4ZllXRm01emlvTUxR?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 13 Oct 2026 13:12:10 GMT"
-      },
-      {
         "title": "ICAI CA Final admit card 2026 released, exam to be conducted in November; check details - Education Times",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYjE1VVZoWHdXcUdKLW04cklhc1g5SWpyTHJsQk9ZYWVPR1MwQ21UNEkxMDQybjlBQVZ4U1pkUDUyR0IwbXFnV1MxWDgyNWs4S3U0WmVGWmZHVnFyblNwYlNRNUREaF85WGY4eXJjZjhIZGl6dUV5dnQ4YU14elNoaHpSQTN4LW92Zm5GdjJQZUgzc2tsaWZ6NnZrSmpvQ2d5YnhnVERULXNnSVF6Q0JWTzhnR0huYnZvdThXWmVxLWkwbWNhVVJIeFVmTm5ULXhua1pxNWh0dmVMZEpiYUFXTw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -197,18 +209,6 @@
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcmZldmE2Q0Y3ZmZFaTNZdHN3YTlrUXlTQTVvSWpkeFdNeGt3S0FXWThYYkk3R05mcmx2MDlZaGtqTFE5RTFaUWU4dWdZbEtZbTMxY1UtbEtTRWh5OVFJS21KLXhYTDVrRTJRQWV2d1hxampLWGpENEZISEtlYzN5MG1RVWxkMU54NXdEcG9TT3l3TWtDQ2fSAaMBQVVfeXFMTUNsWlF1Uk90RWZpRmxHelZaajA1bnR4bW15RUxNLXlXNUhwdWpOWTZBVkQ1a3lCTGFELXRrZDNaV3cweFREeTZUdjBFWWt5T3d5SEdSSlNHU0NubDNaYWt5azFTY09tcEdDSVZiazNYS1Qzb1JRRUt6U0VLNURMbTcwck1mb3NXendyM2VJUldzNzNqNHRqd1dfM3JzTGtkRFduQQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Sat, 17 Oct 2026 11:24:41 GMT"
-      },
-      {
-        "title": "Vice President of ICAI to attend meeting on 16th - The Hitavada",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNlBUSHllU0RRSWZ5TXkxZDhVUk9LMDQtZ2o5XzJYRXk2VjNtTHBJQXFXakpXT1pwb3BPTTl3dmF6ZnY3THhFQWVQbTR6RkJ4RkoxQ095LWNEOTN6Szk1RU43YUxlSE9iYUxiN3ZDbGx5ZDFRLVZPemFDZ01EYVpjTkR2UDg1U2NlejFpdFBOVnRQbWRIS0tUdnlCUTd5VHM?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 15 Oct 2026 07:20:34 GMT"
-      },
-      {
-        "title": "ICAI Guidelines on Tenders 2026: Minimum Fees & Rules for CA Members - PW",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrY3JSZjM5N19TakRoZWdJdmhNNkhuUTBwOGhFbmgyMWloZUpsNXF5NHdJdnZLWlREemEwQjRxZjJOVmhTc3ptUFA5b0F4ZHA1dF9KY2RCbktjRE5BNk56U1N4UE5xMWN3REVEOA?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 14 Oct 2026 09:59:19 GMT"
       }
     ]
   }
