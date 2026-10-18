@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T14:44:11.500113+00:00",
+  "generatedAt": "2026-10-18T17:40:42.511681+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 81023,
-      "chg": -0.57
+      "price": 81109,
+      "chg": -0.12
     },
     "eth": {
-      "price": 2372.83,
-      "chg": -2.14
+      "price": 2371.02,
+      "chg": -1.44
     }
   },
   "fx": {
@@ -169,10 +169,10 @@
         "pubDate": "Fri, 16 Oct 2026 07:13:37 GMT"
       },
       {
-        "title": "ICAI Chartered Accountant Final Admit Card 2026 Out: Know Exam Guidelines - NDTV",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa0RHcTk1ZzYzc29uWUh3N0E1eHd0dWRtek1LWE4wZ3RQMVhLeWR4aG9DTlRtTHlQNUl0RkloTVJvS2VBbUFNVUV2Ml9kdDA0N2x4cjR4enFsbEYzbDNCMEh2Wk5DT2FqMlZWTjVtdHR3aGFGYTVTcXhacnFnQTF3dV82TGpucFhuNExFTGRZaXJ6U2MzQkFZWTJHT0Fab3JPTldNcWdEdm1pSkpkMU92TnFB0gG6AUFVX3lxTE91UHUtd3o0SXZpQWdSS1FZTDRjNTJRT2MwQ2xzOWU3UnhTTFF1N0VCbW5rOFJOTGJHRnhYOWRPMmNrVVRPbEFvOU1RRjRUU1NZdlo4NW9ZYTBjQnBVczM2WGhXVWJBcGpTbzNvSEFSb2lTdUJ5d0lldTlxQ0FZV1VETjIyUm5zR1VvT1hoSjUyb3lyUVZYZjYwSlVYZ283LUE4Z3lUTTR3WjdHc1MxTU1mcmdBVEdmSnpzZw?oc=5",
+        "title": "ICAI CA Final Admit Card 2026 released at eservices.icai.org: Download November hall ticket here - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUzRZZ2Vtcm90d28xMTBVOGthOFRORVl2NjJmSFFwN0hrWTNONjdSX1JHQW5LajE0TDBSRUJGYVRzSEZLV25ZY0ZDQkFQNGZ2UHBBX0Fyb2hOaUJkVklxZHhUNGV6a0pYTFNwNTBqdUN1M3hZek5ucXlKQ1BwdVI5ZDNrYkVJVGdFeGk1VDk0cktsSUJYVjA5bTBxM0MyNXBLNkJ5STBjckJnS3Z4YmFndFRwQkpKS2tRd0o3ZWRCTHVRSjR3bk1qTkVESENLelZqaldRTlc5Y2NlaUpLRm1xRk1KV01YVlJsV3lNN2FjVzFZeUQyb1poRDlJSHhBcTM2N3fSAYcCQVVfeXFMTzY5d2IyTnBfc1VraWJkTXpfbnpjQzRCQU9yR1RMREdtaC1CMm9NaFlQMTVHVWxCR3dMTHNvOHUzY0VPNVZzSUhJbzhfRU1qcUJuWVUtc1JURlNIX0lmdlRvOUh1dDRmaEJ6RVpVOE9aMHdsMkFqSi15YzktcFcwUUhfSmFPNnNjQjlfbFJraW8zcUlyVFU5SlM1NzVhaERVTzRIYUc1cExsRUxjTi1DX2pjdG1LVFFoWFUtWlczem1IUXN0ME5nakhFajRLZzJabHA5UzhKYm1uc0FBM2dKU1JWSkJrUDhLbHdzSFFSUnM5MFJGUFJwakxlSmNaaHkwS1dHcVVVTDQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sun, 18 Oct 2026 01:53:38 GMT"
+        "pubDate": "Sat, 17 Oct 2026 11:01:00 GMT"
       },
       {
         "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - Facebook",
@@ -181,10 +181,10 @@
         "pubDate": "Tue, 13 Oct 2026 13:12:10 GMT"
       },
       {
-        "title": "ICAI CA Final Admit Card 2026 released at eservices.icai.org: Download November hall ticket here - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUzRZZ2Vtcm90d28xMTBVOGthOFRORVl2NjJmSFFwN0hrWTNONjdSX1JHQW5LajE0TDBSRUJGYVRzSEZLV25ZY0ZDQkFQNGZ2UHBBX0Fyb2hOaUJkVklxZHhUNGV6a0pYTFNwNTBqdUN1M3hZek5ucXlKQ1BwdVI5ZDNrYkVJVGdFeGk1VDk0cktsSUJYVjA5bTBxM0MyNXBLNkJ5STBjckJnS3Z4YmFndFRwQkpKS2tRd0o3ZWRCTHVRSjR3bk1qTkVESENLelZqaldRTlc5Y2NlaUpLRm1xRk1KV01YVlJsV3lNN2FjVzFZeUQyb1poRDlJSHhBcTM2N3fSAYcCQVVfeXFMTzY5d2IyTnBfc1VraWJkTXpfbnpjQzRCQU9yR1RMREdtaC1CMm9NaFlQMTVHVWxCR3dMTHNvOHUzY0VPNVZzSUhJbzhfRU1qcUJuWVUtc1JURlNIX0lmdlRvOUh1dDRmaEJ6RVpVOE9aMHdsMkFqSi15YzktcFcwUUhfSmFPNnNjQjlfbFJraW8zcUlyVFU5SlM1NzVhaERVTzRIYUc1cExsRUxjTi1DX2pjdG1LVFFoWFUtWlczem1IUXN0ME5nakhFajRLZzJabHA5UzhKYm1uc0FBM2dKU1JWSkJrUDhLbHdzSFFSUnM5MFJGUFJwakxlSmNaaHkwS1dHcVVVTDQ?oc=5",
+        "title": "ICAI Chartered Accountant Final Admit Card 2026 Out: Know Exam Guidelines - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa0RHcTk1ZzYzc29uWUh3N0E1eHd0dWRtek1LWE4wZ3RQMVhLeWR4aG9DTlRtTHlQNUl0RkloTVJvS2VBbUFNVUV2Ml9kdDA0N2x4cjR4enFsbEYzbDNCMEh2Wk5DT2FqMlZWTjVtdHR3aGFGYTVTcXhacnFnQTF3dV82TGpucFhuNExFTGRZaXJ6U2MzQkFZWTJHT0Fab3JPTldNcWdEdm1pSkpkMU92TnFB0gG6AUFVX3lxTE91UHUtd3o0SXZpQWdSS1FZTDRjNTJRT2MwQ2xzOWU3UnhTTFF1N0VCbW5rOFJOTGJHRnhYOWRPMmNrVVRPbEFvOU1RRjRUU1NZdlo4NW9ZYTBjQnBVczM2WGhXVWJBcGpTbzNvSEFSb2lTdUJ5d0lldTlxQ0FZV1VETjIyUm5zR1VvT1hoSjUyb3lyUVZYZjYwSlVYZ283LUE4Z3lUTTR3WjdHc1MxTU1mcmdBVEdmSnpzZw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sat, 17 Oct 2026 11:01:00 GMT"
+        "pubDate": "Sun, 18 Oct 2026 01:53:38 GMT"
       },
       {
         "title": "ICAI CA Final admit card 2026 out at eservices.icai.org; exams from November 2 - Careers360",
