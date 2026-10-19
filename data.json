@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T00:18:06.817492+00:00",
+  "generatedAt": "2026-10-19T04:59:36.801832+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,81 +72,81 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 82030,
-      "chg": 0.76
+      "price": 82726,
+      "chg": 1.23
     },
     "eth": {
-      "price": 2405.66,
-      "chg": 0.22
+      "price": 2427.6,
+      "chg": 0.58
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 95.08,
-    "eurinr": 106.87,
-    "gbpinr": 126.62
+    "usdinr": 95.18,
+    "eurinr": 106.85,
+    "gbpinr": 126.86
   },
   "news": {
     "corp": [
       {
-        "title": "DIIs increase stake in 8 midcap stocks in Q2FY27",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/diis-increase-stake-in-8-midcap-stocks-in-q2fy27/slideshow/135027062.cms",
+        "title": "Bulls retreat as Sensex falls over 200 points, Nifty slips below 23,100. What's next for D-Street?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-falls-200-pts-nifty-below-23100-what-lies-ahead-for-dalal-street/articleshow/135039622.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 18 Oct 2026 15:40:35 +0530"
+        "pubDate": "Mon, 19 Oct 2026 10:04:53 +0530"
       },
       {
-        "title": "Bajaj Finance Q2 preview: Profit may jump 29%, NII 24% as strong loan growth lifts earnings",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q2-preview-profit-may-jump-29-nii-24-as-strong-loan-growth-lifts-earnings/articleshow/135026829.cms",
+        "title": "Holding company discount after Jio IPO: What is it &amp; how will it impact RIL shares?",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/holding-company-discount-after-jio-ipo-what-is-it-how-will-it-impact-ril-shares/articleshow/135039648.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 18 Oct 2026 15:20:55 +0530"
+        "pubDate": "Mon, 19 Oct 2026 10:02:09 +0530"
       },
       {
-        "title": "FPI selling crosses Rs 52,000 crore in October as Nifty defies foreign exodus",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpi-selling-crosses-rs-52000-crore-in-october-as-nifty-defies-foreign-exodus/articleshow/135025955.cms",
+        "title": "Global Market: South Korean shares fall as AI investment worries weigh on chipmakers",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korean-shares-fall-as-ai-investment-worries-weigh-on-chipmakers/articleshow/135039691.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 18 Oct 2026 13:41:02 +0530"
+        "pubDate": "Mon, 19 Oct 2026 10:01:57 +0530"
       },
       {
-        "title": "Jefferies’ Chris Wood says it’s time to diversify beyond AI. Where should investors look now?",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jefferies-chris-wood-says-its-time-to-diversify-beyond-ai-where-should-investors-look-now/articleshow/135025560.cms",
+        "title": "Yes Bank shares rise as Q2 profit beats estimates, but AT1 bond verdict hit pegged at Rs 5,217 crore. What lies ahead?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-shares-rise-as-q2-profit-beats-estimates-but-at1-bond-verdict-hit-pegged-at-rs-5217-crore-what-lies-ahead/articleshow/135039620.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 18 Oct 2026 13:01:53 +0530"
+        "pubDate": "Mon, 19 Oct 2026 09:58:24 +0530"
       },
       {
-        "title": "FPIs pull out Rs 52,100 cr from equities in Oct so far amid global headwinds",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-pull-out-rs-52100-cr-from-equities-in-oct-so-far-amid-global-headwinds/articleshow/135024995.cms",
+        "title": "HDFC Bank shares fall 2% after Q2 results. What are Jefferies, Motilal Oswal analysts saying?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-shares-fall-2-after-q2-results-what-are-jefferies-motilal-oswal-analysts-saying/articleshow/135039640.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 18 Oct 2026 12:03:22 +0530"
+        "pubDate": "Mon, 19 Oct 2026 09:56:35 +0530"
       },
       {
-        "title": "Mcap of nine of top-10 most valued firms surges by Rs 3.65 lakh cr; TCS shines",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-nine-of-top-10-most-valued-firms-surges-by-rs-3-65-lakh-cr-tcs-shines/articleshow/135024970.cms",
+        "title": "Urban Company shares slide 7% as Q2 net loss triples YoY on InstaHelp burn. Should you buy, sell or hold?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/urban-company-shares-slide-7-as-q2-net-loss-triples-yoy-on-instahelp-burn-should-you-buy-sell-or-hold/articleshow/135039550.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 18 Oct 2026 12:01:44 +0530"
+        "pubDate": "Mon, 19 Oct 2026 09:53:11 +0530"
       },
       {
-        "title": "Bonus issues, stock splits &amp; dividends: HDB Financial, IRFC, TechM among 19 stocks turning ex-record date this week",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issues-stock-splits-dividends-hdb-financial-irfc-techm-among-19-stocks-turning-ex-record-date-this-week/articleshow/135024511.cms",
+        "title": "ICICI Bank share price target after Q2 results: What are Jefferies, other analysts saying?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/icici-bank-share-price-target-after-q2-results-what-are-jefferies-other-analysts-saying/articleshow/135039483.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 18 Oct 2026 11:23:26 +0530"
+        "pubDate": "Mon, 19 Oct 2026 09:48:13 +0530"
       },
       {
-        "title": "LG Electronics, Polycab among picks as premiumisation and infrastructure demand drive growth: Siddhartha Khemka",
-        "link": "https://economictimes.indiatimes.com/markets/expert-view/lg-electronics-polycab-among-picks-as-premiumisation-and-infrastructure-demand-drive-growth-siddhartha-khemka/articleshow/135024487.cms",
+        "title": "US Market: Wall Street’s AI rally faces test as Meta earnings loom",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-wall-streets-ai-rally-faces-test-as-meta-earnings-loom/articleshow/135039431.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 18 Oct 2026 11:19:22 +0530"
+        "pubDate": "Mon, 19 Oct 2026 09:45:16 +0530"
       },
       {
-        "title": "10 penny stocks plunge up to 75% in six months",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-penny-stocks-plunge-up-to-75-in-six-months/slideshow/135024478.cms",
+        "title": "11 years, zero net FII flow: How a $64 billion outflow erased 9 years of equity buying",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/11-years-zero-net-fii-flow-how-a-64-billion-outflow-erased-9-years-of-equity-buying/articleshow/135039441.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 18 Oct 2026 11:03:19 +0530"
+        "pubDate": "Mon, 19 Oct 2026 09:45:13 +0530"
       },
       {
-        "title": "Mega Jio Platforms IPO to lead Rs 31,663 crore offerings this week; 9 listings lined up",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/mega-jio-platforms-ipo-to-lead-rs-31663-crore-offerings-this-week-9-listings-lined-up/articleshow/135024121.cms",
+        "title": "Bonfiglioli Transmissions IPO Day 3: GMP at 22%, issue subscribed 99%; Should you apply?",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/bonfiglioli-transmissions-ipo-day-3-gmp-at-22-issue-subscribed-99-should-you-apply/articleshow/135039410.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 18 Oct 2026 10:41:00 +0530"
+        "pubDate": "Mon, 19 Oct 2026 09:42:49 +0530"
       }
     ],
     "acct": [
@@ -169,22 +169,16 @@
         "pubDate": "Sat, 17 Oct 2026 11:01:00 GMT"
       },
       {
-        "title": "ICAI releases Chartered Accountant admit cards for November exams. Direct link here - India Today",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMHhfei1GQlNWUE5GTkZSb2NkdTBuLTJLZTdyQjNUbHRRNTB0dWtGUlpGTVd3T3VaeHMwYVVMeVJtek4zLWlVYXhVYTVjc1JDMjRBNjh3S1lYNlBBZW1LenpYRm14c0lvb2p4N2pPT0daODd0S2g1YlJuYXN0YVZ1eVZUWlN5a0s4SUg4NllUMk54c0wxTmduQ1VycHE5aUFiTFVjNHpYbHpoVlh4QnI0MjZTenhycWVPUS1tSG5CNUVJYXljMVo1WVVZckQwMzFHa0FyTEFQd0duelY3Ylhad2Q3dXl4OVVaQlE?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sun, 18 Oct 2026 04:39:41 GMT"
-      },
-      {
         "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - Facebook",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUER6ajFzREstYnhYMGlzYnJ4YmVrQlNBVWNGLVd1eWZ4VW9wTnV6RWdYWjhkVVB6ZGV1WGVBU0dfVThxQ3UtT0lDam5Ia0hROWliTFJ5NWdIdmpuNEgyNThRQjBwS2QzbmlIMG9YcDBMam5UVHlMcUFNZWY0Mmx0R3dKb3hXV21nRkUxaThxOGIxWDJ6ekh4LXBFMFpZLTlVaE5LdjRDOEpNWkRMWjAzU2JwdjlxdnhQY2NfVmVvYnFtZ0NST0ZCU3I4T3FEeUtYaGlnZFR4ZllXRm01emlvTUxR?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 13 Oct 2026 13:12:10 GMT"
       },
       {
-        "title": "ICAI Chartered Accountant Final Admit Card 2026 Out: Know Exam Guidelines - NDTV",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa0RHcTk1ZzYzc29uWUh3N0E1eHd0dWRtek1LWE4wZ3RQMVhLeWR4aG9DTlRtTHlQNUl0RkloTVJvS2VBbUFNVUV2Ml9kdDA0N2x4cjR4enFsbEYzbDNCMEh2Wk5DT2FqMlZWTjVtdHR3aGFGYTVTcXhacnFnQTF3dV82TGpucFhuNExFTGRZaXJ6U2MzQkFZWTJHT0Fab3JPTldNcWdEdm1pSkpkMU92TnFB0gG6AUFVX3lxTE91UHUtd3o0SXZpQWdSS1FZTDRjNTJRT2MwQ2xzOWU3UnhTTFF1N0VCbW5rOFJOTGJHRnhYOWRPMmNrVVRPbEFvOU1RRjRUU1NZdlo4NW9ZYTBjQnBVczM2WGhXVWJBcGpTbzNvSEFSb2lTdUJ5d0lldTlxQ0FZV1VETjIyUm5zR1VvT1hoSjUyb3lyUVZYZjYwSlVYZ283LUE4Z3lUTTR3WjdHc1MxTU1mcmdBVEdmSnpzZw?oc=5",
+        "title": "ICAI releases Chartered Accountant admit cards for November exams. Direct link here - India Today",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMHhfei1GQlNWUE5GTkZSb2NkdTBuLTJLZTdyQjNUbHRRNTB0dWtGUlpGTVd3T3VaeHMwYVVMeVJtek4zLWlVYXhVYTVjc1JDMjRBNjh3S1lYNlBBZW1LenpYRm14c0lvb2p4N2pPT0daODd0S2g1YlJuYXN0YVZ1eVZUWlN5a0s4SUg4NllUMk54c0wxTmduQ1VycHE5aUFiTFVjNHpYbHpoVlh4QnI0MjZTenhycWVPUS1tSG5CNUVJYXljMVo1WVVZckQwMzFHa0FyTEFQd0duelY3Ylhad2Q3dXl4OVVaQlE?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sun, 18 Oct 2026 01:53:38 GMT"
+        "pubDate": "Sun, 18 Oct 2026 04:39:41 GMT"
       },
       {
         "title": "ICAI CA Final admit card 2026 out at eservices.icai.org; exams from November 2 - Careers360",
@@ -197,6 +191,12 @@
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbVZnUWdseHhvVGhSRWZsRVVHTld1M2VkRzN5cWhEQUpVMjU0aVZiUjJ0cW4xT1pyckhpaHhoMG9abXBZSUxZMkY1ZEhURGR6ZjhNdnBjSXZybW9WZU10ZTBuLXZjMmJzeDAycVphNWttMXJXdFB1ZXF6TkZuSG1FWDZVMUpTbGs2Smh2TldRN2VWSFYtMkFDMTVfWWpTdnFvM1I0R0tRY21FX2t3N3cxWlRaOTlCVWwxQzBIRl9oRGRUcGx0S3pGWTBzQUNLLTDSAdYBQVVfeXFMTklXR21BLXF6X2tZTjB2TXJfUlgtUlhCQ3Q2SE91TThwQjdsX25MaWtUaFJyWlJGcWhOZVdtMkpVNG5BdXJ2YXdBaXNCa2JUbVgyQ09BeUlGSTJpbzZPQm95Q29RQ25uRnlXdkROaVVVMEU2Z1ctSk5sc01OcVlJaHEwLU1ic2Q5VlQwUXJ4ZENvRzdYdGZ4VVpSR1pQbDRocE1VLVVUWWgwRmhXSlNtaWlRVkNudVRwMzFzWUR6RzZzdUtHekp1cldQQUhsS3ExMzExbm9jQQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Sat, 17 Oct 2026 12:43:21 GMT"
+      },
+      {
+        "title": "ICAI Chartered Accountant Final Admit Card 2026 Out: Know Exam Guidelines - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa0RHcTk1ZzYzc29uWUh3N0E1eHd0dWRtek1LWE4wZ3RQMVhLeWR4aG9DTlRtTHlQNUl0RkloTVJvS2VBbUFNVUV2Ml9kdDA0N2x4cjR4enFsbEYzbDNCMEh2Wk5DT2FqMlZWTjVtdHR3aGFGYTVTcXhacnFnQTF3dV82TGpucFhuNExFTGRZaXJ6U2MzQkFZWTJHT0Fab3JPTldNcWdEdm1pSkpkMU92TnFB0gG6AUFVX3lxTE91UHUtd3o0SXZpQWdSS1FZTDRjNTJRT2MwQ2xzOWU3UnhTTFF1N0VCbW5rOFJOTGJHRnhYOWRPMmNrVVRPbEFvOU1RRjRUU1NZdlo4NW9ZYTBjQnBVczM2WGhXVWJBcGpTbzNvSEFSb2lTdUJ5d0lldTlxQ0FZV1VETjIyUm5zR1VvT1hoSjUyb3lyUVZYZjYwSlVYZ283LUE4Z3lUTTR3WjdHc1MxTU1mcmdBVEdmSnpzZw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sun, 18 Oct 2026 01:53:38 GMT"
       },
       {
         "title": "ICAI CA Final admit card 2026 released, exam to be conducted in November; check details - Education Times",
