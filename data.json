@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T10:34:47.009152+00:00",
+  "generatedAt": "2026-10-19T17:15:40.441806+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 82199,
-      "chg": 0.07
+      "price": 81868,
+      "chg": 0.94
     },
     "eth": {
-      "price": 2418.37,
-      "chg": -0.19
+      "price": 2397.78,
+      "chg": 1.05
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
-        "title": "Cupid, Sterlite Tech among stocks top 10 equity PMS portfolios hold as Nifty, Sensex plunge up to 13% in 2026",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-sterlite-tech-among-stocks-top-10-equity-pms-portfolios-hold-as-nifty-sensex-plunge-up-to-13-in-2026/articleshow/135045427.cms",
+        "title": "AI stocks rebound as CoreWeave jumps on Goldman Sachs upgrade",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-stocks-rebound-as-coreweave-jumps-on-goldman-upgrade/articleshow/135052127.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 19 Oct 2026 15:35:36 +0530"
+        "pubDate": "Mon, 19 Oct 2026 21:47:35 +0530"
       },
       {
-        "title": "India corporate bond boom may scale record in 2026 as borrowers lock in rates",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/india-corporate-bond-boom-may-scale-record-in-2026-as-borrowers-lock-in-rates/articleshow/135045053.cms",
+        "title": "Ireda net profit grows to Rs 554 cr in Sep qtr",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ireda-net-profit-grows-to-rs-554-cr-in-sep-qtr/articleshow/135051929.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 19 Oct 2026 14:56:25 +0530"
+        "pubDate": "Mon, 19 Oct 2026 21:29:01 +0530"
       },
       {
-        "title": "FIIs raise stakes in 8 smallcap stocks in Q2; shares surge over 200% in FY27 so far",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-raise-stakes-in-8-smallcap-stocks-in-q2-shares-surge-over-200-in-fy27-so-far/slideshow/135045033.cms",
+        "title": "Amazon says its AI chips will work with popular coding language, challenging Nvidia",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/amazon-says-its-ai-chips-will-work-with-popular-coding-language-challenging-nvidia/articleshow/135051867.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 19 Oct 2026 14:51:11 +0530"
+        "pubDate": "Mon, 19 Oct 2026 21:22:49 +0530"
       },
       {
-        "title": "Global Market: Euro falls as French political unrest, high energy prices weigh on sentiment",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-euro-falls-as-french-political-unrest-high-energy-prices-weigh-on-sentiment/articleshow/135044480.cms",
+        "title": "Global Markets: French markets tumble as riots add to political crisis",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-french-markets-tumble-as-riots-add-to-political-crisis/articleshow/135051572.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 19 Oct 2026 14:21:17 +0530"
+        "pubDate": "Mon, 19 Oct 2026 20:52:55 +0530"
       },
       {
-        "title": "UltraTech Cement Q2 Results: Net profit jumps 21% YoY to Rs 1,494 crore; revenue up 19%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ultratech-cement-q2-results-net-profit-rises-21-yoy-to-rs-1494-crore-revenue-up-19/articleshow/135044076.cms",
+        "title": "US Treasury yields nudge higher as AI fears ebb",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-nudge-higher-as-ai-fears-ebb/articleshow/135051546.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 19 Oct 2026 14:02:25 +0530"
+        "pubDate": "Mon, 19 Oct 2026 20:51:19 +0530"
       },
       {
-        "title": "Jio’s mega IPO breaks all records with Rs 2.5 lakh crore anchor demand: BlackRock, GIC, LIC participate",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jios-mega-ipo-breaks-all-records-with-rs-2-5-lakh-crore-anchor-demand-blackrock-gic-lic-participate/articleshow/135043514.cms",
+        "title": "Bajaj Finance Q2 consolidated net profit rises 29% to Rs 6,367 crore",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bajaj-finance-q2-consolidated-net-profit-rises-29-to-rs-6367-crore/articleshow/135051459.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 19 Oct 2026 13:40:18 +0530"
+        "pubDate": "Mon, 19 Oct 2026 20:43:16 +0530"
       },
       {
-        "title": "Why Nebius shares are falling amid AI funding fears",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-nebius-shares-are-falling-amid-ai-funding-fears/slideshow/135043802.cms",
+        "title": "Waaree Renewable Technologies Q2 Results: Net profit falls 29% to Rs 81 crore",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/waaree-renewable-technologies-q2-results-net-profit-falls-29-to-rs-81-crore/articleshow/135051423.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 19 Oct 2026 13:33:17 +0530"
+        "pubDate": "Mon, 19 Oct 2026 20:41:32 +0530"
       },
       {
-        "title": "Global Market: China backs IMF scrutiny of fiscal risks in major economies",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-china-backs-imf-scrutiny-of-fiscal-risks-in-major-economies/articleshow/135043610.cms",
+        "title": "Titan redeems Rs 1,000 crore commercial paper",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/titan-redeems-rs-1000-crore-commercial-paper/articleshow/135050383.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 19 Oct 2026 13:31:53 +0530"
+        "pubDate": "Mon, 19 Oct 2026 19:21:12 +0530"
       },
       {
-        "title": "Global Market: Indonesia stock exchange to meet MSCI after downgrade warning triggers market rout",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-indonesia-stock-exchange-to-meet-msci-after-downgrade-warning-triggers-market-rout/articleshow/135043186.cms",
+        "title": "Piramal Finance Q2 net profit soars 67% to Rs 545 crore",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/piramal-finance-q2-net-profit-soars-67-to-rs-545-crore/articleshow/135050351.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 19 Oct 2026 13:15:06 +0530"
+        "pubDate": "Mon, 19 Oct 2026 19:19:35 +0530"
       },
       {
-        "title": "Global Market: Eurozone bond selloff to weigh on growth, curb inflation, Lagarde says",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-eurozone-bond-selloff-to-weigh-on-growth-curb-inflation-lagarde-says/articleshow/135043065.cms",
+        "title": "PC Jeweller among 8 stocks that hit 52-week high and rallied up to 42% in a month",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/pc-jeweller-among-8-stocks-that-hit-52-week-high-and-rallied-up-to-42-in-a-month/slideshow/135050343.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 19 Oct 2026 13:11:07 +0530"
+        "pubDate": "Mon, 19 Oct 2026 19:14:25 +0530"
       }
     ],
     "acct": [
@@ -181,34 +181,34 @@
         "pubDate": "Tue, 13 Oct 2026 13:12:10 GMT"
       },
       {
+        "title": "I Would Not Go For A Credit Risk Interview Without Knowing These 5 Areas | by Biswarupa Mohapatra | Oct, 2026 - DataDrivenInvestor",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU2s3ZlBYbHhLbkQ1SzdkVG9zZ2FTSk82dUtWbUM4Wm9vU2w0QVcyYThyUU1CaEw2Y3ZNc2xJX2lnTndJUUM0aVpPRGVWc0dQei1pczdWcFl3SkRHRDZIc19YV19pb0wtVjRxcGZKeDNhY3MtX1BGYXlmYmVqMFF3aGN3cDRJQ0dXdUFXbGxmWEpXRUFsd2wzRVdvLV9Wbkx3YVZ5N3BOa2VFeHRtWWxJMEEzaGFXY2VUdHFTbjhFYk4?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 19 Oct 2026 05:14:37 GMT"
+      },
+      {
+        "title": "ICAI releases Chartered Accountant admit cards for November exams. Direct link here - India Today",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMHhfei1GQlNWUE5GTkZSb2NkdTBuLTJLZTdyQjNUbHRRNTB0dWtGUlpGTVd3T3VaeHMwYVVMeVJtek4zLWlVYXhVYTVjc1JDMjRBNjh3S1lYNlBBZW1LenpYRm14c0lvb2p4N2pPT0daODd0S2g1YlJuYXN0YVZ1eVZUWlN5a0s4SUg4NllUMk54c0wxTmduQ1VycHE5aUFiTFVjNHpYbHpoVlh4QnI0MjZTenhycWVPUS1tSG5CNUVJYXljMVo1WVVZckQwMzFHa0FyTEFQd0duelY3Ylhad2Q3dXl4OVVaQlE?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sun, 18 Oct 2026 04:39:41 GMT"
+      },
+      {
         "title": "Evaluating Malaysia’s readiness for the IFRS Sustainability Disclosure Standards: One year on - PwC",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOemI3VUJlTXZfR2lRUDFxMnRBanA1QnRsRXVTU1JJVHk1TVVxMllrTXNaX1dsOEtHNGliVF9RU3dEckNkc3pBTUUyanIyNGlQTllaaTJlbDhJRzB4aXdvVG5NWUxza2VHNFE3Sjl2Tk56RzVSdWI0WEhoVjlhTkxRaGNoVjQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 19 Oct 2026 04:33:55 GMT"
       },
       {
-        "title": "ICAI CA Final admit card 2026 released, exam to be conducted in November; check details - Education Times",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYjE1VVZoWHdXcUdKLW04cklhc1g5SWpyTHJsQk9ZYWVPR1MwQ21UNEkxMDQybjlBQVZ4U1pkUDUyR0IwbXFnV1MxWDgyNWs4S3U0WmVGWmZHVnFyblNwYlNRNUREaF85WGY4eXJjZjhIZGl6dUV5dnQ4YU14elNoaHpSQTN4LW92Zm5GdjJQZUgzc2tsaWZ6NnZrSmpvQ2d5YnhnVERULXNnSVF6Q0JWTzhnR0huYnZvdThXWmVxLWkwbWNhVVJIeFVmTm5ULXhua1pxNWh0dmVMZEpiYUFXTw?oc=5",
+        "title": "ICAI CA Final admit card 2026 out at eservices.icai.org; exams from November 2 - Careers360",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcmVmWjBWNE55ckstUXF6QXViSUpQOFBCaFNGajVWLVZ1aVZWcU5SZjhvNzJYb0lWMXk0Ynh3NEVlc19OOVFNSGR6ZHd5aFJ2QWNCbmhjZmlsRWdGZmY5VTlsejIyYTdoUVhTSzJZemVDQzVnemJ5LXB2RGFsYWZsXzhCMWpaa2FuSXQydDJReUVCMXB1MGhkUER5ZlNuZ3VGeURvUFZLRWdSVzNuZzN5OGtQUGlJbENHWGoydW5tNE1RM2fSAcgBQVVfeXFMTjI5RHl6elg0ZWFOR0V0T0dvZVpqRDd2RGxqSDduTk9USmlVckhJY25IRG5rUW1DYjJMZ3hJd3Q3aFFmQURvQ25nWGs0V1ZVd0lyRHktZnBXUlV5NF9DcWVrRFVTVFctOU9FbzBycEc0dW5fb1RoWlF4WE41V1Q3LUR0UUhkOTMtODdXMzF2N2RpX0l1RDI4SG03WTVIdk5BODR3cldBU1A2ejltSUN0QjgwOTFEbVhxYlFGeDJMamhYQTNOTGFPWGY?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sat, 17 Oct 2026 13:38:00 GMT"
+        "pubDate": "Sat, 17 Oct 2026 11:29:24 GMT"
       },
       {
-        "title": "ICAI CA Intermediate Result 2026 likely on October 22 - The Indian Express",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX3RfbWhCYVhLT0tBTjFXbzd6RUcyR3p3VmdtcGNUR1ctdzRwdjdUTy0zOHRrdkUyTFdhNW5FU0ZMS09naVZpSlVncF9hVWFpb25GcVZIUk9qMlN3VUMzTE5rQTIyMXQ0UlhfV1FXVl9RZUozbWNkSlpSbHVjVU1SZ0Q3ZDBvWjJ0SlFqQlFPZGltSWhya05CMEtpVlpJaEZhbFRqdzZSOTFoYjVJSjdSLVhSa0lGUWxKdGdhVWJEc9IBxgFBVV95cUxNNXlyUEU5X29xNGtEZ2xTQzBOenEwdjBVX3k1TkRPYW91X0kzT3FzaVRIQ0pDaU42Z1RsazJzXzJZOHJvaUFSY2g5MGdrc1pFYlRNM1l6S3JDVWZQa3BQSXRaOUkycUxWQjJMMlBqRG1NYVRRejNtcjdBeW1Md2NZWHZ6WkZSalVuT0p2M3NMLVFSWEdEaGlsUi03Y2V1NDYtUVVfcXRFQ21SWDZ2b2pCM2R1Nl9FcVlMUWZRWFhOMTIzUGVXM3c?oc=5",
+        "title": "ICAI CA Final admit card 2026 out at eservices.icai.org; exams from November 2 - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbVZnUWdseHhvVGhSRWZsRVVHTld1M2VkRzN5cWhEQUpVMjU0aVZiUjJ0cW4xT1pyckhpaHhoMG9abXBZSUxZMkY1ZEhURGR6ZjhNdnBjSXZybW9WZU10ZTBuLXZjMmJzeDAycVphNWttMXJXdFB1ZXF6TkZuSG1FWDZVMUpTbGs2Smh2TldRN2VWSFYtMkFDMTVfWWpTdnFvM1I0R0tRY21FX2t3N3cxWlRaOTlCVWwxQzBIRl9oRGRUcGx0S3pGWTBzQUNLLTDSAdYBQVVfeXFMTklXR21BLXF6X2tZTjB2TXJfUlgtUlhCQ3Q2SE91TThwQjdsX25MaWtUaFJyWlJGcWhOZVdtMkpVNG5BdXJ2YXdBaXNCa2JUbVgyQ09BeUlGSTJpbzZPQm95Q29RQ25uRnlXdkROaVVVMEU2Z1ctSk5sc01OcVlJaHEwLU1ic2Q5VlQwUXJ4ZENvRzdYdGZ4VVpSR1pQbDRocE1VLVVUWWgwRmhXSlNtaWlRVkNudVRwMzFzWUR6RzZzdUtHekp1cldQQUhsS3ExMzExbm9jQQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 15 Oct 2026 05:27:59 GMT"
-      },
-      {
-        "title": "CA Intermediate Result 2026: Scorecards Expected On October 22 - NDTV",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV0ZQSVpkc054MGozZjZqQkwxb2MzTThyTTFBd3RzWmcxa0RkRGVDbzhDamZfLTVpTUdTdmtic19leWRCWnQ5LVBSalVJbDloUEtiWlJidUhYajMtbGMyNlZmV3RoNkFTME5QV2pYaUFad2d4SkJScjZNYTMzRlYyRDlacllsNktGOEtZUGdCVUducTR5ek1NSHczU0dGU3VqS1FQWEZESnJhUdIBsgFBVV95cUxPVVhhT2c2aFRBTnIwY1JMc0E1T043UWk3TE01NHN1TEdVZG5JUkIxVV9Oc0lhaHdHekFfRF9jWEE5UjAxZ19EMmM3TzdlMFp5eDlHR0ktSVFMdlY0TWZPVm5ZTWZIVHAzTEVlWHJucWRsU3JTekJkdGNFY1NmTmRoazZ5TjdkYkRzTm9hSVBqdE40T0VmdERIWUNFODl5MlpYSkMxbVlTUV9CTGhsbGlsQThn?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 15 Oct 2026 08:27:04 GMT"
-      },
-      {
-        "title": "ICAI Guidelines on Tenders 2026: Minimum Fees & Rules for CA Members - PW",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrY3JSZjM5N19TakRoZWdJdmhNNkhuUTBwOGhFbmgyMWloZUpsNXF5NHdJdnZLWlREemEwQjRxZjJOVmhTc3ptUFA5b0F4ZHA1dF9KY2RCbktjRE5BNk56U1N4UE5xMWN3REVEOA?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 14 Oct 2026 09:59:19 GMT"
+        "pubDate": "Sat, 17 Oct 2026 12:43:21 GMT"
       }
     ]
   }
