@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T19:29:55.306388+00:00",
+  "generatedAt": "2026-10-20T22:32:08.687758+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 82336,
-      "chg": 0.53
+      "price": 82975,
+      "chg": 1.13
     },
     "eth": {
-      "price": 2424.89,
-      "chg": 1.13
+      "price": 2457.39,
+      "chg": 2.09
     }
   },
   "fx": {
@@ -88,6 +88,18 @@
   },
   "news": {
     "corp": [
+      {
+        "title": "US stocks today: US stocks end higher as healthcare stocks lift Dow, tech a breather",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-healthcare-stocks-lift-dow-tech-a-breather/articleshow/135076667.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 21 Oct 2026 01:54:39 +0530"
+      },
+      {
+        "title": "SpaceX Q3 revenue soars 161% YoY on AI business growth, beating estimates",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/spacex-q3-revenue-soars-161-yoy-on-ai-business-growth-beating-estimates/articleshow/135076651.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 21 Oct 2026 01:50:41 +0530"
+      },
       {
         "title": "Copper stays range bound as US tariff uncertainty, oil inflation risks weigh",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/copper-stays-range-bound-as-us-tariff-uncertainty-oil-inflation-risks-weigh/articleshow/135074839.cms",
@@ -131,31 +143,13 @@
         "pubDate": "Tue, 20 Oct 2026 18:38:17 +0530"
       },
       {
-        "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Live Updates: S&amp;P 500 Healthcare hits record high, Dow soars over 500 points",
+        "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Highlights: Dow leads Wall Street higher, investors focus on healthcare stocks",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-fed-rate-treasury-yields-earnings-forecast-nvidia-macys-gamestop-stock-price-news-20th-september-2026/liveblog/135069926.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Tue, 20 Oct 2026 17:31:22 +0530"
-      },
-      {
-        "title": "Meta’s AI spending and Muse adoption set to test Zuckerberg’s strategy",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/metas-ai-spending-muse-assistant-adoption-in-focus-for-quarterly-results/articleshow/135068976.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 20 Oct 2026 17:02:11 +0530"
-      },
-      {
-        "title": "Oyo parent PRISM to cut IPO fresh issue nearly 50% to Rs 3,350 crore: Sources",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/oyo-parent-prism-to-nearly-halve-ipo-fresh-issue-size-to-up-to-rs-3350-cr-sources/articleshow/135068962.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 20 Oct 2026 17:00:10 +0530"
       }
     ],
     "acct": [
-      {
-        "title": "IIPA, ICAI join hands to strengthen municipal financial governance; Jitendra Singh calls for evidence - DD News",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWGpoUmRWb0xZS3NheTFmQmlGZUM5ellSVy12SGc5Q2Y2MGNWdGFLcXcxbl9XZmhRYnNXM1R5S0RmSHlwQVVnRFBpTjVxbHZZUGFLbExGYWFkQ1h5bm1VclZKYWdpZUppd3RfUmFhQVF5b29YU044b25MSF9pWU5xcDZtVFVyTDBKZmNqbXBGMFpacDI1eTBVbXdtTjVyUkUxLUdBXzRLVTVrV01IVE1meXJnMjBFV29hSEppQWJUV1BVRktGeHUyMFM4SmJDaUs3Uy1zRFZtMVBUNFZGZEE?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 16 Oct 2026 07:13:37 GMT"
-      },
       {
         "title": "Getting ready for IFRS 18 - kpmg.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm1Idm5QWU1kM2hSQ2RjQWdzZ0U1ZnBIb2ZieThWZEs3Y0ZHV1BKVWowNTJUWDZwbDVkanBtN1BBbWlCb1g4aTdINXZvNFdfaWZwNXRvSzA3ODkyQVRRQjZJdnlQYWkzQnhKdXM3QXhGUFkzR3BRZ1FPWGZEWUZ3aTB5TDlsZ2dWbmJKSVVJYktiVVh4MzFhTjQ5VmVBdGJrdmVXd3JJUTFVMGtzTFdhVENBZkd4U1d5TE1mcEZxWDU?oc=5",
@@ -193,12 +187,6 @@
         "pubDate": "Tue, 13 Oct 2026 13:12:10 GMT"
       },
       {
-        "title": "ICAI CA Final admit card 2026 out at eservices.icai.org; exams from November 2 - Careers360",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcmVmWjBWNE55ckstUXF6QXViSUpQOFBCaFNGajVWLVZ1aVZWcU5SZjhvNzJYb0lWMXk0Ynh3NEVlc19OOVFNSGR6ZHd5aFJ2QWNCbmhjZmlsRWdGZmY5VTlsejIyYTdoUVhTSzJZemVDQzVnemJ5LXB2RGFsYWZsXzhCMWpaa2FuSXQydDJReUVCMXB1MGhkUER5ZlNuZ3VGeURvUFZLRWdSVzNuZzN5OGtQUGlJbENHWGoydW5tNE1RM2fSAcgBQVVfeXFMTjI5RHl6elg0ZWFOR0V0T0dvZVpqRDd2RGxqSDduTk9USmlVckhJY25IRG5rUW1DYjJMZ3hJd3Q3aFFmQURvQ25nWGs0V1ZVd0lyRHktZnBXUlV5NF9DcWVrRFVTVFctOU9FbzBycEc0dW5fb1RoWlF4WE41V1Q3LUR0UUhkOTMtODdXMzF2N2RpX0l1RDI4SG03WTVIdk5BODR3cldBU1A2ejltSUN0QjgwOTFEbVhxYlFGeDJMamhYQTNOTGFPWGY?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sat, 17 Oct 2026 11:29:24 GMT"
-      },
-      {
         "title": "Open Call: Essay Writing Competition on ICAI (India) - fundsforNGOs - Grants and Resources for Sustainability",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGU4NFVlUDlLOWQweHpudGNMYXBPSnBKbnd3UzNPbzR5bC1PVzR1c2pCd0dxNS13THcwTEFuRGdYcUl2NkVyb28xVFBNQ3FBb1lBeVRsZURhUlFEdTVjdFM2V3pTOHlVTThwLTFzMzdNMVFMZ1FUMmRlUENyWjRINmRvQ3NjcHNzcV80M3JOeGZoVmNfZGk00gGcAUFVX3lxTE1kWmlOOUl4U1pTU1JwbUI1cmFyNVhqc090dVFrai1BT1dKeGhuMjV2YTVqcVdnQVNLc1E2YmdHZms1bGdQTGNsOFJjNmNXRDNyMEdUUERNa1lhUnMydG9iY0RxOVRsempDUGVHTG13QnUwZzV4dHZydnp6RS1iTXVjdmowTG80MmZZVWVqQlh5NTJ5UHlsX1VCZ3ZONA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -209,6 +197,18 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFhGX19mVjU0d0pwWWhNRndFUjliUTNFXzMtbFB1aXVETlZMdXk2aU9mOXFfUU1CYUZNY211QUVFNmYwbERsOWtrM0p0ZVhHSnJFQlY4OFpGb1JkOEFGeGFGMTA3Mzdrc2kycVM1TDhuV0pmRG5SME4tUXNhdTRTcWs1WXhWVWtFanBYTVBNemt2b0dLbjhwZW9nRjB3UUY3OU5TbUxRWQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 10 Jul 2026 14:35:46 GMT"
+      },
+      {
+        "title": "India’s ICAI plans certification course for independent directors – report - The Accountant Online",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM2pBdVlUSG91U0FyRUxNbUZic3dPMDVsaUI3LTBKUEZuTUlvejc3WWZlcU5BWFNQdHd2NkhpOHBGMzJ4TXpPRmtIelJ4ME00Sm0tWC1pd1NPc1ZwUTRqLXZhVTlPTDNpQ19aOWJKRUg0NFRoOXBLekpsSkdReHVwaTUtT0V4TWdhR1QtbU9ueEdLc1FR?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 25 Sep 2026 07:00:00 GMT"
+      },
+      {
+        "title": "ICAI Guidelines on Tenders 2026: Minimum Fees & Rules for CA Members - PW",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrY3JSZjM5N19TakRoZWdJdmhNNkhuUTBwOGhFbmgyMWloZUpsNXF5NHdJdnZLWlREemEwQjRxZjJOVmhTc3ptUFA5b0F4ZHA1dF9KY2RCbktjRE5BNk56U1N4UE5xMWN3REVEOA?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 14 Oct 2026 09:59:19 GMT"
       }
     ]
   }
