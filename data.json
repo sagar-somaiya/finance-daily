@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T15:29:15.332857+00:00",
+  "generatedAt": "2026-10-20T19:29:55.306388+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 82365,
-      "chg": -0.02
+      "price": 82336,
+      "chg": 0.53
     },
     "eth": {
-      "price": 2428.3,
-      "chg": 0.59
+      "price": 2424.89,
+      "chg": 1.13
     }
   },
   "fx": {
@@ -89,13 +89,31 @@
   "news": {
     "corp": [
       {
+        "title": "Copper stays range bound as US tariff uncertainty, oil inflation risks weigh",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/copper-stays-range-bound-as-us-tariff-uncertainty-oil-inflation-risks-weigh/articleshow/135074839.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Tue, 20 Oct 2026 23:24:33 +0530"
+      },
+      {
+        "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135072460.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Tue, 20 Oct 2026 20:42:11 +0530"
+      },
+      {
+        "title": "Aerospace and military contractors raise 2026 profit forecasts",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/aerospace-and-military-contractors-raise-2026-profit-forecasts/articleshow/135072414.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Tue, 20 Oct 2026 20:39:22 +0530"
+      },
+      {
         "title": "Fed sneezes, but emerging markets aren't catching a cold yet: McGeever",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-sneezes-but-emerging-markets-arent-catching-a-cold-yet-mcgeever/articleshow/135071362.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Tue, 20 Oct 2026 19:17:37 +0530"
       },
       {
-        "title": "US stocks today: US stocks open lower as AI stocks decline, oil prices rise",
+        "title": "US stocks today: US stocks gain as healthcare stocks hit record high, oil prices fall",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-lower-as-ai-stocks-decline-oil-prices-rise/articleshow/135071224.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Tue, 20 Oct 2026 19:09:30 +0530"
@@ -113,13 +131,13 @@
         "pubDate": "Tue, 20 Oct 2026 18:38:17 +0530"
       },
       {
-        "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Live Updates: US stocks trade lower as AI stocks decline, oil prices rise",
+        "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Live Updates: S&amp;P 500 Healthcare hits record high, Dow soars over 500 points",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-fed-rate-treasury-yields-earnings-forecast-nvidia-macys-gamestop-stock-price-news-20th-september-2026/liveblog/135069926.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Tue, 20 Oct 2026 17:31:22 +0530"
       },
       {
-        "title": "Meta's AI spending, Muse assistant adoption in focus for quarterly results",
+        "title": "Meta’s AI spending and Muse adoption set to test Zuckerberg’s strategy",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/metas-ai-spending-muse-assistant-adoption-in-focus-for-quarterly-results/articleshow/135068976.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Tue, 20 Oct 2026 17:02:11 +0530"
@@ -129,24 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/oyo-parent-prism-to-nearly-halve-ipo-fresh-issue-size-to-up-to-rs-3350-cr-sources/articleshow/135068962.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Tue, 20 Oct 2026 17:00:10 +0530"
-      },
-      {
-        "title": "French bond yields near 24-year high as new protests loom",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/french-bond-yields-near-24-year-high-as-new-protests-loom/articleshow/135068905.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 20 Oct 2026 16:57:57 +0530"
-      },
-      {
-        "title": "Number of branded housing projects in India set to jump over 2-fold in 6 years: Savills",
-        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/number-of-branded-housing-projects-in-india-set-to-jump-over-2-fold-in-6-years-savills/articleshow/135068870.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 20 Oct 2026 16:54:17 +0530"
-      },
-      {
-        "title": "US Stocks: 3M lifts annual profit forecast on cost controls, price hikes",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-3m-lifts-annual-profit-forecast-on-cost-controls-price-hikes/articleshow/135068806.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 20 Oct 2026 16:52:09 +0530"
       }
     ],
     "acct": [
@@ -157,16 +157,16 @@
         "pubDate": "Fri, 16 Oct 2026 07:13:37 GMT"
       },
       {
-        "title": "ICAI CA Final Admit Card 2026 released at eservices.icai.org: Download November hall ticket here - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUzRZZ2Vtcm90d28xMTBVOGthOFRORVl2NjJmSFFwN0hrWTNONjdSX1JHQW5LajE0TDBSRUJGYVRzSEZLV25ZY0ZDQkFQNGZ2UHBBX0Fyb2hOaUJkVklxZHhUNGV6a0pYTFNwNTBqdUN1M3hZek5ucXlKQ1BwdVI5ZDNrYkVJVGdFeGk1VDk0cktsSUJYVjA5bTBxM0MyNXBLNkJ5STBjckJnS3Z4YmFndFRwQkpKS2tRd0o3ZWRCTHVRSjR3bk1qTkVESENLelZqaldRTlc5Y2NlaUpLRm1xRk1KV01YVlJsV3lNN2FjVzFZeUQyb1poRDlJSHhBcTM2N3fSAYcCQVVfeXFMTzY5d2IyTnBfc1VraWJkTXpfbnpjQzRCQU9yR1RMREdtaC1CMm9NaFlQMTVHVWxCR3dMTHNvOHUzY0VPNVZzSUhJbzhfRU1qcUJuWVUtc1JURlNIX0lmdlRvOUh1dDRmaEJ6RVpVOE9aMHdsMkFqSi15YzktcFcwUUhfSmFPNnNjQjlfbFJraW8zcUlyVFU5SlM1NzVhaERVTzRIYUc1cExsRUxjTi1DX2pjdG1LVFFoWFUtWlczem1IUXN0ME5nakhFajRLZzJabHA5UzhKYm1uc0FBM2dKU1JWSkJrUDhLbHdzSFFSUnM5MFJGUFJwakxlSmNaaHkwS1dHcVVVTDQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sat, 17 Oct 2026 11:01:00 GMT"
-      },
-      {
         "title": "Getting ready for IFRS 18 - kpmg.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm1Idm5QWU1kM2hSQ2RjQWdzZ0U1ZnBIb2ZieThWZEs3Y0ZHV1BKVWowNTJUWDZwbDVkanBtN1BBbWlCb1g4aTdINXZvNFdfaWZwNXRvSzA3ODkyQVRRQjZJdnlQYWkzQnhKdXM3QXhGUFkzR3BRZ1FPWGZEWUZ3aTB5TDlsZ2dWbmJKSVVJYktiVVh4MzFhTjQ5VmVBdGJrdmVXd3JJUTFVMGtzTFdhVENBZkd4U1d5TE1mcEZxWDU?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "ICAI CA Final Admit Card 2026 released at eservices.icai.org: Download November hall ticket here - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUzRZZ2Vtcm90d28xMTBVOGthOFRORVl2NjJmSFFwN0hrWTNONjdSX1JHQW5LajE0TDBSRUJGYVRzSEZLV25ZY0ZDQkFQNGZ2UHBBX0Fyb2hOaUJkVklxZHhUNGV6a0pYTFNwNTBqdUN1M3hZek5ucXlKQ1BwdVI5ZDNrYkVJVGdFeGk1VDk0cktsSUJYVjA5bTBxM0MyNXBLNkJ5STBjckJnS3Z4YmFndFRwQkpKS2tRd0o3ZWRCTHVRSjR3bk1qTkVESENLelZqaldRTlc5Y2NlaUpLRm1xRk1KV01YVlJsV3lNN2FjVzFZeUQyb1poRDlJSHhBcTM2N3fSAYcCQVVfeXFMTzY5d2IyTnBfc1VraWJkTXpfbnpjQzRCQU9yR1RMREdtaC1CMm9NaFlQMTVHVWxCR3dMTHNvOHUzY0VPNVZzSUhJbzhfRU1qcUJuWVUtc1JURlNIX0lmdlRvOUh1dDRmaEJ6RVpVOE9aMHdsMkFqSi15YzktcFcwUUhfSmFPNnNjQjlfbFJraW8zcUlyVFU5SlM1NzVhaERVTzRIYUc1cExsRUxjTi1DX2pjdG1LVFFoWFUtWlczem1IUXN0ME5nakhFajRLZzJabHA5UzhKYm1uc0FBM2dKU1JWSkJrUDhLbHdzSFFSUnM5MFJGUFJwakxlSmNaaHkwS1dHcVVVTDQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sat, 17 Oct 2026 11:01:00 GMT"
       },
       {
         "title": "Out of the shadows? IFRS 18 and the quest for comparable earnings - IR Impact",
