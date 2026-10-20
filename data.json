@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T00:49:30.823333+00:00",
+  "generatedAt": "2026-10-20T05:33:39.849383+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 81576,
-      "chg": -0.93
+      "price": 81897,
+      "chg": -0.96
     },
     "eth": {
-      "price": 2395.61,
-      "chg": -0.72
+      "price": 2403.09,
+      "chg": -1.03
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
-        "title": "Brokerages back ICICI Bank on strong Q2 earnings, see HDFC Bank recovery ahead",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-back-icici-bank-on-strong-q2-earnings-see-hdfc-bank-recovery-ahead/articleshow/135059089.cms",
+        "title": "Paras Healthcare secures Rs 652 cr from anchor investors; IPO to open on Oct 21",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/paras-healthcare-secures-rs-652-cr-from-anchor-investors-ipo-to-open-on-oct-21/articleshow/135061692.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 20 Oct 2026 06:04:57 +0530"
+        "pubDate": "Tue, 20 Oct 2026 10:28:38 +0530"
       },
       {
-        "title": "Jio Platforms' IPO draws Rs 2.5 lakh crore in anchor bids",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-platforms-ipo-draws-rs-2-5-lakh-crore-in-anchor-bids/articleshow/135059075.cms",
+        "title": "Jio IPO’s GMP rises to 22% as India’s largest ever issue set to open on October 21. Should you subscribe?",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipos-gmp-rises-to-22-as-indias-largest-ever-issue-set-to-open-on-october-21-should-you-subscribe/articleshow/135061297.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 20 Oct 2026 05:56:17 +0530"
+        "pubDate": "Tue, 20 Oct 2026 09:52:31 +0530"
       },
       {
-        "title": "Banking stocks, high oil prices drag Indian markets lower",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/banking-stocks-high-oil-prices-drag-indian-markets-lower/articleshow/135058914.cms",
+        "title": "Korea’s KOSPI crashes another 5% as AI rout deepens; AI bellwether down over 40% from peak",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/koreas-kospi-crashes-another-5-as-ai-rout-deepens-ai-bellwether-down-over-40-from-peak/articleshow/135061021.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 20 Oct 2026 05:35:48 +0530"
+        "pubDate": "Tue, 20 Oct 2026 09:38:50 +0530"
       },
       {
-        "title": "Apple India in sweet spot as FY26 revenue crosses Rs 1 lakh crore, profit soars",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/apple-india-in-sweet-spot-as-fy26-revenue-crosses-rs-1-lakh-crore-profit-soars/articleshow/135058877.cms",
+        "title": "From ₹228 a GB to ₹7.5: How Mukesh Ambani’s Jio rewired India’s internet and is now seeking a ₹10 lakh crore valuation",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-228-a-gb-to-7-5-how-mukesh-ambanis-jio-rewired-indias-internet-and-is-now-seeking-a-10-lakh-crore-valuation/articleshow/135053274.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 20 Oct 2026 05:30:00 +0530"
+        "pubDate": "Tue, 20 Oct 2026 09:30:00 +0530"
       },
       {
-        "title": "US stocks today: Nasdaq leads Wall Street gains as chip, AI stocks rebound",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-leads-wall-street-gains-as-chip-ai-stocks-rebound/articleshow/135056194.cms",
+        "title": "Jio IPO vs Airtel shares: Which telecom giant offers greater valuation comfort to investors?",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-vs-airtel-shares-which-telecom-giant-offers-greater-valuation-comfort-to-investors/articleshow/135053174.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 20 Oct 2026 01:48:35 +0530"
+        "pubDate": "Tue, 20 Oct 2026 09:30:00 +0530"
       },
       {
-        "title": "SBI data breach claim: Hackers allegedly access 3.75 lakh accounts",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-data-breach-claim-hackers-allegedly-access-3-75-lakh-accounts/articleshow/135059062.cms",
+        "title": "Warren Buffett warned about stock valuations but Berkshire Hathaway is aggressively purchasing stocks",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/warren-buffett-warned-about-stock-valuations-but-berkshire-hathaway-is-aggressively-purchasing-stocks/articleshow/135051738.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 20 Oct 2026 01:23:13 +0530"
+        "pubDate": "Tue, 20 Oct 2026 09:30:00 +0530"
       },
       {
-        "title": "RBI injects Rs 1 lakh crore as liquidity tightens before festive season",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-injects-rs-1-lakh-crore-as-liquidity-tightens-before-festive-season/articleshow/135059068.cms",
+        "title": "How Peter Lynch turned Fidelity Magellan Fund’s $18 million into $14 billion in 13 years",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/how-peter-lynch-turned-fidelity-magellan-funds-18-million-into-14-billion-in-13-years/articleshow/135051656.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 20 Oct 2026 01:17:23 +0530"
+        "pubDate": "Tue, 20 Oct 2026 09:30:00 +0530"
       },
       {
-        "title": "Yes Bank's evaluating capital actions to back growth plans",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/yes-banks-evaluating-capital-actions-to-back-growth-plans/articleshow/135059065.cms",
+        "title": "Global Market: South Korea's Elice shares plunge 28% in market debut as data centre stocks shunned",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-koreas-elice-shares-plunge-28-in-market-debut-as-data-centre-stocks-shunned/articleshow/135060541.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 20 Oct 2026 01:14:25 +0530"
+        "pubDate": "Tue, 20 Oct 2026 08:53:42 +0530"
       },
       {
-        "title": "Hedge funds retreat from tech at fastest pace in a decade as AI trade weakens",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/hedge-funds-retreat-from-tech-at-fastest-pace-in-a-decade-as-ai-trade-weakens/articleshow/135055531.cms",
+        "title": "Global Market: Japan's Nikkei falls as higher yields, inflation fears weigh",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-falls-as-higher-yields-inflation-fears-weigh/articleshow/135060522.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 20 Oct 2026 00:46:29 +0530"
+        "pubDate": "Tue, 20 Oct 2026 08:50:23 +0530"
       },
       {
-        "title": "S&amp;P Global flags potentially hidden AI debt at hyperscalers as AI spending surges",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/sp-global-flags-potentially-hidden-ai-debt-at-hyperscalers-as-ai-spending-surges/articleshow/135054758.cms",
+        "title": "Stock Market Holiday 2026: Is stock market closed today for Dussehra? Check remaining holidays for the year",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-2026-is-stock-market-closed-today-for-dussehra-check-remaining-holidays-for-the-year/articleshow/135059981.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 19 Oct 2026 23:49:26 +0530"
+        "pubDate": "Tue, 20 Oct 2026 07:59:59 +0530"
       }
     ],
     "acct": [
@@ -163,16 +163,16 @@
         "pubDate": "Fri, 16 Oct 2026 07:13:37 GMT"
       },
       {
-        "title": "Getting ready for IFRS 18 - kpmg.com",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm1Idm5QWU1kM2hSQ2RjQWdzZ0U1ZnBIb2ZieThWZEs3Y0ZHV1BKVWowNTJUWDZwbDVkanBtN1BBbWlCb1g4aTdINXZvNFdfaWZwNXRvSzA3ODkyQVRRQjZJdnlQYWkzQnhKdXM3QXhGUFkzR3BRZ1FPWGZEWUZ3aTB5TDlsZ2dWbmJKSVVJYktiVVh4MzFhTjQ5VmVBdGJrdmVXd3JJUTFVMGtzTFdhVENBZkd4U1d5TE1mcEZxWDU?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
-      },
-      {
         "title": "ICAI CA Final Admit Card 2026 released at eservices.icai.org: Download November hall ticket here - The Times of India",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQUzRZZ2Vtcm90d28xMTBVOGthOFRORVl2NjJmSFFwN0hrWTNONjdSX1JHQW5LajE0TDBSRUJGYVRzSEZLV25ZY0ZDQkFQNGZ2UHBBX0Fyb2hOaUJkVklxZHhUNGV6a0pYTFNwNTBqdUN1M3hZek5ucXlKQ1BwdVI5ZDNrYkVJVGdFeGk1VDk0cktsSUJYVjA5bTBxM0MyNXBLNkJ5STBjckJnS3Z4YmFndFRwQkpKS2tRd0o3ZWRCTHVRSjR3bk1qTkVESENLelZqaldRTlc5Y2NlaUpLRm1xRk1KV01YVlJsV3lNN2FjVzFZeUQyb1poRDlJSHhBcTM2N3fSAYcCQVVfeXFMTzY5d2IyTnBfc1VraWJkTXpfbnpjQzRCQU9yR1RMREdtaC1CMm9NaFlQMTVHVWxCR3dMTHNvOHUzY0VPNVZzSUhJbzhfRU1qcUJuWVUtc1JURlNIX0lmdlRvOUh1dDRmaEJ6RVpVOE9aMHdsMkFqSi15YzktcFcwUUhfSmFPNnNjQjlfbFJraW8zcUlyVFU5SlM1NzVhaERVTzRIYUc1cExsRUxjTi1DX2pjdG1LVFFoWFUtWlczem1IUXN0ME5nakhFajRLZzJabHA5UzhKYm1uc0FBM2dKU1JWSkJrUDhLbHdzSFFSUnM5MFJGUFJwakxlSmNaaHkwS1dHcVVVTDQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Sat, 17 Oct 2026 11:01:00 GMT"
+      },
+      {
+        "title": "Getting ready for IFRS 18 - kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm1Idm5QWU1kM2hSQ2RjQWdzZ0U1ZnBIb2ZieThWZEs3Y0ZHV1BKVWowNTJUWDZwbDVkanBtN1BBbWlCb1g4aTdINXZvNFdfaWZwNXRvSzA3ODkyQVRRQjZJdnlQYWkzQnhKdXM3QXhGUFkzR3BRZ1FPWGZEWUZ3aTB5TDlsZ2dWbmJKSVVJYktiVVh4MzFhTjQ5VmVBdGJrdmVXd3JJUTFVMGtzTFdhVENBZkd4U1d5TE1mcEZxWDU?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
       },
       {
         "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - Facebook",
