@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T22:32:08.687758+00:00",
+  "generatedAt": "2026-10-21T01:08:43.286450+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,22 +72,58 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 82975,
-      "chg": 1.13
+      "price": 82833,
+      "chg": 1.69
     },
     "eth": {
-      "price": 2457.39,
-      "chg": 2.09
+      "price": 2445.8,
+      "chg": 2.28
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 95.05,
-    "eurinr": 106.62,
-    "gbpinr": 126.55
+    "usdinr": 95.0,
+    "eurinr": 106.65,
+    "gbpinr": 126.94
   },
   "news": {
     "corp": [
+      {
+        "title": "JPMorgan Asset Management sees Bitcoin beating stocks, but with a big catch",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/jpmorgan-asset-management-sees-bitcoin-beating-stocks-but-with-a-big-catch/articleshow/135078990.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 21 Oct 2026 06:11:46 +0530"
+      },
+      {
+        "title": "Stocks in news: Reliance Industries, Eternal, IREDA, Yes Bank, Trent and Hindustan Zinc",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-eternal-ireda-yes-bank-trent-and-hindustan-zinc/articleshow/135074022.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 21 Oct 2026 06:00:00 +0530"
+      },
+      {
+        "title": "Pre-market action: Here's the trade setup for today's session",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135073734.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 21 Oct 2026 06:00:00 +0530"
+      },
+      {
+        "title": "NSE exit triggers sharp slowdown in unlisted share trading",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/unlisted-share-market-struggles-to-regain-momentum-as-nse-exits-the-trading-scene/articleshow/135078858.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 21 Oct 2026 05:52:57 +0530"
+      },
+      {
+        "title": "Can Jio Platforms IPO deliver long-term growth for high-risk investors?",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-jio-platforms-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/135078638.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 21 Oct 2026 05:42:32 +0530"
+      },
+      {
+        "title": "How to invest Rs 10 lakh amid market uncertainty: Experts weigh in",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/investing-rs-10-lakh-experts-decode-the-right-mix/articleshow/135078375.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 21 Oct 2026 05:36:02 +0530"
+      },
       {
         "title": "US stocks today: US stocks end higher as healthcare stocks lift Dow, tech a breather",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-healthcare-stocks-lift-dow-tech-a-breather/articleshow/135076667.cms",
@@ -111,45 +147,15 @@
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135072460.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Tue, 20 Oct 2026 20:42:11 +0530"
-      },
-      {
-        "title": "Aerospace and military contractors raise 2026 profit forecasts",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/aerospace-and-military-contractors-raise-2026-profit-forecasts/articleshow/135072414.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 20 Oct 2026 20:39:22 +0530"
-      },
-      {
-        "title": "Fed sneezes, but emerging markets aren't catching a cold yet: McGeever",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-sneezes-but-emerging-markets-arent-catching-a-cold-yet-mcgeever/articleshow/135071362.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 20 Oct 2026 19:17:37 +0530"
-      },
-      {
-        "title": "US stocks today: US stocks gain as healthcare stocks hit record high, oil prices fall",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-lower-as-ai-stocks-decline-oil-prices-rise/articleshow/135071224.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 20 Oct 2026 19:09:30 +0530"
-      },
-      {
-        "title": "Hilton to move stock listing to Nasdaq",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/hilton-to-move-stock-listing-to-nasdaq/articleshow/135070768.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 20 Oct 2026 18:43:06 +0530"
-      },
-      {
-        "title": "China's CATL third-quarter profit growth slowest in nearly two years as competition intensifies",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/chinas-catl-third-quarter-profit-growth-slowest-in-nearly-two-years-as-competition-intensifies/articleshow/135070675.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 20 Oct 2026 18:38:17 +0530"
-      },
-      {
-        "title": "Dow Jones| Nasdaq | S&amp;P 500 | US Stock Market Today |Highlights: Dow leads Wall Street higher, investors focus on healthcare stocks",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-war-hormuz-deal-brent-crude-oil-fed-rate-treasury-yields-earnings-forecast-nvidia-macys-gamestop-stock-price-news-20th-september-2026/liveblog/135069926.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 20 Oct 2026 17:31:22 +0530"
       }
     ],
     "acct": [
+      {
+        "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - Wolters Kluwer",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlIzUGljQXNlVm4xZ2R0ZFhITUtjQmNINmswSXA0R3lSeWtJZHI0MmRvR2l0ZDRJRUpiWFdSX1c0aFMyaVl2bWhNbHJxWGJTTUM5TTd5ZWxMX0lNMEp1Q3YzS2JZSDFnbWRkX3pvbnRFZTd0ZUx3ZTVmMjhhaHBqU1BGYjdMYXdBM2ZBWS1FVUkzVFF1aFEw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
+      },
       {
         "title": "Getting ready for IFRS 18 - kpmg.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm1Idm5QWU1kM2hSQ2RjQWdzZ0U1ZnBIb2ZieThWZEs3Y0ZHV1BKVWowNTJUWDZwbDVkanBtN1BBbWlCb1g4aTdINXZvNFdfaWZwNXRvSzA3ODkyQVRRQjZJdnlQYWkzQnhKdXM3QXhGUFkzR3BRZ1FPWGZEWUZ3aTB5TDlsZ2dWbmJKSVVJYktiVVh4MzFhTjQ5VmVBdGJrdmVXd3JJUTFVMGtzTFdhVENBZkd4U1d5TE1mcEZxWDU?oc=5",
@@ -169,16 +175,10 @@
         "pubDate": "Mon, 19 Oct 2026 09:47:01 GMT"
       },
       {
-        "title": "ICAI Admit Card 2026 OUT LIVE: CA Final November Hall Ticket Released at eservices.icai.org, Download Link Here - EduProspect",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZmZVX3lrT0FWT1FkbExEZjFmeHNfRDBlUnBLRjlMVFUtMDZaa3EyRDR0b0Y3SC1nUnpFVTVmSmdDMG91aUF2MEVhdWdtVU10SGhYaW9lcmJxdl9yWkgzS25zZzR1WFZmYUE1ZUJxbVYyMWJ6UlZMRFc5YjJMb3BJV0hqQlMyN2VwSmVQWGZ4UGZKTUVIX1lsUVBGWWFYMDlvRmdERVFWLU5USWtrU0JvSXM2VndvMjNlaWlycEIzWUxiTHA4ZzJILXpYaDlPZzA2bDdFZGZ30gHWAUFVX3lxTFBmZlVfeWtPQVZPUWRsTERmMWZ4c19EMGVScEtGOUxUVS0wNlprcTJENHRvRjdILWdSekVVNWZKZ0Mwb3VpQXYwRWF1Z21VTXRIaFhpb2VyYnF2X3JaSDNLbnNnNHVYVmZhQTVlQnFtVjIxYnpSVkxEVzliMkxvcElXSGpCUzI3ZXBKZVBYZnhQZkpNRUhfWWxRUEZZYVgwOW9GZ0RFUVYtTlRJa2tTQm9JczZWd28yM2VpaXJwQjNZTGJMcDhnMkgtelhoOU9nMDZsN0VkZnc?oc=5",
+        "title": "ICAI Issues Permanent Exemption Guidelines for CA Intermediate January 2027 Exams - CAclubindia",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMWM2WkhOYnV3cHlobjlxMUZrVGZPUnloT2NnWVQ3UTN1TGdvY1Z2UVNlNHRfR3ZaLXJZM0d0Y3lPSFpYY24zU0VEekZmemVfdG8wQTJCTzZZcnpvajNpaTl4T1BLMmwtQWU1Qk9aWlpLUGFxOHRaSVJ3bHJPS2U3aUFtdExTM09STVNSZnJSc1QxRlR4clF0SkZJd0VNV081dVpYTERtYTY4Z0NMMHhxRmJrb2hXWDJqTGY5djdpN0k2QQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 19 Oct 2026 07:36:40 GMT"
-      },
-      {
-        "title": "ICAI releases Chartered Accountant admit cards for November exams. Direct link here - India Today",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMHhfei1GQlNWUE5GTkZSb2NkdTBuLTJLZTdyQjNUbHRRNTB0dWtGUlpGTVd3T3VaeHMwYVVMeVJtek4zLWlVYXhVYTVjc1JDMjRBNjh3S1lYNlBBZW1LenpYRm14c0lvb2p4N2pPT0daODd0S2g1YlJuYXN0YVZ1eVZUWlN5a0s4SUg4NllUMk54c0wxTmduQ1VycHE5aUFiTFVjNHpYbHpoVlh4QnI0MjZTenhycWVPUS1tSG5CNUVJYXljMVo1WVVZckQwMzFHa0FyTEFQd0duelY3Ylhad2Q3dXl4OVVaQlE?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sun, 18 Oct 2026 04:39:41 GMT"
+        "pubDate": "Sat, 17 Oct 2026 00:59:00 GMT"
       },
       {
         "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - Facebook",
@@ -187,16 +187,16 @@
         "pubDate": "Tue, 13 Oct 2026 13:12:10 GMT"
       },
       {
-        "title": "Open Call: Essay Writing Competition on ICAI (India) - fundsforNGOs - Grants and Resources for Sustainability",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGU4NFVlUDlLOWQweHpudGNMYXBPSnBKbnd3UzNPbzR5bC1PVzR1c2pCd0dxNS13THcwTEFuRGdYcUl2NkVyb28xVFBNQ3FBb1lBeVRsZURhUlFEdTVjdFM2V3pTOHlVTThwLTFzMzdNMVFMZ1FUMmRlUENyWjRINmRvQ3NjcHNzcV80M3JOeGZoVmNfZGk00gGcAUFVX3lxTE1kWmlOOUl4U1pTU1JwbUI1cmFyNVhqc090dVFrai1BT1dKeGhuMjV2YTVqcVdnQVNLc1E2YmdHZms1bGdQTGNsOFJjNmNXRDNyMEdUUERNa1lhUnMydG9iY0RxOVRsempDUGVHTG13QnUwZzV4dHZydnp6RS1iTXVjdmowTG80MmZZVWVqQlh5NTJ5UHlsX1VCZ3ZONA?oc=5",
+        "title": "ICAI releases Chartered Accountant admit cards for November exams. Direct link here - India Today",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMHhfei1GQlNWUE5GTkZSb2NkdTBuLTJLZTdyQjNUbHRRNTB0dWtGUlpGTVd3T3VaeHMwYVVMeVJtek4zLWlVYXhVYTVjc1JDMjRBNjh3S1lYNlBBZW1LenpYRm14c0lvb2p4N2pPT0daODd0S2g1YlJuYXN0YVZ1eVZUWlN5a0s4SUg4NllUMk54c0wxTmduQ1VycHE5aUFiTFVjNHpYbHpoVlh4QnI0MjZTenhycWVPUS1tSG5CNUVJYXljMVo1WVVZckQwMzFHa0FyTEFQd0duelY3Ylhad2Q3dXl4OVVaQlE?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT"
+        "pubDate": "Sun, 18 Oct 2026 04:39:41 GMT"
       },
       {
-        "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFhGX19mVjU0d0pwWWhNRndFUjliUTNFXzMtbFB1aXVETlZMdXk2aU9mOXFfUU1CYUZNY211QUVFNmYwbERsOWtrM0p0ZVhHSnJFQlY4OFpGb1JkOEFGeGFGMTA3Mzdrc2kycVM1TDhuV0pmRG5SME4tUXNhdTRTcWs1WXhWVWtFanBYTVBNemt2b0dLbjhwZW9nRjB3UUY3OU5TbUxRWQ?oc=5",
+        "title": "ICAI Admit Card 2026 OUT LIVE: CA Final November Hall Ticket Released at eservices.icai.org, Download Link Here - EduProspect",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZmZVX3lrT0FWT1FkbExEZjFmeHNfRDBlUnBLRjlMVFUtMDZaa3EyRDR0b0Y3SC1nUnpFVTVmSmdDMG91aUF2MEVhdWdtVU10SGhYaW9lcmJxdl9yWkgzS25zZzR1WFZmYUE1ZUJxbVYyMWJ6UlZMRFc5YjJMb3BJV0hqQlMyN2VwSmVQWGZ4UGZKTUVIX1lsUVBGWWFYMDlvRmdERVFWLU5USWtrU0JvSXM2VndvMjNlaWlycEIzWUxiTHA4ZzJILXpYaDlPZzA2bDdFZGZ30gHWAUFVX3lxTFBmZlVfeWtPQVZPUWRsTERmMWZ4c19EMGVScEtGOUxUVS0wNlprcTJENHRvRjdILWdSekVVNWZKZ0Mwb3VpQXYwRWF1Z21VTXRIaFhpb2VyYnF2X3JaSDNLbnNnNHVYVmZhQTVlQnFtVjIxYnpSVkxEVzliMkxvcElXSGpCUzI3ZXBKZVBYZnhQZkpNRUhfWWxRUEZZYVgwOW9GZ0RFUVYtTlRJa2tTQm9JczZWd28yM2VpaXJwQjNZTGJMcDhnMkgtelhoOU9nMDZsN0VkZnc?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 10 Jul 2026 14:35:46 GMT"
+        "pubDate": "Mon, 19 Oct 2026 07:36:40 GMT"
       },
       {
         "title": "India’s ICAI plans certification course for independent directors – report - The Accountant Online",
@@ -205,10 +205,10 @@
         "pubDate": "Fri, 25 Sep 2026 07:00:00 GMT"
       },
       {
-        "title": "ICAI Guidelines on Tenders 2026: Minimum Fees & Rules for CA Members - PW",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrY3JSZjM5N19TakRoZWdJdmhNNkhuUTBwOGhFbmgyMWloZUpsNXF5NHdJdnZLWlREemEwQjRxZjJOVmhTc3ptUFA5b0F4ZHA1dF9KY2RCbktjRE5BNk56U1N4UE5xMWN3REVEOA?oc=5",
+        "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFhGX19mVjU0d0pwWWhNRndFUjliUTNFXzMtbFB1aXVETlZMdXk2aU9mOXFfUU1CYUZNY211QUVFNmYwbERsOWtrM0p0ZVhHSnJFQlY4OFpGb1JkOEFGeGFGMTA3Mzdrc2kycVM1TDhuV0pmRG5SME4tUXNhdTRTcWs1WXhWVWtFanBYTVBNemt2b0dLbjhwZW9nRjB3UUY3OU5TbUxRWQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 14 Oct 2026 09:59:19 GMT"
+        "pubDate": "Fri, 10 Jul 2026 14:35:46 GMT"
       }
     ]
   }
