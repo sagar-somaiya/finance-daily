@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T20:47:28.929429+00:00",
+  "generatedAt": "2026-10-21T23:48:37.425859+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 84664,
-      "chg": 2.37
+      "price": 84209,
+      "chg": 1.5
     },
     "eth": {
-      "price": 2493.94,
-      "chg": 2.11
+      "price": 2473.92,
+      "chg": 1.05
     }
   },
   "fx": {
@@ -175,16 +175,16 @@
         "pubDate": "Wed, 21 Oct 2026 02:48:00 GMT"
       },
       {
-        "title": "ICAI CA Intermediate September 2026 results are scheduled to be declared tomorrow; Foundation results expected next week - Education Times",
-        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONm0tem9ienh2Nm9vRDB4RTRtbHlyTXpPYURFaURXNy1UWlBfWk0tMzlBaDdNeDJidlpqdll1Wmp4XzBoZkZwZXRPMEVWTkIxX3FzNkVIZGZaQWc3Ui1uU0FlVDJBU0hlcm5MY25ZMmlnc0JYZHFxY3NwTHJ3T05BelU3UWx0cmRlejBDa0FJQllmaWMzR1czb3hvdGdPMHA1akpiZHlRWjQyZ1hKV01PeW5VUndLUUtkaHNQSXFkeExhMmpHOXVRTzZLci1ZTVdyalUwUTZGRFBRVEpyZTJEbE1BSXhWNHNrT1BaUkltUEtuSFRLdGlJb1h2YjVLM1dndjIxdWVmYnh3cFRxNUE?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 21 Oct 2026 05:27:00 GMT"
-      },
-      {
         "title": "Getting ready for IFRS 18 - kpmg.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm1Idm5QWU1kM2hSQ2RjQWdzZ0U1ZnBIb2ZieThWZEs3Y0ZHV1BKVWowNTJUWDZwbDVkanBtN1BBbWlCb1g4aTdINXZvNFdfaWZwNXRvSzA3ODkyQVRRQjZJdnlQYWkzQnhKdXM3QXhGUFkzR3BRZ1FPWGZEWUZ3aTB5TDlsZ2dWbmJKSVVJYktiVVh4MzFhTjQ5VmVBdGJrdmVXd3JJUTFVMGtzTFdhVENBZkd4U1d5TE1mcEZxWDU?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "ICAI CA Intermediate September 2026 results are scheduled to be declared tomorrow; Foundation results expected next week - Education Times",
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxONm0tem9ienh2Nm9vRDB4RTRtbHlyTXpPYURFaURXNy1UWlBfWk0tMzlBaDdNeDJidlpqdll1Wmp4XzBoZkZwZXRPMEVWTkIxX3FzNkVIZGZaQWc3Ui1uU0FlVDJBU0hlcm5MY25ZMmlnc0JYZHFxY3NwTHJ3T05BelU3UWx0cmRlejBDa0FJQllmaWMzR1czb3hvdGdPMHA1akpiZHlRWjQyZ1hKV01PeW5VUndLUUtkaHNQSXFkeExhMmpHOXVRTzZLci1ZTVdyalUwUTZGRFBRVEpyZTJEbE1BSXhWNHNrT1BaUkltUEtuSFRLdGlJb1h2YjVLM1dndjIxdWVmYnh3cFRxNUE?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 21 Oct 2026 05:27:00 GMT"
       },
       {
         "title": "Out of the shadows? IFRS 18 and the quest for comparable earnings - IR Impact",
@@ -205,10 +205,10 @@
         "pubDate": "Tue, 13 Oct 2026 13:12:10 GMT"
       },
       {
-        "title": "ICAI announces CA Foundation January 2027 mock test series 1,2 dates - Careers360",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWkFCOElEcm1kVHBweVYtMkp0c2U3RVBKVi0zVHhXeW16UEU2V29YdTNZZFVUZHgyNzJNcEc4MThpMkROT09sakZ0VGF6dk5vWElodHhyWEh3YlZMRmhaSWk3MS1aakl5Zllydy1vOWJMb3JSS0xIMERxRHRicEZsanphU3FsTTdfamtLN1NnU2VzUzlTS1BLWE1XVFdhXzYxay1JZTF6Xzc1SWpiZS1ZcHNUZUFQVGhW0gG-AUFVX3lxTFBzc1lPVjl0THlTekppTlEyc1VXYWdWbnlnakN5MGJWalNka2RSOV9KMlhwZVdFLVlFMGFlLTJSWjdWa3ZWZXBfUGNLMXJ4YUM3OGNxZGEybkZkc19qT21GWWJ0MVZnZElteDNSN1RtNkZic0NQQ2xjQ2RaME5IeV9WMXVPcUNpS29kVDZFN3ExRE9OSTRETmNCMWpuZDZaWjk3Mjg0X25LVG96VmFweXV4bUlsMURPbExDV3NiQ3c?oc=5",
+        "title": "Open Call: Essay Writing Competition on ICAI (India) - fundsforNGOs - Grants and Resources for Sustainability",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGU4NFVlUDlLOWQweHpudGNMYXBPSnBKbnd3UzNPbzR5bC1PVzR1c2pCd0dxNS13THcwTEFuRGdYcUl2NkVyb28xVFBNQ3FBb1lBeVRsZURhUlFEdTVjdFM2V3pTOHlVTThwLTFzMzdNMVFMZ1FUMmRlUENyWjRINmRvQ3NjcHNzcV80M3JOeGZoVmNfZGk00gGcAUFVX3lxTE1kWmlOOUl4U1pTU1JwbUI1cmFyNVhqc090dVFrai1BT1dKeGhuMjV2YTVqcVdnQVNLc1E2YmdHZms1bGdQTGNsOFJjNmNXRDNyMEdUUERNa1lhUnMydG9iY0RxOVRsempDUGVHTG13QnUwZzV4dHZydnp6RS1iTXVjdmowTG80MmZZVWVqQlh5NTJ5UHlsX1VCZ3ZONA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 21 Oct 2026 16:17:39 GMT"
+        "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT"
       }
     ]
   }
