@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T17:27:11.589557+00:00",
+  "generatedAt": "2026-10-21T20:47:28.929429+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 84480,
-      "chg": 2.14
+      "price": 84664,
+      "chg": 2.37
     },
     "eth": {
-      "price": 2510.64,
-      "chg": 2.53
+      "price": 2493.94,
+      "chg": 2.11
     }
   },
   "fx": {
@@ -88,6 +88,36 @@
   },
   "news": {
     "corp": [
+      {
+        "title": "US stocks today: Nasdaq leads Wall Street higher as SpaceX, Super Micro lift AI sentiment",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-leads-wall-street-higher-as-spacex-super-micro-lift-ai-sentiment/articleshow/135100483.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 22 Oct 2026 01:45:59 +0530"
+      },
+      {
+        "title": "Meta raises AI spending forecast to $145 billion, plans new share issue; Q3 revenue beats estimates",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/meta-raises-ai-spending-forecast-to-145-billion-plans-new-share-issue-q3-revenue-beats-estimates/articleshow/135100437.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 22 Oct 2026 01:42:20 +0530"
+      },
+      {
+        "title": "BlackRock expands AI push with new robotics ETF as investor enthusiasm cools",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/blackrock-expands-ai-push-with-new-robotics-etf-as-investor-enthusiasm-cools/articleshow/135099678.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 22 Oct 2026 00:56:44 +0530"
+      },
+      {
+        "title": "US Treasury yields slip as AI concerns boost safe haven demand ahead of 20 year auction",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-slip-as-ai-concern-boost-safe-haven-demand-ahead-of-20-year-auction/articleshow/135097932.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 21 Oct 2026 23:19:52 +0530"
+      },
+      {
+        "title": "Persistent Systems launches Rs 4,265-cr QIP; floor price set at Rs 5,550/share",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-launches-rs-4265-cr-qip-floor-price-set-at-rs-5550/share/articleshow/135097602.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 21 Oct 2026 23:01:22 +0530"
+      },
       {
         "title": "Stocks, gold or crypto? The last 3 years’ returns have a surprising answer",
         "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/stocks-gold-or-crypto-the-last-3-years-returns-have-a-surprising-answer/articleshow/135096080.cms",
@@ -117,36 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/mahindra-finance-q2-net-profit-surges-55-to-rs-882-crore-on-volumes-lower-credit-cost/articleshow/135094556.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Wed, 21 Oct 2026 19:58:03 +0530"
-      },
-      {
-        "title": "Jio IPO strengthens Reliance’s financial flexibility; capex funding remains key: Moody’s",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-strengthens-reliances-financial-flexibility-capex-funding-remains-key-moodys/articleshow/135094225.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 19:32:53 +0530"
-      },
-      {
-        "title": "PC Jewellers Q2 Results: Net profit shoots up 58% to Rs 331 crore; company says it is now debt-free",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/pc-jewellers-q2-results-net-profit-shoots-up-58-to-rs-331-crore-company-says-it-is-now-debt-free/articleshow/135094111.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 19:29:06 +0530"
-      },
-      {
-        "title": "IHCL Q2 Results: Tata Group-owned hotel chain's net profit jumps 19% to Rs 379 crore",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ihcl-q2-results-tata-group-owned-hotel-chains-net-profit-jumps-19-to-rs-379-crore/articleshow/135094055.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 19:27:18 +0530"
-      },
-      {
-        "title": "US stocks today: US stocks rise as SpaceX, Super Micro revive appetite for AI stocks",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-higher-as-spacex-super-micro-results-lift-ai-stocks/articleshow/135093777.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 19:07:35 +0530"
-      },
-      {
-        "title": "Can Jio IPO unlock hidden value in Reliance Industries shares?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-jio-ipo-unlock-hidden-value-in-reliance-industries-shares/videoshow/135093782.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 19:05:50 +0530"
       }
     ],
     "acct": [
@@ -155,6 +155,12 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlIzUGljQXNlVm4xZ2R0ZFhITUtjQmNINmswSXA0R3lSeWtJZHI0MmRvR2l0ZDRJRUpiWFdSX1c0aFMyaVl2bWhNbHJxWGJTTUM5TTd5ZWxMX0lNMEp1Q3YzS2JZSDFnbWRkX3pvbnRFZTd0ZUx3ZTVmMjhhaHBqU1BGYjdMYXdBM2ZBWS1FVUkzVFF1aFEw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "SAP SE (SAP) Reports Q3: >€10B Revenue, ~€3B Non-IFRS Op Profit; Updates 2026 Outlook - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZEQybFNfN1hFSjFLZTd3SzZaYW52QUZDQ1JucXU4azB4cENCZEduYlRDaUExZnROYTdNR1VOc3daWDN2d25DblFZTnFVSnV6OWxaWkQ5UVBxejhwUlR4M3NFWjVDb0E5UWJhT2dUZzNyMEVJV1pkSFFFU2tlSDViSk8wZzNjX3ZMZzVlWTVFSGlBaXRTUm5YckFTZTRuWDFmM2xXSVlldGhjTkFYV3owT0U0ckJSMm1peGlIYVR2REN5LVdnOS1MV283T21pYW5YMU04Ng?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 21 Oct 2026 20:05:00 GMT"
       },
       {
         "title": "CA Foundation January 2027: Mock Tests Begin December 1, Check Full Schedule - NDTV",
@@ -175,12 +181,6 @@
         "pubDate": "Wed, 21 Oct 2026 05:27:00 GMT"
       },
       {
-        "title": "JM: Stronger Q3 operations and cash flow, but 9M IFRS profit and Nordic markets remain mixed - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVUlsWGdkY2NWVUgwWFJYcDVpWFdVVzJsNlJrWXVkUWd6Tmx4Wl91cVVObmhuNFBLdm52SnFBNzFKd3dVRmUteVpCTTBKUUU5SVRvNnpyUDZVY2VOTjN0RS00MHdDbkpMd1N6WmEzbFpQQVZtQTJJSm1QQWlJWlYtazRVY1VMTmNRZVRDTV9DeUFNZ1hkMFVjXzZ0RmxFLUtlTERneHJqbU9sQkVrQV80bzdFN3lMbnA0SHltbXFLbjJ5MFk0dW53XzUweTk3enBsUTdJOXRJTGJfYlJIUzlyZ3RpVDh0MWhHbWFVTVFmY052QXRlU2NOcFpSVXNhc3RwaEFv?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 21 Oct 2026 06:05:00 GMT"
-      },
-      {
         "title": "Getting ready for IFRS 18 - kpmg.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm1Idm5QWU1kM2hSQ2RjQWdzZ0U1ZnBIb2ZieThWZEs3Y0ZHV1BKVWowNTJUWDZwbDVkanBtN1BBbWlCb1g4aTdINXZvNFdfaWZwNXRvSzA3ODkyQVRRQjZJdnlQYWkzQnhKdXM3QXhGUFkzR3BRZ1FPWGZEWUZ3aTB5TDlsZ2dWbmJKSVVJYktiVVh4MzFhTjQ5VmVBdGJrdmVXd3JJUTFVMGtzTFdhVENBZkd4U1d5TE1mcEZxWDU?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -199,16 +199,16 @@
         "pubDate": "Wed, 21 Oct 2026 07:46:12 GMT"
       },
       {
-        "title": "ICAI announces CA Foundation January 2027 mock test series 1,2 dates - Careers360",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWkFCOElEcm1kVHBweVYtMkp0c2U3RVBKVi0zVHhXeW16UEU2V29YdTNZZFVUZHgyNzJNcEc4MThpMkROT09sakZ0VGF6dk5vWElodHhyWEh3YlZMRmhaSWk3MS1aakl5Zllydy1vOWJMb3JSS0xIMERxRHRicEZsanphU3FsTTdfamtLN1NnU2VzUzlTS1BLWE1XVFdhXzYxay1JZTF6Xzc1SWpiZS1ZcHNUZUFQVGhW0gG-AUFVX3lxTFBzc1lPVjl0THlTekppTlEyc1VXYWdWbnlnakN5MGJWalNka2RSOV9KMlhwZVdFLVlFMGFlLTJSWjdWa3ZWZXBfUGNLMXJ4YUM3OGNxZGEybkZkc19qT21GWWJ0MVZnZElteDNSN1RtNkZic0NQQ2xjQ2RaME5IeV9WMXVPcUNpS29kVDZFN3ExRE9OSTRETmNCMWpuZDZaWjk3Mjg0X25LVG96VmFweXV4bUlsMURPbExDV3NiQ3c?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 21 Oct 2026 16:17:39 GMT"
-      },
-      {
         "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - Facebook",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUER6ajFzREstYnhYMGlzYnJ4YmVrQlNBVWNGLVd1eWZ4VW9wTnV6RWdYWjhkVVB6ZGV1WGVBU0dfVThxQ3UtT0lDam5Ia0hROWliTFJ5NWdIdmpuNEgyNThRQjBwS2QzbmlIMG9YcDBMam5UVHlMcUFNZWY0Mmx0R3dKb3hXV21nRkUxaThxOGIxWDJ6ekh4LXBFMFpZLTlVaE5LdjRDOEpNWkRMWjAzU2JwdjlxdnhQY2NfVmVvYnFtZ0NST0ZCU3I4T3FEeUtYaGlnZFR4ZllXRm01emlvTUxR?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 13 Oct 2026 13:12:10 GMT"
+      },
+      {
+        "title": "ICAI announces CA Foundation January 2027 mock test series 1,2 dates - Careers360",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWkFCOElEcm1kVHBweVYtMkp0c2U3RVBKVi0zVHhXeW16UEU2V29YdTNZZFVUZHgyNzJNcEc4MThpMkROT09sakZ0VGF6dk5vWElodHhyWEh3YlZMRmhaSWk3MS1aakl5Zllydy1vOWJMb3JSS0xIMERxRHRicEZsanphU3FsTTdfamtLN1NnU2VzUzlTS1BLWE1XVFdhXzYxay1JZTF6Xzc1SWpiZS1ZcHNUZUFQVGhW0gG-AUFVX3lxTFBzc1lPVjl0THlTekppTlEyc1VXYWdWbnlnakN5MGJWalNka2RSOV9KMlhwZVdFLVlFMGFlLTJSWjdWa3ZWZXBfUGNLMXJ4YUM3OGNxZGEybkZkc19qT21GWWJ0MVZnZElteDNSN1RtNkZic0NQQ2xjQ2RaME5IeV9WMXVPcUNpS29kVDZFN3ExRE9OSTRETmNCMWpuZDZaWjk3Mjg0X25LVG96VmFweXV4bUlsMURPbExDV3NiQ3c?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 21 Oct 2026 16:17:39 GMT"
       }
     ]
   }
