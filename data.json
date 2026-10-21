@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T12:06:50.762041+00:00",
+  "generatedAt": "2026-10-21T17:27:11.589557+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 83456,
-      "chg": 2.47
+      "price": 84480,
+      "chg": 2.14
     },
     "eth": {
-      "price": 2468.2,
-      "chg": 3.53
+      "price": 2510.64,
+      "chg": 2.53
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
-        "title": "Bitcoin rebounds above $83,000 as strong US earnings and falling oil prices lift risk appetite",
-        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-rebounds-above-83000-as-strong-us-earnings-and-falling-oil-prices-lift-risk-appetite/articleshow/135091348.cms",
+        "title": "Stocks, gold or crypto? The last 3 years’ returns have a surprising answer",
+        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/stocks-gold-or-crypto-the-last-3-years-returns-have-a-surprising-answer/articleshow/135096080.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 17:09:14 +0530"
+        "pubDate": "Wed, 21 Oct 2026 21:35:58 +0530"
       },
       {
-        "title": "Market wrap: Infosys, HCL Tech, Bajaj Finance, BSE top gainers and losers on Nifty and Sensex on Wednesday",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-infosys-hcl-tech-bajaj-finance-bse-top-gainers-and-losers-on-nifty-and-sensex-on-wednesday/articleshow/135090920.cms",
+        "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/135096044.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 16:59:52 +0530"
+        "pubDate": "Wed, 21 Oct 2026 21:27:41 +0530"
       },
       {
-        "title": "Want exposure to India's biggest banks? Zerodha launches new ETF",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/want-exposure-to-indias-biggest-banks-zerodha-launches-new-etf/articleshow/135090790.cms",
+        "title": "Market Trading Guide: Wipro among 5 stock recommendations for Thursday",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-wipro-among-5-stock-recommendations-for-thursday/slideshow/135095527.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 16:54:00 +0530"
+        "pubDate": "Wed, 21 Oct 2026 20:39:13 +0530"
       },
       {
-        "title": "Global Market: Eurozone bond yields rise as French unrest fuels fiscal concerns",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-eurozone-bond-yields-rise-as-french-unrest-fuels-fiscal-concerns/articleshow/135090708.cms",
+        "title": "Netflix shares slide 4% as slowing sales growth raises fresh concerns",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/netflix-shares-slide-4-as-slowing-sales-growth-raises-fresh-concerns/articleshow/135094744.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 16:49:53 +0530"
+        "pubDate": "Wed, 21 Oct 2026 20:10:40 +0530"
       },
       {
-        "title": "Global Market: BOJ's Himino says Japan inflation near 2% target, signals further rate hikes",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-bojs-himino-says-japan-inflation-near-2-target-signals-further-rate-hikes/articleshow/135090643.cms",
+        "title": "Mahindra Finance Q2 net profit surges 55% to Rs 882 crore on volumes, lower credit cost",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/mahindra-finance-q2-net-profit-surges-55-to-rs-882-crore-on-volumes-lower-credit-cost/articleshow/135094556.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 16:46:44 +0530"
+        "pubDate": "Wed, 21 Oct 2026 19:58:03 +0530"
       },
       {
-        "title": "CAS swings: Nifty’s indicative price jumps 500 points in seconds, closes higher than pre-CAS level",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/cas-swings-niftys-indicative-price-jumps-500-points-in-seconds-closes-higher-than-pre-cas-level/articleshow/135089898.cms",
+        "title": "Jio IPO strengthens Reliance’s financial flexibility; capex funding remains key: Moody’s",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-strengthens-reliances-financial-flexibility-capex-funding-remains-key-moodys/articleshow/135094225.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 16:23:01 +0530"
+        "pubDate": "Wed, 21 Oct 2026 19:32:53 +0530"
       },
       {
-        "title": "Jio Platforms' IPO-linked inflows boost rupee; elevated oil prices spur caution",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/jio-platforms-ipo-linked-inflows-boost-rupee-elevated-oil-prices-spur-caution/articleshow/135089592.cms",
+        "title": "PC Jewellers Q2 Results: Net profit shoots up 58% to Rs 331 crore; company says it is now debt-free",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/pc-jewellers-q2-results-net-profit-shoots-up-58-to-rs-331-crore-company-says-it-is-now-debt-free/articleshow/135094111.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 16:07:48 +0530"
+        "pubDate": "Wed, 21 Oct 2026 19:29:06 +0530"
       },
       {
-        "title": "MFs raise stakes in 10 stocks in Q2; shares rally up to 130% in FY27, including 3 multibaggers",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/mfs-raise-stakes-in-10-stocks-in-q2-shares-rally-up-to-130-in-fy27-including-3-multibaggers/slideshow/135089578.cms",
+        "title": "IHCL Q2 Results: Tata Group-owned hotel chain's net profit jumps 19% to Rs 379 crore",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ihcl-q2-results-tata-group-owned-hotel-chains-net-profit-jumps-19-to-rs-379-crore/articleshow/135094055.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 16:01:44 +0530"
+        "pubDate": "Wed, 21 Oct 2026 19:27:18 +0530"
       },
       {
-        "title": "Eternal Q2 Results: Profit soars 92% YoY to Rs 125 crore; revenue zooms 78%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/eternal-q2-results-profit-soars-92-yoy-to-rs-125-crore-revenue-surges-78/articleshow/135088651.cms",
+        "title": "US stocks today: US stocks rise as SpaceX, Super Micro revive appetite for AI stocks",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-higher-as-spacex-super-micro-results-lift-ai-stocks/articleshow/135093777.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 15:36:28 +0530"
+        "pubDate": "Wed, 21 Oct 2026 19:07:35 +0530"
       },
       {
-        "title": "Global Market: European shares struggle for direction as France unrest weighs on sentiment",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-struggle-for-direction-as-france-unrest-weighs-on-sentiment/articleshow/135088232.cms",
+        "title": "Can Jio IPO unlock hidden value in Reliance Industries shares?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-jio-ipo-unlock-hidden-value-in-reliance-industries-shares/videoshow/135093782.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 15:11:14 +0530"
+        "pubDate": "Wed, 21 Oct 2026 19:05:50 +0530"
       }
     ],
     "acct": [
@@ -155,6 +155,12 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlIzUGljQXNlVm4xZ2R0ZFhITUtjQmNINmswSXA0R3lSeWtJZHI0MmRvR2l0ZDRJRUpiWFdSX1c0aFMyaVl2bWhNbHJxWGJTTUM5TTd5ZWxMX0lNMEp1Q3YzS2JZSDFnbWRkX3pvbnRFZTd0ZUx3ZTVmMjhhaHBqU1BGYjdMYXdBM2ZBWS1FVUkzVFF1aFEw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "CA Foundation January 2027: Mock Tests Begin December 1, Check Full Schedule - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcmJpZjkyWU04ck1zWlprSnRHVWJ0bF9jYnlCcmRuelBOOFplQzFtNVZZclBabWN6RktMMFY2OEdlWDFxUEtSZnBpTmppdmxYVzZVMUt1cDJpM0ZuOWhzYWhZYjB5MzVreHU5dXZMVzlvZUYxRXlQa1RaeUlQV3NkN2g2aWpxY0I3QlpnZkhNLWRXREt6QXhWR1AyYjN4eW02X3VQeFRUUDliaGRWeUNHNkhuQl8?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 21 Oct 2026 14:40:40 GMT"
       },
       {
         "title": "CA Foundation and Inter result dates 2026: Latest update on September exam results - The Times of India",
@@ -169,22 +175,10 @@
         "pubDate": "Wed, 21 Oct 2026 05:27:00 GMT"
       },
       {
-        "title": "CA Inter September Result Tomorrow; When Will Foundation Results Be Out? - NDTV",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLXp0UnVlaG1VQ0pjdlJpRDhPeDhNaTJzdEE2LXRLRkRfOXNSMmJHX0RzM2F3QWhKaml0T1pTeklKOVdQbGRFYUJGaE1PblVUSlRMSnRyak1NU3lNZTBMN0RjSWhOemppWlNtRWlqYVpnNXRsTG5QUkg4dUl2RjZZS3lSRVdGZmowT3BRRlE4LTB5VDVYVzh3c1AxdnRJeHM0Zm5ZRV9zdUI3dDF4ZHM40gG3AUFVX3lxTE1jazBYeWF1VGZKeVhOeDRCX045VnZTWnZTYUc0S2hib01RbHZoa2tFUkdSbU9kR0M1TXduM3lWeDNmOGhYZlREcTZBUVRhX01wN1pLUi1udEpDczJXLUV3NC15RFM4Q0s0ekpaWXpiSXY3RVRGaktETmlzMk9CNUNsOHBReDA1N2xtTnloMnRzYy1ONDVITk9kM29LTWw5TkpYWV9mWF80eWtyV2U1VEpST29kbFN2VQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 21 Oct 2026 09:31:24 GMT"
-      },
-      {
         "title": "JM: Stronger Q3 operations and cash flow, but 9M IFRS profit and Nordic markets remain mixed - TradingView",
         "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVUlsWGdkY2NWVUgwWFJYcDVpWFdVVzJsNlJrWXVkUWd6Tmx4Wl91cVVObmhuNFBLdm52SnFBNzFKd3dVRmUteVpCTTBKUUU5SVRvNnpyUDZVY2VOTjN0RS00MHdDbkpMd1N6WmEzbFpQQVZtQTJJSm1QQWlJWlYtazRVY1VMTmNRZVRDTV9DeUFNZ1hkMFVjXzZ0RmxFLUtlTERneHJqbU9sQkVrQV80bzdFN3lMbnA0SHltbXFLbjJ5MFk0dW53XzUweTk3enBsUTdJOXRJTGJfYlJIUzlyZ3RpVDh0MWhHbWFVTVFmY052QXRlU2NOcFpSVXNhc3RwaEFv?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 21 Oct 2026 06:05:00 GMT"
-      },
-      {
-        "title": "CA Inter September result 2026 to be announced tomorrow; check latest update on Foundation result - India Today",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWEhaTzBHY2ItODIyc3JIN09HVGdlQlNUbjdhXzlWZGtMSEY1bHU4RXdxdjRIWE82bEtUd1BnbmozNkZ3SVNndGdWMVhlVFQxRzM3b2pJSTRHRmNIbkJ4RnA4VkFGVWdDVEs0WXN1aWJ0MFVlOTN4cnMyeENIVXhNbjFIVmpnVnZHMVQ0VXhkMU90aFhzTFZ2RkxqOEVTUjAtT0F2TG1femVMS0xNRWQ2MTZRQkxmNWgyQUI3U1E2MUpTMS1GbG5hWHMzdkZ5NF9RRVlrOU5sTUEyek05eTVyU0I5aw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 21 Oct 2026 07:46:12 GMT"
       },
       {
         "title": "Getting ready for IFRS 18 - kpmg.com",
@@ -199,10 +193,16 @@
         "pubDate": "Mon, 19 Oct 2026 09:47:01 GMT"
       },
       {
-        "title": "ICAI CA Foundation Result 2026 Likely By October 26; Inter Result Expected Tomorrow - News18",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTjRsQWVqUTE3VTlfRlNmYXJMejBaZ2d6cDJ4N0NMVVRoSkhua0RSNDZod285VGpfMGhPWnhtV2Zpd3FPem4tQU9IWDNFeEZ5Z09jUURjeV91Zmg3T08tdjF3YjE5Q3dPX0ctZVlibEtLc0VpT3RDOHlMQmg4SEk3REgwYVlIMzdCa0RvUXlIMVRMWmxxSGNRZ2plVjNmZW1teUVEa2p4UnlWOTloeEQ2S3RZcDdvaklMSHpjbzVKNFhJeWZrYVI3VXk0cW5raWF5ekHSAdcBQVVfeXFMTU5BTXV1QnFQam9RVEpUdDVmdk9KNE5RYnlPZXZzZFlKRVlGUlc5dHFRa0hOTjc2SDVEUkgyUzhHY0JKUFVlY3BzdHJUT3lUa3dNZlFUNHBpXzBreVlfSG5TYXcyX2NqaVNsZmd2TnN6ejVXTHh4WlBXaVZpSjZISlJQZjRNZ0NFTXFmZ1pzM1E5akZVVW9FdVpXTFpWTmFqdklPVk5yUlRFQkVYdDU1N1UwLUlGdVBQYmpscmoteHpQMVB6dHFUSG9zOHRaWFo5V2hGWndYck0?oc=5",
+        "title": "CA Inter September result 2026 to be announced tomorrow; check latest update on Foundation result - India Today",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWEhaTzBHY2ItODIyc3JIN09HVGdlQlNUbjdhXzlWZGtMSEY1bHU4RXdxdjRIWE82bEtUd1BnbmozNkZ3SVNndGdWMVhlVFQxRzM3b2pJSTRHRmNIbkJ4RnA4VkFGVWdDVEs0WXN1aWJ0MFVlOTN4cnMyeENIVXhNbjFIVmpnVnZHMVQ0VXhkMU90aFhzTFZ2RkxqOEVTUjAtT0F2TG1femVMS0xNRWQ2MTZRQkxmNWgyQUI3U1E2MUpTMS1GbG5hWHMzdkZ5NF9RRVlrOU5sTUEyek05eTVyU0I5aw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 21 Oct 2026 10:19:02 GMT"
+        "pubDate": "Wed, 21 Oct 2026 07:46:12 GMT"
+      },
+      {
+        "title": "ICAI announces CA Foundation January 2027 mock test series 1,2 dates - Careers360",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWkFCOElEcm1kVHBweVYtMkp0c2U3RVBKVi0zVHhXeW16UEU2V29YdTNZZFVUZHgyNzJNcEc4MThpMkROT09sakZ0VGF6dk5vWElodHhyWEh3YlZMRmhaSWk3MS1aakl5Zllydy1vOWJMb3JSS0xIMERxRHRicEZsanphU3FsTTdfamtLN1NnU2VzUzlTS1BLWE1XVFdhXzYxay1JZTF6Xzc1SWpiZS1ZcHNUZUFQVGhW0gG-AUFVX3lxTFBzc1lPVjl0THlTekppTlEyc1VXYWdWbnlnakN5MGJWalNka2RSOV9KMlhwZVdFLVlFMGFlLTJSWjdWa3ZWZXBfUGNLMXJ4YUM3OGNxZGEybkZkc19qT21GWWJ0MVZnZElteDNSN1RtNkZic0NQQ2xjQ2RaME5IeV9WMXVPcUNpS29kVDZFN3ExRE9OSTRETmNCMWpuZDZaWjk3Mjg0X25LVG96VmFweXV4bUlsMURPbExDV3NiQ3c?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 21 Oct 2026 16:17:39 GMT"
       },
       {
         "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - Facebook",
