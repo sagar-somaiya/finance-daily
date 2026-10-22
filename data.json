@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T08:07:17.245011+00:00",
+  "generatedAt": "2026-10-22T13:57:09.932011+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 82121,
-      "chg": -1.13
+      "price": 81413,
+      "chg": -2.78
     },
     "eth": {
-      "price": 2422.52,
-      "chg": -1.18
+      "price": 2401.0,
+      "chg": -2.79
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
-        "title": "Ashish Kacholia portfolio: Ace investor adds 3 new stocks, trims stake in 13 companies in Q2",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-portfolio-ace-investor-adds-3-new-stocks-trims-stake-in-13-companies-in-q2/articleshow/135111945.cms",
+        "title": "US stocks today: US stocks open lower as AI jitters return, oil rises",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-lower-as-ai-jitters-return-oil-rises/articleshow/135120582.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 22 Oct 2026 13:19:31 +0530"
+        "pubDate": "Thu, 22 Oct 2026 19:09:36 +0530"
       },
       {
-        "title": "Global Market: China's yuan hits more than four-year high against dollar",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-hits-more-than-four-year-high-against-dollar/articleshow/135111723.cms",
+        "title": "Record galore! Jio IPO claims crown for highest QIB demand among India’s 5 largest issues, edges past NSE",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/record-galore-jio-ipo-claims-crown-for-highest-qib-demand-among-indias-5-largest-issues-edges-past-nse/articleshow/135120259.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 22 Oct 2026 13:15:40 +0530"
+        "pubDate": "Thu, 22 Oct 2026 18:51:18 +0530"
       },
       {
-        "title": "Adani Green Energy shares fall 4% after Q2 results. What are Jefferies, JM Financial saying?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-green-energy-shares-fall-4-after-q2-results-what-are-jefferies-jm-financial-saying/articleshow/135110271.cms",
+        "title": "US stocks 2026: Moderna, SanDisk lead top 10 gainers delivering up to 734% returns",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-2026-moderna-sandisk-lead-top-10-gainers-delivering-up-to-734-returns/articleshow/135119576.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 22 Oct 2026 12:18:52 +0530"
+        "pubDate": "Thu, 22 Oct 2026 18:16:47 +0530"
       },
       {
-        "title": "Lam Research Stock: Why did LRCX shares fall despite record profits?",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/lam-research-stock-why-did-lrcx-shares-fall-despite-record-profits/slideshow/135110117.cms",
+        "title": "SoFi targets idle crypto cash with interest-bearing tokenized deposit",
+        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/sofi-targets-idle-crypto-cash-with-interest-bearing-tokenized-deposit/articleshow/135119511.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 22 Oct 2026 12:00:44 +0530"
+        "pubDate": "Thu, 22 Oct 2026 18:15:03 +0530"
       },
       {
-        "title": "IGI shares hit 10% upper circuit as Q2 profit jumps 43%, revenue rises 31% YoY",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/igi-shares-hit-10-upper-circuit-as-q2-profit-jumps-43-revenue-rises-31-yoy/articleshow/135109799.cms",
+        "title": "Colgate-Palmolive India Q2 Results: Profit rises 4.3% to Rs 341.6 crore",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/colgate-palmolive-india-q2-results-profit-rises-4-3-to-rs-341-6-crore/articleshow/135119461.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 22 Oct 2026 12:00:25 +0530"
+        "pubDate": "Thu, 22 Oct 2026 18:12:38 +0530"
       },
       {
-        "title": "Indian bonds steady after RBI minutes signal more rate hikes",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-steady-after-rbi-minutes-signal-more-rate-hikes/articleshow/135109590.cms",
+        "title": "Sebi allows margin relief against early pay-in of securities for subsequent trades",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-allows-margin-relief-against-early-pay-in-of-securities-for-subsequent-trades/articleshow/135119438.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 22 Oct 2026 11:47:30 +0530"
+        "pubDate": "Thu, 22 Oct 2026 18:11:10 +0530"
       },
       {
-        "title": "Global Market: Bank of Korea holds interest rates at 3% after back-to-back hikes",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-bank-of-korea-holds-interest-rates-at-3-after-back-to-back-hikes/articleshow/135109341.cms",
+        "title": "Meta falls as investors balance Muse growth with rising AI costs",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/meta-falls-as-investors-balance-muse-growth-with-rising-ai-costs/articleshow/135119388.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 22 Oct 2026 11:38:01 +0530"
+        "pubDate": "Thu, 22 Oct 2026 18:09:28 +0530"
       },
       {
-        "title": "Global Market: Nokia Q3 profit beats estimates on AI demand, maintains 2026 outlook",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-nokia-q3-profit-beats-estimates-on-ai-demand-maintains-2026-outlook/articleshow/135109366.cms",
+        "title": "Union Pacific's third-quarter profit rises on pricing strength",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/union-pacifics-third-quarter-profit-rises-on-pricing-strength/articleshow/135119313.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 22 Oct 2026 11:36:56 +0530"
+        "pubDate": "Thu, 22 Oct 2026 18:06:30 +0530"
       },
       {
-        "title": "Gold price falls Rs 2,000/10 gram; silver plunges Rs 6,000/kg as traders eye US Fed meet next week. Buy, sell or hold?",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-falls-rs-2000/10-gram-silver-plunges-rs-6000/kg-as-traders-eye-us-fed-meet-next-week-buy-sell-or-hold/articleshow/135109189.cms",
+        "title": "HPCL Q2 Results: Profit slips 6% YoY to Rs 3,625 crore, revenue jumps 26%",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hpcl-q2-results-profit-slips-6-yoy-to-rs-3625-crore-revenue-jumps-26/articleshow/135119002.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 22 Oct 2026 11:32:13 +0530"
+        "pubDate": "Thu, 22 Oct 2026 17:54:02 +0530"
       },
       {
-        "title": "Deepinder Goyal’s Dark.ai could be Eternal’s dark horse, but is it too early to bet?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/deepinder-goyals-dark-ai-could-be-eternals-dark-horse-but-is-it-too-early-to-bet/articleshow/135109095.cms",
+        "title": "Mahindra Lifespace Q2 profit down 66 pc to Rs 16 cr",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/mahindra-lifespace-q2-profit-down-66-pc-to-rs-16-cr/articleshow/135118930.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 22 Oct 2026 11:29:00 +0530"
+        "pubDate": "Thu, 22 Oct 2026 17:51:29 +0530"
       }
     ],
     "acct": [
@@ -169,6 +169,24 @@
         "pubDate": "Thu, 22 Oct 2026 06:54:15 GMT"
       },
       {
+        "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - Wolters Kluwer",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlIzUGljQXNlVm4xZ2R0ZFhITUtjQmNINmswSXA0R3lSeWtJZHI0MmRvR2l0ZDRJRUpiWFdSX1c0aFMyaVl2bWhNbHJxWGJTTUM5TTd5ZWxMX0lNMEp1Q3YzS2JZSDFnbWRkX3pvbnRFZTd0ZUx3ZTVmMjhhaHBqU1BGYjdMYXdBM2ZBWS1FVUkzVFF1aFEw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "ICAI CA Inter September 2026 Toppers: Neel Rajesh Shah, Chandak Sakshi share AIR 1 with 502 marks - Careers360",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlpZeU4yV1Q5bW1pa2lDbFdXUFZNZkZYRzF4WFU2VUtqdkdiZXdDQlBGcEI4eUxGVEd0YkZtcjc3V2xFOWNzdU45WkttZ0U4U1BIM215VUNGNkp0QUtZUnhqQjVWZW03Q3lKYzhMUktVTm9aWWtyaEY1N0E0LWhIVDRhSjg1QVhIbDRESFN5R2pyVWFiN29YLTJzLVh6aVhOVEdnVnNPcGxrT3RwMEs0bmFnck1ERDVVMGfSAb8BQVVfeXFMTjFLVmRXWEF4MXIwRU0xakVucHE0RTlpZWtJdGFxOVdrMXc4bUM0MW9yc3BIbWd6TFZNZTRhMW95RlF2WFRZQTN3NXowVnpDNGFMLWdUMU81elpjRlFDVHp2Nk9hSUFwczFzOUlKOXg0SkZUdUF4M3NBc2F0OGMwSU5vX1B4NmdPTXBmdm8tTW9wbG1XWUFwWDBGX0o1cWJPNDI5b3ZpbkZQVkZqRk5wcGhPZHE4aHl0YkJFZ0VOemc?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 22 Oct 2026 05:27:11 GMT"
+      },
+      {
+        "title": "ICAI CA Intermediate toppers list September 2026: Check result and next step details - Education Times",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVVlQckJmXzhMbDFBZFF4ejkzclJWWTFtNG0xN2lNZFQtRHlsaVA5T2Mxb180bmZibmhxYUJ3WUdDSFRuUVF5NlFEWEN2UUxZQVQwWlJDcTJoRThpaURLZ2YzbU0wQk1JdkxLYWxzblc0VURuSi1CRXZpM3hFY0FCd0tMZTlNYmpBaHZCbTFNcG1fa3lNLXJNb3hNbVJPNU94N0VobURaZktWWkl4eXl5Vk80YkpmX2RFbVN4WkNYZkZybkN3X1hzNHFBQ1ZYWjhiN0dKUjBGdXd2SjUybHc?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 22 Oct 2026 06:17:00 GMT"
+      },
+      {
         "title": "ICAI to announce CA Intermediate results today - Rediff",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNXNodkVlaHMtM0N0c2kzcTMwTTlPQ25fU09vMk1CTGNsWm1TdUlyanREbDlVOWZHQ3ppUUpxVVBZZ1YyWHNZR2J2TlZmejhRNTMza1lNMC1qQ0g0Y2FDV3E4U2pjTnktVzlSei00WGRxQk5MRlNwSENtOVBDejBNMnBYZHEtR19SWGJ1V00tOG9GN2szWWNEZ0ZHVGF4LW15NHBsdWFJdDVZNWs4clR3cDh3R05FdFlJYS1FUUNWeTdQNm03Wll0ZllR?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -181,34 +199,16 @@
         "pubDate": "Thu, 22 Oct 2026 03:22:43 GMT"
       },
       {
-        "title": "ICAI CA Inter September 2026 Results: Neel Rajesh Shah, Sakshi Chandak Share AIR 1: Pass percentage at 13.21% for both groups - EdexLive",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORVhDc1NpMjR4bjc0YmRQandPTlhTekF4RW9PVkFTLWw3RzBYYmotQzR0V3BWVjJuUzFuRnBSbGNaLVhtU2ItQy04Y010LUxxM3VCTmZ4em5hLWZ6d3JtU2lUMjJ5NlJTTVYtWHZ6YTdaVmN5U2hHeXV0Y0pLcDV1MkRkWFp0THhRSURV0gGYAUFVX3lxTE11RUFQYk54RE9uQWdwSTBYR0xOTDRDd3NaUG1xM194OVZpbDR4V19NLXpPTG1RZ3dDOFZqRXVkcFZTZDJhMkxjRXR1WGc1UzJsUVFlNUN1U20xUWtlZER5Qk02NlZJSEI0NDlXOW4tT1hVdlZlc3dQOHp3YlJ2YUJnSmFJYzFDVzdmR19jdGFySUZuQ0oyeEJT?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 22 Oct 2026 04:50:26 GMT"
-      },
-      {
         "title": "ICAI CA Inter September 2026 Result Today: Here's How To Check - NDTV",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlk1NGRJcEVjODdPeWJlcEpSb1ROX2p6OUJ4RGlWNjViZTJ0YTloZkRKdzVobmNJMFFvRVU0bGNGYTQzc0s5YzhDZHJzODRIVmlrRGxXcFhJNHZFb3U1aFpTWkpWUzBtZUtoUDlCTEs1cEpVcU5MRGFTbmVveW9JYTk5NTAyTzJ4VHdiQUZSWlpQZTRORDVHQjJHWHJFRTNudHc?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 22 Oct 2026 02:22:50 GMT"
       },
       {
-        "title": "ICAI CA Intermediate September 2026 result, merit list out; download scorecards at caresults.icai.org - Careers360",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOazlWM1g0dnpsaG53Q2xWRkRsT3JCY3ppbzMwTGxLTHZIS1RBbzdaWTVBTDlPX0VxczY3WnpUQ3FUQkh1WTJzZVI4T2prTWFIaW5CY2xhLUFyVlpzc0VtdVg3bFBVOWZaQkZDTGNuMGUyM2l4S0dTUTRlQnhCb3I2ZE5SVUNCcnh4aTJzamNwZGZZVFBkbTNkckpaTzh2R0xFd3JOU21JLUxSejjSAbABQVVfeXFMT2lJNFhTZnNpbFBDWFoxYmFPblh3QnhxWEhjbGUxWkpaeVJVR1p1OG9nbHVNTGV3RG8teTFuMDJFNDJHc1hHelNOclh3SFBzb1VVM3dOQ2NLNTZSbkxtMXJOaDNZUllxUG91TkZzeE1Sc21FenZ4QnRKTzY2SDc0cW9sU0x4YnZEVV93dVdLa1hacUxYaGFYRmVqTVFFQURScjEwc1dnX3B5dU5CX3hZMWM?oc=5",
+        "title": "ICAI CA Foundation January 2027 Mock Test Schedule Released; Check Series 1, 2 Dates - Telegraph India",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLWNSUUVCZ2hHVEdVVHB0c0FKaEgxWUJ6Ul9QT2N1dnh3SW5VOV83NmNuMGhzVV9qN0ZaMzZwUVRqeXNrQUQ2aUx0VHBKcl9vYlVjaUZ1T19qaUZmNU51Y3V2WEN4UFA3MF9oN0E0WThCaGlsRXZodTlfeFdvT1hzV1ZVMC1icEl6SVo1UlozYWZERlNnQ2lLY3JrUENsOHNYZDhPcjhiTTJnNnlwUXZJT054NmJwZnlKUEREaE96ajRRUHZ5MFFKRHVNRUpBSUxoYkxfLTZB0gHbAUFVX3lxTE9NV01iNHhTSEthODEycWh0dUc4aC1LZEFDX2Jsc1lQT3JsaTBqMXhFMGhNcTVTcEVRVTF2WWZiOHQ2eUZNMXEyQ1B5Y2NoWEZLTWZYSEpTLXFsejgwVGNzRVo3MGdQVGxKTXlmT28waVBRcTluM0tDZkV1WmtzXzdxSmtKQThZUGNLU2RwaGVpT2hTeWdCOG52LV9sbmMtS2JER1I5cDRNSXVhZ2hobUZxcGFtdGJ2NkNoY2RjZzNNQWdKUGpzaGxHczRaWkEtR1FXV2p2RFpDb3cyYw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 22 Oct 2026 04:43:06 GMT"
-      },
-      {
-        "title": "ICAI CA Intermediate toppers list September 2026: Check result and next step details - Education Times",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVVlQckJmXzhMbDFBZFF4ejkzclJWWTFtNG0xN2lNZFQtRHlsaVA5T2Mxb180bmZibmhxYUJ3WUdDSFRuUVF5NlFEWEN2UUxZQVQwWlJDcTJoRThpaURLZ2YzbU0wQk1JdkxLYWxzblc0VURuSi1CRXZpM3hFY0FCd0tMZTlNYmpBaHZCbTFNcG1fa3lNLXJNb3hNbVJPNU94N0VobURaZktWWkl4eXl5Vk80YkpmX2RFbVN4WkNYZkZybkN3X1hzNHFBQ1ZYWjhiN0dKUjBGdXd2SjUybHc?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 22 Oct 2026 06:17:00 GMT"
-      },
-      {
-        "title": "ICAI CA Inter September 2026 results out. Neel Rajesh Shah, Chandak Sakshi share AIR 1 - India Today",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeXc3YTJ3R2hZRWtsX19zVWRnODhoQ2JYU3dtMEM5NGJJSG1kVF9kelRvZmIyVGc3SUxERHl0WUl2RnlnbXJZMmNDalBVUE5VTXBLQnBGYTd6NWw0Q0JzWFdTWThMWUNlUmJ0ekdWSk5aQWljMUhaNkhJM1hBbkxuWWxfNFdDRjJjQ0YzanJnRm9lNGxRc19HbWFXWmgwdW5Rck9RMzB5bFVkTTItck8wRnByZlFsdlVsUzI0YUxkV3ZETWhwaHVpTDFn0gHPAUFVX3lxTE8tWEFRR29TMDNSWWlKellqaXVmNTR0TmZTemZ6WURFWTNwMUFWWS1oRF9KLTk0WHV3d0RlQ3dQT2YtWWd0R0lOdWNoZjUxRDBUYV91UFVOcEFLU2wxRTZUWDRtemMzc0tjOVlUY0JmVUdnQV9ocXZLdy15ZHFveUJtMmNnd1czb0ZITTBMakJGME4wV1NjVER6cXJKTEpxU2Y1eUw4VVB1SUdnQ0xzNjNtNGhONkpucDVaQ3NTNUhKa2lMQVhIN1o4YVR5c19vdw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 22 Oct 2026 05:52:37 GMT"
+        "pubDate": "Thu, 22 Oct 2026 10:24:15 GMT"
       }
     ]
   }
