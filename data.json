@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T23:48:37.425859+00:00",
+  "generatedAt": "2026-10-22T02:30:43.187371+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,84 +72,90 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 84209,
-      "chg": 1.5
+      "price": 82820,
+      "chg": 0.16
     },
     "eth": {
-      "price": 2473.92,
-      "chg": 1.05
+      "price": 2438.62,
+      "chg": -0.27
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 95.0,
-    "eurinr": 106.65,
-    "gbpinr": 126.94
+    "usdinr": 94.59,
+    "eurinr": 106.25,
+    "gbpinr": 126.69
   },
   "news": {
     "corp": [
       {
-        "title": "US stocks today: Nasdaq leads Wall Street higher as SpaceX, Super Micro lift AI sentiment",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-leads-wall-street-higher-as-spacex-super-micro-lift-ai-sentiment/articleshow/135100483.cms",
+        "title": "Negative Breakout: These 8 stocks cross below their 200 DMAs",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-8-stocks-cross-below-their-200-dmas/slideshow/135104327.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 22 Oct 2026 01:45:59 +0530"
+        "pubDate": "Thu, 22 Oct 2026 07:31:12 +0530"
       },
       {
-        "title": "Meta raises AI spending forecast to $145 billion, plans new share issue; Q3 revenue beats estimates",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/meta-raises-ai-spending-forecast-to-145-billion-plans-new-share-issue-q3-revenue-beats-estimates/articleshow/135100437.cms",
+        "title": "Gold eases as investors await Fed signals on rate path",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-eases-as-investors-await-fed-signals-on-rate-path/articleshow/135104186.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 22 Oct 2026 01:42:20 +0530"
+        "pubDate": "Thu, 22 Oct 2026 07:29:20 +0530"
       },
       {
-        "title": "BlackRock expands AI push with new robotics ETF as investor enthusiasm cools",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/blackrock-expands-ai-push-with-new-robotics-etf-as-investor-enthusiasm-cools/articleshow/135099678.cms",
+        "title": "Bitcoin rallies back as tech rebound sparks speculative appetite",
+        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-rallies-back-as-tech-rebound-sparks-speculative-appetite/articleshow/135104147.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 22 Oct 2026 00:56:44 +0530"
+        "pubDate": "Thu, 22 Oct 2026 07:27:38 +0530"
       },
       {
-        "title": "US Treasury yields slip as AI concerns boost safe haven demand ahead of 20 year auction",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-slip-as-ai-concern-boost-safe-haven-demand-ahead-of-20-year-auction/articleshow/135097932.cms",
+        "title": "Oil rises as US orders diplomats to leave Saudi Arabia amid escalating tensions",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-as-us-orders-diplomats-to-leave-saudi-arabia-amid-escalating-tensions/articleshow/135104162.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 23:19:52 +0530"
+        "pubDate": "Thu, 22 Oct 2026 07:26:06 +0530"
       },
       {
-        "title": "Persistent Systems launches Rs 4,265-cr QIP; floor price set at Rs 5,550/share",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-launches-rs-4265-cr-qip-floor-price-set-at-rs-5550/share/articleshow/135097602.cms",
+        "title": "Singapore-based Ascertis Credit secures $700 million for Fund IV",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/singapore-based-ascertis-credit-secures-700-million-for-fund-iv/articleshow/135103947.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 23:01:22 +0530"
+        "pubDate": "Thu, 22 Oct 2026 07:21:39 +0530"
       },
       {
-        "title": "Stocks, gold or crypto? The last 3 years’ returns have a surprising answer",
-        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/stocks-gold-or-crypto-the-last-3-years-returns-have-a-surprising-answer/articleshow/135096080.cms",
+        "title": "Aditya Birla AMC Q2 net profit dips 8.4% to Rs 221 crore",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/aditya-birla-amc-q2-net-profit-dips-8-4-to-rs-221-crore/articleshow/135103619.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 21:35:58 +0530"
+        "pubDate": "Thu, 22 Oct 2026 06:47:30 +0530"
       },
       {
-        "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/135096044.cms",
+        "title": "Why is the RBI pulling liquidity out of banks and injecting it back again?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-rbi-is-draining-excess-liquidity-but-also-injecting-funds/articleshow/135103570.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 21:27:41 +0530"
+        "pubDate": "Thu, 22 Oct 2026 06:36:29 +0530"
       },
       {
-        "title": "Market Trading Guide: Wipro among 5 stock recommendations for Thursday",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-wipro-among-5-stock-recommendations-for-thursday/slideshow/135095527.cms",
+        "title": "Global Market Today: Asian stocks mixed as oil rally, AI concerns weigh on sentiment",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-as-oil-rally-ai-concerns-weigh-on-sentiment/articleshow/135103506.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 20:39:13 +0530"
+        "pubDate": "Thu, 22 Oct 2026 06:27:04 +0530"
       },
       {
-        "title": "Netflix shares slide 4% as slowing sales growth raises fresh concerns",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/netflix-shares-slide-4-as-slowing-sales-growth-raises-fresh-concerns/articleshow/135094744.cms",
+        "title": "Jio IPO attracts Rs 70,000 crore in bids on day 1, outpaces LIC, NSE issues",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-bids-hit-70000-crore-on-day-1-outpaces-nse-lic-gic-issues/articleshow/135103495.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 20:10:40 +0530"
+        "pubDate": "Thu, 22 Oct 2026 06:26:00 +0530"
       },
       {
-        "title": "Mahindra Finance Q2 net profit surges 55% to Rs 882 crore on volumes, lower credit cost",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/mahindra-finance-q2-net-profit-surges-55-to-rs-882-crore-on-volumes-lower-credit-cost/articleshow/135094556.cms",
+        "title": "Market sell-off deepens as midcaps enter correction zone",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/midcaps-enter-correction-as-sell-off-deepens/articleshow/135103421.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 21 Oct 2026 19:58:03 +0530"
+        "pubDate": "Thu, 22 Oct 2026 06:03:42 +0530"
       }
     ],
     "acct": [
+      {
+        "title": "SAP Announces Q3 2026 Results - SAP News Center",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NV3E4YXYtbUhqSzhBRE5Xd1NLX0t5bHJGZ2I4NFl4N1Y2WVRXTHN5cDhLSnBoWkFnemI5TXdMRnlydElOU3lVaXVjZXhyT01HSUg3OUM0UlU4S2ZEb2FwcnpiczhwbFd4dzAw0gFzQVVfeXFMUGFyVUNrcW9nMV9xUVo4VFlUZ05kWlJHd0NtQWZtQzVjcUlDX01ZdElyYXgyVmd2TDR2YnNIQ1hSSmtObGliWDhUR1hqVkF4QnV1bElPemw0ck5Ha1AwcUgtaVVOWnBJV2xZamdIYnd5OXU2UQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 21 Oct 2026 20:11:39 GMT"
+      },
       {
         "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - Wolters Kluwer",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlIzUGljQXNlVm4xZ2R0ZFhITUtjQmNINmswSXA0R3lSeWtJZHI0MmRvR2l0ZDRJRUpiWFdSX1c0aFMyaVl2bWhNbHJxWGJTTUM5TTd5ZWxMX0lNMEp1Q3YzS2JZSDFnbWRkX3pvbnRFZTd0ZUx3ZTVmMjhhaHBqU1BGYjdMYXdBM2ZBWS1FVUkzVFF1aFEw?oc=5",
@@ -157,22 +163,22 @@
         "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
       },
       {
+        "title": "ICAI CA Inter Results 2026 for September exams Out today @ caresults.icai.org; direct link here - Moneycontrol.com",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaEJQeEZiaEEyRHVnZUhmSExuUU5SVWJrRkZaZ1VzUkhCc21Gdi1hT1N2UzZqVzJZal9BcFh0VEJ6RUV1TzRCTGlCdGhNMzJxNWJpYVBIeGk2T1hSX0owaFpBMjBORERCaDhaMzdTaG1ib2R4V1VsOGEtRmt2M09NRUFadTFqN2k5S3lfU3NqUXRNOHBpbGJmVXctbklZTGcyaHBNVFdhREY5Z2NSeHVKbnhhSXc2clJFdEpjZnY4dHY0ajZ3NHdsbExEY0huWDN4WTdZTXpnNmt1OER4VlRlRDdPckpJU05i0gHuAUFVX3lxTE9GRTVWd0NESjUwUGc0aDk3dDktS0dCSnlRbjd6ejF6VS1scEFVOURvUmZwZVoxTlNxVXUwM2o5UmlQamxxa2QxMm9MaFB4UWhKTERlcndkZVlIbTdxaUdLbDM0UndTXzBXdncyNTZCZ0lFY3pjNkFWQmt0NUE4TDhfNDBDanhwVW8yaUN5ZEtBWmhCcVp6T0NVMFJKQ3drc2VpckEwd2Rid0laOG8wSEsyTnIzNWRmSEh6aUFsN192ZlZiRFRuRTB3RU5vSGFKcTBSLUIzdFB5STlxUElxOUdRVDNYM0Y5SEhaVEZwd0E?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 22 Oct 2026 01:30:38 GMT"
+      },
+      {
+        "title": "ICAI CA Inter September 2026 Result Today: Here's How To Check, Live Updates, Direct Link To Download - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlk1NGRJcEVjODdPeWJlcEpSb1ROX2p6OUJ4RGlWNjViZTJ0YTloZkRKdzVobmNJMFFvRVU0bGNGYTQzc0s5YzhDZHJzODRIVmlrRGxXcFhJNHZFb3U1aFpTWkpWUzBtZUtoUDlCTEs1cEpVcU5MRGFTbmVveW9JYTk5NTAyTzJ4VHdiQUZSWlpQZTRORDVHQjJHWHJFRTNudHc?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 22 Oct 2026 02:22:50 GMT"
+      },
+      {
         "title": "SAP SE (SAP) Reports Q3: >€10B Revenue, ~€3B Non-IFRS Op Profit; Updates 2026 Outlook - TradingView",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZEQybFNfN1hFSjFLZTd3SzZaYW52QUZDQ1JucXU4azB4cENCZEduYlRDaUExZnROYTdNR1VOc3daWDN2d25DblFZTnFVSnV6OWxaWkQ5UVBxejhwUlR4M3NFWjVDb0E5UWJhT2dUZzNyMEVJV1pkSFFFU2tlSDViSk8wZzNjX3ZMZzVlWTVFSGlBaXRTUm5YckFTZTRuWDFmM2xXSVlldGhjTkFYV3owT0U0ckJSMm1peGlIYVR2REN5LVdnOS1MV283T21pYW5YMU04Ng?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 21 Oct 2026 20:05:00 GMT"
-      },
-      {
-        "title": "CA Foundation January 2027: Mock Tests Begin December 1, Check Full Schedule - NDTV",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcmJpZjkyWU04ck1zWlprSnRHVWJ0bF9jYnlCcmRuelBOOFplQzFtNVZZclBabWN6RktMMFY2OEdlWDFxUEtSZnBpTmppdmxYVzZVMUt1cDJpM0ZuOWhzYWhZYjB5MzVreHU5dXZMVzlvZUYxRXlQa1RaeUlQV3NkN2g2aWpxY0I3QlpnZkhNLWRXREt6QXhWR1AyYjN4eW02X3VQeFRUUDliaGRWeUNHNkhuQl8?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 21 Oct 2026 14:40:40 GMT"
-      },
-      {
-        "title": "CA Foundation and Inter result dates 2026: Latest update on September exam results - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd2NpOXhQc1l4RjRqbUw2LUM3SmdMSXMtejFQeXRoZlJUTTY3Zm9CZ1VNMTZrckhBMGtPam5TSHBCdmpiUWRxeEhhZFhMYjJhMXBGM2IwR0Nha3JRbTI0TENlZzlRZG1MMzBCYVRmQ2x1d2RnS3BmaVMySkVaOFJ4MU0zR25oZ3ZvUVhPSllJVEtPb3NWSmQyTl84aEl2LTd5QmhRUmFwUTl1TlpiSmN0c3lSWm9tRDlEU1pSODVRUFlNWGlCOFBKSmpCMUZHa2R4Z3RwU3ZHMEVuN19kMktKcWk3Mzkya0hXR1hjYkhjWdIB9AFBVV95cUxQZU14bmwxejVNaXBFaE5OYnpmWTJaWjBialFqMjBfQVF1RzJmX3I0ODRhLVo4NHVxTHkxOHBlUnBSaWxnQ1FjS0llY1FuVWNqWmNwaC1VLUhySk83dnlCX2lRM0tXUTRxUDBJek5yTFcySktCTFo1RDBOZFdsdEg1SE1jdW9CM1o2SnBHQVl1aGM1UEZtOU5ZOXpPcVBmMXNzMVJsNmpsRjlkYkI5SGd1bFRJMm1rdDBOZGlKNUVrM0Vsd1A4T0hrMEZ5X0llNll3aUg0M19wd1M0eTR5ZG1yVXhrUUsxaXlSOWd3N21mLTktY2dO?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 21 Oct 2026 02:48:00 GMT"
       },
       {
         "title": "Getting ready for IFRS 18 - kpmg.com",
@@ -193,22 +199,16 @@
         "pubDate": "Mon, 19 Oct 2026 09:47:01 GMT"
       },
       {
-        "title": "CA Inter September result 2026 to be announced tomorrow; check latest update on Foundation result - India Today",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWEhaTzBHY2ItODIyc3JIN09HVGdlQlNUbjdhXzlWZGtMSEY1bHU4RXdxdjRIWE82bEtUd1BnbmozNkZ3SVNndGdWMVhlVFQxRzM3b2pJSTRHRmNIbkJ4RnA4VkFGVWdDVEs0WXN1aWJ0MFVlOTN4cnMyeENIVXhNbjFIVmpnVnZHMVQ0VXhkMU90aFhzTFZ2RkxqOEVTUjAtT0F2TG1femVMS0xNRWQ2MTZRQkxmNWgyQUI3U1E2MUpTMS1GbG5hWHMzdkZ5NF9RRVlrOU5sTUEyek05eTVyU0I5aw?oc=5",
+        "title": "ICAI announces CA Foundation January 2027 mock test series 1,2 dates - Careers360",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWkFCOElEcm1kVHBweVYtMkp0c2U3RVBKVi0zVHhXeW16UEU2V29YdTNZZFVUZHgyNzJNcEc4MThpMkROT09sakZ0VGF6dk5vWElodHhyWEh3YlZMRmhaSWk3MS1aakl5Zllydy1vOWJMb3JSS0xIMERxRHRicEZsanphU3FsTTdfamtLN1NnU2VzUzlTS1BLWE1XVFdhXzYxay1JZTF6Xzc1SWpiZS1ZcHNUZUFQVGhW0gG-AUFVX3lxTFBzc1lPVjl0THlTekppTlEyc1VXYWdWbnlnakN5MGJWalNka2RSOV9KMlhwZVdFLVlFMGFlLTJSWjdWa3ZWZXBfUGNLMXJ4YUM3OGNxZGEybkZkc19qT21GWWJ0MVZnZElteDNSN1RtNkZic0NQQ2xjQ2RaME5IeV9WMXVPcUNpS29kVDZFN3ExRE9OSTRETmNCMWpuZDZaWjk3Mjg0X25LVG96VmFweXV4bUlsMURPbExDV3NiQ3c?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 21 Oct 2026 07:46:12 GMT"
+        "pubDate": "Wed, 21 Oct 2026 16:17:39 GMT"
       },
       {
-        "title": "Last Call for Nominations! ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Recognising the vision, impact and excellence of Chartered Accountants. Last date to nominate: 15th October Don’t miss the chance. - Facebook",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUER6ajFzREstYnhYMGlzYnJ4YmVrQlNBVWNGLVd1eWZ4VW9wTnV6RWdYWjhkVVB6ZGV1WGVBU0dfVThxQ3UtT0lDam5Ia0hROWliTFJ5NWdIdmpuNEgyNThRQjBwS2QzbmlIMG9YcDBMam5UVHlMcUFNZWY0Mmx0R3dKb3hXV21nRkUxaThxOGIxWDJ6ekh4LXBFMFpZLTlVaE5LdjRDOEpNWkRMWjAzU2JwdjlxdnhQY2NfVmVvYnFtZ0NST0ZCU3I4T3FEeUtYaGlnZFR4ZllXRm01emlvTUxR?oc=5",
+        "title": "CA Foundation January 2027: Mock Tests Begin December 1, Check Full Schedule - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcmJpZjkyWU04ck1zWlprSnRHVWJ0bF9jYnlCcmRuelBOOFplQzFtNVZZclBabWN6RktMMFY2OEdlWDFxUEtSZnBpTmppdmxYVzZVMUt1cDJpM0ZuOWhzYWhZYjB5MzVreHU5dXZMVzlvZUYxRXlQa1RaeUlQV3NkN2g2aWpxY0I3QlpnZkhNLWRXREt6QXhWR1AyYjN4eW02X3VQeFRUUDliaGRWeUNHNkhuQl8?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 13 Oct 2026 13:12:10 GMT"
-      },
-      {
-        "title": "Open Call: Essay Writing Competition on ICAI (India) - fundsforNGOs - Grants and Resources for Sustainability",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeGU4NFVlUDlLOWQweHpudGNMYXBPSnBKbnd3UzNPbzR5bC1PVzR1c2pCd0dxNS13THcwTEFuRGdYcUl2NkVyb28xVFBNQ3FBb1lBeVRsZURhUlFEdTVjdFM2V3pTOHlVTThwLTFzMzdNMVFMZ1FUMmRlUENyWjRINmRvQ3NjcHNzcV80M3JOeGZoVmNfZGk00gGcAUFVX3lxTE1kWmlOOUl4U1pTU1JwbUI1cmFyNVhqc090dVFrai1BT1dKeGhuMjV2YTVqcVdnQVNLc1E2YmdHZms1bGdQTGNsOFJjNmNXRDNyMEdUUERNa1lhUnMydG9iY0RxOVRsempDUGVHTG13QnUwZzV4dHZydnp6RS1iTXVjdmowTG80MmZZVWVqQlh5NTJ5UHlsX1VCZ3ZONA?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 30 Sep 2026 07:00:00 GMT"
+        "pubDate": "Wed, 21 Oct 2026 14:40:40 GMT"
       }
     ]
   }
