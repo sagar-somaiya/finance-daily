@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T19:22:49.162091+00:00",
+  "generatedAt": "2026-10-23T22:26:12.639557+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 81215,
-      "chg": -0.18
+      "price": 81254,
+      "chg": -0.01
     },
     "eth": {
-      "price": 2392.42,
-      "chg": 0.29
+      "price": 2393.27,
+      "chg": 0.45
     }
   },
   "fx": {
@@ -88,6 +88,30 @@
   },
   "news": {
     "corp": [
+      {
+        "title": "iPhone Duo internal display break: Are iPhone Duo displays too fragile? Users report alarming cracks near hinge",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/iphone-duo-internal-display-break-are-iphone-duo-displays-too-fragile-users-report-alarming-cracks-near-hinge/articleshow/135155585.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 24 Oct 2026 03:13:04 +0530"
+      },
+      {
+        "title": "US Markets Today: Dow ends 600 pts lower as AI doubts persist ahead of Fed meet",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-dow-ends-600-pts-lower-as-ai-doubts-persist-ahead-of-fed-meet/articleshow/135155408.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 24 Oct 2026 01:53:03 +0530"
+      },
+      {
+        "title": "Tata Motors CV posts Rs 2,138 crore Q2 profit",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-posts-rs-2138-crore-q2-profit/articleshow/135154453.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 24 Oct 2026 00:38:33 +0530"
+      },
+      {
+        "title": "US data centre spending seen more than doubling to $2.1 trillion by 2028, estimates BoFA",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/data-centre-spending-seen-more-than-doubling-to-2-1-trillion-by-2028/articleshow/135153616.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 24 Oct 2026 00:00:36 +0530"
+      },
       {
         "title": "US Treasury yields rise but 10-year stays below 5% as AI jitters persist",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-rise-but-10-year-stays-below-5-as-ai-jitters-persist/articleshow/135151795.cms",
@@ -123,30 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jindal-steel-q2-profit-rises-21-as-revenue-hits-record-rs-19448-crore/articleshow/135149749.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Fri, 23 Oct 2026 21:03:11 +0530"
-      },
-      {
-        "title": "BPCL Q2 Results: Net profit declines 21% YoY to Rs 4,863 crore, revenue grows 29%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bpcl-q2-results-net-profit-declines-21-yoy-to-rs-4863-crore-revenue-grows-29/articleshow/135149653.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 23 Oct 2026 20:57:55 +0530"
-      },
-      {
-        "title": "RBI governor reiterates listing requirement for top NBFCs as focus intensifies on Tata Sons",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-governor-reiterates-listing-requirement-for-top-nbfcs-as-focus-intensifies-on-tata-sons/articleshow/135149631.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 23 Oct 2026 20:55:41 +0530"
-      },
-      {
-        "title": "Jio IPO breaks 12 records: Rs 4.5 lakh crore bids, highest applications and more",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-breaks-12-records-rs-4-5-lakh-crore-bids-highest-applications-and-more/articleshow/135149311.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 23 Oct 2026 20:34:30 +0530"
-      },
-      {
-        "title": "Aditya Birla Real Estate eyes Rs 1,650 cr revenue from new project in Pune",
-        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/aditya-birla-real-estate-eyes-rs-1650-cr-revenue-from-new-project-in-pune/articleshow/135148283.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 23 Oct 2026 19:40:45 +0530"
       }
     ],
     "acct": [
@@ -181,16 +181,16 @@
         "pubDate": "Wed, 21 Oct 2026 20:11:39 GMT"
       },
       {
-        "title": "IFRS 9 | 2Q26 results update: keep calm and carry on - Deloitte",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb2dLby1sUC1SWTdSb3NEVmk3Vm1kdlBaYjk4WUlxbFhkMVRFR0kyQ2VWM2J3bHZLc0dYZFJPQUFKQ0t4U0pRb0NEWjNPVGZnbUVKRHFyZmRkX1h1dU9GZ0hBTmd0QUdUeVRheGFqRm93VHZyRTFzYXJrMElESmYwVDNVMXEzZjdaT1lNQ1lfSFAzTlk?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 23 Oct 2026 06:50:23 GMT"
-      },
-      {
         "title": "ICAI CA Inter Results 2026 for September exams Out today @ caresults.icai.org; direct link here - Moneycontrol.com",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaEJQeEZiaEEyRHVnZUhmSExuUU5SVWJrRkZaZ1VzUkhCc21Gdi1hT1N2UzZqVzJZal9BcFh0VEJ6RUV1TzRCTGlCdGhNMzJxNWJpYVBIeGk2T1hSX0owaFpBMjBORERCaDhaMzdTaG1ib2R4V1VsOGEtRmt2M09NRUFadTFqN2k5S3lfU3NqUXRNOHBpbGJmVXctbklZTGcyaHBNVFdhREY5Z2NSeHVKbnhhSXc2clJFdEpjZnY4dHY0ajZ3NHdsbExEY0huWDN4WTdZTXpnNmt1OER4VlRlRDdPckpJU05i0gHuAUFVX3lxTE9GRTVWd0NESjUwUGc0aDk3dDktS0dCSnlRbjd6ejF6VS1scEFVOURvUmZwZVoxTlNxVXUwM2o5UmlQamxxa2QxMm9MaFB4UWhKTERlcndkZVlIbTdxaUdLbDM0UndTXzBXdncyNTZCZ0lFY3pjNkFWQmt0NUE4TDhfNDBDanhwVW8yaUN5ZEtBWmhCcVp6T0NVMFJKQ3drc2VpckEwd2Rid0laOG8wSEsyTnIzNWRmSEh6aUFsN192ZlZiRFRuRTB3RU5vSGFKcTBSLUIzdFB5STlxUElxOUdRVDNYM0Y5SEhaVEZwd0E?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 22 Oct 2026 01:30:38 GMT"
+      },
+      {
+        "title": "IFRS 9 | 2Q26 results update: keep calm and carry on - Deloitte",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb2dLby1sUC1SWTdSb3NEVmk3Vm1kdlBaYjk4WUlxbFhkMVRFR0kyQ2VWM2J3bHZLc0dYZFJPQUFKQ0t4U0pRb0NEWjNPVGZnbUVKRHFyZmRkX1h1dU9GZ0hBTmd0QUdUeVRheGFqRm93VHZyRTFzYXJrMElESmYwVDNVMXEzZjdaT1lNQ1lfSFAzTlk?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 23 Oct 2026 06:50:23 GMT"
       },
       {
         "title": "CA Inter Result Sep 2026 (Out) LIVE: ICAI CA September exam results link at caresults.icai.org; toppers - Careers360",
@@ -199,16 +199,16 @@
         "pubDate": "Wed, 21 Oct 2026 10:01:49 GMT"
       },
       {
-        "title": "CA Foundation September 2026 result expected soon; details here - Education Times",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM28taTF5UEtJTHhNdjBQZ1oxWk15NDJCV2NwNmt5YUdORUFoLUVOSWppVHMwVlhNRUloNzFVX0RQT0ZkU0JqU3c4VkZLMUNEMzlRSTM1ZFZ1SHVNV1hmTVlERlMxWnMxNWhkaE1lSlZ2TDBJR3YtR3pEZHJNTkVvY2tRNHlDZ0k4TjdsRFNOcmhuWnZsa3UyU2lLZXJVWVhra3h2UHZpb2YzZ0pvSVdzVkI1MjljRkJnYk1nbE5lNnpaUQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 23 Oct 2026 07:05:00 GMT"
-      },
-      {
         "title": "ICAI CA Inter September 2026 Toppers List Out; Neel Rajesh Shah, Chandak Sakshi Share AIR 1 - Telegraph India",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcUpPQ1NoSzdVRnBPZ2VxUjZDcm12RFB3cXJrS2lhaEtramR3WldoZzdHS0M5NFUzZi1IbFNUMWVSV0F5QkkzTWRTMjM2dXdXek1LZmlYbWFaOE9fTFpybnY0VFNKS3JPN0VQVmFtbElzeVdlckg1RTg5MFoxcF9CdUVoT0kwT1IwQVBBZWw3LWJwTFJLbFcybnpCR3JCZV9WdGlleXBRazRFYjNFR1pzSDFhaVJVY2JNTEdsS0xTNVo3TVB6elhsN0NxNG5PbTRzc2NZSi1rcTlxZWtuMUFB0gHkAUFVX3lxTFBZdHVyTUlNcEZkODc5MWF1M01qTzJPSzFZNmRQYzB1bmExdENZcE5ONjZQaUx6MmFxN09MVU82LThJSXdKT1d2VzNqcmNwVDB2OURpRU9IZ1FYVXJsaGgzbEEzd1Z4NldXb1RTWXN5ZGFSQ0FWZUduc1lnTFpJZF9oa3VwNklrVjlhdUpjUFoxYWl0VUs1ZlhsYndzY3R3QndZcEkwSy1fMHIwdEJsekRSeWVmMTZfTU52d3ZDSUpRcWFJV2lVUWI1UEVNNURXODNwbkxqbDB6WjNzMS0xTjdZUFpiVw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 22 Oct 2026 06:54:15 GMT"
+      },
+      {
+        "title": "CA Foundation September 2026 result expected soon; details here - Education Times",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM28taTF5UEtJTHhNdjBQZ1oxWk15NDJCV2NwNmt5YUdORUFoLUVOSWppVHMwVlhNRUloNzFVX0RQT0ZkU0JqU3c4VkZLMUNEMzlRSTM1ZFZ1SHVNV1hmTVlERlMxWnMxNWhkaE1lSlZ2TDBJR3YtR3pEZHJNTkVvY2tRNHlDZ0k4TjdsRFNOcmhuWnZsa3UyU2lLZXJVWVhra3h2UHZpb2YzZ0pvSVdzVkI1MjljRkJnYk1nbE5lNnpaUQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 23 Oct 2026 07:05:00 GMT"
       }
     ]
   }
