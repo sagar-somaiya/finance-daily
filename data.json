@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T05:06:45.385841+00:00",
+  "generatedAt": "2026-10-23T10:17:42.623482+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 81586,
-      "chg": -1.51
+      "price": 81719,
+      "chg": -0.33
     },
     "eth": {
-      "price": 2394.3,
-      "chg": -2.01
+      "price": 2400.2,
+      "chg": -0.31
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
-        "title": "Sensex drops over 400 points, Nifty below 22,500 while small, midcap indices plunge up to 3%. What lies ahead for Dalal Street?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-over-400-points-nifty-below-22500-while-small-midcap-indices-plunge-up-to-3-what-lies-ahead-for-dalal-street/articleshow/135134693.cms",
+        "title": "Global Market: Eurozone bond markets stabilise after volatile week",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-markets-stabilise-after-volatile-week/articleshow/135142036.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 23 Oct 2026 10:24:49 +0530"
+        "pubDate": "Fri, 23 Oct 2026 15:19:47 +0530"
       },
       {
-        "title": "ETMarkets Smart Talk: Smallcap investors should consider a five-year SIP horizon amid volatility: Sorbh Gupta",
-        "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-smallcap-investors-should-consider-a-five-year-sip-horizon-amid-volatility-sorbh-gupta/articleshow/135134298.cms",
+        "title": "JSW Steel Q2 Results: Net profit rockets 225% YoY to Rs 5,279 crore; revenue rises 21%",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steel-q2-results-net-profit-rockets-225-yoy-to-rs-5279-crore-revenue-rises-21/articleshow/135141641.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 23 Oct 2026 10:09:06 +0530"
+        "pubDate": "Fri, 23 Oct 2026 14:59:26 +0530"
       },
       {
-        "title": "Jio IPO Day 3: GMP at 22%, issue subscribed over 5X; check brokerage views and key details",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-day-3-gmp-at-22-issue-subscribed-over-5x-check-brokerage-views-and-key-details/articleshow/135134397.cms",
+        "title": "Adani Power Q2 Results: Profit zooms 134% YoY to Rs 6,919 crore; revenue jumps 45%",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-power-q2-results-cons-profit-zooms-134-yoy-to-rs-6919-crore-revenue-jumps-45/articleshow/135141294.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 23 Oct 2026 10:06:55 +0530"
+        "pubDate": "Fri, 23 Oct 2026 14:45:36 +0530"
       },
       {
-        "title": "Kotak Mahindra Bank Q2 results preview: PAT may rise up to 32% YoY; margins, loan growth in focus",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q2-results-preview-pat-may-rise-up-to-32-yoy-margins-loan-growth-in-focus/articleshow/135134211.cms",
+        "title": "Global Market: European stocks edge lower as Kering slumps, oil prices rise",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-edge-lower-as-kering-slumps-oil-prices-rise/articleshow/135141363.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 23 Oct 2026 09:54:08 +0530"
+        "pubDate": "Fri, 23 Oct 2026 14:42:02 +0530"
       },
       {
-        "title": "ETMarkets Smart Talk| A ₹25,000 monthly SIP can grow to ₹2.17 crore in 15 years—with a 10% annual step-up: Jeet Marwadi",
-        "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-a-25000-monthly-sip-can-grow-to-2-17-crore-in-15-yearswith-a-10-annual-step-up-jeet-marwadi/articleshow/135134089.cms",
+        "title": "Global Market: French bond selloff raises debt concerns across Europe amid social unrest",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-french-bond-selloff-raises-debt-concerns-across-europe-amid-social-unrest/articleshow/135141236.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 23 Oct 2026 09:52:48 +0530"
+        "pubDate": "Fri, 23 Oct 2026 14:40:17 +0530"
       },
       {
-        "title": "Paras Healthcare IPO Day 3: Check GMP, subscription status and key details",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/paras-healthcare-ipo-day-3-check-gmp-subscription-status-and-key-details/articleshow/135134099.cms",
+        "title": "From mercury to gold? This San Francisco startup claims it can produce yellow metal at will",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-mercury-to-gold-this-san-francisco-startup-claims-it-can-produce-yellow-metal-at-will/articleshow/135140759.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 23 Oct 2026 09:50:59 +0530"
+        "pubDate": "Fri, 23 Oct 2026 14:35:13 +0530"
       },
       {
-        "title": "eMudhra shares crash another 4%, down 40% in 3 sessions. What's behind this free fall?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/emudhra-shares-crash-another-4-down-40-in-3-sessions-whats-behind-this-free-fall/articleshow/135134086.cms",
+        "title": "Sterlite Technologies Q2 Results: Profit surges 12,817% YoY to Rs 517 crore, revenue jumps 145%",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sterlite-technologies-q2-results-profit-surges-12817-yoy-to-rs-517-crore-revenue-jumps-145/articleshow/135140910.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 23 Oct 2026 09:49:02 +0530"
+        "pubDate": "Fri, 23 Oct 2026 14:27:35 +0530"
       },
       {
-        "title": "Ola Electric shares dip 5% after Goldman Sachs downgrades stock to Sell. Here’s why",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-shares-dip-5-after-goldman-sachs-downgrades-stock-to-sell-heres-why/articleshow/135134048.cms",
+        "title": "D-Street bleeds! Market value of all BSE-listed firms falls below Rs 450 lakh crore for first time since April. More pain ahead?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-bleeds-market-value-of-all-bse-listed-firms-falls-below-rs-450-lakh-crore-for-first-time-since-april-more-pain-ahead/articleshow/135140291.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 23 Oct 2026 09:41:39 +0530"
+        "pubDate": "Fri, 23 Oct 2026 13:59:38 +0530"
       },
       {
-        "title": "South Korean shares fall 2% as AI selloff weighs on global markets",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-fall-2-as-ai-selloff-weighs-on-global-markets/articleshow/135134008.cms",
+        "title": "Silver prices slide below Rs 2 lakh/kg, down nearly 55% from Jan peak. What’s behind the rapid selloff?",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-slide-below-rs-2-lakh/kg-down-nearly-55-from-jan-peak-whats-behind-the-rapid-selloff/articleshow/135139949.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 23 Oct 2026 09:41:11 +0530"
+        "pubDate": "Fri, 23 Oct 2026 13:50:53 +0530"
       },
       {
-        "title": "Infosys shares jump 3% ahead of Q2 earnings announcement. What to expect?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-shares-jump-3-ahead-of-q2-earnings-announcement-what-to-expect/articleshow/135133971.cms",
+        "title": "Global Market: Anthropic presses ahead with November IPO as AI listings face delays",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-anthropic-presses-ahead-with-november-ipo-as-ai-listings-face-delays/articleshow/135139929.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 23 Oct 2026 09:37:46 +0530"
+        "pubDate": "Fri, 23 Oct 2026 13:39:22 +0530"
       }
     ],
     "acct": [
@@ -163,16 +163,28 @@
         "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
       },
       {
+        "title": "IFRS 9 | 2Q26 results update: keep calm and carry on - Deloitte",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb2dLby1sUC1SWTdSb3NEVmk3Vm1kdlBaYjk4WUlxbFhkMVRFR0kyQ2VWM2J3bHZLc0dYZFJPQUFKQ0t4U0pRb0NEWjNPVGZnbUVKRHFyZmRkX1h1dU9GZ0hBTmd0QUdUeVRheGFqRm93VHZyRTFzYXJrMElESmYwVDNVMXEzZjdaT1lNQ1lfSFAzTlk?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 23 Oct 2026 06:50:23 GMT"
+      },
+      {
+        "title": "CA Foundation September 2026 result expected soon; details here - Education Times",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM28taTF5UEtJTHhNdjBQZ1oxWk15NDJCV2NwNmt5YUdORUFoLUVOSWppVHMwVlhNRUloNzFVX0RQT0ZkU0JqU3c4VkZLMUNEMzlRSTM1ZFZ1SHVNV1hmTVlERlMxWnMxNWhkaE1lSlZ2TDBJR3YtR3pEZHJNTkVvY2tRNHlDZ0k4TjdsRFNOcmhuWnZsa3UyU2lLZXJVWVhra3h2UHZpb2YzZ0pvSVdzVkI1MjljRkJnYk1nbE5lNnpaUQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 23 Oct 2026 07:05:00 GMT"
+      },
+      {
         "title": "Getting ready for IFRS 18 - kpmg.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm1Idm5QWU1kM2hSQ2RjQWdzZ0U1ZnBIb2ZieThWZEs3Y0ZHV1BKVWowNTJUWDZwbDVkanBtN1BBbWlCb1g4aTdINXZvNFdfaWZwNXRvSzA3ODkyQVRRQjZJdnlQYWkzQnhKdXM3QXhGUFkzR3BRZ1FPWGZEWUZ3aTB5TDlsZ2dWbmJKSVVJYktiVVh4MzFhTjQ5VmVBdGJrdmVXd3JJUTFVMGtzTFdhVENBZkd4U1d5TE1mcEZxWDU?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "ICAI CA Foundation January 2027 Mock Test Schedule Released; Check Series 1, 2 Dates - Telegraph India",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLWNSUUVCZ2hHVEdVVHB0c0FKaEgxWUJ6Ul9QT2N1dnh3SW5VOV83NmNuMGhzVV9qN0ZaMzZwUVRqeXNrQUQ2aUx0VHBKcl9vYlVjaUZ1T19qaUZmNU51Y3V2WEN4UFA3MF9oN0E0WThCaGlsRXZodTlfeFdvT1hzV1ZVMC1icEl6SVo1UlozYWZERlNnQ2lLY3JrUENsOHNYZDhPcjhiTTJnNnlwUXZJT054NmJwZnlKUEREaE96ajRRUHZ5MFFKRHVNRUpBSUxoYkxfLTZB0gHbAUFVX3lxTE9NV01iNHhTSEthODEycWh0dUc4aC1LZEFDX2Jsc1lQT3JsaTBqMXhFMGhNcTVTcEVRVTF2WWZiOHQ2eUZNMXEyQ1B5Y2NoWEZLTWZYSEpTLXFsejgwVGNzRVo3MGdQVGxKTXlmT28waVBRcTluM0tDZkV1WmtzXzdxSmtKQThZUGNLU2RwaGVpT2hTeWdCOG52LV9sbmMtS2JER1I5cDRNSXVhZ2hobUZxcGFtdGJ2NkNoY2RjZzNNQWdKUGpzaGxHczRaWkEtR1FXV2p2RFpDb3cyYw?oc=5",
+        "title": "SAP Announces Q3 2026 Results - SAP News Center",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NV3E4YXYtbUhqSzhBRE5Xd1NLX0t5bHJGZ2I4NFl4N1Y2WVRXTHN5cDhLSnBoWkFnemI5TXdMRnlydElOU3lVaXVjZXhyT01HSUg3OUM0UlU4S2ZEb2FwcnpiczhwbFd4dzAw0gFzQVVfeXFMUGFyVUNrcW9nMV9xUVo4VFlUZ05kWlJHd0NtQWZtQzVjcUlDX01ZdElyYXgyVmd2TDR2YnNIQ1hSSmtObGliWDhUR1hqVkF4QnV1bElPemw0ck5Ha1AwcUgtaVVOWnBJV2xZamdIYnd5OXU2UQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 22 Oct 2026 10:24:15 GMT"
+        "pubDate": "Wed, 21 Oct 2026 20:11:39 GMT"
       },
       {
         "title": "ICAI CA Inter Results 2026 for September exams Out today @ caresults.icai.org; direct link here - Moneycontrol.com",
@@ -181,34 +193,22 @@
         "pubDate": "Thu, 22 Oct 2026 01:30:38 GMT"
       },
       {
-        "title": "AI for concept clarity, 12 hours of study: CA AIR 1 Sakshi Chandak shares success tips - India Today",
-        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNLW43eWVBV0UydmJpZjFSS0V2RVRxdGJkWXVwbmhuMnNXYTRhUnV0eDV1S3p1U3NzNEFEYzE3ZFJNdHZnVGZnNjJQdDBfTy1McXVSWUpUNDhIeVQ1UHE0cklGZXQ3S09IXzB0NkVqX0djRlNsOHdTX0NzOGtIa2pwZFlnOGlVcWR2SDM0T1dxOUY2aUVtamVCZUVFOTNFY3R5eEZZV25CZGgyWWVrQ29vN0ZkTXJGd1gtS0E3ZDRGTFl4eWpHUVVSaDZQVWs5R2c2NFlNVHNmY3M3eFdGaHNaWTdreHFfNjhMN1lGMVRBUjY2T0pJckJUQmltOHVtMjFrNm9CSlJR0gGLAkFVX3lxTE93LXNSbGhHb0tXM2ZOR2ZEQXNOMnVLdW81REZNREhidXJXdVBqbGZhWXR5NzVvZEZxZ1JNdmRreTdtMU54M2FsZFlUd21RYXRBS0dsc0x2d0NJeHhVWWY0Y01UUFJBUDNtajh3RUZWY0JlWXMtNmhGY1VxUUFBV2NhdWV1ajJiUEg2bGM5RGlnbVdib2RzT0FMejZ1RkJNSXFOT2FfTE80cTJuTDZzT3RiVTJvdEttdkYtMlVBQkRDb3lHeWRZRnRUeUpuVlFrMGhZaU42Nm5jWEt6dDZlUjZlZ29PV3FlTklfanVQMXVMYi1xeDRreEVNLW1TYjNQSHZnSlZ4ZVIzbURSUQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 22 Oct 2026 11:37:31 GMT"
-      },
-      {
         "title": "CA Inter Result Sep 2026 (Out) LIVE: ICAI CA September exam results link at caresults.icai.org; toppers - Careers360",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN2ZUazF4WFhnYWtHUTNJdDE3RFVxOUVZLV85WWpya2hocFRvRE5Pc2ZBN0laeDlVN1dXSDN0QXZMbC1hUkhpWlpYeEFtQmJvMi1LN2VQaGhzNk50bm1pR3VsdUxIVF9pYzNadldrWTNRV1pKZEFQRVNxLUpjMDhHLWRRWTRxSnZUNFpjZnZvVl9OcTZkMDJrTE93eExyTUFHdnhkekx1Y1I1aWpKRkU2dGJtcXFQOVdvM1N2OWR4SUtkQVVIWE1NQ3pyYWxETE9WUWd1NWF6UTJtcUtsSjBFOEQ0OThmQQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 21 Oct 2026 10:01:49 GMT"
       },
       {
+        "title": "ICAI CA Inter September 2026 Toppers List Out; Neel Rajesh Shah, Chandak Sakshi Share AIR 1 - Telegraph India",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcUpPQ1NoSzdVRnBPZ2VxUjZDcm12RFB3cXJrS2lhaEtramR3WldoZzdHS0M5NFUzZi1IbFNUMWVSV0F5QkkzTWRTMjM2dXdXek1LZmlYbWFaOE9fTFpybnY0VFNKS3JPN0VQVmFtbElzeVdlckg1RTg5MFoxcF9CdUVoT0kwT1IwQVBBZWw3LWJwTFJLbFcybnpCR3JCZV9WdGlleXBRazRFYjNFR1pzSDFhaVJVY2JNTEdsS0xTNVo3TVB6elhsN0NxNG5PbTRzc2NZSi1rcTlxZWtuMUFB0gHkAUFVX3lxTFBZdHVyTUlNcEZkODc5MWF1M01qTzJPSzFZNmRQYzB1bmExdENZcE5ONjZQaUx6MmFxN09MVU82LThJSXdKT1d2VzNqcmNwVDB2OURpRU9IZ1FYVXJsaGgzbEEzd1Z4NldXb1RTWXN5ZGFSQ0FWZUduc1lnTFpJZF9oa3VwNklrVjlhdUpjUFoxYWl0VUs1ZlhsYndzY3R3QndZcEkwSy1fMHIwdEJsekRSeWVmMTZfTU52d3ZDSUpRcWFJV2lVUWI1UEVNNURXODNwbkxqbDB6WjNzMS0xTjdZUFpiVw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 22 Oct 2026 06:54:15 GMT"
+      },
+      {
         "title": "Unibail-Rodamco-Westfield Says 9M IFRS Total Turnover At EUR 2.23 Bln - TradingView",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONHk5NzdUaVJaM0ZlSGhCZ2I1QkxqTVhUWUVJelZfdVlaSldhcHJNaGR0WVdtaTRsY0ZtcDlpQkR1bzJOZ2VQSmczYTFwb3pZTVFfX0Q5c3hwTWFDUkRWdkU1WUQta01xX2Ntd3lBR1lmTFBKT2JtWC1XZWVNT3psc3BYOUMyYnlnTlI4Z3lrcWc0bk1OOUJrNHRCWk4waWMxS1ZfS1ZsYWc0bkpWNEMya2gyVGxQZDJFQzl5eWk4TjlpcTF5ekFTbHBFWHN0d0M1amYxeEV3?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 22 Oct 2026 16:13:13 GMT"
-      },
-      {
-        "title": "ICAI CA Intermediate September 2026 Topper: Chennai's Shruti V Secures AIR 2 - Education Times",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVXgtc05uYnFuTEJQVTlFSlhDQUxCRTEzUUtpUDhfRnJvQUJDalFmSGtSZE1GSWR1ODRVQURVSFF0dnFLLXpiRkFIcG5LM2R3ZUNjU0pLWmt2YWpxaVlQdHlvLVZiQmtjbWtURVRUclBPUUxCb3BzczNfNnIyaVpHR1ZLS0YxSXcyVU9lRzd4a0hzdGtKR3V2UHhGb01rMVJpelVYRFhIZjFuUWdoVXVLZGowZGZEbDZzTUx6UTBMdUxrSWxDeVBUOHI1ZUlOaC1iYWc?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 22 Oct 2026 06:57:00 GMT"
-      },
-      {
-        "title": "ICAI CA Inter September 2026 Result Today: Here's How To Check - NDTV",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlk1NGRJcEVjODdPeWJlcEpSb1ROX2p6OUJ4RGlWNjViZTJ0YTloZkRKdzVobmNJMFFvRVU0bGNGYTQzc0s5YzhDZHJzODRIVmlrRGxXcFhJNHZFb3U1aFpTWkpWUzBtZUtoUDlCTEs1cEpVcU5MRGFTbmVveW9JYTk5NTAyTzJ4VHdiQUZSWlpQZTRORDVHQjJHWHJFRTNudHc?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 22 Oct 2026 02:22:50 GMT"
       }
     ]
   }
