@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:47:44.270465+00:00",
+  "generatedAt": "2026-10-23T00:15:20.138853+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 81368,
-      "chg": -3.99
+      "price": 81128,
+      "chg": -3.66
     },
     "eth": {
-      "price": 2390.36,
-      "chg": -4.29
+      "price": 2382.79,
+      "chg": -3.84
     }
   },
   "fx": {
@@ -181,34 +181,34 @@
         "pubDate": "Thu, 22 Oct 2026 05:27:11 GMT"
       },
       {
-        "title": "Unibail-Rodamco-Westfield Says 9M IFRS Total Turnover At EUR 2.23 Bln - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONHk5NzdUaVJaM0ZlSGhCZ2I1QkxqTVhUWUVJelZfdVlaSldhcHJNaGR0WVdtaTRsY0ZtcDlpQkR1bzJOZ2VQSmczYTFwb3pZTVFfX0Q5c3hwTWFDUkRWdkU1WUQta01xX2Ntd3lBR1lmTFBKT2JtWC1XZWVNT3psc3BYOUMyYnlnTlI4Z3lrcWc0bk1OOUJrNHRCWk4waWMxS1ZfS1ZsYWc0bkpWNEMya2gyVGxQZDJFQzl5eWk4TjlpcTF5ekFTbHBFWHN0d0M1amYxeEV3?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 22 Oct 2026 16:13:13 GMT"
-      },
-      {
-        "title": "ICAI to announce CA Intermediate results today - Rediff",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNXNodkVlaHMtM0N0c2kzcTMwTTlPQ25fU09vMk1CTGNsWm1TdUlyanREbDlVOWZHQ3ppUUpxVVBZZ1YyWHNZR2J2TlZmejhRNTMza1lNMC1qQ0g0Y2FDV3E4U2pjTnktVzlSei00WGRxQk5MRlNwSENtOVBDejBNMnBYZHEtR19SWGJ1V00tOG9GN2szWWNEZ0ZHVGF4LW15NHBsdWFJdDVZNWs4clR3cDh3R05FdFlJYS1FUUNWeTdQNm03Wll0ZllR?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 22 Oct 2026 03:36:18 GMT"
-      },
-      {
         "title": "AI for concept clarity, 12 hours of study: CA AIR 1 Sakshi Chandak shares success tips - India Today",
         "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNLW43eWVBV0UydmJpZjFSS0V2RVRxdGJkWXVwbmhuMnNXYTRhUnV0eDV1S3p1U3NzNEFEYzE3ZFJNdHZnVGZnNjJQdDBfTy1McXVSWUpUNDhIeVQ1UHE0cklGZXQ3S09IXzB0NkVqX0djRlNsOHdTX0NzOGtIa2pwZFlnOGlVcWR2SDM0T1dxOUY2aUVtamVCZUVFOTNFY3R5eEZZV25CZGgyWWVrQ29vN0ZkTXJGd1gtS0E3ZDRGTFl4eWpHUVVSaDZQVWs5R2c2NFlNVHNmY3M3eFdGaHNaWTdreHFfNjhMN1lGMVRBUjY2T0pJckJUQmltOHVtMjFrNm9CSlJR0gGLAkFVX3lxTE93LXNSbGhHb0tXM2ZOR2ZEQXNOMnVLdW81REZNREhidXJXdVBqbGZhWXR5NzVvZEZxZ1JNdmRreTdtMU54M2FsZFlUd21RYXRBS0dsc0x2d0NJeHhVWWY0Y01UUFJBUDNtajh3RUZWY0JlWXMtNmhGY1VxUUFBV2NhdWV1ajJiUEg2bGM5RGlnbVdib2RzT0FMejZ1RkJNSXFOT2FfTE80cTJuTDZzT3RiVTJvdEttdkYtMlVBQkRDb3lHeWRZRnRUeUpuVlFrMGhZaU42Nm5jWEt6dDZlUjZlZ29PV3FlTklfanVQMXVMYi1xeDRreEVNLW1TYjNQSHZnSlZ4ZVIzbURSUQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 22 Oct 2026 11:37:31 GMT"
       },
       {
+        "title": "Unibail-Rodamco-Westfield Says 9M IFRS Total Turnover At EUR 2.23 Bln - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONHk5NzdUaVJaM0ZlSGhCZ2I1QkxqTVhUWUVJelZfdVlaSldhcHJNaGR0WVdtaTRsY0ZtcDlpQkR1bzJOZ2VQSmczYTFwb3pZTVFfX0Q5c3hwTWFDUkRWdkU1WUQta01xX2Ntd3lBR1lmTFBKT2JtWC1XZWVNT3psc3BYOUMyYnlnTlI4Z3lrcWc0bk1OOUJrNHRCWk4waWMxS1ZfS1ZsYWc0bkpWNEMya2gyVGxQZDJFQzl5eWk4TjlpcTF5ekFTbHBFWHN0d0M1amYxeEV3?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 22 Oct 2026 16:13:13 GMT"
+      },
+      {
+        "title": "ICAI CA Intermediate September 2026 Topper: Chennai's Shruti V Secures AIR 2 - Education Times",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVXgtc05uYnFuTEJQVTlFSlhDQUxCRTEzUUtpUDhfRnJvQUJDalFmSGtSZE1GSWR1ODRVQURVSFF0dnFLLXpiRkFIcG5LM2R3ZUNjU0pLWmt2YWpxaVlQdHlvLVZiQmtjbWtURVRUclBPUUxCb3BzczNfNnIyaVpHR1ZLS0YxSXcyVU9lRzd4a0hzdGtKR3V2UHhGb01rMVJpelVYRFhIZjFuUWdoVXVLZGowZGZEbDZzTUx6UTBMdUxrSWxDeVBUOHI1ZUlOaC1iYWc?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 22 Oct 2026 06:57:00 GMT"
+      },
+      {
+        "title": "Getting ready for IFRS 18 - kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm1Idm5QWU1kM2hSQ2RjQWdzZ0U1ZnBIb2ZieThWZEs3Y0ZHV1BKVWowNTJUWDZwbDVkanBtN1BBbWlCb1g4aTdINXZvNFdfaWZwNXRvSzA3ODkyQVRRQjZJdnlQYWkzQnhKdXM3QXhGUFkzR3BRZ1FPWGZEWUZ3aTB5TDlsZ2dWbmJKSVVJYktiVVh4MzFhTjQ5VmVBdGJrdmVXd3JJUTFVMGtzTFdhVENBZkd4U1d5TE1mcEZxWDU?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+      },
+      {
         "title": "ICAI CA Inter September 2026 Result Today: Here's How To Check - NDTV",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlk1NGRJcEVjODdPeWJlcEpSb1ROX2p6OUJ4RGlWNjViZTJ0YTloZkRKdzVobmNJMFFvRVU0bGNGYTQzc0s5YzhDZHJzODRIVmlrRGxXcFhJNHZFb3U1aFpTWkpWUzBtZUtoUDlCTEs1cEpVcU5MRGFTbmVveW9JYTk5NTAyTzJ4VHdiQUZSWlpQZTRORDVHQjJHWHJFRTNudHc?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 22 Oct 2026 02:22:50 GMT"
-      },
-      {
-        "title": "ICAI CA Foundation January 2027 Mock Test Schedule Released; Check Series 1, 2 Dates - Telegraph India",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLWNSUUVCZ2hHVEdVVHB0c0FKaEgxWUJ6Ul9QT2N1dnh3SW5VOV83NmNuMGhzVV9qN0ZaMzZwUVRqeXNrQUQ2aUx0VHBKcl9vYlVjaUZ1T19qaUZmNU51Y3V2WEN4UFA3MF9oN0E0WThCaGlsRXZodTlfeFdvT1hzV1ZVMC1icEl6SVo1UlozYWZERlNnQ2lLY3JrUENsOHNYZDhPcjhiTTJnNnlwUXZJT054NmJwZnlKUEREaE96ajRRUHZ5MFFKRHVNRUpBSUxoYkxfLTZB0gHbAUFVX3lxTE9NV01iNHhTSEthODEycWh0dUc4aC1LZEFDX2Jsc1lQT3JsaTBqMXhFMGhNcTVTcEVRVTF2WWZiOHQ2eUZNMXEyQ1B5Y2NoWEZLTWZYSEpTLXFsejgwVGNzRVo3MGdQVGxKTXlmT28waVBRcTluM0tDZkV1WmtzXzdxSmtKQThZUGNLU2RwaGVpT2hTeWdCOG52LV9sbmMtS2JER1I5cDRNSXVhZ2hobUZxcGFtdGJ2NkNoY2RjZzNNQWdKUGpzaGxHczRaWkEtR1FXV2p2RFpDb3cyYw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 22 Oct 2026 10:24:15 GMT"
       }
     ]
   }
