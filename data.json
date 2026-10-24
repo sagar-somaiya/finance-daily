@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T00:53:39.461612+00:00",
+  "generatedAt": "2026-10-24T05:13:36.499189+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 80635,
-      "chg": -0.98
+      "price": 80763,
+      "chg": -1.16
     },
     "eth": {
-      "price": 2371.47,
-      "chg": -0.88
+      "price": 2378.09,
+      "chg": -0.92
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
-        "title": "iPhone Duo internal display break: Are iPhone Duo displays too fragile? Users report alarming cracks near hinge",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/iphone-duo-internal-display-break-are-iphone-duo-displays-too-fragile-users-report-alarming-cracks-near-hinge/articleshow/135155585.cms",
+        "title": "Anthropic IPO: What should investors consider when valuing the AI company? Aswath Damodaran explains",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-what-should-investors-consider-when-valuing-the-ai-company-aswath-damodaran-explains/articleshow/135162319.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 24 Oct 2026 03:13:04 +0530"
+        "pubDate": "Sat, 24 Oct 2026 10:33:17 +0530"
       },
       {
-        "title": "US Markets Today: Dow ends 600 pts lower as AI doubts persist ahead of Fed meet",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-dow-ends-600-pts-lower-as-ai-doubts-persist-ahead-of-fed-meet/articleshow/135155408.cms",
+        "title": "Growth, value stocks set for reshuffle as S&amp;P adopts new rules",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/growth-value-stocks-set-for-reshuffle-as-sp-adopts-new-rules/articleshow/135161737.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 24 Oct 2026 01:53:03 +0530"
+        "pubDate": "Sat, 24 Oct 2026 09:51:59 +0530"
       },
       {
-        "title": "Tata Motors CV posts Rs 2,138 crore Q2 profit",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-posts-rs-2138-crore-q2-profit/articleshow/135154453.cms",
+        "title": "Radhakishan Damani portfolio: Top 10 stock holdings of the ace investor",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/radhakishan-damani-portfolio-top-10-stock-holdings-of-the-ace-investor/slideshow/135161767.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 24 Oct 2026 00:38:33 +0530"
+        "pubDate": "Sat, 24 Oct 2026 09:41:55 +0530"
       },
       {
-        "title": "US data centre spending seen more than doubling to $2.1 trillion by 2028, estimates BoFA",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/data-centre-spending-seen-more-than-doubling-to-2-1-trillion-by-2028/articleshow/135153616.cms",
+        "title": "BPCL reports 21.45% drop in Q2 FY27 net profit, attributes losses to fuel pricing issues",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bpcl-reports-21-45-drop-in-q2-fy27-net-profit-attributes-losses-to-fuel-pricing-issues/articleshow/135161389.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 24 Oct 2026 00:00:36 +0530"
+        "pubDate": "Sat, 24 Oct 2026 09:32:02 +0530"
       },
       {
-        "title": "US Treasury yields rise but 10-year stays below 5% as AI jitters persist",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-rise-but-10-year-stays-below-5-as-ai-jitters-persist/articleshow/135151795.cms",
+        "title": "DRL says cap on trade margins a positive, posts 36% dip in Q2 PAT",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/drl-says-cap-on-trade-margins-a-positive-posts-36-dip-in-q2-pat/articleshow/135161325.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 23 Oct 2026 22:54:04 +0530"
+        "pubDate": "Sat, 24 Oct 2026 09:23:30 +0530"
       },
       {
-        "title": "EAAA India Alternatives mops up Rs 360 crore from anchor investors; IPO opens on Oct 26",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-mops-up-rs-360-crore-from-anchor-investors-ipo-opens-on-oct-26/articleshow/135150980.cms",
+        "title": "Adani Power profit surges 142% on strong demand amid weak rains",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-power-profit-surges-142-on-strong-demand-amid-weak-rains/articleshow/135161231.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 23 Oct 2026 22:20:32 +0530"
+        "pubDate": "Sat, 24 Oct 2026 09:17:21 +0530"
       },
       {
-        "title": "Shriram Finance Q2 profit jumps 59% YoY to Rs 3,677 crore on strong interest income, lower funding costs",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/shriram-finance-q2-profit-jumps-59-yoy-to-rs-3677-crore-on-strong-interest-income-lower-funding-costs/articleshow/135150195.cms",
+        "title": "JSW Steel posts three-fold jump in profit, lines up capacity expansion",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steel-posts-three-fold-jump-in-profit-lines-up-capacity-expansion/articleshow/135161181.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 23 Oct 2026 21:35:28 +0530"
+        "pubDate": "Sat, 24 Oct 2026 09:13:02 +0530"
       },
       {
-        "title": "Shree Cement profit falls 15% YoY to Rs 263 crore on higher fuel costs",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/shree-cement-profit-falls-15-yoy-to-rs-263-crore-on-higher-fuel-costs/articleshow/135150160.cms",
+        "title": "5 world market themes for the week ahead",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/5-world-market-themes-for-the-week-ahead/articleshow/135161184.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 23 Oct 2026 21:33:04 +0530"
+        "pubDate": "Sat, 24 Oct 2026 09:12:42 +0530"
       },
       {
-        "title": "Jana Small Finance Bank Q2 profit jumps 127%, raises FY27 growth outlook",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jana-small-finance-bank-q2-profit-jumps-127-raises-fy27-growth-outlook/articleshow/135150094.cms",
+        "title": "US consumer sentiment near record low ahead of midterm elections",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-consumer-sentiment-near-record-low-ahead-of-midterm-elections/articleshow/135161172.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 23 Oct 2026 21:30:28 +0530"
+        "pubDate": "Sat, 24 Oct 2026 09:11:28 +0530"
       },
       {
-        "title": "Jindal Steel Q2 profit rises 21% as revenue hits record Rs 19,448 crore",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jindal-steel-q2-profit-rises-21-as-revenue-hits-record-rs-19448-crore/articleshow/135149749.cms",
+        "title": "Wall Street Week Ahead: Earnings flood, Fed meeting will test rickety AI market rally",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-st-week-ahead-earnings-flood-fed-meeting-will-test-rickety-ai-market-rally/articleshow/135161141.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 23 Oct 2026 21:03:11 +0530"
+        "pubDate": "Sat, 24 Oct 2026 09:07:13 +0530"
       }
     ],
     "acct": [
@@ -193,22 +193,22 @@
         "pubDate": "Wed, 21 Oct 2026 10:01:49 GMT"
       },
       {
-        "title": "IFRS 9 | 2Q26 results update: keep calm and carry on - Deloitte",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb2dLby1sUC1SWTdSb3NEVmk3Vm1kdlBaYjk4WUlxbFhkMVRFR0kyQ2VWM2J3bHZLc0dYZFJPQUFKQ0t4U0pRb0NEWjNPVGZnbUVKRHFyZmRkX1h1dU9GZ0hBTmd0QUdUeVRheGFqRm93VHZyRTFzYXJrMElESmYwVDNVMXEzZjdaT1lNQ1lfSFAzTlk?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 23 Oct 2026 06:50:23 GMT"
-      },
-      {
         "title": "ICAI CA Inter September 2026 Toppers List Out; Neel Rajesh Shah, Chandak Sakshi Share AIR 1 - Telegraph India",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcUpPQ1NoSzdVRnBPZ2VxUjZDcm12RFB3cXJrS2lhaEtramR3WldoZzdHS0M5NFUzZi1IbFNUMWVSV0F5QkkzTWRTMjM2dXdXek1LZmlYbWFaOE9fTFpybnY0VFNKS3JPN0VQVmFtbElzeVdlckg1RTg5MFoxcF9CdUVoT0kwT1IwQVBBZWw3LWJwTFJLbFcybnpCR3JCZV9WdGlleXBRazRFYjNFR1pzSDFhaVJVY2JNTEdsS0xTNVo3TVB6elhsN0NxNG5PbTRzc2NZSi1rcTlxZWtuMUFB0gHkAUFVX3lxTFBZdHVyTUlNcEZkODc5MWF1M01qTzJPSzFZNmRQYzB1bmExdENZcE5ONjZQaUx6MmFxN09MVU82LThJSXdKT1d2VzNqcmNwVDB2OURpRU9IZ1FYVXJsaGgzbEEzd1Z4NldXb1RTWXN5ZGFSQ0FWZUduc1lnTFpJZF9oa3VwNklrVjlhdUpjUFoxYWl0VUs1ZlhsYndzY3R3QndZcEkwSy1fMHIwdEJsekRSeWVmMTZfTU52d3ZDSUpRcWFJV2lVUWI1UEVNNURXODNwbkxqbDB6WjNzMS0xTjdZUFpiVw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 22 Oct 2026 06:54:15 GMT"
       },
       {
-        "title": "CA Foundation September 2026 result expected soon; details here - Education Times",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM28taTF5UEtJTHhNdjBQZ1oxWk15NDJCV2NwNmt5YUdORUFoLUVOSWppVHMwVlhNRUloNzFVX0RQT0ZkU0JqU3c4VkZLMUNEMzlRSTM1ZFZ1SHVNV1hmTVlERlMxWnMxNWhkaE1lSlZ2TDBJR3YtR3pEZHJNTkVvY2tRNHlDZ0k4TjdsRFNOcmhuWnZsa3UyU2lLZXJVWVhra3h2UHZpb2YzZ0pvSVdzVkI1MjljRkJnYk1nbE5lNnpaUQ?oc=5",
+        "title": "ICAI to announce CA Intermediate results today - Rediff",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNXNodkVlaHMtM0N0c2kzcTMwTTlPQ25fU09vMk1CTGNsWm1TdUlyanREbDlVOWZHQ3ppUUpxVVBZZ1YyWHNZR2J2TlZmejhRNTMza1lNMC1qQ0g0Y2FDV3E4U2pjTnktVzlSei00WGRxQk5MRlNwSENtOVBDejBNMnBYZHEtR19SWGJ1V00tOG9GN2szWWNEZ0ZHVGF4LW15NHBsdWFJdDVZNWs4clR3cDh3R05FdFlJYS1FUUNWeTdQNm03Wll0ZllR?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 23 Oct 2026 07:05:00 GMT"
+        "pubDate": "Thu, 22 Oct 2026 03:36:18 GMT"
+      },
+      {
+        "title": "ICAI CA Inter September 2026 Result Today: Here's How To Check - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVlk1NGRJcEVjODdPeWJlcEpSb1ROX2p6OUJ4RGlWNjViZTJ0YTloZkRKdzVobmNJMFFvRVU0bGNGYTQzc0s5YzhDZHJzODRIVmlrRGxXcFhJNHZFb3U1aFpTWkpWUzBtZUtoUDlCTEs1cEpVcU5MRGFTbmVveW9JYTk5NTAyTzJ4VHdiQUZSWlpQZTRORDVHQjJHWHJFRTNudHc?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 22 Oct 2026 02:22:50 GMT"
       }
     ]
   }
