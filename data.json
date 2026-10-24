@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T19:36:22.841613+00:00",
+  "generatedAt": "2026-10-24T22:07:31.341602+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 80454,
-      "chg": -0.9
+      "price": 80378,
+      "chg": -1.15
     },
     "eth": {
-      "price": 2337.59,
-      "chg": -2.32
+      "price": 2339.28,
+      "chg": -2.48
     }
   },
   "fx": {
@@ -151,10 +151,10 @@
     ],
     "acct": [
       {
-        "title": "ICAI CA Foundation September 2026 result expected to be out soon at caresults.icai.org: Check steps to do - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdXY0Y2NSODloS2RuaXhfZS1NNjdET1lmZS16SkszUF9UVklpSXFwMHlSYmdrMjBtVThiS2xyVmFjd2hUMkZGNnhER0ZPdXFyWHZvSjRobVgyQTZLODRweFVmUE9MdGJWWHk5MHg4RXpDRHJ0X0I5V1k3blpLTFlPT0Ywb3ZKdUxiVHRlNGY4RVJ5b2t2eDZjTm1yTW5tWGpfYVhwVnRXaDViYVZYODYxcG1LRWRtM2g5ZTByZEFaaEdIYUQ3SnBYWkhQVzRpTDI5X0RQTTFYeTNUODdVUm5VME1ZVEZ6eVg1UFF3UGM2cl9uaUV4QS1VLXFCVjhjcTU1TW9iY05LTy1uR1Rna0dINmlDNzNWbENNZUppdExQRDlqaVpw0gGqAkFVX3lxTE16SzRSZm4wcE9QY3hCYVc5M0JRZzY1WXNlcXRCbHN6NkF5SzRKSjRQVjZpTS1fdU43Rzk4bWk4VXVFN1dnRDJMSGllSDJONHF4MjFCZ0Z3S05NS0ZyUEg0RTJldndhZzE1Wnc1WURLTHVDY2pBVFFiX2UtM1p0a2c2RHUydkZJTW9iUDVkeTQ5M0JsNnFpdW5TbFhYMHdkY2Y4RFo1UkRzeTYyWGVEZEhsR2pXN0ppcnAxNVBQdXpYQWo5TlkwVWhiVDJPMkM1U21FcnVnbDJ4ZVBvOGxuamlFOXpGaGxqd1UyRWhnc1V4NkdoZmZsaEJuMS1wdHU2U0hYXzkwY2xUUGFwOGtuWVRfc2ZhRjlvNUVxaVlDMmJjLThSZUZzMnZmZEE?oc=5",
+        "title": "ICAI CA Inter September 2026 toppers list: Neel Rajesh Shah and Chandak Sakshi share AIR 1 - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdW1FcWh4SzJhclhySHM4VW9nQmU3UC01cXV3QlNCLV9HWEZJd2lyemZZclVuekJXMU5xWnBUVFZYRlRELXFaT0RpYnh1bzduRm5hVXRRZ1F1WW5oOVRuRlhSMGJxaExOMk1wM19BeEw5bHFRazZiT3ZrREJMZnkxWktQNWF4SFFwbDR6dTA0dGVaaDNvNjRYQnRKZEtiNDBvNUVxR2lzMkxtZGp6VGJ3Qjh3RmlWQm5TdzZBYVVUY1F3NEZwS0JGdFdfZlk5RmpxckRwQkV4ZmRhMjBnR1pOajhXdVAyNnhCTzd5dkY4Qmcyd3hvbzA4WThB0gH_AUFVX3lxTFB5RmJJRWkydlJkOWRYMl9QS240RUJoX2M5VWE2aUgyLUZGckI0dktMWTY3SGlEcS1BVHhYUkItd0VYZnIyZVJ3c1pvZlVJYTNYTFZHMzF4SlA4TEFJNkhob0xiNUJfX3JxQTVlMTlyN2hHSXJzQmgtbmJPZGNLUFpjdWVSbU9tNWVXTl9mTmd3OUxRZmMyTVZaNnI5S0RKdFJFYXVWZHFOTlJnZ2JNQkgxbFlBaVRja0dwYkZpYktoSGt3enZrT3UwcUFNX3JYUTJJQS1HN2JTQTNRQ2dwTGhfeHYzZmc0RzQ0Q1RfWWE0bXM1TlNUcDJ1dzc1Tk0xQQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sat, 24 Oct 2026 07:11:00 GMT"
+        "pubDate": "Thu, 22 Oct 2026 05:20:00 GMT"
       },
       {
         "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - Wolters Kluwer",
@@ -199,10 +199,10 @@
         "pubDate": "Thu, 22 Oct 2026 03:36:18 GMT"
       },
       {
-        "title": "ICAI CA Inter September 2026 toppers list: Neel Rajesh Shah and Chandak Sakshi share AIR 1 - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdW1FcWh4SzJhclhySHM4VW9nQmU3UC01cXV3QlNCLV9HWEZJd2lyemZZclVuekJXMU5xWnBUVFZYRlRELXFaT0RpYnh1bzduRm5hVXRRZ1F1WW5oOVRuRlhSMGJxaExOMk1wM19BeEw5bHFRazZiT3ZrREJMZnkxWktQNWF4SFFwbDR6dTA0dGVaaDNvNjRYQnRKZEtiNDBvNUVxR2lzMkxtZGp6VGJ3Qjh3RmlWQm5TdzZBYVVUY1F3NEZwS0JGdFdfZlk5RmpxckRwQkV4ZmRhMjBnR1pOajhXdVAyNnhCTzd5dkY4Qmcyd3hvbzA4WThB0gH_AUFVX3lxTFB5RmJJRWkydlJkOWRYMl9QS240RUJoX2M5VWE2aUgyLUZGckI0dktMWTY3SGlEcS1BVHhYUkItd0VYZnIyZVJ3c1pvZlVJYTNYTFZHMzF4SlA4TEFJNkhob0xiNUJfX3JxQTVlMTlyN2hHSXJzQmgtbmJPZGNLUFpjdWVSbU9tNWVXTl9mTmd3OUxRZmMyTVZaNnI5S0RKdFJFYXVWZHFOTlJnZ2JNQkgxbFlBaVRja0dwYkZpYktoSGt3enZrT3UwcUFNX3JYUTJJQS1HN2JTQTNRQ2dwTGhfeHYzZmc0RzQ0Q1RfWWE0bXM1TlNUcDJ1dzc1Tk0xQQ?oc=5",
+        "title": "ICAI CA Foundation September 2026 result expected to be out soon at caresults.icai.org: Check steps to do - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdXY0Y2NSODloS2RuaXhfZS1NNjdET1lmZS16SkszUF9UVklpSXFwMHlSYmdrMjBtVThiS2xyVmFjd2hUMkZGNnhER0ZPdXFyWHZvSjRobVgyQTZLODRweFVmUE9MdGJWWHk5MHg4RXpDRHJ0X0I5V1k3blpLTFlPT0Ywb3ZKdUxiVHRlNGY4RVJ5b2t2eDZjTm1yTW5tWGpfYVhwVnRXaDViYVZYODYxcG1LRWRtM2g5ZTByZEFaaEdIYUQ3SnBYWkhQVzRpTDI5X0RQTTFYeTNUODdVUm5VME1ZVEZ6eVg1UFF3UGM2cl9uaUV4QS1VLXFCVjhjcTU1TW9iY05LTy1uR1Rna0dINmlDNzNWbENNZUppdExQRDlqaVpw0gGqAkFVX3lxTE16SzRSZm4wcE9QY3hCYVc5M0JRZzY1WXNlcXRCbHN6NkF5SzRKSjRQVjZpTS1fdU43Rzk4bWk4VXVFN1dnRDJMSGllSDJONHF4MjFCZ0Z3S05NS0ZyUEg0RTJldndhZzE1Wnc1WURLTHVDY2pBVFFiX2UtM1p0a2c2RHUydkZJTW9iUDVkeTQ5M0JsNnFpdW5TbFhYMHdkY2Y4RFo1UkRzeTYyWGVEZEhsR2pXN0ppcnAxNVBQdXpYQWo5TlkwVWhiVDJPMkM1U21FcnVnbDJ4ZVBvOGxuamlFOXpGaGxqd1UyRWhnc1V4NkdoZmZsaEJuMS1wdHU2U0hYXzkwY2xUUGFwOGtuWVRfc2ZhRjlvNUVxaVlDMmJjLThSZUZzMnZmZEE?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 22 Oct 2026 05:20:00 GMT"
+        "pubDate": "Sat, 24 Oct 2026 07:11:00 GMT"
       },
       {
         "title": "CA Inter September 2026 Result Today: Here's How To Check - NDTV",
