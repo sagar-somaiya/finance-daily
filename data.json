@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T09:57:45.030908+00:00",
+  "generatedAt": "2026-10-25T14:05:42.963002+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 80237,
-      "chg": -0.36
+      "price": 80283,
+      "chg": -0.45
     },
     "eth": {
-      "price": 2326.21,
-      "chg": -1.6
+      "price": 2331.25,
+      "chg": -1.49
     }
   },
   "fx": {
@@ -89,13 +89,25 @@
   "news": {
     "corp": [
       {
+        "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/135189090.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 25 Oct 2026 16:21:41 +0530"
+      },
+      {
+        "title": "Peter Lynch on stock picking: 'You shouldn't own a stock if you can't…'",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/peter-lynch-on-stock-picking-you-shouldnt-own-a-stock-if-you-cant/articleshow/135188450.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 25 Oct 2026 15:32:51 +0530"
+      },
+      {
         "title": "Mcap of 8 of top-10 firms erodes by Rs 1.55 lakh cr; HDFC Bank, Bajaj Fin biggest laggards",
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-8-of-top-10-firms-erodes-by-rs-1-55-lakh-cr-hdfc-bank-bajaj-fin-biggest-laggards/articleshow/135186713.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Sun, 25 Oct 2026 13:57:13 +0530"
       },
       {
-        "title": "F&amp;O Talk: Nifty plunged 2% this week. Do charts indicate a bearish picture for coming week?",
+        "title": "F&amp;O Talk: Nifty plunged 2% this week. Are charts indicating a deeper sell-off?",
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/fo-talk-nifty-plunged-2-this-week-do-charts-indicate-a-bearish-picture-for-coming-week/articleshow/135186474.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Sun, 25 Oct 2026 13:44:31 +0530"
@@ -135,18 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jioipogmptoday-alleyes-on-telecom-majors-megalisting-this-week-what-is-greymarketsignalling/articleshow/135183339.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Sun, 25 Oct 2026 10:10:04 +0530"
-      },
-      {
-        "title": "IDFC First Bank Q2 profit nearly triples to Rs 1,045 crore",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/idfc-first-bank-q2-profit-nearly-triples-to-rs-1045-cr/articleshow/135182984.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sun, 25 Oct 2026 09:41:15 +0530"
-      },
-      {
-        "title": "Post Jio boost: 5 IPOs to raise Rs 2,581 crore next week alongside India's biggest listing",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/post-jio-boost-5-ipos-to-raise-rs-2581-crore-next-week-alongside-indias-biggest-listing/articleshow/135182846.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sun, 25 Oct 2026 09:30:17 +0530"
       }
     ],
     "acct": [
@@ -160,13 +160,19 @@
         "title": "ICAI Organises Financial Management Training for Kargil Co-ops - Indian Cooperative",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTJkV1p5U0R0YlBadFVzTzhzZ3BrYTlwNlNvaWNZWFdMSEtQSUlIVl8tM2ZEeEVhT01ZSnNqMEcxNXhjZ1JqTTNGSkNBaU9CUGk2R3VockxtMFl2V3J6LXVzT1gxNEE0UER2WjcxczdSa0dlWVRMeVpOaTM3bnlES1FENU1FX0pILWJPTlRqZDZPQUNLNU1kcXAyVmwtZ1kxak1GaGtxM21vNzRBUlVBbndMUTFhVTY3?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sun, 25 Oct 2026 06:11:39 GMT"
+        "pubDate": "Sun, 25 Oct 2026 07:32:04 GMT"
       },
       {
         "title": "ICAI CA Inter September 2026 toppers list: Neel Rajesh Shah and Chandak Sakshi share AIR 1 - The Times of India",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdW1FcWh4SzJhclhySHM4VW9nQmU3UC01cXV3QlNCLV9HWEZJd2lyemZZclVuekJXMU5xWnBUVFZYRlRELXFaT0RpYnh1bzduRm5hVXRRZ1F1WW5oOVRuRlhSMGJxaExOMk1wM19BeEw5bHFRazZiT3ZrREJMZnkxWktQNWF4SFFwbDR6dTA0dGVaaDNvNjRYQnRKZEtiNDBvNUVxR2lzMkxtZGp6VGJ3Qjh3RmlWQm5TdzZBYVVUY1F3NEZwS0JGdFdfZlk5RmpxckRwQkV4ZmRhMjBnR1pOajhXdVAyNnhCTzd5dkY4Qmcyd3hvbzA4WThB0gH_AUFVX3lxTFB5RmJJRWkydlJkOWRYMl9QS240RUJoX2M5VWE2aUgyLUZGckI0dktMWTY3SGlEcS1BVHhYUkItd0VYZnIyZVJ3c1pvZlVJYTNYTFZHMzF4SlA4TEFJNkhob0xiNUJfX3JxQTVlMTlyN2hHSXJzQmgtbmJPZGNLUFpjdWVSbU9tNWVXTl9mTmd3OUxRZmMyTVZaNnI5S0RKdFJFYXVWZHFOTlJnZ2JNQkgxbFlBaVRja0dwYkZpYktoSGt3enZrT3UwcUFNX3JYUTJJQS1HN2JTQTNRQ2dwTGhfeHYzZmc0RzQ0Q1RfWWE0bXM1TlNUcDJ1dzc1Tk0xQQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 22 Oct 2026 05:20:00 GMT"
+      },
+      {
+        "title": "IFRS 18: What companies need to know now - RSM US LLP",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOG5YUDJQM2RqelpLWHJCblRaR0hFQ1hhaGRKNUtDWGYzNUdCa3RmY3FGeW9WRk1KaGdZSmlRUTc4WWNCVW1TYlowdkxMa1JkQ3VEbE9VUkt0X2IweUZDeDlCNXdleXRMNW1DTEszS3RZOFNsMDdOWS1BcWVpTGFDWkFpc3UwbG9YdndGTjB3?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sat, 24 Oct 2026 18:11:05 GMT"
       },
       {
         "title": "Getting ready for IFRS 18 - kpmg.com",
@@ -203,12 +209,6 @@
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN2ZUazF4WFhnYWtHUTNJdDE3RFVxOUVZLV85WWpya2hocFRvRE5Pc2ZBN0laeDlVN1dXSDN0QXZMbC1hUkhpWlpYeEFtQmJvMi1LN2VQaGhzNk50bm1pR3VsdUxIVF9pYzNadldrWTNRV1pKZEFQRVNxLUpjMDhHLWRRWTRxSnZUNFpjZnZvVl9OcTZkMDJrTE93eExyTUFHdnhkekx1Y1I1aWpKRkU2dGJtcXFQOVdvM1N2OWR4SUtkQVVIWE1NQ3pyYWxETE9WUWd1NWF6UTJtcUtsSjBFOEQ0OThmQdIB6wFBVV95cUxNbklPUWJiQXZFR3ZnQlp5TkdmeFFUTDEydnhUV2Fnd0NKLS1XQ25ONGNROTE5Mm9NSVpnRkU5SHNxTDJRS09Namp6QklRR0dNdTRtcG1ubUhuajVweHExVGR0Ui1fV1dyT2lKQnNCU2dHRU5oM252QlZYc1I2TnlJNkFkSW0tam5uRTc2VHg4T0UxZm53UzhmYmNRWGx1S2F4QnE1X01oRG5TRGZlSkRhYkJWZ1dkMkdQZ19BVDliZzJqNEpxX3Rud3FLY2NnVFJiYk45bkF5S0Ixd0ZZOWc5cjIzc0FDZFNzNVRj?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 21 Oct 2026 10:01:49 GMT"
-      },
-      {
-        "title": "ICAI CA Inter September 2026 Toppers List Out; Neel Rajesh Shah, Chandak Sakshi Share AIR 1 - Telegraph India",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcUpPQ1NoSzdVRnBPZ2VxUjZDcm12RFB3cXJrS2lhaEtramR3WldoZzdHS0M5NFUzZi1IbFNUMWVSV0F5QkkzTWRTMjM2dXdXek1LZmlYbWFaOE9fTFpybnY0VFNKS3JPN0VQVmFtbElzeVdlckg1RTg5MFoxcF9CdUVoT0kwT1IwQVBBZWw3LWJwTFJLbFcybnpCR3JCZV9WdGlleXBRazRFYjNFR1pzSDFhaVJVY2JNTEdsS0xTNVo3TVB6elhsN0NxNG5PbTRzc2NZSi1rcTlxZWtuMUFB0gHkAUFVX3lxTFBZdHVyTUlNcEZkODc5MWF1M01qTzJPSzFZNmRQYzB1bmExdENZcE5ONjZQaUx6MmFxN09MVU82LThJSXdKT1d2VzNqcmNwVDB2OURpRU9IZ1FYVXJsaGgzbEEzd1Z4NldXb1RTWXN5ZGFSQ0FWZUduc1lnTFpJZF9oa3VwNklrVjlhdUpjUFoxYWl0VUs1ZlhsYndzY3R3QndZcEkwSy1fMHIwdEJsekRSeWVmMTZfTU52d3ZDSUpRcWFJV2lVUWI1UEVNNURXODNwbkxqbDB6WjNzMS0xTjdZUFpiVw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 22 Oct 2026 06:54:15 GMT"
       }
     ]
   }
