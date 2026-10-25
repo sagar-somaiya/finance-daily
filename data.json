@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T20:09:33.484350+00:00",
+  "generatedAt": "2026-10-25T22:41:52.655593+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 80481,
-      "chg": -0.01
+      "price": 80451,
+      "chg": -0.1
     },
     "eth": {
-      "price": 2347.36,
-      "chg": 0.18
+      "price": 2342.98,
+      "chg": 0.04
     }
   },
   "fx": {
@@ -151,22 +151,28 @@
     ],
     "acct": [
       {
+        "title": "Ind AS 118: India Inc gears up for big changes to financial reporting - The Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaGpQNHFsMklJMzBEX2lfNll2U2dpOXdaTnFvTnhhY25VWHRCUlFXYjJabHViZTRHWi1QcFplcEItWS1jTGNHYTRQb1ZFSFFtb1ZLeVBkNDZIbEVLblIzUXRWQmh2aXNqVU9Yb3FxeUFITUU1LXFYTFAwaHl3eTdsbFF6bEdBUk95em1IN21Lb01DWlFhWXlJOFdpMHNjUVpQUUJDb2tjYlNLMFNJZEdoYUlxT0VwZmtnYUxUQnNPWVkzS3ZhSXFWaTdWTnBKaHRzcTJMQXE3a1RjNVloQ19vSnJfRzNreGVOa2REUEFQOHdQMHVVT3VJ0gH8AUFVX3lxTE04WGV1ZWRFYXZib0ZnNzg4dUVTSGhQaE54RlZ1Tk85X3h2OG5ORFVaZnpNUExfVjg5MGVIT3JJMndYSTJqVUxoNFd5VFVLMXlNWGw4UWJXaFh5dFk5enNoRk5XWlRjRTdmRFI0M285WDlYYVJ5cTBPYW5DSmFWLWZBbW5UQjVoWGRQbFlxSmFkQ2RCVi1FN1RHNlRuVXI2c253dFIwQ2NwTFBVeXAySlhjTkZjamJGcHlwOGdHVHNjcFRpTl9LaWdzN18wOTRJT1BUSFEyX2NkMHVNNWxteU9adl9BVDQ2YW1rZ0x4OUZNbmZtcTdGbzQybDJjZA?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sun, 25 Oct 2026 20:08:55 GMT"
+      },
+      {
         "title": "CA Foundation September 2026 Result Expected Soon; Check Latest Update - NDTV",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZm9WOVVvb0VmWnpMbXF6Q0FJellObTJaU1ZERXZVemliSzJjLWZrSmg3cUxmcUwtbmtra1RJc0ZydjdtcVd1R2hQTUd0RFEzendTQnpsR0lFN2ZOZFFudUlGOVc4cFdNMUdKdXpIYUhYaTNIaVQ4VklWeU9UN2VIODJtU214cl9PYTVrMTlCd2tqdk55N2pxRWhaRUlINF9rRUo1TE5LVmNqSWZCN3fSAbYBQVVfeXFMTlFCcGNnT21zX250bHktUVZYckp1Y3pOVG1GRXdzVnRfSC1nb184RDBfTEZ0bExadVlmbjNGNnBYOHlhdjQyUmtzUzZIbEloVWY5eTFVSFFCNEd0Z2pGYm45MHhpemZtOWJ2Mkd6SjUwVWpoUThkcEFNSEo0VnM1WTN0R2RwNzFSdDVHcW41TlFNVlVpSTFHVkVIOWtITFYwRnpUb0hSQWY2MXY4ekh1SnExenc5a0E?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Sun, 25 Oct 2026 05:43:16 GMT"
       },
       {
-        "title": "ICAI Organises Financial Management Training for Kargil Co-ops - Indian Cooperative",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTJkV1p5U0R0YlBadFVzTzhzZ3BrYTlwNlNvaWNZWFdMSEtQSUlIVl8tM2ZEeEVhT01ZSnNqMEcxNXhjZ1JqTTNGSkNBaU9CUGk2R3VockxtMFl2V3J6LXVzT1gxNEE0UER2WjcxczdSa0dlWVRMeVpOaTM3bnlES1FENU1FX0pILWJPTlRqZDZPQUNLNU1kcXAyVmwtZ1kxak1GaGtxM21vNzRBUlVBbndMUTFhVTY3?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sun, 25 Oct 2026 07:32:04 GMT"
-      },
-      {
         "title": "ICAI CA Inter September 2026 toppers list: Neel Rajesh Shah and Chandak Sakshi share AIR 1 - The Times of India",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdW1FcWh4SzJhclhySHM4VW9nQmU3UC01cXV3QlNCLV9HWEZJd2lyemZZclVuekJXMU5xWnBUVFZYRlRELXFaT0RpYnh1bzduRm5hVXRRZ1F1WW5oOVRuRlhSMGJxaExOMk1wM19BeEw5bHFRazZiT3ZrREJMZnkxWktQNWF4SFFwbDR6dTA0dGVaaDNvNjRYQnRKZEtiNDBvNUVxR2lzMkxtZGp6VGJ3Qjh3RmlWQm5TdzZBYVVUY1F3NEZwS0JGdFdfZlk5RmpxckRwQkV4ZmRhMjBnR1pOajhXdVAyNnhCTzd5dkY4Qmcyd3hvbzA4WThB0gH_AUFVX3lxTFB5RmJJRWkydlJkOWRYMl9QS240RUJoX2M5VWE2aUgyLUZGckI0dktMWTY3SGlEcS1BVHhYUkItd0VYZnIyZVJ3c1pvZlVJYTNYTFZHMzF4SlA4TEFJNkhob0xiNUJfX3JxQTVlMTlyN2hHSXJzQmgtbmJPZGNLUFpjdWVSbU9tNWVXTl9mTmd3OUxRZmMyTVZaNnI5S0RKdFJFYXVWZHFOTlJnZ2JNQkgxbFlBaVRja0dwYkZpYktoSGt3enZrT3UwcUFNX3JYUTJJQS1HN2JTQTNRQ2dwTGhfeHYzZmc0RzQ0Q1RfWWE0bXM1TlNUcDJ1dzc1Tk0xQQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 22 Oct 2026 05:20:00 GMT"
+      },
+      {
+        "title": "ICAI Organises Financial Management Training for Kargil Co-ops - Indian Cooperative",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTJkV1p5U0R0YlBadFVzTzhzZ3BrYTlwNlNvaWNZWFdMSEtQSUlIVl8tM2ZEeEVhT01ZSnNqMEcxNXhjZ1JqTTNGSkNBaU9CUGk2R3VockxtMFl2V3J6LXVzT1gxNEE0UER2WjcxczdSa0dlWVRMeVpOaTM3bnlES1FENU1FX0pILWJPTlRqZDZPQUNLNU1kcXAyVmwtZ1kxak1GaGtxM21vNzRBUlVBbndMUTFhVTY3?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sun, 25 Oct 2026 07:32:04 GMT"
       },
       {
         "title": "Getting ready for IFRS 18 - kpmg.com",
@@ -203,12 +209,6 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON29ZWFk2blpUaC1qN3Y3WWM1NTgtRVZVNVpGLVpvS0dhUENvZDcxLTN5R1UwXzZyVVNlZEJ3LTY5VFZLSWtjQ2tLb01uTFpiMmtoVktrZGxpbklQN1MzQmh4ZmpZWFBSaUlkZV9RMFlHcVVNVTZlVDJncjVFX3Y5cWx2OE1Fb3ZmTGx0ZGo2N2Zic0ktaFRxUGx1Nk1nVHhZaGNhNXln?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 23 Oct 2026 13:40:10 GMT"
-      },
-      {
-        "title": "CA Inter Result 2026 (OUT) LIVE: ICAI CA September results at caresults.icai.org; two students grab AIR 1 - Careers360",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN2ZUazF4WFhnYWtHUTNJdDE3RFVxOUVZLV85WWpya2hocFRvRE5Pc2ZBN0laeDlVN1dXSDN0QXZMbC1hUkhpWlpYeEFtQmJvMi1LN2VQaGhzNk50bm1pR3VsdUxIVF9pYzNadldrWTNRV1pKZEFQRVNxLUpjMDhHLWRRWTRxSnZUNFpjZnZvVl9OcTZkMDJrTE93eExyTUFHdnhkekx1Y1I1aWpKRkU2dGJtcXFQOVdvM1N2OWR4SUtkQVVIWE1NQ3pyYWxETE9WUWd1NWF6UTJtcUtsSjBFOEQ0OThmQdIB6wFBVV95cUxNbklPUWJiQXZFR3ZnQlp5TkdmeFFUTDEydnhUV2Fnd0NKLS1XQ25ONGNROTE5Mm9NSVpnRkU5SHNxTDJRS09Namp6QklRR0dNdTRtcG1ubUhuajVweHExVGR0Ui1fV1dyT2lKQnNCU2dHRU5oM252QlZYc1I2TnlJNkFkSW0tam5uRTc2VHg4T0UxZm53UzhmYmNRWGx1S2F4QnE1X01oRG5TRGZlSkRhYkJWZ1dkMkdQZ19BVDliZzJqNEpxX3Rud3FLY2NnVFJiYk45bkF5S0Ixd0ZZOWc5cjIzc0FDZFNzNVRj?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 21 Oct 2026 10:01:49 GMT"
       }
     ]
   }
