@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T00:52:04.624944+00:00",
+  "generatedAt": "2026-10-26T05:36:24.816733+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 79941,
-      "chg": -1.06
+      "price": 80085,
+      "chg": -0.71
     },
     "eth": {
-      "price": 2320.91,
-      "chg": -1.6
+      "price": 2320.33,
+      "chg": -1.57
     }
   },
   "fx": {
@@ -89,67 +89,73 @@
   "news": {
     "corp": [
       {
-        "title": "India valuations hit six-year low, but more expensive than EM peers",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-valuations-hit-six-year-low-but-more-expensive-than-em-peers/articleshow/135200136.cms",
+        "title": "Bharat Coking Coal shares rally 5% after Q2 profit turnaround; revenue jumps 39% YoY",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-coking-coal-shares-rally-5-after-q2-profit-turnaround-revenue-jumps-39-yoy/articleshow/135203231.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 26 Oct 2026 06:07:25 +0530"
+        "pubDate": "Mon, 26 Oct 2026 10:38:13 +0530"
       },
       {
-        "title": "Pre-market action: Here's the trade setup for today's session",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135199481.cms",
+        "title": "Global Market: Japan's Nikkei falls for third straight session as chip stocks slide",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-falls-for-third-straight-session-as-chip-stocks-slide/articleshow/135203127.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 26 Oct 2026 06:00:00 +0530"
+        "pubDate": "Mon, 26 Oct 2026 10:29:31 +0530"
       },
       {
-        "title": "Stocks in news: Infosys, Kotak Mahindra Bank, YES Bank, Raymond, BPCL, Coforge and Senco Gold",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-kotak-mahindra-bank-yes-bank-raymond-bpcl-coforge-and-senco-gold/articleshow/135195002.cms",
+        "title": "US stocks face crucial test as AI earnings, Fed meeting loom",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-face-crucial-test-as-ai-earnings-fed-meeting-loom/articleshow/135203072.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 26 Oct 2026 06:00:00 +0530"
+        "pubDate": "Mon, 26 Oct 2026 10:24:37 +0530"
       },
       {
-        "title": "BlackRock stays cautious on Indian equities despite cheaper valuations",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/blackrock-stays-cautious-on-indian-equities-despite-cheaper-valuations/articleshow/135200058.cms",
+        "title": "Sensex rises 200 pts, Nifty above 22,600 as market snaps 4-day losing streak. Is the relief rally sustainable?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-200-pts-nifty-above-22600-as-market-snaps-4-day-losing-streak-is-the-relief-rally-sustainable/articleshow/135203034.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 26 Oct 2026 05:53:31 +0530"
+        "pubDate": "Mon, 26 Oct 2026 10:22:44 +0530"
       },
       {
-        "title": "IPO rush continues: 9 issues to raise Rs 2,768 crore this week",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-rush-continues-9-issues-to-raise-rs-2768-crore-this-week/articleshow/135199752.cms",
+        "title": "Rupee falls 5 paise to 94.98 against US dollar in early trade",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-5-paise-to-94-98-against-us-dollar-in-early-trade/articleshow/135203047.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 26 Oct 2026 05:41:58 +0530"
+        "pubDate": "Mon, 26 Oct 2026 10:19:21 +0530"
       },
       {
-        "title": "Nifty outlook bearish, but near-term recovery in sight: Analysts",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-outlook-can-the-index-rebound-despite-bearish-signals/articleshow/135199446.cms",
+        "title": "Holcim lifts guidance again on strong demand",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/holcim-lifts-guidance-again-on-strong-demand/articleshow/135202905.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 26 Oct 2026 05:31:01 +0530"
+        "pubDate": "Mon, 26 Oct 2026 10:12:15 +0530"
       },
       {
-        "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/135189090.cms",
+        "title": "AU Small Finance Bank shares tumble 10% after Q2 results, but Jefferies and Motilal see up to 37% upside",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/au-small-finance-bank-shares-tumble-10-after-q2-results-but-jefferies-and-motilal-see-up-to-37-upside/articleshow/135202907.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 25 Oct 2026 16:21:41 +0530"
+        "pubDate": "Mon, 26 Oct 2026 10:11:03 +0530"
       },
       {
-        "title": "Peter Lynch on stock picking: 'You shouldn't own a stock if you can't…'",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/peter-lynch-on-stock-picking-you-shouldnt-own-a-stock-if-you-cant/articleshow/135188450.cms",
+        "title": "Shriram Finance shares crash 6% as Jefferies, Citi, and other brokerages slash target prices after Q2 results. Why do they still say ‘Buy’?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/shriram-finance-shares-crash-6-as-jefferies-citi-and-other-brokerages-slash-target-prices-after-q2-results-why-do-they-still-say-buy/articleshow/135202853.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 25 Oct 2026 15:32:51 +0530"
+        "pubDate": "Mon, 26 Oct 2026 10:06:47 +0530"
       },
       {
-        "title": "Mcap of 8 of top-10 firms erodes by Rs 1.55 lakh cr; HDFC Bank, Bajaj Fin biggest laggards",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-8-of-top-10-firms-erodes-by-rs-1-55-lakh-cr-hdfc-bank-bajaj-fin-biggest-laggards/articleshow/135186713.cms",
+        "title": "Paras Healthcare allotment likely today: Check GMP, key details and how to check status",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/paras-healthcare-allotment-likely-today-check-gmp-key-details-and-how-to-check-status/articleshow/135202716.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 25 Oct 2026 13:57:13 +0530"
+        "pubDate": "Mon, 26 Oct 2026 10:00:34 +0530"
       },
       {
-        "title": "F&amp;O Talk: Nifty plunged 2% this week. Are charts indicating a deeper sell-off?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fo-talk-nifty-plunged-2-this-week-do-charts-indicate-a-bearish-picture-for-coming-week/articleshow/135186474.cms",
+        "title": "Coforge slips 3% even as Jefferies, Nomura, others raise targets after Q2 earnings. Why are they bullish?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-slips-3-even-as-jefferies-nomura-others-raise-targets-after-q2-earnings-why-are-they-bullish/articleshow/135202672.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 25 Oct 2026 13:44:31 +0530"
+        "pubDate": "Mon, 26 Oct 2026 09:57:33 +0530"
       }
     ],
     "acct": [
+      {
+        "title": "Wolters Kluwer selected by IFFCO Tokio General Insurance to support Ind AS 117 and Ind AS 116 compliance with CCH® Tagetik - Yahoo Finance Singapore",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZTRBT0U4Q0lFSHB2VWVNa0NhWDJkLU10bVdaalFLRDg0XzlQTEFBTnVJUm5pRk95TE1VUXhnSHpKQnE4ZzNPVEsyY2dOSWVCdHFTbW84YzlnVDhFNUFnb0RvSGh6Y2tOTTNhU1AyZ3JxZ2tNYlJxY0RGOWtXdjdYeUlacDhzMF8xMXIzTA?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 26 Oct 2026 04:30:00 GMT"
+      },
       {
         "title": "Ind AS 118: India Inc gears up for big changes to financial reporting - The Economic Times",
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaGpQNHFsMklJMzBEX2lfNll2U2dpOXdaTnFvTnhhY25VWHRCUlFXYjJabHViZTRHWi1QcFplcEItWS1jTGNHYTRQb1ZFSFFtb1ZLeVBkNDZIbEVLblIzUXRWQmh2aXNqVU9Yb3FxeUFITUU1LXFYTFAwaHl3eTdsbFF6bEdBUk95em1IN21Lb01DWlFhWXlJOFdpMHNjUVpQUUJDb2tjYlNLMFNJZEdoYUlxT0VwZmtnYUxUQnNPWVkzS3ZhSXFWaTdWTnBKaHRzcTJMQXE3a1RjNVloQ19vSnJfRzNreGVOa2REUEFQOHdQMHVVT3VJ0gH8AUFVX3lxTE04WGV1ZWRFYXZib0ZnNzg4dUVTSGhQaE54RlZ1Tk85X3h2OG5ORFVaZnpNUExfVjg5MGVIT3JJMndYSTJqVUxoNFd5VFVLMXlNWGw4UWJXaFh5dFk5enNoRk5XWlRjRTdmRFI0M285WDlYYVJ5cTBPYW5DSmFWLWZBbW5UQjVoWGRQbFlxSmFkQ2RCVi1FN1RHNlRuVXI2c253dFIwQ2NwTFBVeXAySlhjTkZjamJGcHlwOGdHVHNjcFRpTl9LaWdzN18wOTRJT1BUSFEyX2NkMHVNNWxteU9adl9BVDQ2YW1rZ0x4OUZNbmZtcTdGbzQybDJjZA?oc=5",
@@ -157,22 +163,10 @@
         "pubDate": "Sun, 25 Oct 2026 20:08:55 GMT"
       },
       {
-        "title": "CA Foundation September 2026 Result Expected Soon; Check Latest Update - NDTV",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZm9WOVVvb0VmWnpMbXF6Q0FJellObTJaU1ZERXZVemliSzJjLWZrSmg3cUxmcUwtbmtra1RJc0ZydjdtcVd1R2hQTUd0RFEzendTQnpsR0lFN2ZOZFFudUlGOVc4cFdNMUdKdXpIYUhYaTNIaVQ4VklWeU9UN2VIODJtU214cl9PYTVrMTlCd2tqdk55N2pxRWhaRUlINF9rRUo1TE5LVmNqSWZCN3fSAbYBQVVfeXFMTlFCcGNnT21zX250bHktUVZYckp1Y3pOVG1GRXdzVnRfSC1nb184RDBfTEZ0bExadVlmbjNGNnBYOHlhdjQyUmtzUzZIbEloVWY5eTFVSFFCNEd0Z2pGYm45MHhpemZtOWJ2Mkd6SjUwVWpoUThkcEFNSEo0VnM1WTN0R2RwNzFSdDVHcW41TlFNVlVpSTFHVkVIOWtITFYwRnpUb0hSQWY2MXY4ekh1SnExenc5a0E?oc=5",
+        "title": "ICAI CA Foundation September 2026 result expected to be out soon at caresults.icai.org: Check steps to do - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdXY0Y2NSODloS2RuaXhfZS1NNjdET1lmZS16SkszUF9UVklpSXFwMHlSYmdrMjBtVThiS2xyVmFjd2hUMkZGNnhER0ZPdXFyWHZvSjRobVgyQTZLODRweFVmUE9MdGJWWHk5MHg4RXpDRHJ0X0I5V1k3blpLTFlPT0Ywb3ZKdUxiVHRlNGY4RVJ5b2t2eDZjTm1yTW5tWGpfYVhwVnRXaDViYVZYODYxcG1LRWRtM2g5ZTByZEFaaEdIYUQ3SnBYWkhQVzRpTDI5X0RQTTFYeTNUODdVUm5VME1ZVEZ6eVg1UFF3UGM2cl9uaUV4QS1VLXFCVjhjcTU1TW9iY05LTy1uR1Rna0dINmlDNzNWbENNZUppdExQRDlqaVpw0gGqAkFVX3lxTE16SzRSZm4wcE9QY3hCYVc5M0JRZzY1WXNlcXRCbHN6NkF5SzRKSjRQVjZpTS1fdU43Rzk4bWk4VXVFN1dnRDJMSGllSDJONHF4MjFCZ0Z3S05NS0ZyUEg0RTJldndhZzE1Wnc1WURLTHVDY2pBVFFiX2UtM1p0a2c2RHUydkZJTW9iUDVkeTQ5M0JsNnFpdW5TbFhYMHdkY2Y4RFo1UkRzeTYyWGVEZEhsR2pXN0ppcnAxNVBQdXpYQWo5TlkwVWhiVDJPMkM1U21FcnVnbDJ4ZVBvOGxuamlFOXpGaGxqd1UyRWhnc1V4NkdoZmZsaEJuMS1wdHU2U0hYXzkwY2xUUGFwOGtuWVRfc2ZhRjlvNUVxaVlDMmJjLThSZUZzMnZmZEE?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sun, 25 Oct 2026 05:43:16 GMT"
-      },
-      {
-        "title": "ICAI CA Inter September 2026 toppers list: Neel Rajesh Shah and Chandak Sakshi share AIR 1 - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdW1FcWh4SzJhclhySHM4VW9nQmU3UC01cXV3QlNCLV9HWEZJd2lyemZZclVuekJXMU5xWnBUVFZYRlRELXFaT0RpYnh1bzduRm5hVXRRZ1F1WW5oOVRuRlhSMGJxaExOMk1wM19BeEw5bHFRazZiT3ZrREJMZnkxWktQNWF4SFFwbDR6dTA0dGVaaDNvNjRYQnRKZEtiNDBvNUVxR2lzMkxtZGp6VGJ3Qjh3RmlWQm5TdzZBYVVUY1F3NEZwS0JGdFdfZlk5RmpxckRwQkV4ZmRhMjBnR1pOajhXdVAyNnhCTzd5dkY4Qmcyd3hvbzA4WThB0gH_AUFVX3lxTFB5RmJJRWkydlJkOWRYMl9QS240RUJoX2M5VWE2aUgyLUZGckI0dktMWTY3SGlEcS1BVHhYUkItd0VYZnIyZVJ3c1pvZlVJYTNYTFZHMzF4SlA4TEFJNkhob0xiNUJfX3JxQTVlMTlyN2hHSXJzQmgtbmJPZGNLUFpjdWVSbU9tNWVXTl9mTmd3OUxRZmMyTVZaNnI5S0RKdFJFYXVWZHFOTlJnZ2JNQkgxbFlBaVRja0dwYkZpYktoSGt3enZrT3UwcUFNX3JYUTJJQS1HN2JTQTNRQ2dwTGhfeHYzZmc0RzQ0Q1RfWWE0bXM1TlNUcDJ1dzc1Tk0xQQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 22 Oct 2026 05:20:00 GMT"
-      },
-      {
-        "title": "ICAI Organises Financial Management Training for Kargil Co-ops - Indian Cooperative",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTJkV1p5U0R0YlBadFVzTzhzZ3BrYTlwNlNvaWNZWFdMSEtQSUlIVl8tM2ZEeEVhT01ZSnNqMEcxNXhjZ1JqTTNGSkNBaU9CUGk2R3VockxtMFl2V3J6LXVzT1gxNEE0UER2WjcxczdSa0dlWVRMeVpOaTM3bnlES1FENU1FX0pILWJPTlRqZDZPQUNLNU1kcXAyVmwtZ1kxak1GaGtxM21vNzRBUlVBbndMUTFhVTY3?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sun, 25 Oct 2026 07:32:04 GMT"
+        "pubDate": "Sat, 24 Oct 2026 07:11:00 GMT"
       },
       {
         "title": "Getting ready for IFRS 18 - kpmg.com",
@@ -187,13 +181,13 @@
         "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "SAP Announces Q3 2026 Results - SAP News Center",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NV3E4YXYtbUhqSzhBRE5Xd1NLX0t5bHJGZ2I4NFl4N1Y2WVRXTHN5cDhLSnBoWkFnemI5TXdMRnlydElOU3lVaXVjZXhyT01HSUg3OUM0UlU4S2ZEb2FwcnpiczhwbFd4dzAw0gFzQVVfeXFMUGFyVUNrcW9nMV9xUVo4VFlUZ05kWlJHd0NtQWZtQzVjcUlDX01ZdElyYXgyVmd2TDR2YnNIQ1hSSmtObGliWDhUR1hqVkF4QnV1bElPemw0ck5Ha1AwcUgtaVVOWnBJV2xZamdIYnd5OXU2UQ?oc=5",
+        "title": "ICAI Organises Financial Management Training for Kargil Co-ops - Indian Cooperative",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZTJkV1p5U0R0YlBadFVzTzhzZ3BrYTlwNlNvaWNZWFdMSEtQSUlIVl8tM2ZEeEVhT01ZSnNqMEcxNXhjZ1JqTTNGSkNBaU9CUGk2R3VockxtMFl2V3J6LXVzT1gxNEE0UER2WjcxczdSa0dlWVRMeVpOaTM3bnlES1FENU1FX0pILWJPTlRqZDZPQUNLNU1kcXAyVmwtZ1kxak1GaGtxM21vNzRBUlVBbndMUTFhVTY3?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 21 Oct 2026 20:11:39 GMT"
+        "pubDate": "Sun, 25 Oct 2026 07:32:04 GMT"
       },
       {
-        "title": "IFRS 18: What companies need to know now - RSM US LLP",
+        "title": "IFRS 18: What companies need to know now - RSM US",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOG5YUDJQM2RqelpLWHJCblRaR0hFQ1hhaGRKNUtDWGYzNUdCa3RmY3FGeW9WRk1KaGdZSmlRUTc4WWNCVW1TYlowdkxMa1JkQ3VEbE9VUkt0X2IweUZDeDlCNXdleXRMNW1DTEszS3RZOFNsMDdOWS1BcWVpTGFDWkFpc3UwbG9YdndGTjB3?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Sat, 24 Oct 2026 18:11:05 GMT"
@@ -203,6 +197,12 @@
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaEJQeEZiaEEyRHVnZUhmSExuUU5SVWJrRkZaZ1VzUkhCc21Gdi1hT1N2UzZqVzJZal9BcFh0VEJ6RUV1TzRCTGlCdGhNMzJxNWJpYVBIeGk2T1hSX0owaFpBMjBORERCaDhaMzdTaG1ib2R4V1VsOGEtRmt2M09NRUFadTFqN2k5S3lfU3NqUXRNOHBpbGJmVXctbklZTGcyaHBNVFdhREY5Z2NSeHVKbnhhSXc2clJFdEpjZnY4dHY0ajZ3NHdsbExEY0huWDN4WTdZTXpnNmt1OER4VlRlRDdPckpJU05i0gHuAUFVX3lxTE9GRTVWd0NESjUwUGc0aDk3dDktS0dCSnlRbjd6ejF6VS1scEFVOURvUmZwZVoxTlNxVXUwM2o5UmlQamxxa2QxMm9MaFB4UWhKTERlcndkZVlIbTdxaUdLbDM0UndTXzBXdncyNTZCZ0lFY3pjNkFWQmt0NUE4TDhfNDBDanhwVW8yaUN5ZEtBWmhCcVp6T0NVMFJKQ3drc2VpckEwd2Rid0laOG8wSEsyTnIzNWRmSEh6aUFsN192ZlZiRFRuRTB3RU5vSGFKcTBSLUIzdFB5STlxUElxOUdRVDNYM0Y5SEhaVEZwd0E?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 22 Oct 2026 01:30:38 GMT"
+      },
+      {
+        "title": "SAP Announces Q3 2026 Results - SAP News Center",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NV3E4YXYtbUhqSzhBRE5Xd1NLX0t5bHJGZ2I4NFl4N1Y2WVRXTHN5cDhLSnBoWkFnemI5TXdMRnlydElOU3lVaXVjZXhyT01HSUg3OUM0UlU4S2ZEb2FwcnpiczhwbFd4dzAw0gFzQVVfeXFMUGFyVUNrcW9nMV9xUVo4VFlUZ05kWlJHd0NtQWZtQzVjcUlDX01ZdElyYXgyVmd2TDR2YnNIQ1hSSmtObGliWDhUR1hqVkF4QnV1bElPemw0ck5Ha1AwcUgtaVVOWnBJV2xZamdIYnd5OXU2UQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 21 Oct 2026 20:11:39 GMT"
       },
       {
         "title": "ICAI CA Intermediate results: Hyderabad’s Qutub Riyan bags All India 11th rank - Telangana Today",
