@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T18:48:24.411008+00:00",
+  "generatedAt": "2026-10-27T22:45:20.440708+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 80601,
-      "chg": 0.67
+      "price": 80782,
+      "chg": 1.12
     },
     "eth": {
-      "price": 2345.34,
-      "chg": 1.15
+      "price": 2347.53,
+      "chg": 1.61
     }
   },
   "fx": {
@@ -88,6 +88,24 @@
   },
   "news": {
     "corp": [
+      {
+        "title": "US stocks today: US stocks end higher as AI rally lifts Nasdaq ahead of Fed decision",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-ai-rally-lifts-nasdaq-ahead-of-fed-decision/articleshow/135245403.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 28 Oct 2026 01:46:54 +0530"
+      },
+      {
+        "title": "NYSE bets on all-or-nothing options as event driven trading gains traction",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nyse-bets-on-binary-options-as-event-driven-trading-gains-traction/articleshow/135244896.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 28 Oct 2026 00:48:34 +0530"
+      },
+      {
+        "title": "Boeing cuts delivery target, shares hit 18-month low as recovery takes longer",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/boeing-cuts-delivery-target-shares-hit-18-month-low-as-recovery-takes-longer/articleshow/135243808.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 28 Oct 2026 00:00:07 +0530"
+      },
       {
         "title": "Prediction market Kalshi expands safeguards for young traders",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/prediction-market-kalshi-expands-safeguards-for-young-traders/articleshow/135241699.cms",
@@ -129,32 +147,14 @@
         "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/united-breweries-q2-results-profit-jumps-nearly-3-times-to-rs-134-crore-on-volume-growth-premiumisation/articleshow/135240644.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Tue, 27 Oct 2026 22:09:32 +0530"
-      },
-      {
-        "title": "SBI Life Insurance Q2 Results: Net profit grows 11% YoY to Rs 549 crore",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-life-insurance-q2-results-net-profit-grows-11-yoy-to-rs-549-crore/articleshow/135240500.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 27 Oct 2026 22:01:57 +0530"
-      },
-      {
-        "title": "Tata Capital Q2 net profit rises 51% on higher income",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-capital-q2-net-profit-rises-51-on-higher-income/articleshow/135239343.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 27 Oct 2026 21:11:07 +0530"
-      },
-      {
-        "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135239298.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 27 Oct 2026 21:07:19 +0530"
       }
     ],
     "acct": [
       {
-        "title": "IFFCO Tokio General Insurance selects CCH Tagetik to support Ind AS 117 and Ind AS 116 compliance - Wolters Kluwer",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ2FGY3hKRFNBYndXMDNRZUpYekxmejNZc3hyeVlWODgxRmM5aGZzMmFBRVZieGhQNlNxRk44VlZZSU1mYTlQWWlmMHBZUzNqQld0WmJnYVdueGV3RkRXVmZSVEV4Q05XVFFOT3JERG5uZVhfN3ZMSmJZbTZMZXNwSXVjbi1MUktqLUZpQ3ZUTldta3ZKNnJJZ0NiWmVFVHFHT2FibUFrU1VmYkNWa0M1QXgteGRzcWNTS09kQm1EMlFFYXcwR2lpb1luNXNkWjM1czB3UkFmdw?oc=5",
+        "title": "IFRS 18 vs. IAS 1: What Investment Funds Need to Know - EisnerAmper",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV19HTlJRWW9YWHpQcHpDa0VMOWJhaVA1T05NWmcxMzJLSE5NVVpOQU5lSE55ejlzLVVWN2R0WW9IQ2NOd05kYVA2WEs3Yl9nQmdoVEVDUGdEdzI0Yk1YalV6QkNEMVQ5RVR4eXU4LUk2U1ptZ1FXUTZzS1d3MUctRFhQa2gxOUIwRDdvVFJmcnV4VzYzR1VvVEI5VQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 26 Oct 2026 10:26:29 GMT"
+        "pubDate": "Tue, 27 Oct 2026 17:06:01 GMT"
       },
       {
         "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - cfo.economictimes.indiatimes.com",
@@ -169,10 +169,22 @@
         "pubDate": "Mon, 26 Oct 2026 08:23:19 GMT"
       },
       {
+        "title": "Wolters Kluwer selected by IFFCO Tokio General Insurance to support Ind AS 117 and Ind AS 116 compliance with CCH® Tagetik - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWZXbWxVOC1ZZEtGS1lNekZ4ODdrRjJMMXFWUEJZMkhkVm1rbjUtUXZoVHhRdkNONkpqODNEN1ViZVFSVDZramZjOTlneG5ZejdZWGhGbkVma3N4cDRVR09pR0wwMTFlbDlRSXhzNzNvWDh2NUoyT0JIWWltWmZfUERERmdUVHFKMjlZeEtsaUlRWmU2dXhGQkVQMi0?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 26 Oct 2026 04:30:00 GMT"
+      },
+      {
         "title": "Getting ready for IFRS 18 - kpmg.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm1Idm5QWU1kM2hSQ2RjQWdzZ0U1ZnBIb2ZieThWZEs3Y0ZHV1BKVWowNTJUWDZwbDVkanBtN1BBbWlCb1g4aTdINXZvNFdfaWZwNXRvSzA3ODkyQVRRQjZJdnlQYWkzQnhKdXM3QXhGUFkzR3BRZ1FPWGZEWUZ3aTB5TDlsZ2dWbmJKSVVJYktiVVh4MzFhTjQ5VmVBdGJrdmVXd3JJUTFVMGtzTFdhVENBZkd4U1d5TE1mcEZxWDU?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - Wolters Kluwer",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlIzUGljQXNlVm4xZ2R0ZFhITUtjQmNINmswSXA0R3lSeWtJZHI0MmRvR2l0ZDRJRUpiWFdSX1c0aFMyaVl2bWhNbHJxWGJTTUM5TTd5ZWxMX0lNMEp1Q3YzS2JZSDFnbWRkX3pvbnRFZTd0ZUx3ZTVmMjhhaHBqU1BGYjdMYXdBM2ZBWS1FVUkzVFF1aFEw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
       },
       {
         "title": "Mammootty avoids risks, invests in land, turned startup into success: CA on star’s wealth mantra - The Indian Express",
@@ -193,22 +205,10 @@
         "pubDate": "Sun, 25 Oct 2026 20:08:55 GMT"
       },
       {
-        "title": "ICAI CA Intermediate results: Hyderabad’s Qutub Riyan bags All India 11th rank - Telangana Today",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON29ZWFk2blpUaC1qN3Y3WWM1NTgtRVZVNVpGLVpvS0dhUENvZDcxLTN5R1UwXzZyVVNlZEJ3LTY5VFZLSWtjQ2tLb01uTFpiMmtoVktrZGxpbklQN1MzQmh4ZmpZWFBSaUlkZV9RMFlHcVVNVTZlVDJncjVFX3Y5cWx2OE1Fb3ZmTGx0ZGo2N2Zic0ktaFRxUGx1Nk1nVHhZaGNhNXln?oc=5",
+        "title": "CA Foundation September 2026 Result Expected Soon; Check Latest Update - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZm9WOVVvb0VmWnpMbXF6Q0FJellObTJaU1ZERXZVemliSzJjLWZrSmg3cUxmcUwtbmtra1RJc0ZydjdtcVd1R2hQTUd0RFEzendTQnpsR0lFN2ZOZFFudUlGOVc4cFdNMUdKdXpIYUhYaTNIaVQ4VklWeU9UN2VIODJtU214cl9PYTVrMTlCd2tqdk55N2pxRWhaRUlINF9rRUo1TE5LVmNqSWZCN3fSAbYBQVVfeXFMTlFCcGNnT21zX250bHktUVZYckp1Y3pOVG1GRXdzVnRfSC1nb184RDBfTEZ0bExadVlmbjNGNnBYOHlhdjQyUmtzUzZIbEloVWY5eTFVSFFCNEd0Z2pGYm45MHhpemZtOWJ2Mkd6SjUwVWpoUThkcEFNSEo0VnM1WTN0R2RwNzFSdDVHcW41TlFNVlVpSTFHVkVIOWtITFYwRnpUb0hSQWY2MXY4ekh1SnExenc5a0E?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 23 Oct 2026 13:40:10 GMT"
-      },
-      {
-        "title": "ICAI CA Foundation September 2026 result expected to be out soon at caresults.icai.org: Check steps to do - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdXY0Y2NSODloS2RuaXhfZS1NNjdET1lmZS16SkszUF9UVklpSXFwMHlSYmdrMjBtVThiS2xyVmFjd2hUMkZGNnhER0ZPdXFyWHZvSjRobVgyQTZLODRweFVmUE9MdGJWWHk5MHg4RXpDRHJ0X0I5V1k3blpLTFlPT0Ywb3ZKdUxiVHRlNGY4RVJ5b2t2eDZjTm1yTW5tWGpfYVhwVnRXaDViYVZYODYxcG1LRWRtM2g5ZTByZEFaaEdIYUQ3SnBYWkhQVzRpTDI5X0RQTTFYeTNUODdVUm5VME1ZVEZ6eVg1UFF3UGM2cl9uaUV4QS1VLXFCVjhjcTU1TW9iY05LTy1uR1Rna0dINmlDNzNWbENNZUppdExQRDlqaVpw0gGqAkFVX3lxTE16SzRSZm4wcE9QY3hCYVc5M0JRZzY1WXNlcXRCbHN6NkF5SzRKSjRQVjZpTS1fdU43Rzk4bWk4VXVFN1dnRDJMSGllSDJONHF4MjFCZ0Z3S05NS0ZyUEg0RTJldndhZzE1Wnc1WURLTHVDY2pBVFFiX2UtM1p0a2c2RHUydkZJTW9iUDVkeTQ5M0JsNnFpdW5TbFhYMHdkY2Y4RFo1UkRzeTYyWGVEZEhsR2pXN0ppcnAxNVBQdXpYQWo5TlkwVWhiVDJPMkM1U21FcnVnbDJ4ZVBvOGxuamlFOXpGaGxqd1UyRWhnc1V4NkdoZmZsaEJuMS1wdHU2U0hYXzkwY2xUUGFwOGtuWVRfc2ZhRjlvNUVxaVlDMmJjLThSZUZzMnZmZEE?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sat, 24 Oct 2026 07:11:00 GMT"
-      },
-      {
-        "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - Wolters Kluwer",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlIzUGljQXNlVm4xZ2R0ZFhITUtjQmNINmswSXA0R3lSeWtJZHI0MmRvR2l0ZDRJRUpiWFdSX1c0aFMyaVl2bWhNbHJxWGJTTUM5TTd5ZWxMX0lNMEp1Q3YzS2JZSDFnbWRkX3pvbnRFZTd0ZUx3ZTVmMjhhaHBqU1BGYjdMYXdBM2ZBWS1FVUkzVFF1aFEw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
+        "pubDate": "Sun, 25 Oct 2026 05:43:16 GMT"
       }
     ]
   }
