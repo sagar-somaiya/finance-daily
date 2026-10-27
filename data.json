@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T22:08:16.937315+00:00",
+  "generatedAt": "2026-10-27T01:33:01.659686+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,81 +72,81 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 79963,
-      "chg": -0.65
+      "price": 80070,
+      "chg": 0.28
     },
     "eth": {
-      "price": 2309.67,
-      "chg": -1.4
+      "price": 2320.79,
+      "chg": 0.13
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 95.16,
-    "eurinr": 106.67,
-    "gbpinr": 127.26
+    "usdinr": 95.27,
+    "eurinr": 106.57,
+    "gbpinr": 127.16
   },
   "news": {
     "corp": [
       {
-        "title": "US Markets Today: S&amp;P, Nasdaq end higher as Anthropic IPO filing revives AI optimism; Tesla hits 3 month high",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-us-stocks-end-higher-as-anthropic-ipo-filing-revives-ai-optimism-tesla-hits-3-month-high/articleshow/135219329.cms",
+        "title": "SBI launches CyRIS centre to strengthen cybersecurity capabilities",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sbi-launches-cyris-centre-to-strengthen-cybersecurity-capabilities/articleshow/135222316.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 27 Oct 2026 01:47:48 +0530"
+        "pubDate": "Tue, 27 Oct 2026 06:40:50 +0530"
       },
       {
-        "title": "Anthropic halts AI training for over a month over security concerns as models breach testing systems ahead of IPO",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-ipo-halts-ai-training-for-over-a-month-over-security-concerns-as-models-breach-testing-systems/articleshow/135218073.cms",
+        "title": "NBFCs curb fresh loans in rural markets as weak monsoon raises repayment risks",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nbfcs-curb-fresh-loans-in-rural-markets-as-weak-monsoon-raises-repayment-risks/articleshow/135222291.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 27 Oct 2026 00:08:35 +0530"
+        "pubDate": "Tue, 27 Oct 2026 06:34:30 +0530"
       },
       {
-        "title": "Sunteck Realty H1FY27 net profit rises 20%, pre-sales up 19%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sunteck-realty-h1fy27-net-profit-rises-20-pre-sales-up-19/articleshow/135217893.cms",
+        "title": "Can SFC Environmental Technologies IPO deliver long-term growth for high-risk investors?",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/can-sfc-environmental-technologies-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/135222205.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 26 Oct 2026 23:58:06 +0530"
+        "pubDate": "Tue, 27 Oct 2026 06:19:51 +0530"
       },
       {
-        "title": "Dalmia Bharat posts Rs 205 crore Q2 loss on exceptional hit",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/dalmia-bharat-posts-rs-205-crore-q2-loss-on-exceptional-hit/articleshow/135217688.cms",
+        "title": "Global Market Today: Wall Street gains lift Asian stocks as Fed decision looms",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-wall-street-gains-lift-asian-stocks-as-fed-decision-looms/articleshow/135222218.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 26 Oct 2026 23:49:52 +0530"
+        "pubDate": "Tue, 27 Oct 2026 06:17:41 +0530"
       },
       {
-        "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/135215629.cms",
+        "title": "Rupee slips below to 95.18 against dollar on elevated oil prices",
+        "link": "https://economictimes.indiatimes.com/markets/forex/rupee-slips-below-to-95-18-against-dollar-on-elevated-oil-prices/articleshow/135222166.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 26 Oct 2026 22:08:34 +0530"
+        "pubDate": "Tue, 27 Oct 2026 06:04:53 +0530"
       },
       {
-        "title": "Anthropic vs OpenAI: How Claude maker’s growth is challenging ChatGPT ahead of IPO",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-vs-openai-how-claude-makers-growth-is-challenging-chatgpt-ahead-of-ipo/articleshow/135215446.cms",
+        "title": "Pre-market action: Here's the trade setup for today's session",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135217191.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 26 Oct 2026 21:57:14 +0530"
+        "pubDate": "Tue, 27 Oct 2026 06:00:00 +0530"
       },
       {
-        "title": "Paytm Q2 Results: Profit rockets 976% YoY to Rs 226 crore, revenue jumps 28%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/paytm-q2-results-profit-rockets-976-yoy-to-rs-226-crore-revenue-jumps-28/articleshow/135214973.cms",
+        "title": "Stocks in news: Paytm, Tata Consumer, Dalmia Bharat, REC and DCM Shriram",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-paytm-tata-consumer-dalmia-bharat-rec-and-dcm-shriram/articleshow/135216594.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 26 Oct 2026 21:15:42 +0530"
+        "pubDate": "Tue, 27 Oct 2026 06:00:00 +0530"
       },
       {
-        "title": "Tamilnad Mercantile Bank Q2 Results: Net profit rises 42% to record Rs 451 crore on high net interest income",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tamilnad-mercantile-bank-q2-results-net-profit-rises-42-to-record-rs-451-crore-on-high-net-interest-income/articleshow/135214844.cms",
+        "title": "Jio IPO delivers smaller payday for bankers than other mega offerings",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-brings-a-smaller-payday-for-bankers-than-other-large-offers/articleshow/135222126.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 26 Oct 2026 20:56:51 +0530"
+        "pubDate": "Tue, 27 Oct 2026 05:54:06 +0530"
       },
       {
-        "title": "Indian Overseas Bank to raise $500 million as Q2 profit jumps 56%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-overseas-bank-to-raise-500-million-as-q2-profit-jumps-56/articleshow/135214567.cms",
+        "title": "Indian markets rebound, but rising oil prices keep investors cautious",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/d-st-makes-a-comeback-after-weeks-of-decline-yet-investors-remain-cautious-amid-ongoing-market-concerns/articleshow/135221724.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 26 Oct 2026 20:44:37 +0530"
+        "pubDate": "Tue, 27 Oct 2026 05:45:14 +0530"
       },
       {
-        "title": "MMT reports net profit of $1.8 million in Q2, revenues at $ 235.2 million",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/mmt-reports-net-profit-of-1-8-million-in-q2-revenues-at-235-2-million/articleshow/135214497.cms",
+        "title": "Retail investors return to equities with Rs 10,572 crore buying in September",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-return-to-equities-with-rs-10572-crore-buying-in-september/articleshow/135221795.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 26 Oct 2026 20:36:23 +0530"
+        "pubDate": "Tue, 27 Oct 2026 05:44:07 +0530"
       }
     ],
     "acct": [
@@ -163,6 +163,12 @@
         "pubDate": "Mon, 26 Oct 2026 04:30:00 GMT"
       },
       {
+        "title": "ICAI CA Foundation September 2026 result expected to be out soon at caresults.icai.org: Check steps to do - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdXY0Y2NSODloS2RuaXhfZS1NNjdET1lmZS16SkszUF9UVklpSXFwMHlSYmdrMjBtVThiS2xyVmFjd2hUMkZGNnhER0ZPdXFyWHZvSjRobVgyQTZLODRweFVmUE9MdGJWWHk5MHg4RXpDRHJ0X0I5V1k3blpLTFlPT0Ywb3ZKdUxiVHRlNGY4RVJ5b2t2eDZjTm1yTW5tWGpfYVhwVnRXaDViYVZYODYxcG1LRWRtM2g5ZTByZEFaaEdIYUQ3SnBYWkhQVzRpTDI5X0RQTTFYeTNUODdVUm5VME1ZVEZ6eVg1UFF3UGM2cl9uaUV4QS1VLXFCVjhjcTU1TW9iY05LTy1uR1Rna0dINmlDNzNWbENNZUppdExQRDlqaVpw0gGqAkFVX3lxTE16SzRSZm4wcE9QY3hCYVc5M0JRZzY1WXNlcXRCbHN6NkF5SzRKSjRQVjZpTS1fdU43Rzk4bWk4VXVFN1dnRDJMSGllSDJONHF4MjFCZ0Z3S05NS0ZyUEg0RTJldndhZzE1Wnc1WURLTHVDY2pBVFFiX2UtM1p0a2c2RHUydkZJTW9iUDVkeTQ5M0JsNnFpdW5TbFhYMHdkY2Y4RFo1UkRzeTYyWGVEZEhsR2pXN0ppcnAxNVBQdXpYQWo5TlkwVWhiVDJPMkM1U21FcnVnbDJ4ZVBvOGxuamlFOXpGaGxqd1UyRWhnc1V4NkdoZmZsaEJuMS1wdHU2U0hYXzkwY2xUUGFwOGtuWVRfc2ZhRjlvNUVxaVlDMmJjLThSZUZzMnZmZEE?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sat, 24 Oct 2026 07:11:00 GMT"
+      },
+      {
         "title": "Getting ready for IFRS 18 - kpmg.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm1Idm5QWU1kM2hSQ2RjQWdzZ0U1ZnBIb2ZieThWZEs3Y0ZHV1BKVWowNTJUWDZwbDVkanBtN1BBbWlCb1g4aTdINXZvNFdfaWZwNXRvSzA3ODkyQVRRQjZJdnlQYWkzQnhKdXM3QXhGUFkzR3BRZ1FPWGZEWUZ3aTB5TDlsZ2dWbmJKSVVJYktiVVh4MzFhTjQ5VmVBdGJrdmVXd3JJUTFVMGtzTFdhVENBZkd4U1d5TE1mcEZxWDU?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -173,12 +179,6 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlIzUGljQXNlVm4xZ2R0ZFhITUtjQmNINmswSXA0R3lSeWtJZHI0MmRvR2l0ZDRJRUpiWFdSX1c0aFMyaVl2bWhNbHJxWGJTTUM5TTd5ZWxMX0lNMEp1Q3YzS2JZSDFnbWRkX3pvbnRFZTd0ZUx3ZTVmMjhhaHBqU1BGYjdMYXdBM2ZBWS1FVUkzVFF1aFEw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
-      },
-      {
-        "title": "WuXi AppTec Delivers Strong Q1-Q3 2026 Results and Further Raises Full-Year Guidance, Driven by Greater Success of Multiple Customers' Products and CRDMO Model - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOdWNtN1pGX21HeGd3SzJJSlRWWTdObVR4VHY3LXFsSVgwVGk5STU5dlMwMUtOeFZCM25Yc29PeURhLXpTcVBFYzJZOHBycllmLTNJN2x3Z2g5SVdqb1pmZ1dTR2M1NUNOaW1oeUdVRWs4OUZSMzg4bjhUVnVjTVl2Nml4MHdoTTYtTGxEY0Z2enNVMVFTS1lNZlpjTU9Tdk51OW9KM0Z5Q1BqVmhObjhQVEtyVF9raE9TZG9RMjhST0phRmVyN0stbEMxdGg4NExaZV92amI2TGtHNThmNG5fSkl3bzhtV1lMOGEwZXE5V0xoTjhhZ094d0RBN2xsZmJRc1A1ZlpiVm1NV051ZkctZElZWG1LWk4xNzhPVjJZQzd0Sm1rN3RiLVNQbXBkbkhyWFFtb1ZiSFYzS1BSb0pB?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 26 Oct 2026 09:25:00 GMT"
       },
       {
         "title": "IFRS 18: What companies need to know now - RSM",
@@ -193,6 +193,12 @@
         "pubDate": "Sun, 25 Oct 2026 20:08:55 GMT"
       },
       {
+        "title": "WuXi AppTec Delivers Strong Q1-Q3 2026 Results and Further Raises Full-Year Guidance, Driven by Greater Success of Multiple Customers' Products and CRDMO Model - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOdWNtN1pGX21HeGd3SzJJSlRWWTdObVR4VHY3LXFsSVgwVGk5STU5dlMwMUtOeFZCM25Yc29PeURhLXpTcVBFYzJZOHBycllmLTNJN2x3Z2g5SVdqb1pmZ1dTR2M1NUNOaW1oeUdVRWs4OUZSMzg4bjhUVnVjTVl2Nml4MHdoTTYtTGxEY0Z2enNVMVFTS1lNZlpjTU9Tdk51OW9KM0Z5Q1BqVmhObjhQVEtyVF9raE9TZG9RMjhST0phRmVyN0stbEMxdGg4NExaZV92amI2TGtHNThmNG5fSkl3bzhtV1lMOGEwZXE5V0xoTjhhZ094d0RBN2xsZmJRc1A1ZlpiVm1NV051ZkctZElZWG1LWk4xNzhPVjJZQzd0Sm1rN3RiLVNQbXBkbkhyWFFtb1ZiSFYzS1BSb0pB?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 26 Oct 2026 09:25:00 GMT"
+      },
+      {
         "title": "ICAI CA Inter Results 2026 for September exams Out today @ caresults.icai.org; direct link here - Moneycontrol.com",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaEJQeEZiaEEyRHVnZUhmSExuUU5SVWJrRkZaZ1VzUkhCc21Gdi1hT1N2UzZqVzJZal9BcFh0VEJ6RUV1TzRCTGlCdGhNMzJxNWJpYVBIeGk2T1hSX0owaFpBMjBORERCaDhaMzdTaG1ib2R4V1VsOGEtRmt2M09NRUFadTFqN2k5S3lfU3NqUXRNOHBpbGJmVXctbklZTGcyaHBNVFdhREY5Z2NSeHVKbnhhSXc2clJFdEpjZnY4dHY0ajZ3NHdsbExEY0huWDN4WTdZTXpnNmt1OER4VlRlRDdPckpJU05i0gHuAUFVX3lxTE9GRTVWd0NESjUwUGc0aDk3dDktS0dCSnlRbjd6ejF6VS1scEFVOURvUmZwZVoxTlNxVXUwM2o5UmlQamxxa2QxMm9MaFB4UWhKTERlcndkZVlIbTdxaUdLbDM0UndTXzBXdncyNTZCZ0lFY3pjNkFWQmt0NUE4TDhfNDBDanhwVW8yaUN5ZEtBWmhCcVp6T0NVMFJKQ3drc2VpckEwd2Rid0laOG8wSEsyTnIzNWRmSEh6aUFsN192ZlZiRFRuRTB3RU5vSGFKcTBSLUIzdFB5STlxUElxOUdRVDNYM0Y5SEhaVEZwd0E?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -203,12 +209,6 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON29ZWFk2blpUaC1qN3Y3WWM1NTgtRVZVNVpGLVpvS0dhUENvZDcxLTN5R1UwXzZyVVNlZEJ3LTY5VFZLSWtjQ2tLb01uTFpiMmtoVktrZGxpbklQN1MzQmh4ZmpZWFBSaUlkZV9RMFlHcVVNVTZlVDJncjVFX3Y5cWx2OE1Fb3ZmTGx0ZGo2N2Zic0ktaFRxUGx1Nk1nVHhZaGNhNXln?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 23 Oct 2026 13:40:10 GMT"
-      },
-      {
-        "title": "SAP Announces Q3 2026 Results - SAP News Center",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NV3E4YXYtbUhqSzhBRE5Xd1NLX0t5bHJGZ2I4NFl4N1Y2WVRXTHN5cDhLSnBoWkFnemI5TXdMRnlydElOU3lVaXVjZXhyT01HSUg3OUM0UlU4S2ZEb2FwcnpiczhwbFd4dzAw0gFzQVVfeXFMUGFyVUNrcW9nMV9xUVo4VFlUZ05kWlJHd0NtQWZtQzVjcUlDX01ZdElyYXgyVmd2TDR2YnNIQ1hSSmtObGliWDhUR1hqVkF4QnV1bElPemw0ck5Ha1AwcUgtaVVOWnBJV2xZamdIYnd5OXU2UQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 21 Oct 2026 20:11:39 GMT"
       }
     ]
   }
