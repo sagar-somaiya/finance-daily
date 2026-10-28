@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T19:59:18.460351+00:00",
+  "generatedAt": "2026-10-28T23:55:13.246191+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 81477,
-      "chg": 0.96
+      "price": 81197,
+      "chg": 0.46
     },
     "eth": {
-      "price": 2368.0,
-      "chg": 0.97
+      "price": 2355.37,
+      "chg": 0.27
     }
   },
   "fx": {
@@ -88,6 +88,18 @@
   },
   "news": {
     "corp": [
+      {
+        "title": "US stocks today: US stocks end higher as Fed holds rates; focus turns to earnings",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-fed-holds-rates-earnings-in-focus/articleshow/135279631.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 29 Oct 2026 01:44:51 +0530"
+      },
+      {
+        "title": "Fed's Kevin Warsh says US economy not running too hot from AI boom",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-kevin-warsh-says-us-economy-not-running-too-hot-from-ai-boom/articleshow/135279091.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 29 Oct 2026 01:18:14 +0530"
+      },
       {
         "title": "Wendy’s draws buyout bid as beef costs and burger rivalry weigh on business",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wendys-draws-buyout-bid-as-beef-costs-and-burger-rivalry-weigh-on-business/articleshow/135278283.cms",
@@ -135,18 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/british-homebuilder-shares-slump-on-lack-of-clarity-over-first-time-buyer-plan-in-budget/articleshow/135271559.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Wed, 28 Oct 2026 21:06:36 +0530"
-      },
-      {
-        "title": "Weak returns at home fuel India's overseas retail investing boom",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/weak-returns-at-home-fuel-indias-overseas-retail-investing-boom/articleshow/135271438.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 28 Oct 2026 21:03:19 +0530"
-      },
-      {
-        "title": "Hero MotoCorp Q2 Results: Profit surges 41% YoY to Rs 1,861 crore, revenue jumps 23%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hero-motocorp-q2-results-profit-surges-41-yoy-to-rs-1861-crore-revenue-jumps-23/articleshow/135270862.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 28 Oct 2026 20:38:33 +0530"
       }
     ],
     "acct": [
@@ -169,22 +169,16 @@
         "pubDate": "Tue, 27 Oct 2026 03:44:43 GMT"
       },
       {
-        "title": "ICAI CA Foundation September 2026 result expected soon; October 31 likely, official date awaited - EdexLive",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNS1sZWF1TGl0ZFFBdHJhNlN3R2hvNkRnX044OWlJd1I2bXJYeURULVhQYklzUnJPeTg5QkJ3RjRjYjN3SFlFZF9RLVoxZW0xSERjanpTSGhoLXZZT2J0VE1kSGI5SmNUd0dzMGxCaTRRMTk2Y1JrajJxYzd0X1hsTXBMWG82cTMxRjYtd2NUTXBiN0hueGFPWkhGQVo2SFZueHc1UWlZVXFYZVlYTVd3RW8yaGk1aTUwdGUzYnpKX29UUdIBzwFBVV95cUxQMmczNE9lOGYxN1RwQVJBa2lYNUVjcmdNazFLbjBpYUgzWGtzRV9RbGU5NEJJUmZ3eTlwb0dZeEoyRkgySnY3cWprV1lkMUNiVmZlaWwycW5qTlc1RXh5OVpHdzdJdzdCUGFvd1hzdjhUSFl5WGgtV1R2NDBNTGlPVmtiVGZ5VHRLeGJkckQ3c1g4TFkxQS1ubDl1bXI4U19tdndnckE3Z2RjMEgzVm9CQnVFeks5M3BzQU4wNmVlLUZlNHlRcy1jcnpFNHd0TkU?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 28 Oct 2026 05:38:34 GMT"
-      },
-      {
         "title": "Getting ready for IFRS 18 - kpmg.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm1Idm5QWU1kM2hSQ2RjQWdzZ0U1ZnBIb2ZieThWZEs3Y0ZHV1BKVWowNTJUWDZwbDVkanBtN1BBbWlCb1g4aTdINXZvNFdfaWZwNXRvSzA3ODkyQVRRQjZJdnlQYWkzQnhKdXM3QXhGUFkzR3BRZ1FPWGZEWUZ3aTB5TDlsZ2dWbmJKSVVJYktiVVh4MzFhTjQ5VmVBdGJrdmVXd3JJUTFVMGtzTFdhVENBZkd4U1d5TE1mcEZxWDU?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "AI for CA students: What helps Exam Preparation and What does Not - CAclubindia",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmtzeER5MjZjcktGblExdDk2X0VyY3hkaEhYalJxMzNTZnhOX1ZSaWNTYW1OWlB1dGxFbUJxbndjc0Nsand3VlMzSlZJMVNUbjJKdlAzQTFYTjdIWGZjaHJtaW1HWGlTTUw2YzVWVmxfZ1FFM0NqZmJMWXFoOW54Y0ZsVUFpc283ZF8tc0JvUTR5YlFDcm94RjQyck9SN3dOamZTSGZLZUdBWEw1VnNRTw?oc=5",
+        "title": "ICAI CA Foundation September 2026 result expected soon; October 31 likely, official date awaited - EdexLive",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNS1sZWF1TGl0ZFFBdHJhNlN3R2hvNkRnX044OWlJd1I2bXJYeURULVhQYklzUnJPeTg5QkJ3RjRjYjN3SFlFZF9RLVoxZW0xSERjanpTSGhoLXZZT2J0VE1kSGI5SmNUd0dzMGxCaTRRMTk2Y1JrajJxYzd0X1hsTXBMWG82cTMxRjYtd2NUTXBiN0hueGFPWkhGQVo2SFZueHc1UWlZVXFYZVlYTVd3RW8yaGk1aTUwdGUzYnpKX29UUdIBzwFBVV95cUxQMmczNE9lOGYxN1RwQVJBa2lYNUVjcmdNazFLbjBpYUgzWGtzRV9RbGU5NEJJUmZ3eTlwb0dZeEoyRkgySnY3cWprV1lkMUNiVmZlaWwycW5qTlc1RXh5OVpHdzdJdzdCUGFvd1hzdjhUSFl5WGgtV1R2NDBNTGlPVmtiVGZ5VHRLeGJkckQ3c1g4TFkxQS1ubDl1bXI4U19tdndnckE3Z2RjMEgzVm9CQnVFeks5M3BzQU4wNmVlLUZlNHlRcy1jcnpFNHd0TkU?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 28 Oct 2026 04:59:00 GMT"
+        "pubDate": "Wed, 28 Oct 2026 05:38:34 GMT"
       },
       {
         "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - Wolters Kluwer",
@@ -197,6 +191,12 @@
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV19HTlJRWW9YWHpQcHpDa0VMOWJhaVA1T05NWmcxMzJLSE5NVVpOQU5lSE55ejlzLVVWN2R0WW9IQ2NOd05kYVA2WEs3Yl9nQmdoVEVDUGdEdzI0Yk1YalV6QkNEMVQ5RVR4eXU4LUk2U1ptZ1FXUTZzS1d3MUctRFhQa2gxOUIwRDdvVFJmcnV4VzYzR1VvVEI5VQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 27 Oct 2026 17:06:01 GMT"
+      },
+      {
+        "title": "AI for CA students: What helps Exam Preparation and What does Not - CAclubindia",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmtzeER5MjZjcktGblExdDk2X0VyY3hkaEhYalJxMzNTZnhOX1ZSaWNTYW1OWlB1dGxFbUJxbndjc0Nsand3VlMzSlZJMVNUbjJKdlAzQTFYTjdIWGZjaHJtaW1HWGlTTUw2YzVWVmxfZ1FFM0NqZmJMWXFoOW54Y0ZsVUFpc283ZF8tc0JvUTR5YlFDcm94RjQyck9SN3dOamZTSGZLZUdBWEw1VnNRTw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 28 Oct 2026 04:59:00 GMT"
       },
       {
         "title": "CA Foundation September 2026 Result Expected Soon; Check Latest Update - NDTV",
