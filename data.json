@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T01:55:33.473185+00:00",
+  "generatedAt": "2026-10-28T07:44:44.777562+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 80812,
-      "chg": 1.1
+      "price": 80833,
+      "chg": 1.59
     },
     "eth": {
-      "price": 2351.31,
-      "chg": 1.41
+      "price": 2350.11,
+      "chg": 1.94
     }
   },
   "fx": {
@@ -89,67 +89,91 @@
   "news": {
     "corp": [
       {
-        "title": "Jio Platforms Listing Today: Rs 30,213 crore IPO eyes strong debut on Dalal Street",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/indias-biggest-listing-jio-shares-to-debut-today-what-to-expect-from-gmp-and-analysts/articleshow/135245742.cms",
+        "title": "Adani Ports Q2 Results: Net profit jumps 17% YoY to Rs 3,622 crore; revenue up 24%",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/adani-ports-q2-results-net-profit-jumps-17-yoy-to-rs-3622-crore-revenue-up-24/articleshow/135256370.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 28 Oct 2026 07:00:00 +0530"
+        "pubDate": "Wed, 28 Oct 2026 12:53:19 +0530"
       },
       {
-        "title": "Pre-market action: Here's the trade setup for today's session",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135248881.cms",
+        "title": "Jio Platforms delivers biggest listing gain among India’s 5 largest IPOs, jumps 21% on debut",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jio-platforms-delivers-biggest-listing-gain-among-indias-5-largest-ipos-jumps-21-on-debut/articleshow/135256268.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 28 Oct 2026 06:55:46 +0530"
+        "pubDate": "Wed, 28 Oct 2026 12:48:18 +0530"
       },
       {
-        "title": "Bond market doubts gridlock will ease deficit woes this time",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bond-market-doubts-gridlock-will-ease-deficit-woes-this-time/articleshow/135248828.cms",
+        "title": "US Market: Treasury yields face pressure despite expected Fed rate pause",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-treasury-yields-face-pressure-despite-expected-fed-rate-pause/articleshow/135256143.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 28 Oct 2026 06:47:25 +0530"
+        "pubDate": "Wed, 28 Oct 2026 12:41:20 +0530"
       },
       {
-        "title": "Max Financial Services reports massive profit growth of Rs 100 crore in Q2 FY26",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/max-financial-services-reports-massive-profit-growth-of-rs-100-crore-in-q2-fy26/articleshow/135248590.cms",
+        "title": "Adani Green’s debt maths: Why leverage may fall below 4x as capex cycle matures",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-greens-debt-maths-why-leverage-may-fall-below-4x-as-capex-cycle-matures/articleshow/135256023.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 28 Oct 2026 06:23:21 +0530"
+        "pubDate": "Wed, 28 Oct 2026 12:37:13 +0530"
       },
       {
-        "title": "Global Market Today: Asian stocks advance on resurgent AI optimism",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-advance-on-resurgent-ai-optimism/articleshow/135248594.cms",
+        "title": "BNP Paribas Q3 profit rises 14% to beat estimates; announces €1.3 billion buyback",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bnp-paribas-q3-profit-rises-14-to-beat-estimates-announces-1-3-billion-buyback/articleshow/135255907.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 28 Oct 2026 06:21:10 +0530"
+        "pubDate": "Wed, 28 Oct 2026 12:34:36 +0530"
       },
       {
-        "title": "Icra sees bank credit growth slowing to 15-16% in FY27 as rates rise",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/credit-growth-to-moderate-in-h2-fy27-icra/articleshow/135248523.cms",
+        "title": "Global Market: China's yuan holds near four-year high as markets await Fed decision",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-yuan-holds-near-four-year-high-as-markets-await-fed-decision/articleshow/135255461.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 28 Oct 2026 06:04:54 +0530"
+        "pubDate": "Wed, 28 Oct 2026 12:27:48 +0530"
       },
       {
-        "title": "Stocks in news: Jio Platforms, RIL, Infosys, L&amp;T, Tata Capital, Waaree Energies and Vedanta Iron",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-jio-platforms-ril-infosys-lt-tata-capital-waaree-energies-and-vedanta-iron/articleshow/135245790.cms",
+        "title": "US Market: Fed expected to hold rates as Iran war fuels inflation concerns",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-fed-expected-to-hold-rates-as-iran-war-fuels-inflation-concerns/articleshow/135255367.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 28 Oct 2026 06:00:00 +0530"
+        "pubDate": "Wed, 28 Oct 2026 12:21:20 +0530"
       },
       {
-        "title": "Cipla’s US recovery, biosimilar pipeline key to future growth prospects",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/cipla-q2-earnings-hit-by-us-market-challenges-india-growth-offers-support/articleshow/135248071.cms",
+        "title": "Infosys, TechM, TCS, other IT stocks plunge up to 5%, extend losses as global AI trade rebounds. What lies ahead?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/infosys-techm-tcs-other-it-stocks-plunge-up-to-5-extend-losses-as-global-ai-trade-rebounds-what-lies-ahead/articleshow/135255322.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 28 Oct 2026 05:49:51 +0530"
+        "pubDate": "Wed, 28 Oct 2026 12:16:27 +0530"
       },
       {
-        "title": "Rupee edges up to 95.11 against dollar on likely RBI intervention",
-        "link": "https://economictimes.indiatimes.com/markets/forex/rupee-edges-up-to-95-11-against-dollar-on-likely-rbi-intervention/articleshow/135248440.cms",
+        "title": "Can the AI boom sustain SK Hynix's record earnings?",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-the-ai-boom-sustain-sk-hynixs-record-earnings/slideshow/135255297.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 28 Oct 2026 05:48:19 +0530"
+        "pubDate": "Wed, 28 Oct 2026 12:03:34 +0530"
       },
       {
-        "title": "Sebi may ease extra disclosure rules for foreign portfolio investors",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-may-ease-extra-disclosure-rules-for-foreign-portfolio-investors/articleshow/135248660.cms",
+        "title": "Weak domestic returns fuel India's overseas retail investing boom",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/weak-domestic-returns-fuel-indias-overseas-retail-investing-boom/articleshow/135254832.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 28 Oct 2026 05:30:00 +0530"
+        "pubDate": "Wed, 28 Oct 2026 11:57:22 +0530"
       }
     ],
     "acct": [
+      {
+        "title": "Wolters Kluwer selected by IFFCO Tokio General Insurance to support Ind AS 117 and Ind AS 116 compliance wit.. - cfo.economictimes.indiatimes.com",
+        "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPUUY3aWRzNDh3WjQyTUlQMWlDa2lCWGhHbDhOWmtzX1lrSUx2SmJ3Y0xyUE5FbUVtVExocEtqZ09tUzB2aXl2X1k0Tjh1YW1IQTZJWTllNTZTa2tpTk5LWGhKdUc1N2hiMkpCYl9fdzg1QUxzZzNveGFudXBrSFZhUDJ2UF9scC1RSDVTbGFtYU9PSEV6dTMwOTJQV01vWThIQ2ZlcmpUZG8tUDBFSTRqRFVyWFNBclVCR3pRdHhuMTllemVULW8xZHUxX2Jta2NSdUxSeGJDVWIxNUo5UmFnMUl6aDhraDFSeFJoME9VN1FGMmFQN0RPSTF2NXl4WmdJc0NNUkxsenVrS2JUdVBReWQ1OFQwV3hYaHZuQ0d4VzhhaGJkOEh0QdIBqAJBVV95cUxPUUY3aWRzNDh3WjQyTUlQMWlDa2lCWGhHbDhOWmtzX1lrSUx2SmJ3Y0xyUE5FbUVtVExocEtqZ09tUzB2aXl2X1k0Tjh1YW1IQTZJWTllNTZTa2tpTk5LWGhKdUc1N2hiMkpCYl9fdzg1QUxzZzNveGFudXBrSFZhUDJ2UF9scC1RSDVTbGFtYU9PSEV6dTMwOTJQV01vWThIQ2ZlcmpUZG8tUDBFSTRqRFVyWFNBclVCR3pRdHhuMTllemVULW8xZHUxX2Jta2NSdUxSeGJDVWIxNUo5UmFnMUl6aDhraDFSeFJoME9VN1FGMmFQN0RPSTF2NXl4WmdJc0NNUkxsenVrS2JUdVBReWQ1OFQwV3hYaHZuQ0d4VzhhaGJkOEh0QQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 28 Oct 2026 03:28:56 GMT"
+      },
+      {
+        "title": "ICAI CA Foundation September 2026 result expected soon; October 31 likely, official date awaited - EdexLive",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNS1sZWF1TGl0ZFFBdHJhNlN3R2hvNkRnX044OWlJd1I2bXJYeURULVhQYklzUnJPeTg5QkJ3RjRjYjN3SFlFZF9RLVoxZW0xSERjanpTSGhoLXZZT2J0VE1kSGI5SmNUd0dzMGxCaTRRMTk2Y1JrajJxYzd0X1hsTXBMWG82cTMxRjYtd2NUTXBiN0hueGFPWkhGQVo2SFZueHc1UWlZVXFYZVlYTVd3RW8yaGk1aTUwdGUzYnpKX29UUdIBzwFBVV95cUxQMmczNE9lOGYxN1RwQVJBa2lYNUVjcmdNazFLbjBpYUgzWGtzRV9RbGU5NEJJUmZ3eTlwb0dZeEoyRkgySnY3cWprV1lkMUNiVmZlaWwycW5qTlc1RXh5OVpHdzdJdzdCUGFvd1hzdjhUSFl5WGgtV1R2NDBNTGlPVmtiVGZ5VHRLeGJkckQ3c1g4TFkxQS1ubDl1bXI4U19tdndnckE3Z2RjMEgzVm9CQnVFeks5M3BzQU4wNmVlLUZlNHlRcy1jcnpFNHd0TkU?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 28 Oct 2026 05:38:34 GMT"
+      },
+      {
+        "title": "IFRS 18 vs. IAS 1: What Investment Funds Need to Know - EisnerAmper",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV19HTlJRWW9YWHpQcHpDa0VMOWJhaVA1T05NWmcxMzJLSE5NVVpOQU5lSE55ejlzLVVWN2R0WW9IQ2NOd05kYVA2WEs3Yl9nQmdoVEVDUGdEdzI0Yk1YalV6QkNEMVQ5RVR4eXU4LUk2U1ptZ1FXUTZzS1d3MUctRFhQa2gxOUIwRDdvVFJmcnV4VzYzR1VvVEI5VQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 27 Oct 2026 17:06:01 GMT"
+      },
+      {
+        "title": "Wolters Kluwer selected by IFFCO Tokio General Insurance to support Ind AS 117 and Ind AS 116 compliance with CCH® Tagetik - Yahoo Finance",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWZXbWxVOC1ZZEtGS1lNekZ4ODdrRjJMMXFWUEJZMkhkVm1rbjUtUXZoVHhRdkNONkpqODNEN1ViZVFSVDZramZjOTlneG5ZejdZWGhGbkVma3N4cDRVR09pR0wwMTFlbDlRSXhzNzNvWDh2NUoyT0JIWWltWmZfUERERmdUVHFKMjlZeEtsaUlRWmU2dXhGQkVQMi0?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 26 Oct 2026 04:30:00 GMT"
+      },
       {
         "title": "India’s ICAI releases September 2026 CA Intermediate examination results - The Accountant Online",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVXFBWUJDalFrRXBpWlh0WGdvMzh6VlBrZ2NZOHduYW94cmJVcEwyV1ZUcWtpczZ6cU1UcDdhQXNPdUcyUW9rWUNtUjZRRGV4T2RiOGRZYklaak1PTmNwN1JGMGg5SUFNTTRhM3NjcEZobVFnemRqc3ExbExieG02TzlGUlBRcEt3bkM3b3VyeU56aEFQSFE?oc=5",
@@ -157,10 +181,10 @@
         "pubDate": "Mon, 26 Oct 2026 08:23:19 GMT"
       },
       {
-        "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - cfo.economictimes.indiatimes.com",
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPbU5peXdmWTZoeVRDR1pxZXp5dFJOSGk2aFA1M3RzUzY0SHQtc0tQRmJ6aEpiQXBGUjg5UUFyQURwUXY0VThYV2hHUFQ4RVZPMUtVcXNzemRTb3lrYWdIODlQUTRvZVE2Ty1CelNpc2V4YTJsaFBwLWhjejU1aDZIZHRqSk5FVnJaVExJSjdZbm1jM1BGN0duR0J3OFJiZHZJWkNxZHNRSE44N1RDWjR3Nm9QSkV1VmRBVDd1b2x4U254VF90SHNaeG5kUTJ1Vmdnd1dmY0xkaGw4bXkzaUJTQWt6ZVl0cGFSaGExd3BoeXZacXJpbTQ0NFhZdG12MmhEQVhLMkpkQUxaeFdG0gGSAkFVX3lxTE40WTBfZExDYWUteG9kU0VGbjhjalBYdGR2SW9lc05NMWVXYlZFZ1JWRzItbzc4bl9ibTJid3dUVnllSkkwTXhEeDJtOUYzZ2ItamxqWmx6akEwa19PZGU0STU5NjRhNG9DMll5MkY1U0E3d0diLTdFamhSbS1XQzBiRVY3TWpxRk1WUnMwUVFwV3R4SGlsTkNNUnN3TzA0X1BNRUJ4MVdBSm5NN3pGT01sX1ZZMG9hdVZtLVNPNUVkV01FSHl3TVBBbnZycXQwMFQwbFJRQmFxZk1fUFoxNGNtTnZ3OVBDaVMwSXZ5Nm9HeFowLW1NTFdJMjlHWmdqN0xYZHM5b2Fka1lmb3p3Tm9EOVE?oc=5",
+        "title": "AI for CA students: What helps Exam Preparation and What does Not - CAclubindia",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmtzeER5MjZjcktGblExdDk2X0VyY3hkaEhYalJxMzNTZnhOX1ZSaWNTYW1OWlB1dGxFbUJxbndjc0Nsand3VlMzSlZJMVNUbjJKdlAzQTFYTjdIWGZjaHJtaW1HWGlTTUw2YzVWVmxfZ1FFM0NqZmJMWXFoOW54Y0ZsVUFpc283ZF8tc0JvUTR5YlFDcm94RjQyck9SN3dOamZTSGZLZUdBWEw1VnNRTw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 27 Oct 2026 03:44:43 GMT"
+        "pubDate": "Wed, 28 Oct 2026 04:59:00 GMT"
       },
       {
         "title": "Getting ready for IFRS 18 - kpmg.com",
@@ -175,40 +199,16 @@
         "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "Mammootty avoids risks, invests in land, turned startup into success: CA on star’s wealth mantra - The Indian Express",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONmFpa2xEd3hLR004MmdySDVvM29BTU5MSXBlZy1URXBsd2JJMlRoWFBaQ2hWcVBsYTJlLTViSWxLb3RnbUR5b21pZUZxbXV5YU1FU2Mtb2hIMVM2N2FOWEpZWHRVVHliSnc1VER6WVg5bWRjYnVTRXNDTFNUUklhbkM5VUF0cEhJOGtRTzEzaHNHcXJvZC1HdFYzTm5sSm5xY1UwMEtuT21xdHhQZXh6a2xfQktvd19vYVFkd0JRbktVbWU0VF8xZkxrcVlKbm1lSF81ZnJwNEk4MGNpQU40Sk5CONIB6gFBVV95cUxQZkIxcEw1LVlCMFo3aVMyMUxKWV9qRDNWQXprTk83ZW5UcHVDZUFCWVhBdGJyeC0wMmVyNTZvUFRGSV9FWDFKZWsxVTRwTmR3cHhqYnhtQTNQaUN4V0dYQUF6eXk2cjlzT1QxcENwLTd2R1pxZmNvQXd5dTlqQjJTa1JwTE5UZDRhcGJDTHcwcmVILVVVcHhKSXdKdlpVNEEzMG5xTlpWUDAwTGUyX2hxNEFOS2otRkhzbVd2RUtMUnl6bmIyZlpOaFBqTkxKenBuV2tId0ZSWXBRVmFpRUdSMERMVFpwZmVjT0E?oc=5",
+        "title": "CA Foundation September 2026 Result Expected Soon; Check Latest Update - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZm9WOVVvb0VmWnpMbXF6Q0FJellObTJaU1ZERXZVemliSzJjLWZrSmg3cUxmcUwtbmtra1RJc0ZydjdtcVd1R2hQTUd0RFEzendTQnpsR0lFN2ZOZFFudUlGOVc4cFdNMUdKdXpIYUhYaTNIaVQ4VklWeU9UN2VIODJtU214cl9PYTVrMTlCd2tqdk55N2pxRWhaRUlINF9rRUo1TE5LVmNqSWZCN3fSAbYBQVVfeXFMTlFCcGNnT21zX250bHktUVZYckp1Y3pOVG1GRXdzVnRfSC1nb184RDBfTEZ0bExadVlmbjNGNnBYOHlhdjQyUmtzUzZIbEloVWY5eTFVSFFCNEd0Z2pGYm45MHhpemZtOWJ2Mkd6SjUwVWpoUThkcEFNSEo0VnM1WTN0R2RwNzFSdDVHcW41TlFNVlVpSTFHVkVIOWtITFYwRnpUb0hSQWY2MXY4ekh1SnExenc5a0E?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 27 Oct 2026 10:00:34 GMT"
+        "pubDate": "Sun, 25 Oct 2026 05:43:16 GMT"
       },
       {
         "title": "Ind AS 118: India Inc gears up for big changes to financial reporting - The Economic Times",
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaGpQNHFsMklJMzBEX2lfNll2U2dpOXdaTnFvTnhhY25VWHRCUlFXYjJabHViZTRHWi1QcFplcEItWS1jTGNHYTRQb1ZFSFFtb1ZLeVBkNDZIbEVLblIzUXRWQmh2aXNqVU9Yb3FxeUFITUU1LXFYTFAwaHl3eTdsbFF6bEdBUk95em1IN21Lb01DWlFhWXlJOFdpMHNjUVpQUUJDb2tjYlNLMFNJZEdoYUlxT0VwZmtnYUxUQnNPWVkzS3ZhSXFWaTdWTnBKaHRzcTJMQXE3a1RjNVloQ19vSnJfRzNreGVOa2REUEFQOHdQMHVVT3VJ0gH8AUFVX3lxTE04WGV1ZWRFYXZib0ZnNzg4dUVTSGhQaE54RlZ1Tk85X3h2OG5ORFVaZnpNUExfVjg5MGVIT3JJMndYSTJqVUxoNFd5VFVLMXlNWGw4UWJXaFh5dFk5enNoRk5XWlRjRTdmRFI0M285WDlYYVJ5cTBPYW5DSmFWLWZBbW5UQjVoWGRQbFlxSmFkQ2RCVi1FN1RHNlRuVXI2c253dFIwQ2NwTFBVeXAySlhjTkZjamJGcHlwOGdHVHNjcFRpTl9LaWdzN18wOTRJT1BUSFEyX2NkMHVNNWxteU9adl9BVDQ2YW1rZ0x4OUZNbmZtcTdGbzQybDJjZA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Sun, 25 Oct 2026 20:08:55 GMT"
-      },
-      {
-        "title": "Accumulate Physicswallah; target of Rs 141: Prabhudas Lilladher - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOXzdlUnNsenltczdBeTY1RUFiOTA4LUtRcTJPeVNnS3A4ZUVqN2JyeGxYcFp1YWFZOXRGZ0RHMjBtNUw4bDN3Mnlwalo4VGVHTFJuQzFoN01BZXlxX3VoTXJRVTR0alJmaDJzeV9KMHFoQzAxby1Pem5vUzVTUGgzakthMldROXRoZE8zZVB0YzVlLXZiNUVQcl9vajJnX2szbDU1TFBLUUtTLWRzMUNaaEx5T08xSF9McDJEVURWNFo2Zw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 27 Oct 2026 07:31:00 GMT"
-      },
-      {
-        "title": "ICAI CA Intermediate results: Hyderabad’s Qutub Riyan bags All India 11th rank - Telangana Today",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON29ZWFk2blpUaC1qN3Y3WWM1NTgtRVZVNVpGLVpvS0dhUENvZDcxLTN5R1UwXzZyVVNlZEJ3LTY5VFZLSWtjQ2tLb01uTFpiMmtoVktrZGxpbklQN1MzQmh4ZmpZWFBSaUlkZV9RMFlHcVVNVTZlVDJncjVFX3Y5cWx2OE1Fb3ZmTGx0ZGo2N2Zic0ktaFRxUGx1Nk1nVHhZaGNhNXln?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 23 Oct 2026 13:40:10 GMT"
-      },
-      {
-        "title": "ICAI CA Foundation September 2026 result expected to be out soon at caresults.icai.org: Check steps to do - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPdXY0Y2NSODloS2RuaXhfZS1NNjdET1lmZS16SkszUF9UVklpSXFwMHlSYmdrMjBtVThiS2xyVmFjd2hUMkZGNnhER0ZPdXFyWHZvSjRobVgyQTZLODRweFVmUE9MdGJWWHk5MHg4RXpDRHJ0X0I5V1k3blpLTFlPT0Ywb3ZKdUxiVHRlNGY4RVJ5b2t2eDZjTm1yTW5tWGpfYVhwVnRXaDViYVZYODYxcG1LRWRtM2g5ZTByZEFaaEdIYUQ3SnBYWkhQVzRpTDI5X0RQTTFYeTNUODdVUm5VME1ZVEZ6eVg1UFF3UGM2cl9uaUV4QS1VLXFCVjhjcTU1TW9iY05LTy1uR1Rna0dINmlDNzNWbENNZUppdExQRDlqaVpw0gGqAkFVX3lxTE16SzRSZm4wcE9QY3hCYVc5M0JRZzY1WXNlcXRCbHN6NkF5SzRKSjRQVjZpTS1fdU43Rzk4bWk4VXVFN1dnRDJMSGllSDJONHF4MjFCZ0Z3S05NS0ZyUEg0RTJldndhZzE1Wnc1WURLTHVDY2pBVFFiX2UtM1p0a2c2RHUydkZJTW9iUDVkeTQ5M0JsNnFpdW5TbFhYMHdkY2Y4RFo1UkRzeTYyWGVEZEhsR2pXN0ppcnAxNVBQdXpYQWo5TlkwVWhiVDJPMkM1U21FcnVnbDJ4ZVBvOGxuamlFOXpGaGxqd1UyRWhnc1V4NkdoZmZsaEJuMS1wdHU2U0hYXzkwY2xUUGFwOGtuWVRfc2ZhRjlvNUVxaVlDMmJjLThSZUZzMnZmZEE?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sat, 24 Oct 2026 07:11:00 GMT"
-      },
-      {
-        "title": "CA Foundation September 2026 Result Expected Soon; Check Latest Update - NDTV",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZm9WOVVvb0VmWnpMbXF6Q0FJellObTJaU1ZERXZVemliSzJjLWZrSmg3cUxmcUwtbmtra1RJc0ZydjdtcVd1R2hQTUd0RFEzendTQnpsR0lFN2ZOZFFudUlGOVc4cFdNMUdKdXpIYUhYaTNIaVQ4VklWeU9UN2VIODJtU214cl9PYTVrMTlCd2tqdk55N2pxRWhaRUlINF9rRUo1TE5LVmNqSWZCN3fSAbYBQVVfeXFMTlFCcGNnT21zX250bHktUVZYckp1Y3pOVG1GRXdzVnRfSC1nb184RDBfTEZ0bExadVlmbjNGNnBYOHlhdjQyUmtzUzZIbEloVWY5eTFVSFFCNEd0Z2pGYm45MHhpemZtOWJ2Mkd6SjUwVWpoUThkcEFNSEo0VnM1WTN0R2RwNzFSdDVHcW41TlFNVlVpSTFHVkVIOWtITFYwRnpUb0hSQWY2MXY4ekh1SnExenc5a0E?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sun, 25 Oct 2026 05:43:16 GMT"
       }
     ]
   }
