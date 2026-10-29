@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T17:12:19.103966+00:00",
+  "generatedAt": "2026-10-29T21:54:08.845013+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 80978,
-      "chg": 0.71
+      "price": 79014,
+      "chg": -2.8
     },
     "eth": {
-      "price": 2349.82,
-      "chg": 0.86
+      "price": 2270.46,
+      "chg": -3.98
     }
   },
   "fx": {
@@ -88,6 +88,24 @@
   },
   "news": {
     "corp": [
+      {
+        "title": "US Markets Today: US stocks end lower as Alphabet revenue miss revives AI capex jitters",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-us-stocks-end-lower-as-alphabet-revenue-miss-revives-ai-capex-jitters/articleshow/135331051.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 30 Oct 2026 01:46:15 +0530"
+      },
+      {
+        "title": "Cash takes centre stage as investors rethink AI spending boom",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/cash-takes-centre-stage-as-investors-rethink-ai-spending-boom/articleshow/135327536.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 30 Oct 2026 00:27:00 +0530"
+      },
+      {
+        "title": "Alphabet’s AI risks deepen as filing reveals $98 billion in commitments beyond the $1 trillion spending",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/alphabets-ai-risks-deepen-as-filing-reveals-98-5-billion-in-commitments-beyond-the-1-trillion-spending/articleshow/135325480.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 29 Oct 2026 23:07:58 +0530"
+      },
       {
         "title": "Sagility block deal: Promoter Sagility BV likely to sell 12% stake for Rs 2,377 crore",
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/sagility-block-deal-promoter-sagility-bv-likely-to-sell-12-stake-for-rs-2377-crore/articleshow/135322817.cms",
@@ -129,24 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/google-shares-crash-13-after-9-billion-cash-burn-sparks-ai-spending-fears/articleshow/135319102.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Thu, 29 Oct 2026 19:41:28 +0530"
-      },
-      {
-        "title": "ET EXPLAINER: What do the new REIT regulation amendments mean for investors?",
-        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/et-explainer-what-do-the-new-reit-regulation-amendments-mean-for-investors/articleshow/135317911.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 29 Oct 2026 19:10:03 +0530"
-      },
-      {
-        "title": "US stocks today: Nasdaq slides over 1% as Alphabet's AI spending revives investor concerns",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-fall-at-open-as-alphabet-results-reignite-ai-spending-fears/articleshow/135317765.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 29 Oct 2026 19:09:36 +0530"
-      },
-      {
-        "title": "Euro nudges lower after ECB holds steady, stocks inch up",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/euro-nudges-lower-after-ecb-holds-steady-stocks-inch-up/articleshow/135317787.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 29 Oct 2026 19:07:39 +0530"
       }
     ],
     "acct": [
@@ -155,6 +155,12 @@
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ2FGY3hKRFNBYndXMDNRZUpYekxmejNZc3hyeVlWODgxRmM5aGZzMmFBRVZieGhQNlNxRk44VlZZSU1mYTlQWWlmMHBZUzNqQld0WmJnYVdueGV3RkRXVmZSVEV4Q05XVFFOT3JERG5uZVhfN3ZMSmJZbTZMZXNwSXVjbi1MUktqLUZpQ3ZUTldta3ZKNnJJZ0NiWmVFVHFHT2FibUFrU1VmYkNWa0M1QXgteGRzcWNTS09kQm1EMlFFYXcwR2lpb1luNXNkWjM1czB3UkFmdw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 26 Oct 2026 10:26:29 GMT"
+      },
+      {
+        "title": "The IFRS Foundation Monitoring Board welcomes the Foundation’s new leadership and highlights the importance of public accountability, robust governance and high-quality standard-setting - Disruption Banking",
+        "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPLXk0SkU2Y3VwWnhoZ1VyU1JDdlV1ckEyRVZLbXBqSjR0LUtIOGJFUDFVU1lJNVpKUXNyaHpwM3BFSW9JR0ktOFRFazVIR01oR3ptSUJMZ29hSVRwZVlyUXQ5MVAwcjBoV0h3a3ZRN01UbWZGSVlmdU1rN1NzNlF5QkR0c3EtNTdXUFVvTHlEczljcHFVak5LVFBEX2hQbWNIRHVVQXFHbHdVdU82bE5WMzFNN0dnYWpyQlAxVlVJVkQyR2RqdW40TDEySXhNd2dSLWVfcEJFVU1rMExIUmtwSk1CS1hpMmQtLU1pdnVtTVowMV9fZ2NKWnIxelFxZ3hDcVZfR0VwdEVkQnNLQ1BZNEo4eXNoNGZ0M1lZMU1wSWZ2ejhDRElfYVJhM3pFdklGWkR4aGt3X0s4aGJ5ZmJLeU5iSlhxc1BhWjBHVTFB?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 29 Oct 2026 20:03:45 GMT"
       },
       {
         "title": "ICAI CA Foundation September result 2026: Scorecards expected today, details here - India Today",
@@ -175,10 +181,10 @@
         "pubDate": "Mon, 26 Oct 2026 08:13:15 GMT"
       },
       {
-        "title": "JMT: Sales and EBITDA grew despite deflation; ex-IFRS 16 net cash was €118mn - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUEZ5VnZsaDRFaVBzSEhNaEF2OGphbGlmMkZNUGtRcDBrT2ZHUm1FV3E5Q0tnNTAyR3hBMG90bGdVUFRsOF9OY2dTMWtJRmJRb1dTODVVV1BjZnd5Sy1jNlg0TmVPTEMyYVNsLXdGcEpvbm5XM3RHdkR3UVJCN1hlbWFxV2s3d0wxNkY2eE1UWHgxR09NQnBnNXpLaUNnQmNBWFZDVUVSRFdudk5SMU50dDNTRC1objh3NG9FQmdZUEJ0eEJ6dG5JUFY0SFNfdEtMVzRROXdEdEVNazhleE1WQ21aVmt5UGNtNUhIcg?oc=5",
+        "title": "Universal Music Group N.V. Reports Financial Results for the Third Quarter and Nine Months Ended September 30, 2026 - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQbEJoSEJxb0dPNkZvRFMwUzNwVVdBOWd6X1U5RXJrX3VyejNlM0h5ZWU4TWd0ajZ3WjlpcGpsNDJRLUVkVXh4RjVWVEJzdV8xMjhuYmVYRVlGWWZ2LWJ2UWFBTDRNYkNVLU1zUU5QZ3hZS2psbjl1MVRocEtDMk9Ub2lXNGdQUE8tdHFkdXgzaldON3RyNFNSMVNnN0dvcGhScXhuVl9KemwwZmthVVpQdGhsTk1lRGZUQVRraVhEM2YxRklsM1VRN2RwTlYtREFNRlUzV0VwZXVpWWFUZzNlU1ktSEs2cUpjS25SUEt2UTJRLW5wb1NKYmFVUWs5VGNfVFhGMw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 29 Oct 2026 09:05:16 GMT"
+        "pubDate": "Thu, 29 Oct 2026 16:45:00 GMT"
       },
       {
         "title": "Getting ready for IFRS 18 - kpmg.com",
@@ -203,12 +209,6 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFhGX19mVjU0d0pwWWhNRndFUjliUTNFXzMtbFB1aXVETlZMdXk2aU9mOXFfUU1CYUZNY211QUVFNmYwbERsOWtrM0p0ZVhHSnJFQlY4OFpGb1JkOEFGeGFGMTA3Mzdrc2kycVM1TDhuV0pmRG5SME4tUXNhdTRTcWs1WXhWVWtFanBYTVBNemt2b0dLbjhwZW9nRjB3UUY3OU5TbUxRWQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 10 Jul 2026 14:35:46 GMT"
-      },
-      {
-        "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - cfo.economictimes.indiatimes.com",
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPbU5peXdmWTZoeVRDR1pxZXp5dFJOSGk2aFA1M3RzUzY0SHQtc0tQRmJ6aEpiQXBGUjg5UUFyQURwUXY0VThYV2hHUFQ4RVZPMUtVcXNzemRTb3lrYWdIODlQUTRvZVE2Ty1CelNpc2V4YTJsaFBwLWhjejU1aDZIZHRqSk5FVnJaVExJSjdZbm1jM1BGN0duR0J3OFJiZHZJWkNxZHNRSE44N1RDWjR3Nm9QSkV1VmRBVDd1b2x4U254VF90SHNaeG5kUTJ1Vmdnd1dmY0xkaGw4bXkzaUJTQWt6ZVl0cGFSaGExd3BoeXZacXJpbTQ0NFhZdG12MmhEQVhLMkpkQUxaeFdG0gGSAkFVX3lxTE40WTBfZExDYWUteG9kU0VGbjhjalBYdGR2SW9lc05NMWVXYlZFZ1JWRzItbzc4bl9ibTJid3dUVnllSkkwTXhEeDJtOUYzZ2ItamxqWmx6akEwa19PZGU0STU5NjRhNG9DMll5MkY1U0E3d0diLTdFamhSbS1XQzBiRVY3TWpxRk1WUnMwUVFwV3R4SGlsTkNNUnN3TzA0X1BNRUJ4MVdBSm5NN3pGT01sX1ZZMG9hdVZtLVNPNUVkV01FSHl3TVBBbnZycXQwMFQwbFJRQmFxZk1fUFoxNGNtTnZ3OVBDaVMwSXZ5Nm9HeFowLW1NTFdJMjlHWmdqN0xYZHM5b2Fka1lmb3p3Tm9EOVE?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 27 Oct 2026 03:44:43 GMT"
       }
     ]
   }
