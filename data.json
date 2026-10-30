@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T14:26:04.869875+00:00",
+  "generatedAt": "2026-10-30T19:33:20.830444+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 76674,
-      "chg": -4.57
+      "price": 76509,
+      "chg": -5.3
     },
     "eth": {
-      "price": 2218.95,
-      "chg": -4.61
+      "price": 2227.79,
+      "chg": -4.46
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
-        "title": "Jio Platforms Q2 Results: Profit rises 14% YoY to Rs 8,389 crore; revenue up 11%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jio-platforms-q2-results-profit-rises-14-yoy-to-rs-8389-crore-revenue-up-11/articleshow/135364558.cms",
+        "title": "Intel stock plunges 30% as weak PC demand and AI costs trigger global chip selloff",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/intel-plunges-25-as-weak-pc-demand-and-ai-costs-trigger-global-chip-selloff/articleshow/135371230.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 30 Oct 2026 19:13:48 +0530"
+        "pubDate": "Fri, 30 Oct 2026 22:37:17 +0530"
       },
       {
-        "title": "US stocks today: Nasdaq tumbles over 2%, S&amp;P 1% at open as Amazon, Intel add to AI spending woes",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-tumbles-over-2-sp-1-at-open-as-amazon-intel-add-to-ai-spending-woes/articleshow/135364444.cms",
+        "title": "Sun Pharma Q2 profit falls 36% as litigation costs hit earnings",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-q2-profit-falls-36-as-litigation-costs-hit-earnings/articleshow/135370217.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 30 Oct 2026 19:08:23 +0530"
+        "pubDate": "Fri, 30 Oct 2026 22:14:19 +0530"
       },
       {
-        "title": "NTPC Green Energy Q2 Results: Profit jumps 56% YoY to Rs 137 crore, revenue rises 53%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ntpc-green-energy-q2-results-profit-jumps-56-yoy-to-rs-137-crore-revenue-rises-53/articleshow/135363615.cms",
+        "title": "Syrma SGS reports best-ever quarter; Q2 revenue up 73% to Rs 1,999.5 crore",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/syrma-sgs-reports-best-ever-quarter-q2-revenue-up-73-to-rs-1999-5-crore/articleshow/135369732.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 30 Oct 2026 18:43:34 +0530"
+        "pubDate": "Fri, 30 Oct 2026 22:05:53 +0530"
       },
       {
-        "title": "Big dividends, bigger losses? The hidden risk in Wall Street's highest-yielding stocks",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/big-dividends-bigger-losses-the-hidden-risk-in-wall-streets-highest-yielding-stocks/articleshow/135362488.cms",
+        "title": "Zee Entertainment Q2 profit drops 40% to Rs 46 crore as EBITDA margin contracts to 3.2%",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/zee-entertainment-q2-profit-drops-40-to-rs-46-crore-as-ebitda-margin-contracts-to-3-2/articleshow/135369566.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 30 Oct 2026 18:15:29 +0530"
+        "pubDate": "Fri, 30 Oct 2026 21:50:52 +0530"
       },
       {
-        "title": "India bonds buckle for fourth straight month on oil's climb",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-buckle-for-fourth-straight-month-on-oils-climb/articleshow/135361502.cms",
+        "title": "Lodha Developers H1FY27 net profit soars 63%, expects to beat full-year guidance",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lodha-developers-h1fy27-net-profit-soars-63-expects-to-beat-full-year-guidance/articleshow/135369310.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 30 Oct 2026 17:52:58 +0530"
+        "pubDate": "Fri, 30 Oct 2026 21:43:16 +0530"
       },
       {
-        "title": "US Stock Market Live Updates: Nasdaq crashes over 2%, S&amp;P 1% at open as Amazon, Intel add to AI spending woes",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-amazon-intel-alphabet-google-meta-microsoft-nvidia-amd-chevron-exxon-mobil-reddit-earnings-ai-spending-fed-rate-treasury-bond-yield-israel-iran-war-market-news-30th-october-2026/liveblog/135361421.cms",
+        "title": "Spandana Sphoorty returns to profit at Rs 18 crore in Q2FY27",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/spandana-sphoorty-returns-to-profit-at-rs-18-crore-in-q2fy27/articleshow/135369091.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 30 Oct 2026 17:44:11 +0530"
+        "pubDate": "Fri, 30 Oct 2026 21:35:19 +0530"
       },
       {
-        "title": "Bank of Baroda Q2 Results: Standalone profit jumps 36% YoY to Rs 6,532 crore; NII up 9%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-baroda-q2-results-standalone-profit-jumps-36-yoy-to-rs-6532-crore-nii-up-9/articleshow/135359927.cms",
+        "title": "Bank of Baroda Q2 profit jumps 36% to Rs 6,532 crore on NSE stake sale",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-baroda-q2-profit-jumps-36-to-rs-6532-crore-on-nse-stake-sale/articleshow/135369087.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 30 Oct 2026 17:19:21 +0530"
+        "pubDate": "Fri, 30 Oct 2026 21:32:22 +0530"
       },
       {
-        "title": "Coforge among 6 stocks hitting 52-week highs; rally up to 20% in a month",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-among-6-stocks-hitting-52-week-highs-rally-up-to-20-in-a-month/slideshow/135359688.cms",
+        "title": "Record earnings! 5 big takeaways from RIL Q2 results investors should watch for Monday trading",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/record-earnings-5-big-takeaways-from-ril-q2-results-investors-should-watch-for-monday-trading/articleshow/135367917.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 30 Oct 2026 17:02:58 +0530"
+        "pubDate": "Fri, 30 Oct 2026 20:48:47 +0530"
       },
       {
-        "title": "8 midcap stocks with over 100% profit growth in Q2FY27",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/8-midcap-stocks-with-over-100-profit-growth-in-q2fy27/slideshow/135358493.cms",
+        "title": "Reliance Retail Q2 Results: Revenue up 6%, but late festive season, digital spends hit profit",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q2-results-net-profit-falls-24-yoy-to-rs-2611-crore-gross-revenue-rises-6/articleshow/135366729.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 30 Oct 2026 16:36:25 +0530"
+        "pubDate": "Fri, 30 Oct 2026 20:15:00 +0530"
       },
       {
-        "title": "Aditya Birla Capital Q2 profit rises 38% to Rs 1,288-cr",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/aditya-birla-capital-q2-profit-rises-38-to-rs-1288-cr/articleshow/135357711.cms",
+        "title": "Reliance Industries announces fundraising, to raise Rs 15,000 crore through NCDs",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/reliance-industries-to-raise-rs-15000-crore-via-ncds/articleshow/135366327.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 30 Oct 2026 16:30:02 +0530"
+        "pubDate": "Fri, 30 Oct 2026 20:09:10 +0530"
       }
     ],
     "acct": [
@@ -163,6 +163,18 @@
         "pubDate": "Fri, 30 Oct 2026 11:34:26 GMT"
       },
       {
+        "title": "IFRS quarterly update: Key IFRS developments in Q3 2026 - Deloitte",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1dtX1RucTZONHN4aHN6QjMwX25qenVNUVdpbklJR3BsQTExVEFKVW5XcHFvZUdQakNTd0xmWWx1UGp0ZjR1eHJzNzZoWWs2Ym1rQW9OenVKTHM1dTBZVGNmamlSN191Wm5ReXJiajFNaVVLTUJoYUV3NmFRSEVRYXFQWllGSkxWM0RpOVduNko3Z2Zwc1E?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 30 Oct 2026 13:24:09 GMT"
+      },
+      {
+        "title": "New audit framework to strengthen accountability in cooperative sector: ICAI - The Federal",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnNZYmx1ZkNwbDFyeUhRV01SUTluYW83b3JvbkY0cmNEbS1vZzEzZEM1WVA4WnpCblNOQzFJXzVKY2J1UG5WQjhtbmFraGFOUWx6S2kyRFVPaVRuZTl3ak1zeUNPZUtBUmd3SEdkcmtvNmxxb1NJbk9zcUJvRy1PaU9rN3doaUg0ZUdxa3pVbHc5Z2xRaGhzTXRzTEs0YU1EVjI5VFl0SlJXQQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 30 Oct 2026 14:54:12 GMT"
+      },
+      {
         "title": "ICAI Nagpur Branch holds NATCON 2026 - The Hitavada",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOGlyVDFZZDdaWTNWTmdHci1rQlk4blBud213R3ZIY3F6SWwwemVCa3AwaXVyUmhhZnM2SlBiQ0ZjMzZOQ2FDMWpjWFRSbW9GSHN4NkZSVFp6ZzRSelBRaVV1YU15OXo3SE91WGxiNk9NOGNTMXZicHgyazJuTVhDMGVyWERRN3dCTFhnam5OQQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -172,7 +184,7 @@
         "title": "ICAI Advances Cooperative Sector Reforms Through New Audit Framework and Nationwide Capacity-Building Programmes - Odisha Diary",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbms5V1ZJLWIxcUNMajN0Vzc4VFFBLWJNNndoRmYyRTY4aVV2cW5vUUVjTWF5ay1FWnV5LUEwUzlXc2J1eVFFQXNZU1lDLS1rbGpQRFNvZzlmQTMtMllzNzdveU4tcG51ZkdJM3cwNTZjNDluanMtRG9wd0tWeHN2SnJPR2FSQjJUcUo5dVdJQzVvOGlRSjJtRkZuYnRCRnVBVzJkYzNUSFJoNlRoY0l5XzNnVlpDdHViekhiVHh0U3U4R1NwaFp5THFLQ29vUi1wSy1N?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 30 Oct 2026 11:04:55 GMT"
+        "pubDate": "Fri, 30 Oct 2026 11:03:46 GMT"
       },
       {
         "title": "Wolters Kluwer selected by IFFCO Tokio General Insurance to support Ind AS 117 and Ind AS 116 compliance with CCH® Tagetik - Yahoo Finance",
@@ -193,22 +205,10 @@
         "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "The IFRS Foundation Monitoring Board welcomes the Foundation’s new leadership and highlights the importance of public accountability, robust governance and high-quality standard-setting - Disruption Banking",
-        "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxPLXk0SkU2Y3VwWnhoZ1VyU1JDdlV1ckEyRVZLbXBqSjR0LUtIOGJFUDFVU1lJNVpKUXNyaHpwM3BFSW9JR0ktOFRFazVIR01oR3ptSUJMZ29hSVRwZVlyUXQ5MVAwcjBoV0h3a3ZRN01UbWZGSVlmdU1rN1NzNlF5QkR0c3EtNTdXUFVvTHlEczljcHFVak5LVFBEX2hQbWNIRHVVQXFHbHdVdU82bE5WMzFNN0dnYWpyQlAxVlVJVkQyR2RqdW40TDEySXhNd2dSLWVfcEJFVU1rMExIUmtwSk1CS1hpMmQtLU1pdnVtTVowMV9fZ2NKWnIxelFxZ3hDcVZfR0VwdEVkQnNLQ1BZNEo4eXNoNGZ0M1lZMU1wSWZ2ejhDRElfYVJhM3pFdklGWkR4aGt3X0s4aGJ5ZmJLeU5iSlhxc1BhWjBHVTFB?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 29 Oct 2026 20:03:45 GMT"
-      },
-      {
         "title": "ICAI CA Foundation September result 2026: Scorecards expected today, details here - India Today",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLW55MWt6Nms2TVRNd001cnFOZlZVcDV0cFMzVWw4RHlFcTJWQ0VaMU5lSVB2d1J2cHBxTlloblVrdXRTRU5CbXgxaXZiakoyeHpOVDlwX1VyOFpsa1dMLUU2clV1a0xFLXNsZGxsSVQwRDBOM2U1MDJkMTU4eEFSODhBOXhSeW0zd0hMbXdiWUVsYUhKdUVyUTBqcUlwTHZEZnN4azJWSUstUThWM2lGTi1ydWFxN2E2SmlWVGQ4QURSaWZOVlNqVnEtSHc?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Thu, 29 Oct 2026 05:20:17 GMT"
-      },
-      {
-        "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - Wolters Kluwer",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlIzUGljQXNlVm4xZ2R0ZFhITUtjQmNINmswSXA0R3lSeWtJZHI0MmRvR2l0ZDRJRUpiWFdSX1c0aFMyaVl2bWhNbHJxWGJTTUM5TTd5ZWxMX0lNMEp1Q3YzS2JZSDFnbWRkX3pvbnRFZTd0ZUx3ZTVmMjhhaHBqU1BGYjdMYXdBM2ZBWS1FVUkzVFF1aFEw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
       }
     ]
   }
