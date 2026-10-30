@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T21:54:08.845013+00:00",
+  "generatedAt": "2026-10-30T01:26:34.231523+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,22 +72,70 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 79014,
-      "chg": -2.8
+      "price": 76874,
+      "chg": -4.88
     },
     "eth": {
-      "price": 2270.46,
-      "chg": -3.98
+      "price": 2206.02,
+      "chg": -5.92
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 95.3,
-    "eurinr": 106.21,
-    "gbpinr": 126.8
+    "usdinr": 95.29,
+    "eurinr": 106.36,
+    "gbpinr": 127.2
   },
   "news": {
     "corp": [
+      {
+        "title": "Hero MotoCorp bets on premiumisation, EVs to sustain growth momentum",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hero-motocorp-faces-margin-pressure-despite-strong-q2-growth/articleshow/135337599.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 30 Oct 2026 06:30:19 +0530"
+      },
+      {
+        "title": "Global Market Today: Asian stocks slide as tech earnings disappoint, AI fears mount",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today/articleshow/135337523.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 30 Oct 2026 06:22:15 +0530"
+      },
+      {
+        "title": "Bulls return as Fed rate pause, dip in US yields lift sentiment",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/bulls-return-as-fed-rate-pause-dip-in-us-yields-lift-sentiment/articleshow/135337202.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 30 Oct 2026 06:07:40 +0530"
+      },
+      {
+        "title": "Stocks in news: RIL, Jio, Trent, Suzlon Energy, IndiGo, Vedanta Power and RVNL",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-ril-jio-trent-suzlon-energy-indigo-vedanta-power-and-rvnl/articleshow/135324704.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 30 Oct 2026 06:00:00 +0530"
+      },
+      {
+        "title": "Pre-market action: Here's the trade setup for today's session",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135324178.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 30 Oct 2026 06:00:00 +0530"
+      },
+      {
+        "title": "G-Sec 10-year yields come down 5 bps to 7.39% on Fed signals",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/g-sec-10-year-yields-come-down-5-bps-to-7-39-on-fed-signals/articleshow/135335834.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 30 Oct 2026 05:56:03 +0530"
+      },
+      {
+        "title": "Kotak Bank shares gain 30% since April as earnings outlook brightens",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/kotak-mahindra-bank-shares-soar-to-record-high-amid-improving-growth-prospects-earnings-expectations/articleshow/135336078.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 30 Oct 2026 05:55:02 +0530"
+      },
+      {
+        "title": "Advance-decline ratio hits 7-month low as market breadth weakens",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-breadth-hits-seven-month-low-despite-nifty-sensex-gains/articleshow/135336784.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 30 Oct 2026 05:53:50 +0530"
+      },
       {
         "title": "US Markets Today: US stocks end lower as Alphabet revenue miss revives AI capex jitters",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-us-stocks-end-lower-as-alphabet-revenue-miss-revives-ai-capex-jitters/articleshow/135331051.cms",
@@ -95,58 +143,10 @@
         "pubDate": "Fri, 30 Oct 2026 01:46:15 +0530"
       },
       {
-        "title": "Cash takes centre stage as investors rethink AI spending boom",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/cash-takes-centre-stage-as-investors-rethink-ai-spending-boom/articleshow/135327536.cms",
+        "title": "Health insurers seek expense cap tweaks",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/health-insurers-seek-expense-cap-tweaks/articleshow/135337380.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 30 Oct 2026 00:27:00 +0530"
-      },
-      {
-        "title": "Alphabet’s AI risks deepen as filing reveals $98 billion in commitments beyond the $1 trillion spending",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/alphabets-ai-risks-deepen-as-filing-reveals-98-5-billion-in-commitments-beyond-the-1-trillion-spending/articleshow/135325480.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 29 Oct 2026 23:07:58 +0530"
-      },
-      {
-        "title": "Sagility block deal: Promoter Sagility BV likely to sell 12% stake for Rs 2,377 crore",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sagility-block-deal-promoter-sagility-bv-likely-to-sell-12-stake-for-rs-2377-crore/articleshow/135322817.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 29 Oct 2026 21:26:22 +0530"
-      },
-      {
-        "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/135322160.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 29 Oct 2026 21:08:44 +0530"
-      },
-      {
-        "title": "Market Trading Guide: Eternal among 2 stocks to buy for Friday for healthy returns",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-eternal-among-2-stocks-to-buy-for-friday-for-healthy-returns/articleshow/135321713.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 29 Oct 2026 20:49:42 +0530"
-      },
-      {
-        "title": "Ambuja Cements’ profit slumps 90% on higher costs, high previous-year base",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ambuja-cements-profit-slumps-90-on-higher-costs-high-previous-year-base/articleshow/135320851.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 29 Oct 2026 20:24:27 +0530"
-      },
-      {
-        "title": "Milky Mist Q2 revenue surges 42% YoY, EBITDA soars 54%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/milky-mist-q2-revenue-surges-42-yoy-ebitda-soars-54/articleshow/135320553.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 29 Oct 2026 20:14:41 +0530"
-      },
-      {
-        "title": "Brigade Group reports 29% growth in Q2 net profit at Rs 219 crore",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/brigade-group-reports-29-growth-in-q2-net-profit-at-rs-219-crore/articleshow/135320326.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 29 Oct 2026 20:09:53 +0530"
-      },
-      {
-        "title": "Google shares crash 13% after $9 billion cash burn sparks AI spending fears",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/google-shares-crash-13-after-9-billion-cash-burn-sparks-ai-spending-fears/articleshow/135319102.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 29 Oct 2026 19:41:28 +0530"
+        "pubDate": "Fri, 30 Oct 2026 01:27:23 +0530"
       }
     ],
     "acct": [
@@ -169,22 +169,22 @@
         "pubDate": "Thu, 29 Oct 2026 09:20:51 GMT"
       },
       {
-        "title": "ICAI Announces Online Assessment Date for Forensic Accounting Course - Taxscan",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaU9JQTdfNlF0Nm5uYTBlR283YW8ybEhvbWFEWG96SlBPb2RRTlJSd1Q0TklPT2czTWsxSHJKM2NZMXFpYm5vRy1Ga0lKTzZjN2pkNjZQX0NlSlhPYkFQcjBvQldETzZqd3BfQW9TeEVGQUxOR0hYU2JzVUtpSktWSTU0UDdKeUVNZ2M4djAtZVRPR2pJSlNHTTVETnhhVzRoSFJhMEJHYkZqOUJJd1dPMjZlRVIxNDNiZUVDY2NMdDhVVjdKM2JwNDVOcnpDaWJ1dTNVczJZR3otTUZNZS10ajFJOFhmcEVx?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 29 Oct 2026 12:39:00 GMT"
-      },
-      {
         "title": "India’s ICAI releases September 2026 CA Intermediate examination results - The Accountant Online",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVXFBWUJDalFrRXBpWlh0WGdvMzh6VlBrZ2NZOHduYW94cmJVcEwyV1ZUcWtpczZ6cU1UcDdhQXNPdUcyUW9rWUNtUjZRRGV4T2RiOGRZYklaak1PTmNwN1JGMGg5SUFNTTRhM3NjcEZobVFnemRqc3ExbExieG02TzlGUlBRcEt3bkM3b3VyeU56aEFQSFE?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 26 Oct 2026 08:13:15 GMT"
       },
       {
-        "title": "Universal Music Group N.V. Reports Financial Results for the Third Quarter and Nine Months Ended September 30, 2026 - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQbEJoSEJxb0dPNkZvRFMwUzNwVVdBOWd6X1U5RXJrX3VyejNlM0h5ZWU4TWd0ajZ3WjlpcGpsNDJRLUVkVXh4RjVWVEJzdV8xMjhuYmVYRVlGWWZ2LWJ2UWFBTDRNYkNVLU1zUU5QZ3hZS2psbjl1MVRocEtDMk9Ub2lXNGdQUE8tdHFkdXgzaldON3RyNFNSMVNnN0dvcGhScXhuVl9KemwwZmthVVpQdGhsTk1lRGZUQVRraVhEM2YxRklsM1VRN2RwTlYtREFNRlUzV0VwZXVpWWFUZzNlU1ktSEs2cUpjS25SUEt2UTJRLW5wb1NKYmFVUWs5VGNfVFhGMw?oc=5",
+        "title": "ICAI Announces Online Assessment Date for Forensic Accounting Course - Taxscan",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaU9JQTdfNlF0Nm5uYTBlR283YW8ybEhvbWFEWG96SlBPb2RRTlJSd1Q0TklPT2czTWsxSHJKM2NZMXFpYm5vRy1Ga0lKTzZjN2pkNjZQX0NlSlhPYkFQcjBvQldETzZqd3BfQW9TeEVGQUxOR0hYU2JzVUtpSktWSTU0UDdKeUVNZ2M4djAtZVRPR2pJSlNHTTVETnhhVzRoSFJhMEJHYkZqOUJJd1dPMjZlRVIxNDNiZUVDY2NMdDhVVjdKM2JwNDVOcnpDaWJ1dTNVczJZR3otTUZNZS10ajFJOFhmcEVx?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 29 Oct 2026 16:45:00 GMT"
+        "pubDate": "Thu, 29 Oct 2026 12:39:00 GMT"
+      },
+      {
+        "title": "Pinetree Capital Announces Unaudited Financial Results for the Period Ended September 30, 2026 - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZGYtVHh5QWlLUnRYNXYyVHFRS01uR1FELWREQkdrTlA4Y21pNnFYZGR3bE12dl9MX1hwZWVFX0x5YnBGQ3F6SWVCOHVzdUp6X092eHg5VFMtSU9jbEVDTWhQX0U3ZGZZa05jY1A4OFUySHJjeDQ5MXF2RkU4c0hiTVRBZUNlck0wbkNCRl8wTEtCRmRlQVZaWmtWenZMQng2SUdoOXBoLXFhd0R0VmwycmlKUTU5VF80WU1rV1FnUXpuc1M3SnZnTjZJMmQwQzlUVG9yVEcwcURPTXhOXy14SWhXNk5aZWlx?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 29 Oct 2026 22:08:20 GMT"
       },
       {
         "title": "Getting ready for IFRS 18 - kpmg.com",
