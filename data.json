@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T19:33:20.830444+00:00",
+  "generatedAt": "2026-10-30T23:22:15.897304+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 76509,
-      "chg": -5.3
+      "price": 76986,
+      "chg": -2.22
     },
     "eth": {
-      "price": 2227.79,
-      "chg": -4.46
+      "price": 2236.83,
+      "chg": -1.31
     }
   },
   "fx": {
@@ -88,6 +88,24 @@
   },
   "news": {
     "corp": [
+      {
+        "title": "US stocks today: Dow Jones crashes 500 pts, Nasdaq over 2.5% as AI cash burn fears spark tech selloff",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-dow-jones-crashes-500-pts-nasdaq-over-2-5-as-ai-cash-burn-fears-spark-tech-selloff/articleshow/135377269.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 31 Oct 2026 01:49:20 +0530"
+      },
+      {
+        "title": "Nasdaq 100 cracks 5%, wipes out $2 trillion in October as AI spending fears deepen",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-100-cracks-5-faces-2-trillion-wipeout-in-october-as-ai-spending-fears-deepen/articleshow/135376949.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 31 Oct 2026 01:40:09 +0530"
+      },
+      {
+        "title": "Reddit stock plunges 30% as Google's AI search threatens traffic and user growth",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/reddit-plunges-23-as-googles-ai-search-threatens-traffic-and-user-growth/articleshow/135374718.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 31 Oct 2026 00:03:48 +0530"
+      },
       {
         "title": "Intel stock plunges 30% as weak PC demand and AI costs trigger global chip selloff",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/intel-plunges-25-as-weak-pc-demand-and-ai-costs-trigger-global-chip-selloff/articleshow/135371230.cms",
@@ -129,24 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-baroda-q2-profit-jumps-36-to-rs-6532-crore-on-nse-stake-sale/articleshow/135369087.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Fri, 30 Oct 2026 21:32:22 +0530"
-      },
-      {
-        "title": "Record earnings! 5 big takeaways from RIL Q2 results investors should watch for Monday trading",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/record-earnings-5-big-takeaways-from-ril-q2-results-investors-should-watch-for-monday-trading/articleshow/135367917.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 30 Oct 2026 20:48:47 +0530"
-      },
-      {
-        "title": "Reliance Retail Q2 Results: Revenue up 6%, but late festive season, digital spends hit profit",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q2-results-net-profit-falls-24-yoy-to-rs-2611-crore-gross-revenue-rises-6/articleshow/135366729.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 30 Oct 2026 20:15:00 +0530"
-      },
-      {
-        "title": "Reliance Industries announces fundraising, to raise Rs 15,000 crore through NCDs",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/reliance-industries-to-raise-rs-15000-crore-via-ncds/articleshow/135366327.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 30 Oct 2026 20:09:10 +0530"
       }
     ],
     "acct": [
@@ -163,16 +163,16 @@
         "pubDate": "Fri, 30 Oct 2026 11:34:26 GMT"
       },
       {
-        "title": "IFRS quarterly update: Key IFRS developments in Q3 2026 - Deloitte",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1dtX1RucTZONHN4aHN6QjMwX25qenVNUVdpbklJR3BsQTExVEFKVW5XcHFvZUdQakNTd0xmWWx1UGp0ZjR1eHJzNzZoWWs2Ym1rQW9OenVKTHM1dTBZVGNmamlSN191Wm5ReXJiajFNaVVLTUJoYUV3NmFRSEVRYXFQWllGSkxWM0RpOVduNko3Z2Zwc1E?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 30 Oct 2026 13:24:09 GMT"
-      },
-      {
         "title": "New audit framework to strengthen accountability in cooperative sector: ICAI - The Federal",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnNZYmx1ZkNwbDFyeUhRV01SUTluYW83b3JvbkY0cmNEbS1vZzEzZEM1WVA4WnpCblNOQzFJXzVKY2J1UG5WQjhtbmFraGFOUWx6S2kyRFVPaVRuZTl3ak1zeUNPZUtBUmd3SEdkcmtvNmxxb1NJbk9zcUJvRy1PaU9rN3doaUg0ZUdxa3pVbHc5Z2xRaGhzTXRzTEs0YU1EVjI5VFl0SlJXQQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 30 Oct 2026 14:54:12 GMT"
+      },
+      {
+        "title": "IFRS quarterly update: Key IFRS developments in Q3 2026 - Deloitte",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1dtX1RucTZONHN4aHN6QjMwX25qenVNUVdpbklJR3BsQTExVEFKVW5XcHFvZUdQakNTd0xmWWx1UGp0ZjR1eHJzNzZoWWs2Ym1rQW9OenVKTHM1dTBZVGNmamlSN191Wm5ReXJiajFNaVVLTUJoYUV3NmFRSEVRYXFQWllGSkxWM0RpOVduNko3Z2Zwc1E?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 30 Oct 2026 13:24:09 GMT"
       },
       {
         "title": "ICAI Nagpur Branch holds NATCON 2026 - The Hitavada",
@@ -205,10 +205,10 @@
         "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "ICAI CA Foundation September result 2026: Scorecards expected today, details here - India Today",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLW55MWt6Nms2TVRNd001cnFOZlZVcDV0cFMzVWw4RHlFcTJWQ0VaMU5lSVB2d1J2cHBxTlloblVrdXRTRU5CbXgxaXZiakoyeHpOVDlwX1VyOFpsa1dMLUU2clV1a0xFLXNsZGxsSVQwRDBOM2U1MDJkMTU4eEFSODhBOXhSeW0zd0hMbXdiWUVsYUhKdUVyUTBqcUlwTHZEZnN4azJWSUstUThWM2lGTi1ydWFxN2E2SmlWVGQ4QURSaWZOVlNqVnEtSHc?oc=5",
+        "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - Wolters Kluwer",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlIzUGljQXNlVm4xZ2R0ZFhITUtjQmNINmswSXA0R3lSeWtJZHI0MmRvR2l0ZDRJRUpiWFdSX1c0aFMyaVl2bWhNbHJxWGJTTUM5TTd5ZWxMX0lNMEp1Q3YzS2JZSDFnbWRkX3pvbnRFZTd0ZUx3ZTVmMjhhaHBqU1BGYjdMYXdBM2ZBWS1FVUkzVFF1aFEw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 29 Oct 2026 05:20:17 GMT"
+        "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
       }
     ]
   }
