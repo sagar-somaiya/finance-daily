@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T23:22:15.897304+00:00",
+  "generatedAt": "2026-10-31T02:34:44.943958+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,22 +72,28 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 76986,
-      "chg": -2.22
+      "price": 77302,
+      "chg": 0.19
     },
     "eth": {
-      "price": 2236.83,
-      "chg": -1.31
+      "price": 2242.9,
+      "chg": 1.52
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 95.29,
-    "eurinr": 106.36,
-    "gbpinr": 127.2
+    "usdinr": 95.07,
+    "eurinr": 106.16,
+    "gbpinr": 127.26
   },
   "news": {
     "corp": [
+      {
+        "title": "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/wall-street-drops-to-its-worst-day-since-june-after-the-sell-off-for-tech-stocks-deepens/articleshow/135382776.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 31 Oct 2026 06:20:12 +0530"
+      },
       {
         "title": "US stocks today: Dow Jones crashes 500 pts, Nasdaq over 2.5% as AI cash burn fears spark tech selloff",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-dow-jones-crashes-500-pts-nasdaq-over-2-5-as-ai-cash-burn-fears-spark-tech-selloff/articleshow/135377269.cms",
@@ -141,12 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/spandana-sphoorty-returns-to-profit-at-rs-18-crore-in-q2fy27/articleshow/135369091.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Fri, 30 Oct 2026 21:35:19 +0530"
-      },
-      {
-        "title": "Bank of Baroda Q2 profit jumps 36% to Rs 6,532 crore on NSE stake sale",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bank-of-baroda-q2-profit-jumps-36-to-rs-6532-crore-on-nse-stake-sale/articleshow/135369087.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 30 Oct 2026 21:32:22 +0530"
       }
     ],
     "acct": [
