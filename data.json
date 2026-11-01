@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T01:40:27.337867+00:00",
+  "generatedAt": "2026-11-01T08:25:47.590152+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 77650,
-      "chg": 0.33
+      "price": 77844,
+      "chg": 0.68
     },
     "eth": {
-      "price": 2267.36,
-      "chg": 0.96
+      "price": 2268.19,
+      "chg": 1.22
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
+        "title": "10 penny stocks plunge up to 70% in three months. Do you own any?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-penny-stocks-plunge-up-to-70-in-three-months-do-you-own-any/slideshow/135420900.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 01 Nov 2026 12:53:24 +0530"
+      },
+      {
+        "title": "IOC, BPCL, HPCL clock Rs 30,106 cr Q2 profit, nearly 39 pc of last year's annual earnings",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ioc-bpcl-hpcl-clock-rs-30106-cr-q2-profit-nearly-39-pc-of-last-years-annual-earnings/articleshow/135420177.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 01 Nov 2026 12:22:22 +0530"
+      },
+      {
+        "title": "Can Nifty, Sensex extend gains after rallying up to 2% last week? 4 factors to watch on Monday",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-nifty-sensex-extend-gains-after-rallying-up-to-2-last-week-4-factors-to-watch-on-monday/articleshow/135419919.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 01 Nov 2026 12:07:22 +0530"
+      },
+      {
+        "title": "FPIs pull out Rs 34,843 cr from equities in Oct; turn net buyers last week",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-pull-out-rs-34843-cr-from-equities-in-oct-turn-net-buyers-last-week/articleshow/135419712.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 01 Nov 2026 11:55:21 +0530"
+      },
+      {
+        "title": "ITC Q2 Results Preview: Profit seen falling nearly 30% YoY as cigarette tax hikes bite",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/itc-q2-results-preview-profit-seen-falling-nearly-30-yoy-as-cigarette-tax-hikes-bite/articleshow/135419165.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 01 Nov 2026 11:27:43 +0530"
+      },
+      {
+        "title": "Nifty IT’s 18% rally may mark a durable leadership cycle; 35,000 next: LKP's Vatsal Bhuva",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-its-18-rally-may-mark-a-durable-leadership-cycle-35000-next-lkps-vatsal-bhuva/articleshow/135419140.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 01 Nov 2026 11:25:57 +0530"
+      },
+      {
+        "title": "IPO Calendar: Primary market cools after Jio frenzy, but 13 listings lined up",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-primary-market-cools-after-jio-frenzy-but-13-listings-lined-up/articleshow/135419009.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 01 Nov 2026 11:11:56 +0530"
+      },
+      {
+        "title": "Bonus issues, stock splits, dividends: Infosys, Asian Paints among over 40 stocks turning ex-date this week",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issues-stock-splits-dividends-infosys-asian-paints-among-over-40-stocks-turning-ex-date-this-week/articleshow/135418410.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 01 Nov 2026 10:34:32 +0530"
+      },
+      {
+        "title": "Sebi bars EKI Energy, MD Dabkara, others from market; imposes penalty",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-eki-energy-md-dabkara-others-from-market-imposes-penalty/articleshow/135416947.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 01 Nov 2026 09:23:11 +0530"
+      },
+      {
         "title": "Muthoot Finance Q2 cons profit jumps 36% YoY to Rs 3,278 crore",
         "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-q2-cons-profit-jumps-36-yoy-to-rs-3278-crore/articleshow/135401237.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Sat, 31 Oct 2026 18:15:32 +0530"
-      },
-      {
-        "title": "Sebi to release FII compliance consultation paper within weeks, says chairman Tuhin Kanta Pandey",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-to-release-fii-compliance-consultation-paper-within-weeks-says-chairman-tuhin-kanta-pandey/articleshow/135400429.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sat, 31 Oct 2026 17:36:29 +0530"
-      },
-      {
-        "title": "US bonds rally, sending yields to biggest monthly decline since 2023",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/us-bonds-rally-sending-yields-to-biggest-monthly-decline-since-2023/articleshow/135400137.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sat, 31 Oct 2026 17:23:53 +0530"
-      },
-      {
-        "title": "NTPC Q2 Results: Standalone profit rises 14% YoY to Rs 5,320 crore; revenue up 17%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ntpc-q2-results-net-profit-rises-14-yoy-to-rs-5320-crore-revenue-up-17/articleshow/135399399.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sat, 31 Oct 2026 16:57:35 +0530"
-      },
-      {
-        "title": "Dalal Street Weak Ahead: Nifty stands on firmer footing, but can it break past 23,450?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-weak-ahead-nifty-stands-on-firmer-footing-but-can-it-break-past-23450/articleshow/135396431.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sat, 31 Oct 2026 16:35:04 +0530"
-      },
-      {
-        "title": "CDSL Q2 results: Net profit jumps 24% YoY to Rs 173 crore, revenue up 24%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/cdsl-q2-results-net-profit-jumps-24-yoy-to-rs-173-crore-revenue-up-24/articleshow/135397659.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sat, 31 Oct 2026 15:50:46 +0530"
-      },
-      {
-        "title": "ET Wealth Expo | Only 6 of 1990's Sensex stocks survive: S Naren's case for smarter asset allocation",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-only-6-of-1990s-sensex-stocks-survive-s-narens-case-for-smarter-asset-allocation/articleshow/135397428.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sat, 31 Oct 2026 15:40:24 +0530"
-      },
-      {
-        "title": "Silver loses more than half its value from record high: What went wrong and will it recover?",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/silver-loses-more-than-half-its-value-from-record-high-what-went-wrong-and-will-it-recover/articleshow/135395608.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sat, 31 Oct 2026 14:33:45 +0530"
-      },
-      {
-        "title": "Turnaround Story: 8 stocks shift from loss to profit in September '26 quarter",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/turnaround-story-8-stocks-shift-from-loss-to-profit-in-september-26-quarter/slideshow/135395511.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sat, 31 Oct 2026 14:22:12 +0530"
-      },
-      {
-        "title": "Sebi pushes for resilient capital markets, focuses on investor protection: Chairman",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-pushes-for-resilient-capital-markets-focuses-on-investor-protection-chairman/articleshow/135393379.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sat, 31 Oct 2026 13:11:02 +0530"
       }
     ],
     "acct": [
@@ -157,16 +157,22 @@
         "pubDate": "Sat, 31 Oct 2026 14:28:33 GMT"
       },
       {
+        "title": "ICAI to issue Audit Guidance for Multi-State Co-ops - Indian Cooperative",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM21BdW1sQ1gwU0d5TjRLNnNzTEJwM1A1VDdaMDF4ZHQ3QWRweUJNS256S1JxaWM4M0lEN2VtbTNzOE0tVzRDRzR2VlhDVnpzWlRXa3hUNzFWYVdYd2hreWxhM0IwcWZEMkdFMjhkdVJ4SG5UNHJHbGNDVXVMaUlrdXk3ckNQaTRfdXJ4czdDQnlKdTRPNnFicldELVhobTZ4ckp3R1ZBeFBMQQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sun, 01 Nov 2026 05:46:30 GMT"
+      },
+      {
+        "title": "ICAI CA Foundation Result 2026: Date of Announcement - Taxscan",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdXNHb2xabnlrZ0tLMnRjNms2OERGYmUxS3FWdFl0WWkzdVhLcS1oR21hZW5tb0xsZTRUWnBXRDNnazBYQnZxRHNLUmRlWHJVZlpaV2R3OGpucHZkR2FhWlZfem50djVnU1BPazgtUDRGamZnd0tkSHljMWptblF5bU9nanZ6MXVvV1dPZnVjWkhDVFNFSm9zM2p2c19hcTJBbGJQdlVYU3lCbVc2Mk5nSml3cVNMUQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sun, 01 Nov 2026 07:33:00 GMT"
+      },
+      {
         "title": "ICAI to issue guidance note on new audit reporting framework for multi-state cooperative societies - The Economic Times",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZGRrcG1iOE8zUDZVZERWTkJNOExzVVRlOF93R05qcDd2NEREV2gtVEM1SXl2aUoyazBmQVh1c1RSM2xRX2tuWnZQUVJhcGpuRWZUTldjQUhQVG1KRDZyMnFGZFVydElZMnBjYkJNODl6bWx3RFJwekY5Q01pYjZJaUt6RTRnd0Q0R2lBbHRickkzc2toVGJPQnNPQWJnc0MySFBTMmRTTGk3cmx5X1d3Y0xzalY3ZUNCRy01dWdPVlVucmVUeTdxMjdCODdXX0hkYkRuamYyY3R6WTVqbXZ4SFBLN3haemhrZWp1dW9WMnE3VkpqWEVHd2ZMZW1SajJxZEHSAYcCQVVfeXFMTkNSMGdLUzJzZlJNTHpLQVMxR3hNY0NDTUZrdWd1c0FmOG1oaFNJNjV4WGZjUkhhMTFKRWVYa2RmUkxuMEs4dzVTencxQ3hxcEE3eTRJaGgxS3FXOWZRa3NMZkU0M3EtRmxuNEc1dlRNa1VadGNDclBnMWE3ZktEY3hlempMMFRzcHdnVjRPRTdoRG1SQXdUcm8yQ0xRUGlIQTMyS2k4UXlhallNcW94b210LWxFRVBlN1VxV1k0b3BtSGE4Vk5YMXBLQU1LRUpTRWZIcnNrWjRBWmx3OHFSbHBRakhhSkN2VzVTRDBZelEtTWZ6NDhZTGUxWEJYYlFLM3V3SUVsZjg?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 30 Oct 2026 11:34:26 GMT"
-      },
-      {
-        "title": "ICAI Suspends CA for 3 Months Over Medical Trust Audit Lapse - Taxscan",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZXBObGJXT0hlTHM5Nl9mRkFHTU5WOXJCa3h1S3hLR3pGYXA5b2xLelY3bHZsOUtveHpjWWFaSkNLejFwZlRwcVZjaHFscUFxeEJtTVM1aWM4MHlOU3I2cmRITDZ0Qjc3Z3owd3JZUFZwemtPbk5yNkNDbl91M2plcXg0TS1FRU15M0NTS29RSTdieGtDTk1ERE5DVjBaNUs2UzZzdTJISW5LR3hkUm1GS1pYMTR5czZlZkxuSXBYMHNSa1VQRkZYWXBBX01DeEk?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sat, 31 Oct 2026 13:44:00 GMT"
       },
       {
         "title": "Getting ready for IFRS 18 - kpmg.com",
@@ -181,6 +187,12 @@
         "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
       },
       {
+        "title": "ICAI CA Foundation September result 2026: Scorecards expected today, details here - India Today",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLW55MWt6Nms2TVRNd001cnFOZlZVcDV0cFMzVWw4RHlFcTJWQ0VaMU5lSVB2d1J2cHBxTlloblVrdXRTRU5CbXgxaXZiakoyeHpOVDlwX1VyOFpsa1dMLUU2clV1a0xFLXNsZGxsSVQwRDBOM2U1MDJkMTU4eEFSODhBOXhSeW0zd0hMbXdiWUVsYUhKdUVyUTBqcUlwTHZEZnN4azJWSUstUThWM2lGTi1ydWFxN2E2SmlWVGQ4QURSaWZOVlNqVnEtSHc?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 29 Oct 2026 05:20:17 GMT"
+      },
+      {
         "title": "Wolters Kluwer selected by IFFCO Tokio General Insurance to support Ind AS 117 and Ind AS 116 compliance with CCH® Tagetik - Yahoo Finance",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWZXbWxVOC1ZZEtGS1lNekZ4ODdrRjJMMXFWUEJZMkhkVm1rbjUtUXZoVHhRdkNONkpqODNEN1ViZVFSVDZramZjOTlneG5ZejdZWGhGbkVma3N4cDRVR09pR0wwMTFlbDlRSXhzNzNvWDh2NUoyT0JIWWltWmZfUERERmdUVHFKMjlZeEtsaUlRWmU2dXhGQkVQMi0?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -193,22 +205,10 @@
         "pubDate": "Mon, 26 Oct 2026 08:13:15 GMT"
       },
       {
-        "title": "ICAI CA Foundation September result 2026: Scorecards expected today, details here - India Today",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLW55MWt6Nms2TVRNd001cnFOZlZVcDV0cFMzVWw4RHlFcTJWQ0VaMU5lSVB2d1J2cHBxTlloblVrdXRTRU5CbXgxaXZiakoyeHpOVDlwX1VyOFpsa1dMLUU2clV1a0xFLXNsZGxsSVQwRDBOM2U1MDJkMTU4eEFSODhBOXhSeW0zd0hMbXdiWUVsYUhKdUVyUTBqcUlwTHZEZnN4azJWSUstUThWM2lGTi1ydWFxN2E2SmlWVGQ4QURSaWZOVlNqVnEtSHc?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 29 Oct 2026 05:20:17 GMT"
-      },
-      {
         "title": "IFRS quarterly update: Key IFRS developments in Q3 2026 - Deloitte",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb1dtX1RucTZONHN4aHN6QjMwX25qenVNUVdpbklJR3BsQTExVEFKVW5XcHFvZUdQakNTd0xmWWx1UGp0ZjR1eHJzNzZoWWs2Ym1rQW9OenVKTHM1dTBZVGNmamlSN191Wm5ReXJiajFNaVVLTUJoYUV3NmFRSEVRYXFQWllGSkxWM0RpOVduNko3Z2Zwc1E?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 30 Oct 2026 13:24:09 GMT"
-      },
-      {
-        "title": "New audit framework to strengthen accountability in cooperative sector: ICAI - The Federal",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnNZYmx1ZkNwbDFyeUhRV01SUTluYW83b3JvbkY0cmNEbS1vZzEzZEM1WVA4WnpCblNOQzFJXzVKY2J1UG5WQjhtbmFraGFOUWx6S2kyRFVPaVRuZTl3ak1zeUNPZUtBUmd3SEdkcmtvNmxxb1NJbk9zcUJvRy1PaU9rN3doaUg0ZUdxa3pVbHc5Z2xRaGhzTXRzTEs0YU1EVjI5VFl0SlJXQQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 30 Oct 2026 14:54:12 GMT"
       }
     ]
   }
