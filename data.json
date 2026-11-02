@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T02:38:18.285859+00:00",
+  "generatedAt": "2026-11-02T10:18:54.301231+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 78416,
-      "chg": 1.01
+      "price": 77908,
+      "chg": -0.22
     },
     "eth": {
-      "price": 2289.9,
-      "chg": 1.14
+      "price": 2284.35,
+      "chg": 0.61
     }
   },
   "fx": {
@@ -89,84 +89,102 @@
   "news": {
     "corp": [
       {
-        "title": "Positive Breakout: These 6 stocks cross above their 200 DMAs",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-6-stocks-cross-above-their-200-dmas/slideshow/135442506.cms",
+        "title": "Oyo parent PRISM clocks PAT of Rs 353 crore in Q1, up 17% YoY, revenue jumps 35%",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/oyo-parent-prism-clocks-pat-of-rs-353-crore-in-q1-up-17-yoy-revenue-jumps-35/articleshow/135454425.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 02 Nov 2026 07:50:02 +0530"
+        "pubDate": "Mon, 02 Nov 2026 15:37:54 +0530"
       },
       {
-        "title": "Oil Price Today (November 2): Crude oil falls to $111 as Iran-Qatar talks continue to end war. What are experts saying?",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-november-2-crude-oil-falls-to-111-as-iran-qatar-talks-continue-to-end-war-what-are-experts-saying/articleshow/135442213.cms",
+        "title": "Japan bond yields edge higher ahead of key JGB auctions; 10-year yield holds at 2.77%",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/japan-bond-yields-edge-higher-ahead-of-key-jgb-auctions-10-year-yield-holds-at-2-77/articleshow/135453773.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 02 Nov 2026 07:47:08 +0530"
+        "pubDate": "Mon, 02 Nov 2026 15:12:55 +0530"
       },
       {
-        "title": "Indian stocks may recover on steady growth and earnings, Axis AMC says",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-stocks-may-recover-on-steady-growth-and-earnings-axis-amc-says/articleshow/135442150.cms",
+        "title": "Indian IPO market clocks record Rs 84,400 crore in H1 FY27, fundraising jumps 30%",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-ipo-market-clocks-record-rs-84400-crore-in-h1-fy27-fundraising-jumps-30/articleshow/135453488.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 02 Nov 2026 07:39:23 +0530"
+        "pubDate": "Mon, 02 Nov 2026 14:59:56 +0530"
       },
       {
-        "title": "Gold lingers near one-year low as Fed hike expectations firm",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-lingers-near-one-year-low-as-fed-hike-expectations-firm/articleshow/135442111.cms",
+        "title": "FIIs increase stake: 11 Nifty stocks rally up to 50% in FY27 so far",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-increase-stake-11-nifty-stocks-rally-up-to-50-in-fy27-so-far/slideshow/135452650.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 02 Nov 2026 07:36:12 +0530"
+        "pubDate": "Mon, 02 Nov 2026 14:24:46 +0530"
       },
       {
-        "title": "Dollar rangebound ahead of US midterms; bitcoin reels from crypto heist",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-rangebound-ahead-of-us-midterms-bitcoin-reels-from-crypto-heist/articleshow/135442091.cms",
+        "title": "MobiKwik shares zoom 10% as fintech firm posts record Rs 12 crore profit in Q2",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/mobikwik-shares-zoom-10-as-fintech-firm-posts-record-rs-12-crore-profit-in-q2/articleshow/135452378.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 02 Nov 2026 07:33:25 +0530"
+        "pubDate": "Mon, 02 Nov 2026 14:23:51 +0530"
       },
       {
-        "title": "Oil slips more than 1% as talks continue on ending Iran war",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-slips-more-than-1-as-talks-continue-on-ending-iran-war/articleshow/135442064.cms",
+        "title": "Goldman Sachs expects Bank of England to raise rates again in February",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-expects-bank-of-england-to-raise-rates-again-in-february/articleshow/135451968.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 02 Nov 2026 07:31:40 +0530"
+        "pubDate": "Mon, 02 Nov 2026 14:08:00 +0530"
       },
       {
-        "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a positive start; Asian shares trade lower",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-hcl-tech-adani-green-share-price-02-november-2026/liveblog/135442032.cms",
+        "title": "Missed Reliance Industries’ historic 8% one-day rally? Here’s what technical analysts are saying",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/missed-reliance-industries-historic-8-one-day-rally-heres-what-technical-analysts-are-saying/articleshow/135451322.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 02 Nov 2026 07:20:54 +0530"
+        "pubDate": "Mon, 02 Nov 2026 13:52:04 +0530"
       },
       {
-        "title": "Crypto Heist: Binance covers 95% tokens, resumes withdrawals",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/crypto-heist-binance-covers-95-tokens-resumes-withdrawals/articleshow/135441852.cms",
+        "title": "South Eastern Coalfields files DRHP with SEBI for IPO; Coal India to offload 66.8 crore shares",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/south-eastern-coalfields-files-drhp-with-sebi-for-ipo-coal-india-to-offload-66-8-crore-shares/articleshow/135451367.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 02 Nov 2026 07:17:56 +0530"
+        "pubDate": "Mon, 02 Nov 2026 13:51:05 +0530"
       },
       {
-        "title": "Sun Pharma’s specialty portfolio, Organon deal to drive growth",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sun-pharma-reports-double-digit-revenue-growth-amid-strong-specialty-medicine-performance/articleshow/135441533.cms",
+        "title": "Office, retail and warehousing offer new opportunities as India’s real estate market matures: JLL",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/office-retail-and-warehousing-offer-new-opportunities-as-indias-real-estate-market-matures-jll/articleshow/135450841.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 02 Nov 2026 06:45:00 +0530"
+        "pubDate": "Mon, 02 Nov 2026 13:35:30 +0530"
       },
       {
-        "title": "Reliance Industries eyes growth boost from O2C, retail and Jio businesses",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-industries-reports-strong-growth-in-september-quarter-driven-by-oil-to-chemicals-segment/articleshow/135441477.cms",
+        "title": "Bitcoin rattled by biggest crypto heist in history! Why Warren Buffett and Charlie Munger hated cryptocurrency",
+        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-rattled-by-biggest-crypto-heist-in-history-why-warren-buffett-and-charlie-munger-hated-cryptocurrency/articleshow/135450575.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 02 Nov 2026 06:35:51 +0530"
+        "pubDate": "Mon, 02 Nov 2026 13:26:36 +0530"
       }
     ],
     "acct": [
       {
-        "title": "ICAI CA Foundation September 2026 result likely on November 6; check official notice - EdexLive",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMWt1QVhEdzg0LWVnTVpHS3RVNnVrRnpIajB1SDdvYWNyZWtvaGFjNWkyd1MzWU5FT0lIWU9FeGRfdnFadXI1b1pXWUpabk5IdldDZTFKcnVMZGFtRFUtZE9oWXRkendBVnhZanNPQnFMdE1jZDVoWFVoMTRLbG10QVNwVEloWk83VFHSAZcBQVVfeXFMUGZiV2oyVzNzY2hYUF9Ya0FQOGc2R0JfRWljN2pGeXVKbEw0VVJWR25CZm9LTmVJMk4wT0FZMHZHMnpjWnAwanBrVWdJZ1VaSE1TN1lnUm94eVhKbEFCcVRqMVNFaWJKMTZ3TnlXOXJKZjhvVnRadHdvaGhiQVh5N254YzFNZWtOeGVrSnlFQk8taXdnbzlCZw?oc=5",
+        "title": "India’s ICAI backs cooperative sector audit reforms - The Accountant Online",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY3BXZ3VaVHNYREhRdU40U0gya2ZfNUp0XzNXNTBMUldpck15ekNxYXpLdkIxQmNFSXNLbUFLbk1lTVpEZzVHOEd6OGc0ai0zUE12WTFvYkIxd0c1UTk0OHVXLWo5c3ZIUEp1LXlUM1lKVXZNbjZKM3FuUjRjT3p1VnpHdUtTYmhiSU1jSnU2V3Q3Q2JHMUlaOA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sun, 01 Nov 2026 08:11:00 GMT"
+        "pubDate": "Mon, 02 Nov 2026 08:44:50 GMT"
       },
       {
-        "title": "IFFCO Tokio General Insurance selects CCH Tagetik to support Ind AS 117 and Ind AS 116 compliance - Wolters Kluwer",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ2FGY3hKRFNBYndXMDNRZUpYekxmejNZc3hyeVlWODgxRmM5aGZzMmFBRVZieGhQNlNxRk44VlZZSU1mYTlQWWlmMHBZUzNqQld0WmJnYVdueGV3RkRXVmZSVEV4Q05XVFFOT3JERG5uZVhfN3ZMSmJZbTZMZXNwSXVjbi1MUktqLUZpQ3ZUTldta3ZKNnJJZ0NiWmVFVHFHT2FibUFrU1VmYkNWa0M1QXgteGRzcWNTS09kQm1EMlFFYXcwR2lpb1luNXNkWjM1czB3UkFmdw?oc=5",
+        "title": "ICAI CA Foundation September 2026 result date announced: Results likely on November 6, here's how to chec - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPLTF0LWg3YUVKUjZrNlQ2UFZiVlpiN1pSUUtJMFoxa0V4RXh6N3R2a2tlWkMwYUJIQ1hTOUoyS2IzUHNvNGxFVFp5M2EwZkxpMmJGaDZYdGhCbjVvWXU4YUxLb0dUelB6cnRpNkltOTBlZFFBX1NCMS1CenRkaExCWkpIbzhuWWxfcnczUzRfQjlMTWY5VTRqWWgxQW1manhaZDlYLVQ4U3BDUGxlMDU2azZDY3l6YjMxOTd1RWtqMGR3SUlhTjdhY0RwQnNPZ0VNUlltQUlZLXhfQ2s3aF8zTFpJMFRSSnd6RTMyVG02RkVQZjJ5bUlGWURTZWxTYmhicndTU1AyVHgwUjNz0gGSAkFVX3lxTFA3aFhWeHFwWDVvSWRhcDhKRDF0LUZpTmMxeWh0SUNJUmstSGc3MmxPMzNaRk1BQ2pTdEdqM2dybXg3T0I1TFVhejgtWjZpNmZBQjdoTUFPZUw0MUJ3a2FOUzl6VjVsOTRRVWZ2TVVYdEFiVUYtRWljSThOaW9ERlpKZmJZeWJiZGt0Rk5CZmVOcW41TUF6WmgyaU5SMGZGS1Aza3FsN3poeG9mTzgtSFJXWHBnWmxXVHNCOWZpS0pVaEpWeGQ0NEttb1hnNUd6dUl5SjVaT28tNHMwdWM3Tm85ZTRLTVkzZTc1ZDhhZXNkQlg4bjNNT2dsTkFBRUlpc242QWxhUUx6eDdFb1ROcC1aSnc?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 26 Oct 2026 10:26:29 GMT"
+        "pubDate": "Mon, 02 Nov 2026 03:47:00 GMT"
       },
       {
-        "title": "ICAI to issue Audit Guidance for Multi-State Co-ops - Indian Cooperative",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM21BdW1sQ1gwU0d5TjRLNnNzTEJwM1A1VDdaMDF4ZHQ3QWRweUJNS256S1JxaWM4M0lEN2VtbTNzOE0tVzRDRzR2VlhDVnpzWlRXa3hUNzFWYVdYd2hreWxhM0IwcWZEMkdFMjhkdVJ4SG5UNHJHbGNDVXVMaUlrdXk3ckNQaTRfdXJ4czdDQnlKdTRPNnFicldELVhobTZ4ckp3R1ZBeFBMQQ?oc=5",
+        "title": "CA Foundation September 2026: ICAI Announces Result Release Date; Know Passing Criteria - Telegraph India",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNVlxME1YWmp4TlVGM0l3SlBYNk0zM0N3UEdDTl9TT1JTZ0FhYUNRRGZHN0M4WUI3TF9tZzZSZlpnYzVKcWc3bENTekpPZk90ODVLZXV0QmJ2N0UzakJhZk5TdEM1UUZKaDE4ZGdQSHhsdDNHMEVTRGpuZGQtb1BUXzhaTEFURl8zQ1dyUVpPUkpzUnpOajQ5LWNtM2l0cUgzcU5oejlwZU1HMEhnZjdEWW53elpSX3h2WUlzTFd2dDZ2a1J6OHBrLXhJUHNWUdIB0wFBVV95cUxPWVRYckF2cHFnU1VwQnB5RmhoMnV3Wl84SXJfVmxaeFlZQWJoRS01VmJpSWxPR204aXI2RWRmYTVXSnJFYnZNNkxwX0VWYzlVUWdjdnZmZlBWWWtXVGpxVzdwT3U0eEtWTWVwYUw3MU03akJGdGhfVnNmT1F4ZXZNWWJFZXJteFduU0xza0Y2QXVoakcxWF9wdkxvZ1pycGh1RW5kUjAyeVZCaWxoc2o0YnBhLWxDd3dqQzFVWTBleVNUWlF4YzZMT0NKa05hQ29ad1NV?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sun, 01 Nov 2026 05:46:28 GMT"
+        "pubDate": "Mon, 02 Nov 2026 06:03:15 GMT"
+      },
+      {
+        "title": "ICAI CA Foundation September 2026 result date out: Results likely on November 6, details here - India Today",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOExucXU0a0ZfU3lXMmRadzdUbVBXV1ZYdEFlMUU0S0hqbGpOVzgzbnQ3MkZXNGsxZHlURkRJY2QyR3dXNWFXTjdWd1VpMW9xSDNjMFlTRnlFZV9MZjdZLXNKQVNvWmZtaGZBNGtYME9ZUXM1YUNsVG1zeUJGQUNQMlhET0Z2WW5rZTNYem1MMmpydkljRmxDSmYxaXpuWHZwOGlRSnRmWFZEX2JUS0ViVGU5a2FrZk15ZXlaWGVzbnBxTDZDQll1cFM1VWVBdlg2dnViOWJsNUZhOFpm?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 02 Nov 2026 07:07:31 GMT"
+      },
+      {
+        "title": "ICAI CA Foundation Result 2026 for September exam releasing on November 6 at caresults.icai.org | Hindustan Times - Hindustan Times",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQ0ZlUWRmRTFBemFEQXQycUdDMUFGQUhaTzJ5bnpwVmVBRmZCSUFkUXhJaWxBaDB6bTBEbXplVFlkQjVlMzFyODEwZVNrZXRhY1BlanBGSWdoZlNlR3RqWkttZ0VWQzh4cHlVeElSQnJCclNlc1k2ZzZjZWp4a0pjSko0eE9rOVdXRFNWOTJlZlB6RjZoal9oMEpZMmdhZ2pDZW1SQVh5OXVZU2lKbWRSLXBZX1E4eGlpQnJ3ZFZPeGZnVm4xbkU2bERCa3FMazFjd3M5Vkp3YVJHaDRVdVRucDBOT0prUGF6S3dlem1xZUMyblNkdmdoOTBhNUHSAYICQVVfeXFMT2hLY1dMQnMtR3cxRVUyMmVpVE0zcHZwQmZYTnF6RXVydWtvcUpGYUJ1cE9nUUctejI5MW1DVXdqRWh4Mzd2cmVuNzZKNUdtYnhpckJsaVV1Z2toVzE3dTRtdjI4cUpLS1pvZklfTWRlUWR3ODRpbWdoeWxGeVlZRmwtX2kyakVLY0JGT2l1bkZ0RWZNZEF4RnZSR2FtT1ZEWEc3S2QyNTl2R1Z4SDh3UjRsd01BSFhyQTVVQ01VRkg2U01fQW5faklyclkwamM3cG51T0NzVnRKYUJrdmc1RFQwemJrbU8zYldMZjBtTVUyMS1sUFRIVWNRQlp3SkpJVEJn?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 02 Nov 2026 05:27:57 GMT"
+      },
+      {
+        "title": "New audit framework to strengthen accountability in cooperative sector: ICAI - The Federal",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnNZYmx1ZkNwbDFyeUhRV01SUTluYW83b3JvbkY0cmNEbS1vZzEzZEM1WVA4WnpCblNOQzFJXzVKY2J1UG5WQjhtbmFraGFOUWx6S2kyRFVPaVRuZTl3ak1zeUNPZUtBUmd3SEdkcmtvNmxxb1NJbk9zcUJvRy1PaU9rN3doaUg0ZUdxa3pVbHc5Z2xRaGhzTXRzTEs0YU1EVjI5VFl0SlJXQQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 02 Nov 2026 04:25:12 GMT"
       },
       {
         "title": "ICAI to issue guidance note on new audit reporting framework for multi-state cooperative societies - The Economic Times",
@@ -175,40 +193,22 @@
         "pubDate": "Fri, 30 Oct 2026 11:34:26 GMT"
       },
       {
+        "title": "IFFCO Tokio General Insurance selects CCH Tagetik to support Ind AS 117 and Ind AS 116 compliance - Wolters Kluwer",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ2FGY3hKRFNBYndXMDNRZUpYekxmejNZc3hyeVlWODgxRmM5aGZzMmFBRVZieGhQNlNxRk44VlZZSU1mYTlQWWlmMHBZUzNqQld0WmJnYVdueGV3RkRXVmZSVEV4Q05XVFFOT3JERG5uZVhfN3ZMSmJZbTZMZXNwSXVjbi1MUktqLUZpQ3ZUTldta3ZKNnJJZ0NiWmVFVHFHT2FibUFrU1VmYkNWa0M1QXgteGRzcWNTS09kQm1EMlFFYXcwR2lpb1luNXNkWjM1czB3UkFmdw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 26 Oct 2026 10:26:29 GMT"
+      },
+      {
         "title": "Getting ready for IFRS 18 - kpmg.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm1Idm5QWU1kM2hSQ2RjQWdzZ0U1ZnBIb2ZieThWZEs3Y0ZHV1BKVWowNTJUWDZwbDVkanBtN1BBbWlCb1g4aTdINXZvNFdfaWZwNXRvSzA3ODkyQVRRQjZJdnlQYWkzQnhKdXM3QXhGUFkzR3BRZ1FPWGZEWUZ3aTB5TDlsZ2dWbmJKSVVJYktiVVh4MzFhTjQ5VmVBdGJrdmVXd3JJUTFVMGtzTFdhVENBZkd4U1d5TE1mcEZxWDU?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "ICAI CA Foundation September result 2026: Scorecards expected today, details here - India Today",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLW55MWt6Nms2TVRNd001cnFOZlZVcDV0cFMzVWw4RHlFcTJWQ0VaMU5lSVB2d1J2cHBxTlloblVrdXRTRU5CbXgxaXZiakoyeHpOVDlwX1VyOFpsa1dMLUU2clV1a0xFLXNsZGxsSVQwRDBOM2U1MDJkMTU4eEFSODhBOXhSeW0zd0hMbXdiWUVsYUhKdUVyUTBqcUlwTHZEZnN4azJWSUstUThWM2lGTi1ydWFxN2E2SmlWVGQ4QURSaWZOVlNqVnEtSHc?oc=5",
+        "title": "ICAI to issue Audit Guidance for Multi-State Co-ops - Indian Cooperative",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM21BdW1sQ1gwU0d5TjRLNnNzTEJwM1A1VDdaMDF4ZHQ3QWRweUJNS256S1JxaWM4M0lEN2VtbTNzOE0tVzRDRzR2VlhDVnpzWlRXa3hUNzFWYVdYd2hreWxhM0IwcWZEMkdFMjhkdVJ4SG5UNHJHbGNDVXVMaUlrdXk3ckNQaTRfdXJ4czdDQnlKdTRPNnFicldELVhobTZ4ckp3R1ZBeFBMQQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 29 Oct 2026 05:20:17 GMT"
-      },
-      {
-        "title": "ICAI CA Foundation Result 2026: Date of Announcement - Taxscan",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdXNHb2xabnlrZ0tLMnRjNms2OERGYmUxS3FWdFl0WWkzdVhLcS1oR21hZW5tb0xsZTRUWnBXRDNnazBYQnZxRHNLUmRlWHJVZlpaV2R3OGpucHZkR2FhWlZfem50djVnU1BPazgtUDRGamZnd0tkSHljMWptblF5bU9nanZ6MXVvV1dPZnVjWkhDVFNFSm9zM2p2c19hcTJBbGJQdlVYU3lCbVc2Mk5nSml3cVNMUQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sun, 01 Nov 2026 07:33:00 GMT"
-      },
-      {
-        "title": "India’s ICAI releases September 2026 CA Intermediate examination results - The Accountant Online",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVXFBWUJDalFrRXBpWlh0WGdvMzh6VlBrZ2NZOHduYW94cmJVcEwyV1ZUcWtpczZ6cU1UcDdhQXNPdUcyUW9rWUNtUjZRRGV4T2RiOGRZYklaak1PTmNwN1JGMGg5SUFNTTRhM3NjcEZobVFnemRqc3ExbExieG02TzlGUlBRcEt3bkM3b3VyeU56aEFQSFE?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 26 Oct 2026 08:13:15 GMT"
-      },
-      {
-        "title": "New audit framework to strengthen accountability in cooperative sector: ICAI - The Federal",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnNZYmx1ZkNwbDFyeUhRV01SUTluYW83b3JvbkY0cmNEbS1vZzEzZEM1WVA4WnpCblNOQzFJXzVKY2J1UG5WQjhtbmFraGFOUWx6S2kyRFVPaVRuZTl3ak1zeUNPZUtBUmd3SEdkcmtvNmxxb1NJbk9zcUJvRy1PaU9rN3doaUg0ZUdxa3pVbHc5Z2xRaGhzTXRzTEs0YU1EVjI5VFl0SlJXQQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 30 Oct 2026 14:54:12 GMT"
-      },
-      {
-        "title": "Universal Music Group N.V. Reports Financial Results for the Third Quarter and Nine Months Ended September 30, 2026 - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQbEJoSEJxb0dPNkZvRFMwUzNwVVdBOWd6X1U5RXJrX3VyejNlM0h5ZWU4TWd0ajZ3WjlpcGpsNDJRLUVkVXh4RjVWVEJzdV8xMjhuYmVYRVlGWWZ2LWJ2UWFBTDRNYkNVLU1zUU5QZ3hZS2psbjl1MVRocEtDMk9Ub2lXNGdQUE8tdHFkdXgzaldON3RyNFNSMVNnN0dvcGhScXhuVl9KemwwZmthVVpQdGhsTk1lRGZUQVRraVhEM2YxRklsM1VRN2RwTlYtREFNRlUzV0VwZXVpWWFUZzNlU1ktSEs2cUpjS25SUEt2UTJRLW5wb1NKYmFVUWs5VGNfVFhGMw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 29 Oct 2026 16:45:00 GMT"
+        "pubDate": "Sun, 01 Nov 2026 05:46:28 GMT"
       }
     ]
   }
