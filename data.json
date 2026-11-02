@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T10:18:54.301231+00:00",
+  "generatedAt": "2026-11-02T20:26:19.715101+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 77908,
-      "chg": -0.22
+      "price": 77065,
+      "chg": -0.79
     },
     "eth": {
-      "price": 2284.35,
-      "chg": 0.61
+      "price": 2256.09,
+      "chg": 0.1
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
-        "title": "Oyo parent PRISM clocks PAT of Rs 353 crore in Q1, up 17% YoY, revenue jumps 35%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/oyo-parent-prism-clocks-pat-of-rs-353-crore-in-q1-up-17-yoy-revenue-jumps-35/articleshow/135454425.cms",
+        "title": "El Nino could add to US inflation pressures in 2027, San Francisco Fed paper warns",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/el-nino-could-add-to-us-inflation-pressures-in-2027-san-francisco-fed-paper-warns/articleshow/135473482.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 02 Nov 2026 15:37:54 +0530"
+        "pubDate": "Tue, 03 Nov 2026 01:31:04 +0530"
       },
       {
-        "title": "Japan bond yields edge higher ahead of key JGB auctions; 10-year yield holds at 2.77%",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/japan-bond-yields-edge-higher-ahead-of-key-jgb-auctions-10-year-yield-holds-at-2-77/articleshow/135453773.cms",
+        "title": "US manufacturing strengthens in October, input prices stay high",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-manufacturing-strengthens-in-october-input-prices-stay-high/articleshow/135472594.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 02 Nov 2026 15:12:55 +0530"
+        "pubDate": "Tue, 03 Nov 2026 00:47:36 +0530"
       },
       {
-        "title": "Indian IPO market clocks record Rs 84,400 crore in H1 FY27, fundraising jumps 30%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-ipo-market-clocks-record-rs-84400-crore-in-h1-fy27-fundraising-jumps-30/articleshow/135453488.cms",
+        "title": "Meta eyes at least $20 billion from potential bond offerings, Bloomberg News reports",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/meta-eyes-at-least-20-billion-from-potential-bond-offerings-bloomberg-news-reports/articleshow/135472448.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 02 Nov 2026 14:59:56 +0530"
+        "pubDate": "Tue, 03 Nov 2026 00:28:02 +0530"
       },
       {
-        "title": "FIIs increase stake: 11 Nifty stocks rally up to 50% in FY27 so far",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-increase-stake-11-nifty-stocks-rally-up-to-50-in-fy27-so-far/slideshow/135452650.cms",
+        "title": "Anthropic revenue jumps 1,100% ahead of IPO as AI spending commitments near $900 billion",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-revenue-jumps-1100-ahead-of-ipo-as-ai-spending-commitments-near-900-billion/articleshow/135472235.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 02 Nov 2026 14:24:46 +0530"
+        "pubDate": "Tue, 03 Nov 2026 00:21:10 +0530"
       },
       {
-        "title": "MobiKwik shares zoom 10% as fintech firm posts record Rs 12 crore profit in Q2",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/mobikwik-shares-zoom-10-as-fintech-firm-posts-record-rs-12-crore-profit-in-q2/articleshow/135452378.cms",
+        "title": "Market Trading Guide: Tata Steel among 5 stocks to buy on Tuesday for healthy returns",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-tata-steel-among-5-stocks-to-buy-on-tuesday-for-healthy-returns/articleshow/135467317.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 02 Nov 2026 14:23:51 +0530"
+        "pubDate": "Mon, 02 Nov 2026 21:57:59 +0530"
       },
       {
-        "title": "Goldman Sachs expects Bank of England to raise rates again in February",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-expects-bank-of-england-to-raise-rates-again-in-february/articleshow/135451968.cms",
+        "title": "Oracle plans to raise $20 billion through bonds and stock sales",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/oracle-plans-to-raise-20-billion-through-bonds-and-stock-sales/articleshow/135466960.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 02 Nov 2026 14:08:00 +0530"
+        "pubDate": "Mon, 02 Nov 2026 21:21:46 +0530"
       },
       {
-        "title": "Missed Reliance Industries’ historic 8% one-day rally? Here’s what technical analysts are saying",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/missed-reliance-industries-historic-8-one-day-rally-heres-what-technical-analysts-are-saying/articleshow/135451322.cms",
+        "title": "Marvell to buy Lumentum in $115 billion deal in AI data-center bet",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet/articleshow/135466901.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 02 Nov 2026 13:52:04 +0530"
+        "pubDate": "Mon, 02 Nov 2026 21:20:07 +0530"
       },
       {
-        "title": "South Eastern Coalfields files DRHP with SEBI for IPO; Coal India to offload 66.8 crore shares",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/south-eastern-coalfields-files-drhp-with-sebi-for-ipo-coal-india-to-offload-66-8-crore-shares/articleshow/135451367.cms",
+        "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/135466871.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 02 Nov 2026 13:51:05 +0530"
+        "pubDate": "Mon, 02 Nov 2026 21:17:30 +0530"
       },
       {
-        "title": "Office, retail and warehousing offer new opportunities as India’s real estate market matures: JLL",
-        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/office-retail-and-warehousing-offer-new-opportunities-as-indias-real-estate-market-matures-jll/articleshow/135450841.cms",
+        "title": "EAAA India draws HDFC MF, Carnelian Asset, and L&amp;T in Rs 316 crore listing-day bulk deals",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/eaaa-india-draws-hdfc-mf-carnelian-asset-and-lt-in-rs-316-crore-listing-day-bulk-deals/articleshow/135466785.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 02 Nov 2026 13:35:30 +0530"
+        "pubDate": "Mon, 02 Nov 2026 21:15:29 +0530"
       },
       {
-        "title": "Bitcoin rattled by biggest crypto heist in history! Why Warren Buffett and Charlie Munger hated cryptocurrency",
-        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-rattled-by-biggest-crypto-heist-in-history-why-warren-buffett-and-charlie-munger-hated-cryptocurrency/articleshow/135450575.cms",
+        "title": "Why traders are moving away from equity F&amp;O to commodities? Nithin Kamath explains",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/why-traders-are-moving-away-from-equity-fo-to-commodities-nithin-kamath-explains/articleshow/135466022.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 02 Nov 2026 13:26:36 +0530"
+        "pubDate": "Mon, 02 Nov 2026 20:38:15 +0530"
       }
     ],
     "acct": [
@@ -169,16 +169,22 @@
         "pubDate": "Mon, 02 Nov 2026 06:03:15 GMT"
       },
       {
-        "title": "ICAI CA Foundation September 2026 result date out: Results likely on November 6, details here - India Today",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOExucXU0a0ZfU3lXMmRadzdUbVBXV1ZYdEFlMUU0S0hqbGpOVzgzbnQ3MkZXNGsxZHlURkRJY2QyR3dXNWFXTjdWd1VpMW9xSDNjMFlTRnlFZV9MZjdZLXNKQVNvWmZtaGZBNGtYME9ZUXM1YUNsVG1zeUJGQUNQMlhET0Z2WW5rZTNYem1MMmpydkljRmxDSmYxaXpuWHZwOGlRSnRmWFZEX2JUS0ViVGU5a2FrZk15ZXlaWGVzbnBxTDZDQll1cFM1VWVBdlg2dnViOWJsNUZhOFpm?oc=5",
+        "title": "ARVINDFASN: Direct channels powered 10% revenue growth and 67 bps post-Ind AS EBITDA margin expansion - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQb1h6dnNXYVIzQWxDUkxseElVV1AyYmlxbDlWNW1XMFhDTEI5ekJjdW1CcExoemRxc29jVjdBVjBOYXhGamdnQ0FsdDFheV9Wdnpia001dGtiVWhteS1LcGhabFFpQ3AwNUhzc1NHc3plbUliT2lic1pQWDFmcUN0LWF4bWZDNGtWVWUydkFDSC14VnluR2lnMWRiYTNkclJBMjhaUDE0b3dNWGFLZFM0aHBLY25MRV9FNXczQm5yU2NSYU04RkVUOVRud1N6Y1RnSTJWYmNtLVNTM1VSM0NzQmJ3d3Z4QnJMYXV3VGszdndURzJHYThpWXNIZnlkUmF2Rlp2QW54eUJDSGlVbEdN?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 02 Nov 2026 07:07:31 GMT"
+        "pubDate": "Mon, 02 Nov 2026 12:35:59 GMT"
       },
       {
         "title": "ICAI CA Foundation Result 2026 for September exam releasing on November 6 at caresults.icai.org | Hindustan Times - Hindustan Times",
         "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQ0ZlUWRmRTFBemFEQXQycUdDMUFGQUhaTzJ5bnpwVmVBRmZCSUFkUXhJaWxBaDB6bTBEbXplVFlkQjVlMzFyODEwZVNrZXRhY1BlanBGSWdoZlNlR3RqWkttZ0VWQzh4cHlVeElSQnJCclNlc1k2ZzZjZWp4a0pjSko0eE9rOVdXRFNWOTJlZlB6RjZoal9oMEpZMmdhZ2pDZW1SQVh5OXVZU2lKbWRSLXBZX1E4eGlpQnJ3ZFZPeGZnVm4xbkU2bERCa3FMazFjd3M5Vkp3YVJHaDRVdVRucDBOT0prUGF6S3dlem1xZUMyblNkdmdoOTBhNUHSAYICQVVfeXFMT2hLY1dMQnMtR3cxRVUyMmVpVE0zcHZwQmZYTnF6RXVydWtvcUpGYUJ1cE9nUUctejI5MW1DVXdqRWh4Mzd2cmVuNzZKNUdtYnhpckJsaVV1Z2toVzE3dTRtdjI4cUpLS1pvZklfTWRlUWR3ODRpbWdoeWxGeVlZRmwtX2kyakVLY0JGT2l1bkZ0RWZNZEF4RnZSR2FtT1ZEWEc3S2QyNTl2R1Z4SDh3UjRsd01BSFhyQTVVQ01VRkg2U01fQW5faklyclkwamM3cG51T0NzVnRKYUJrdmc1RFQwemJrbU8zYldMZjBtTVUyMS1sUFRIVWNRQlp3SkpJVEJn?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 02 Nov 2026 05:27:57 GMT"
+      },
+      {
+        "title": "ICAI CA Foundation September 2026 result date out: Results likely on November 6, details here - India Today",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOExucXU0a0ZfU3lXMmRadzdUbVBXV1ZYdEFlMUU0S0hqbGpOVzgzbnQ3MkZXNGsxZHlURkRJY2QyR3dXNWFXTjdWd1VpMW9xSDNjMFlTRnlFZV9MZjdZLXNKQVNvWmZtaGZBNGtYME9ZUXM1YUNsVG1zeUJGQUNQMlhET0Z2WW5rZTNYem1MMmpydkljRmxDSmYxaXpuWHZwOGlRSnRmWFZEX2JUS0ViVGU5a2FrZk15ZXlaWGVzbnBxTDZDQll1cFM1VWVBdlg2dnViOWJsNUZhOFpm?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 02 Nov 2026 07:07:31 GMT"
       },
       {
         "title": "New audit framework to strengthen accountability in cooperative sector: ICAI - The Federal",
@@ -203,12 +209,6 @@
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm1Idm5QWU1kM2hSQ2RjQWdzZ0U1ZnBIb2ZieThWZEs3Y0ZHV1BKVWowNTJUWDZwbDVkanBtN1BBbWlCb1g4aTdINXZvNFdfaWZwNXRvSzA3ODkyQVRRQjZJdnlQYWkzQnhKdXM3QXhGUFkzR3BRZ1FPWGZEWUZ3aTB5TDlsZ2dWbmJKSVVJYktiVVh4MzFhTjQ5VmVBdGJrdmVXd3JJUTFVMGtzTFdhVENBZkd4U1d5TE1mcEZxWDU?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
-      },
-      {
-        "title": "ICAI to issue Audit Guidance for Multi-State Co-ops - Indian Cooperative",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM21BdW1sQ1gwU0d5TjRLNnNzTEJwM1A1VDdaMDF4ZHQ3QWRweUJNS256S1JxaWM4M0lEN2VtbTNzOE0tVzRDRzR2VlhDVnpzWlRXa3hUNzFWYVdYd2hreWxhM0IwcWZEMkdFMjhkdVJ4SG5UNHJHbGNDVXVMaUlrdXk3ckNQaTRfdXJ4czdDQnlKdTRPNnFicldELVhobTZ4ckp3R1ZBeFBMQQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sun, 01 Nov 2026 05:46:28 GMT"
       }
     ]
   }
