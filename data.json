@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T17:26:14.215547+00:00",
+  "generatedAt": "2026-11-03T22:25:41.316905+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 77617,
-      "chg": 0.46
+      "price": 77781,
+      "chg": 1.16
     },
     "eth": {
-      "price": 2295.75,
-      "chg": 1.65
+      "price": 2289.38,
+      "chg": 1.51
     }
   },
   "fx": {
@@ -88,6 +88,36 @@
   },
   "news": {
     "corp": [
+      {
+        "title": "US stocks today: Nasdaq rebounds as chipmakers rally, Apple slides ahead of US midterm results",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-rebounds-as-chipmakers-rally-apple-slides-ahead-of-us-midterm-results/articleshow/135513181.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 04 Nov 2026 02:50:14 +0530"
+      },
+      {
+        "title": "US Treasury yields climb as strong jobs data, midterm polls weigh; 10-year yield eyes 5% again",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-climb-as-strong-jobs-data-and-midterm-uncertainty-weigh-on-bonds/articleshow/135511549.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 04 Nov 2026 00:40:49 +0530"
+      },
+      {
+        "title": "Taco Bell sales fall more than expected on cyclosporiasis outbreak hit",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/taco-bell-sales-fall-more-than-expected-on-cyclosporiasis-outbreak-hit/articleshow/135510804.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 04 Nov 2026 00:32:54 +0530"
+      },
+      {
+        "title": "Polymarket unit gets US industry organization's approval to be futures broker",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/polymarket-unit-gets-us-industry-organizations-approval-to-be-futures-broker/articleshow/135510648.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 04 Nov 2026 00:05:03 +0530"
+      },
+      {
+        "title": "US midterms put Trump-era crypto boom and prediction markets at risk",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-midterms-put-trump-era-crypto-boom-and-prediction-markets-at-risk/articleshow/135509801.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Tue, 03 Nov 2026 23:39:41 +0530"
+      },
       {
         "title": "CleanMax beats Q2 EBITDA estimates, reports strong H1 growth",
         "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/cleanmax-beats-q2-ebitda-estimates-reports-strong-h1-growth/articleshow/135507102.cms",
@@ -117,36 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/utkarsh-small-finance-bank-reports-sixth-consecutive-quarterly-loss/articleshow/135506409.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Tue, 03 Nov 2026 21:54:16 +0530"
-      },
-      {
-        "title": "Nexus Select Trust’s Q2 NOI rises 8% to Rs 504 cr, consumption up 13%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nexus-select-trusts-q2-noi-rises-8-to-rs-504-cr-consumption-up-13/articleshow/135505912.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 03 Nov 2026 21:36:11 +0530"
-      },
-      {
-        "title": "Loan growth, fall in provisions help SBI profits in Q2",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/loan-growth-fall-in-provisions-help-sbi-profits-in-q2/articleshow/135505841.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 03 Nov 2026 21:33:26 +0530"
-      },
-      {
-        "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/135505565.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 03 Nov 2026 21:21:49 +0530"
-      },
-      {
-        "title": "MCX Q2 Results: Profit rockets 130% YoY to Rs 455 crore, revenue jumps 114%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/mcx-q2-results-profit-rockets-130-yoy-to-rs-455-crore-revenue-jumps-114/articleshow/135504568.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 03 Nov 2026 20:44:21 +0530"
-      },
-      {
-        "title": "Motilal Oswal Financial Services announces leadership rejig; appoints new heads across businesses",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/motilal-oswal-financial-services-announces-leadership-rejig-appoints-new-heads-across-businesses/articleshow/135504517.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 03 Nov 2026 20:42:23 +0530"
       }
     ],
     "acct": [
@@ -155,6 +155,12 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY3BXZ3VaVHNYREhRdU40U0gya2ZfNUp0XzNXNTBMUldpck15ekNxYXpLdkIxQmNFSXNLbUFLbk1lTVpEZzVHOEd6OGc0ai0zUE12WTFvYkIxd0c1UTk0OHVXLWo5c3ZIUEp1LXlUM1lKVXZNbjZKM3FuUjRjT3p1VnpHdUtTYmhiSU1jSnU2V3Q3Q2JHMUlaOA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 02 Nov 2026 08:44:50 GMT"
+      },
+      {
+        "title": "Cineline H1 FY27 revenue gains did not lift pre-Ind AS PAT - Multibagg AI",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmxoeVk5V0tlUDJOMDV1UWJYNHJ1TFY5SVdUOVBNM2NQVWtfU0thRHVnMFlBRHhZTGNmMFhseGhYcDVOdlZ5dXlTR1V2YWN6blgtb3J1cl9IdjZxYjZ4VGk5MTJCZ3M1YmFxSWJVRnJkMTFlVUFsQnpnV1psZERhWXVjSTBNcGpJbmFabnpoNm1FS20xNFh1aG81UjR0UVBOaTMzdXM2SFFob28?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 03 Nov 2026 18:52:50 GMT"
       },
       {
         "title": "ICAI CA Foundation September 2026 result date announced: Results likely on November 6, here's how to chec - The Times of India",
@@ -203,12 +209,6 @@
         "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQ0ZlUWRmRTFBemFEQXQycUdDMUFGQUhaTzJ5bnpwVmVBRmZCSUFkUXhJaWxBaDB6bTBEbXplVFlkQjVlMzFyODEwZVNrZXRhY1BlanBGSWdoZlNlR3RqWkttZ0VWQzh4cHlVeElSQnJCclNlc1k2ZzZjZWp4a0pjSko0eE9rOVdXRFNWOTJlZlB6RjZoal9oMEpZMmdhZ2pDZW1SQVh5OXVZU2lKbWRSLXBZX1E4eGlpQnJ3ZFZPeGZnVm4xbkU2bERCa3FMazFjd3M5Vkp3YVJHaDRVdVRucDBOT0prUGF6S3dlem1xZUMyblNkdmdoOTBhNUHSAYICQVVfeXFMT2hLY1dMQnMtR3cxRVUyMmVpVE0zcHZwQmZYTnF6RXVydWtvcUpGYUJ1cE9nUUctejI5MW1DVXdqRWh4Mzd2cmVuNzZKNUdtYnhpckJsaVV1Z2toVzE3dTRtdjI4cUpLS1pvZklfTWRlUWR3ODRpbWdoeWxGeVlZRmwtX2kyakVLY0JGT2l1bkZ0RWZNZEF4RnZSR2FtT1ZEWEc3S2QyNTl2R1Z4SDh3UjRsd01BSFhyQTVVQ01VRkg2U01fQW5faklyclkwamM3cG51T0NzVnRKYUJrdmc1RFQwemJrbU8zYldMZjBtTVUyMS1sUFRIVWNRQlp3SkpJVEJn?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 02 Nov 2026 05:27:57 GMT"
-      },
-      {
-        "title": "New audit framework to strengthen accountability in cooperative sector: ICAI - The Federal",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnNZYmx1ZkNwbDFyeUhRV01SUTluYW83b3JvbkY0cmNEbS1vZzEzZEM1WVA4WnpCblNOQzFJXzVKY2J1UG5WQjhtbmFraGFOUWx6S2kyRFVPaVRuZTl3ak1zeUNPZUtBUmd3SEdkcmtvNmxxb1NJbk9zcUJvRy1PaU9rN3doaUg0ZUdxa3pVbHc5Z2xRaGhzTXRzTEs0YU1EVjI5VFl0SlJXQQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 02 Nov 2026 04:25:12 GMT"
       }
     ]
   }
