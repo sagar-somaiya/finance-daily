@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T09:42:43.490991+00:00",
+  "generatedAt": "2026-11-04T17:39:18.448652+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 78363,
-      "chg": 1.84
+      "price": 80240,
+      "chg": 3.37
     },
     "eth": {
-      "price": 2318.09,
-      "chg": 2.42
+      "price": 2421.86,
+      "chg": 5.59
     }
   },
   "fx": {
@@ -89,67 +89,73 @@
   "news": {
     "corp": [
       {
-        "title": "12 BSE 500 stocks defy market trend, rally up to 65% in 3 months",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/12-bse-500-stocks-defy-market-trend-rally-up-to-65-in-3-months/slideshow/135533709.cms",
+        "title": "AI data center stocks dip, renewables surge after Democrat sweep in US midterm elections",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-data-center-stocks-dip-renewables-surge-after-democrat-sweep-in-us-midterm-elections/articleshow/135545518.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 04 Nov 2026 14:48:07 +0530"
+        "pubDate": "Wed, 04 Nov 2026 22:01:06 +0530"
       },
       {
-        "title": "Silver prices jump over 4% to reclaim $51/oz as Democrats secure US midterm victory. What’s happening?",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-jump-over-4-to-reclaim-51/oz-as-democrats-secure-us-midterm-victory-whats-happening/articleshow/135531935.cms",
+        "title": "US Treasury shifts language, opening door to auction size changes",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-shifts-language-opening-door-to-auction-size-changes/articleshow/135543878.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 04 Nov 2026 14:09:18 +0530"
+        "pubDate": "Wed, 04 Nov 2026 20:51:43 +0530"
       },
       {
-        "title": "China Services PMI slows to three-month low; what lies ahead for Chinese stocks?",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/china-services-pmi-slows-to-three-month-low-what-lies-ahead-for-chinese-stocks/articleshow/135530252.cms",
+        "title": "Meta draws record orders for debut euro bond sale, Bloomberg News reports",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/meta-draws-record-orders-for-debut-euro-bond-sale-bloomberg-news-reports/articleshow/135543860.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 04 Nov 2026 14:02:57 +0530"
+        "pubDate": "Wed, 04 Nov 2026 20:50:06 +0530"
       },
       {
-        "title": "Warren Buffett has lived through 16 US Presidents. Why he ignores election impact on markets",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/warren-buffett-has-lived-through-16-us-presidents-why-he-ignores-election-impact-on-markets/articleshow/135530567.cms",
+        "title": "Gold gains 3% as dollar slides after Democratic midterm gains",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/gold-gains-3-as-dollar-slides-after-democratic-midterm-gains/articleshow/135543824.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 04 Nov 2026 13:30:00 +0530"
+        "pubDate": "Wed, 04 Nov 2026 20:48:47 +0530"
       },
       {
-        "title": "Meta raises $15 billion through bond sale to fund AI infrastructure expansion",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/meta-raises-15-billion-through-bond-sale-to-fund-ai-infrastructure-expansion/articleshow/135530378.cms",
+        "title": "Prediction markets get Democratic win right, with a few surprises",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/prediction-markets-get-democratic-win-right-with-a-few-surprises/articleshow/135543698.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 04 Nov 2026 13:20:23 +0530"
+        "pubDate": "Wed, 04 Nov 2026 20:47:04 +0530"
       },
       {
-        "title": "Glittering Prospects: Why Gold is the ultimate sweet spot this Dhanteras",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/glittering-prospects-why-gold-is-the-ultimate-sweet-spot-this-dhanteras/articleshow/135530054.cms",
+        "title": "Indian bonds rally most since April as oil slides after US midterm verdict",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-rally-most-since-april-as-oil-slides-after-us-midterm-verdict/articleshow/135543664.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 04 Nov 2026 13:16:55 +0530"
+        "pubDate": "Wed, 04 Nov 2026 20:45:23 +0530"
       },
       {
-        "title": "Kopsi, Taiwan, other Asian stocks tumble after US midterm elections signal Democratic victory. What’s the connection?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/kopsi-taiwan-other-asian-stocks-tumble-after-us-midterm-elections-signal-democratic-victory-whats-the-connection/articleshow/135529227.cms",
+        "title": "Aptus Value Housing Finance Q2 profit rises 18% to Rs 267 cr",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/aptus-value-housing-finance-q2-profit-rises-18-to-rs-267-cr/articleshow/135543628.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 04 Nov 2026 12:47:53 +0530"
+        "pubDate": "Wed, 04 Nov 2026 20:43:37 +0530"
       },
       {
-        "title": "Equitas Small Finance Bank shares jump 9% after Balaji Nuthalapadi’s appointment as interim CEO",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/equitas-small-finance-bank-shares-jump-9-after-balaji-nuthalapadis-appointment-as-interim-ceo/articleshow/135528943.cms",
+        "title": "Keystone Realtors Q2 profit jumps 10-fold to Rs 101 cr",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/keystone-realtors-q2-profit-jumps-10-fold-to-rs-101-cr/articleshow/135543604.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 04 Nov 2026 12:44:25 +0530"
+        "pubDate": "Wed, 04 Nov 2026 20:42:09 +0530"
       },
       {
-        "title": "Super Micro stock soars: AI server boom drives record earnings",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/super-micro-stock-soars-ai-server-boom-drives-record-earnings/slideshow/135529517.cms",
+        "title": "Property giant Vonovia 'concerned' over Berlin left's housing plans",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/property-giant-vonovia-concerned-over-berlin-lefts-housing-plans/articleshow/135543553.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 04 Nov 2026 12:20:29 +0530"
+        "pubDate": "Wed, 04 Nov 2026 20:40:31 +0530"
       },
       {
-        "title": "Democrats’ win rattles Trump trades from AI stocks to crypto",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/democrats-win-rattles-trump-trades-from-ai-stocks-to-crypto/articleshow/135527407.cms",
+        "title": "Sunday PropTech acquires 89-room hotel in Kolkata, marks entry into city",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sunday-proptech-acquires-89-room-hotel-in-kolkata-marks-entry-into-city/articleshow/135543130.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 04 Nov 2026 12:04:15 +0530"
+        "pubDate": "Wed, 04 Nov 2026 20:33:46 +0530"
       }
     ],
     "acct": [
+      {
+        "title": "ICAI Prohibits CAs from Bidding without Minimum Fees for Reserved Services [Read Guidelines] - Taxscan",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaE5Zdk5pTkl1Z0taNHNhT1VkZHJHSmxOc1JuX0NRMTA3NlBsY2hUUG4zMkNXYjNnZDhaRTNmWlhDRmg0SXNLdUhBMmdNd3gxNER4TmdVcDRJeGJ0WXh5Q0ZrQjZIdHM2NHpvUzBFLWxfSloyMHI0aFVrazhxdXFKVnVYZTFyUkJPV0ZqXzRCX3dWcGUyWHF2MTA1d3RYVEktVTk0QWJUekZycE9sVjE1SjZfaDZOeXFyT1pmNmNVUlVWWk50LUJJaw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 04 Nov 2026 16:14:00 GMT"
+      },
       {
         "title": "India’s ICAI backs cooperative sector audit reforms - The Accountant Online",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY3BXZ3VaVHNYREhRdU40U0gya2ZfNUp0XzNXNTBMUldpck15ekNxYXpLdkIxQmNFSXNLbUFLbk1lTVpEZzVHOEd6OGc0ai0zUE12WTFvYkIxd0c1UTk0OHVXLWo5c3ZIUEp1LXlUM1lKVXZNbjZKM3FuUjRjT3p1VnpHdUtTYmhiSU1jSnU2V3Q3Q2JHMUlaOA?oc=5",
@@ -161,18 +167,6 @@
         "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPLTF0LWg3YUVKUjZrNlQ2UFZiVlpiN1pSUUtJMFoxa0V4RXh6N3R2a2tlWkMwYUJIQ1hTOUoyS2IzUHNvNGxFVFp5M2EwZkxpMmJGaDZYdGhCbjVvWXU4YUxLb0dUelB6cnRpNkltOTBlZFFBX1NCMS1CenRkaExCWkpIbzhuWWxfcnczUzRfQjlMTWY5VTRqWWgxQW1manhaZDlYLVQ4U3BDUGxlMDU2azZDY3l6YjMxOTd1RWtqMGR3SUlhTjdhY0RwQnNPZ0VNUlltQUlZLXhfQ2s3aF8zTFpJMFRSSnd6RTMyVG02RkVQZjJ5bUlGWURTZWxTYmhicndTU1AyVHgwUjNz0gGSAkFVX3lxTFA3aFhWeHFwWDVvSWRhcDhKRDF0LUZpTmMxeWh0SUNJUmstSGc3MmxPMzNaRk1BQ2pTdEdqM2dybXg3T0I1TFVhejgtWjZpNmZBQjdoTUFPZUw0MUJ3a2FOUzl6VjVsOTRRVWZ2TVVYdEFiVUYtRWljSThOaW9ERlpKZmJZeWJiZGt0Rk5CZmVOcW41TUF6WmgyaU5SMGZGS1Aza3FsN3poeG9mTzgtSFJXWHBnWmxXVHNCOWZpS0pVaEpWeGQ0NEttb1hnNUd6dUl5SjVaT28tNHMwdWM3Tm85ZTRLTVkzZTc1ZDhhZXNkQlg4bjNNT2dsTkFBRUlpc242QWxhUUx6eDdFb1ROcC1aSnc?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 02 Nov 2026 03:47:00 GMT"
-      },
-      {
-        "title": "Cineline H1 FY27 revenue gains did not lift pre-Ind AS PAT - Multibagg AI",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmxoeVk5V0tlUDJOMDV1UWJYNHJ1TFY5SVdUOVBNM2NQVWtfU0thRHVnMFlBRHhZTGNmMFhseGhYcDVOdlZ5dXlTR1V2YWN6blgtb3J1cl9IdjZxYjZ4VGk5MTJCZ3M1YmFxSWJVRnJkMTFlVUFsQnpnV1psZERhWXVjSTBNcGpJbmFabnpoNm1FS20xNFh1aG81UjR0UVBOaTMzdXM2SFFob28?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 03 Nov 2026 18:52:50 GMT"
-      },
-      {
-        "title": "Nitto Denko : (Complete version) Quarterly financial summary ended September 30, 2026 (IFRS Basis) - www.marketscreener.com",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeXo4enVaSHNMb1IwblZoYTBYN1V2NktXSFlNLWhnNnRSbVRSWVk5UmZyek0tc1RLT3dHek1Rak1CZzRfeXRHM1N4YkhlWWd0Q2FRMHFBeHBnRjJMWU1yRlJiVmpqVmd2WWFfWmpjSlJnTjd3LVQxVktTbjh2dmdKT2RScW5NdnBBYjgyZHhGVjVOQzVHWW9XTGQtRnAwU2xUeV9sc2FyTVh4REpyQ1lwR1piYUlQWjRGYjl4bG4xTkcycXU2dWZqb01ramZwU3JkdkE1UWhKcXFrNWpG?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 04 Nov 2026 07:14:12 GMT"
       },
       {
         "title": "IFFCO Tokio General Insurance selects CCH Tagetik to support Ind AS 117 and Ind AS 116 compliance - Wolters Kluwer",
@@ -187,10 +181,10 @@
         "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "CA Foundation September 2026 Result Date Announced on 6 November @ caresults.icai.org - PW",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44c2NsXy1TWks3VVJxSW9hNnpuSFZ6S1NQWTBzM1hMZmpJa2F2UXNkM2M1eDl2WENpajdYU2xvNHpydjI0XzBrV0FFeEppTldocEluSWJaRlNqa3BUN0tJUURnNUcwcWxPRGtlVno3MUQ2UnRvRlNsTw?oc=5",
+        "title": "Nitto Denko : (Complete version) Quarterly financial summary ended September 30, 2026 (IFRS Basis) - www.marketscreener.com",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeXo4enVaSHNMb1IwblZoYTBYN1V2NktXSFlNLWhnNnRSbVRSWVk5UmZyek0tc1RLT3dHek1Rak1CZzRfeXRHM1N4YkhlWWd0Q2FRMHFBeHBnRjJMWU1yRlJiVmpqVmd2WWFfWmpjSlJnTjd3LVQxVktTbjh2dmdKT2RScW5NdnBBYjgyZHhGVjVOQzVHWW9XTGQtRnAwU2xUeV9sc2FyTVh4REpyQ1lwR1piYUlQWjRGYjl4bG4xTkcycXU2dWZqb01ramZwU3JkdkE1UWhKcXFrNWpG?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 04 Nov 2026 02:47:37 GMT"
+        "pubDate": "Wed, 04 Nov 2026 07:14:12 GMT"
       },
       {
         "title": "ICAI to issue Audit Guidance for Multi-State Co-ops - Indian Cooperative",
@@ -199,16 +193,22 @@
         "pubDate": "Sun, 01 Nov 2026 05:46:28 GMT"
       },
       {
-        "title": "ICAI to issue guidance note for auditing multi-state cooperatives - The Economic Times",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORldXZGdRQnBSeTNQTjV5RDd1THJDb1RLdi1JVkluS2dGR28zYTVCRENQdlp1ZWZkMnVwMDJUTzc0aHI3eHpRSkkzQlRoajNkTGU1YXhzRVhxZEYwNU5zRm5hRWRTYW9GOFNuY1BpU2U3cW1LQWpoOHdNU0NHSlh4eE82OVM2N3JxWHB5d2pLZnRxa2tnM0VXN1cyTGk3RlM3bjVZcWJJa0pGY21YRExPZEZIWnljZWQxNV95ZUJUX3pGUDFuWHhHR3h5VzRyMGxua1dxMVk2TVdOSERmV0trSjFRbF9KRzJMMHlYWDF30gHzAUFVX3lxTE40QVpXcGZGSnVfTndNZEVidzRHeTE0d0FDSzJXNUNYWDlueEFoMEQ3WWlqSUFtWkV0SEEwWG9WU2M3UHJGZXd3TWFkSlNscW1tQ01Cc3BKMXFXUWRxLVd6VHJ2V25fQmpPa25pdmMzOHRBd2FzZG5hZWhvYzJoelZ2alozNlY1X1N1TjRxRmxCOXVDZGxvNG5WWmFkQ2hjWTZvZlpUZlFTYnJvUS1YT3BlUF9EUGdpdVdRaXNxSnFEajN1SmtqZzdaOU5kaWhMQlh0LUtENGJNU1QyMVVqQlMtMEplSGdlbExPTERnRy1ZUEU2aw?oc=5",
+        "title": "Cineline H1 FY27 revenue gains did not lift pre-Ind AS PAT - Multibagg AI",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmxoeVk5V0tlUDJOMDV1UWJYNHJ1TFY5SVdUOVBNM2NQVWtfU0thRHVnMFlBRHhZTGNmMFhseGhYcDVOdlZ5dXlTR1V2YWN6blgtb3J1cl9IdjZxYjZ4VGk5MTJCZ3M1YmFxSWJVRnJkMTFlVUFsQnpnV1psZERhWXVjSTBNcGpJbmFabnpoNm1FS20xNFh1aG81UjR0UVBOaTMzdXM2SFFob28?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 30 Oct 2026 15:22:10 GMT"
+        "pubDate": "Tue, 03 Nov 2026 18:52:50 GMT"
       },
       {
-        "title": "SOPHiA GENETICS Posts $24.3M Q3 Revenue and $0.24 IFRS Loss Per Share - www.tokenpost.com",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85cjFKRjVxa2xrQ3FDOVBzYnRfSm5uZHhLeV9yRkUwamhfYm5wMWd5Z3N6Mm9jRFhFNnNnRFFzclMteTM2SXQwVVJJTjdQTmVSQWhiS3FueDU?oc=5",
+        "title": "CA Foundation September 2026 Result Date Announced on 6 November @ caresults.icai.org - PW",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44c2NsXy1TWks3VVJxSW9hNnpuSFZ6S1NQWTBzM1hMZmpJa2F2UXNkM2M1eDl2WENpajdYU2xvNHpydjI0XzBrV0FFeEppTldocEluSWJaRlNqa3BUN0tJUURnNUcwcWxPRGtlVno3MUQ2UnRvRlNsTw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 04 Nov 2026 05:42:51 GMT"
+        "pubDate": "Wed, 04 Nov 2026 02:47:37 GMT"
+      },
+      {
+        "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFhGX19mVjU0d0pwWWhNRndFUjliUTNFXzMtbFB1aXVETlZMdXk2aU9mOXFfUU1CYUZNY211QUVFNmYwbERsOWtrM0p0ZVhHSnJFQlY4OFpGb1JkOEFGeGFGMTA3Mzdrc2kycVM1TDhuV0pmRG5SME4tUXNhdTRTcWs1WXhWVWtFanBYTVBNemt2b0dLbjhwZW9nRjB3UUY3OU5TbUxRWQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 10 Jul 2026 14:35:46 GMT"
       }
     ]
   }
