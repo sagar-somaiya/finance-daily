@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T17:39:18.448652+00:00",
+  "generatedAt": "2026-11-04T22:59:47.489041+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 80240,
-      "chg": 3.37
+      "price": 80683,
+      "chg": 3.7
     },
     "eth": {
-      "price": 2421.86,
-      "chg": 5.59
+      "price": 2436.34,
+      "chg": 6.35
     }
   },
   "fx": {
@@ -88,6 +88,24 @@
   },
   "news": {
     "corp": [
+      {
+        "title": "Alcohol stocks jump as blue wave boosts industry prospects",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/alcohol-stocks-jump-as-blue-wave-boosts-industry-prospects/articleshow/135551002.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 05 Nov 2026 01:34:38 +0530"
+      },
+      {
+        "title": "Musk stocks lose $120 billion as Democrats’ Texas win rattles investors",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/musk-stocks-lose-120-billion-as-democrats-texas-win-rattles-investors/articleshow/135550872.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 05 Nov 2026 01:25:59 +0530"
+      },
+      {
+        "title": "Bitcoin rebounds with stocks despite threat to crypto agenda",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bitcoin-rebounds-with-stocks-despite-threat-to-crypto-agenda/articleshow/135550638.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 05 Nov 2026 01:02:16 +0530"
+      },
       {
         "title": "AI data center stocks dip, renewables surge after Democrat sweep in US midterm elections",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-data-center-stocks-dip-renewables-surge-after-democrat-sweep-in-us-midterm-elections/articleshow/135545518.cms",
@@ -129,24 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/aptus-value-housing-finance-q2-profit-rises-18-to-rs-267-cr/articleshow/135543628.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Wed, 04 Nov 2026 20:43:37 +0530"
-      },
-      {
-        "title": "Keystone Realtors Q2 profit jumps 10-fold to Rs 101 cr",
-        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/keystone-realtors-q2-profit-jumps-10-fold-to-rs-101-cr/articleshow/135543604.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 04 Nov 2026 20:42:09 +0530"
-      },
-      {
-        "title": "Property giant Vonovia 'concerned' over Berlin left's housing plans",
-        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/property-giant-vonovia-concerned-over-berlin-lefts-housing-plans/articleshow/135543553.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 04 Nov 2026 20:40:31 +0530"
-      },
-      {
-        "title": "Sunday PropTech acquires 89-room hotel in Kolkata, marks entry into city",
-        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sunday-proptech-acquires-89-room-hotel-in-kolkata-marks-entry-into-city/articleshow/135543130.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 04 Nov 2026 20:33:46 +0530"
       }
     ],
     "acct": [
@@ -181,16 +181,22 @@
         "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "Nitto Denko : (Complete version) Quarterly financial summary ended September 30, 2026 (IFRS Basis) - www.marketscreener.com",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeXo4enVaSHNMb1IwblZoYTBYN1V2NktXSFlNLWhnNnRSbVRSWVk5UmZyek0tc1RLT3dHek1Rak1CZzRfeXRHM1N4YkhlWWd0Q2FRMHFBeHBnRjJMWU1yRlJiVmpqVmd2WWFfWmpjSlJnTjd3LVQxVktTbjh2dmdKT2RScW5NdnBBYjgyZHhGVjVOQzVHWW9XTGQtRnAwU2xUeV9sc2FyTVh4REpyQ1lwR1piYUlQWjRGYjl4bG4xTkcycXU2dWZqb01ramZwU3JkdkE1UWhKcXFrNWpG?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 04 Nov 2026 07:14:12 GMT"
-      },
-      {
         "title": "ICAI to issue Audit Guidance for Multi-State Co-ops - Indian Cooperative",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM21BdW1sQ1gwU0d5TjRLNnNzTEJwM1A1VDdaMDF4ZHQ3QWRweUJNS256S1JxaWM4M0lEN2VtbTNzOE0tVzRDRzR2VlhDVnpzWlRXa3hUNzFWYVdYd2hreWxhM0IwcWZEMkdFMjhkdVJ4SG5UNHJHbGNDVXVMaUlrdXk3ckNQaTRfdXJ4czdDQnlKdTRPNnFicldELVhobTZ4ckp3R1ZBeFBMQQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Sun, 01 Nov 2026 05:46:28 GMT"
+      },
+      {
+        "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFhGX19mVjU0d0pwWWhNRndFUjliUTNFXzMtbFB1aXVETlZMdXk2aU9mOXFfUU1CYUZNY211QUVFNmYwbERsOWtrM0p0ZVhHSnJFQlY4OFpGb1JkOEFGeGFGMTA3Mzdrc2kycVM1TDhuV0pmRG5SME4tUXNhdTRTcWs1WXhWVWtFanBYTVBNemt2b0dLbjhwZW9nRjB3UUY3OU5TbUxRWQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 10 Jul 2026 14:35:46 GMT"
+      },
+      {
+        "title": "Nitto Denko : (Complete version) Quarterly financial summary ended September 30, 2026 (IFRS Basis) - www.marketscreener.com",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeXo4enVaSHNMb1IwblZoYTBYN1V2NktXSFlNLWhnNnRSbVRSWVk5UmZyek0tc1RLT3dHek1Rak1CZzRfeXRHM1N4YkhlWWd0Q2FRMHFBeHBnRjJMWU1yRlJiVmpqVmd2WWFfWmpjSlJnTjd3LVQxVktTbjh2dmdKT2RScW5NdnBBYjgyZHhGVjVOQzVHWW9XTGQtRnAwU2xUeV9sc2FyTVh4REpyQ1lwR1piYUlQWjRGYjl4bG4xTkcycXU2dWZqb01ramZwU3JkdkE1UWhKcXFrNWpG?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 04 Nov 2026 07:14:12 GMT"
       },
       {
         "title": "Cineline H1 FY27 revenue gains did not lift pre-Ind AS PAT - Multibagg AI",
@@ -199,16 +205,10 @@
         "pubDate": "Tue, 03 Nov 2026 18:52:50 GMT"
       },
       {
-        "title": "CA Foundation September 2026 Result Date Announced on 6 November @ caresults.icai.org - PW",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44c2NsXy1TWks3VVJxSW9hNnpuSFZ6S1NQWTBzM1hMZmpJa2F2UXNkM2M1eDl2WENpajdYU2xvNHpydjI0XzBrV0FFeEppTldocEluSWJaRlNqa3BUN0tJUURnNUcwcWxPRGtlVno3MUQ2UnRvRlNsTw?oc=5",
+        "title": "Thomson Reuters Reports Third-Quarter 2026 Results - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbFJ2S3B3TFFldDFTeUFnUVlaSW05N0g3c25lWnBPanBBN0NUNEtKUkNoaUdZbFdFajdIVW9aX21DQWwyc3YtSU9sZUZydjdhME1sMFRQZ1dZS3kwOTZSbThkT3pVT3pmRjhSdUxfcXdHcVA0TUlERnN5bXRZNnR3bjRtX25vOE1RN1c2bG5oZ0ZjT2d1M3JoZ3N1VGt2LXQ3VUt3TVUwYkpzVVFnR3hYSg?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 04 Nov 2026 02:47:37 GMT"
-      },
-      {
-        "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFhGX19mVjU0d0pwWWhNRndFUjliUTNFXzMtbFB1aXVETlZMdXk2aU9mOXFfUU1CYUZNY211QUVFNmYwbERsOWtrM0p0ZVhHSnJFQlY4OFpGb1JkOEFGeGFGMTA3Mzdrc2kycVM1TDhuV0pmRG5SME4tUXNhdTRTcWs1WXhWVWtFanBYTVBNemt2b0dLbjhwZW9nRjB3UUY3OU5TbUxRWQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 10 Jul 2026 14:35:46 GMT"
+        "pubDate": "Tue, 03 Nov 2026 11:30:00 GMT"
       }
     ]
   }
