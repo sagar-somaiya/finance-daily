@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T22:25:41.316905+00:00",
+  "generatedAt": "2026-11-04T02:30:16.541075+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,81 +72,81 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 77781,
-      "chg": 1.16
+      "price": 76640,
+      "chg": -0.31
     },
     "eth": {
-      "price": 2289.38,
-      "chg": 1.51
+      "price": 2256.31,
+      "chg": 0.03
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 94.93,
-    "eurinr": 106.27,
-    "gbpinr": 127.29
+    "usdinr": 94.83,
+    "eurinr": 106.15,
+    "gbpinr": 127.22
   },
   "news": {
     "corp": [
       {
-        "title": "US stocks today: Nasdaq rebounds as chipmakers rally, Apple slides ahead of US midterm results",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-rebounds-as-chipmakers-rally-apple-slides-ahead-of-us-midterm-results/articleshow/135513181.cms",
+        "title": "Positive Breakout: These 8 stocks cross above their 200 DMAs",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-8-stocks-cross-above-their-200-dmas/slideshow/135518684.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 04 Nov 2026 02:50:14 +0530"
+        "pubDate": "Wed, 04 Nov 2026 07:39:24 +0530"
       },
       {
-        "title": "US Treasury yields climb as strong jobs data, midterm polls weigh; 10-year yield eyes 5% again",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-climb-as-strong-jobs-data-and-midterm-uncertainty-weigh-on-bonds/articleshow/135511549.cms",
+        "title": "Dollar dips with US midterm results in focus",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-dips-with-us-midterm-results-in-focus/articleshow/135518342.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 04 Nov 2026 00:40:49 +0530"
+        "pubDate": "Wed, 04 Nov 2026 07:33:34 +0530"
       },
       {
-        "title": "Taco Bell sales fall more than expected on cyclosporiasis outbreak hit",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/taco-bell-sales-fall-more-than-expected-on-cyclosporiasis-outbreak-hit/articleshow/135510804.cms",
+        "title": "Gold firms on softer oil prices, US midterm results awaited",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-firms-on-softer-oil-prices-us-midterm-results-awaited/articleshow/135518255.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 04 Nov 2026 00:32:54 +0530"
+        "pubDate": "Wed, 04 Nov 2026 07:30:54 +0530"
       },
       {
-        "title": "Polymarket unit gets US industry organization's approval to be futures broker",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/polymarket-unit-gets-us-industry-organizations-approval-to-be-futures-broker/articleshow/135510648.cms",
+        "title": "Marico sees sustained growth momentum, raises FY27 margin outlook",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/marico-shares-surge-9-4-as-company-lifts-margin-outlook/articleshow/135518090.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 04 Nov 2026 00:05:03 +0530"
+        "pubDate": "Wed, 04 Nov 2026 07:26:15 +0530"
       },
       {
-        "title": "US midterms put Trump-era crypto boom and prediction markets at risk",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-midterms-put-trump-era-crypto-boom-and-prediction-markets-at-risk/articleshow/135509801.cms",
+        "title": "Happiest minds Q2 net profit rises 15% as AI uncertainty weighs",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/happiest-minds-q2-net-profit-rises-15-as-ai-uncertainty-weighs/articleshow/135517935.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 03 Nov 2026 23:39:41 +0530"
+        "pubDate": "Wed, 04 Nov 2026 07:18:08 +0530"
       },
       {
-        "title": "CleanMax beats Q2 EBITDA estimates, reports strong H1 growth",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/cleanmax-beats-q2-ebitda-estimates-reports-strong-h1-growth/articleshow/135507102.cms",
+        "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade lower",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-nse-bse-sbi-share-price-04-november-2026/liveblog/135518116.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 03 Nov 2026 22:29:11 +0530"
+        "pubDate": "Wed, 04 Nov 2026 07:17:52 +0530"
       },
       {
-        "title": "Bagmane REIT declares Rs 527cr distribution to unitholders for September quarter",
-        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/bagmane-reit-declares-rs-527cr-distribution-to-unitholders-for-september-quarter/articleshow/135506225.cms",
+        "title": "RBI's Rs 50,000 crore VRRR faces muted response from market",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbis-rs-50000-crore-vrrr-faces-a-muted-response-from-the-market/articleshow/135517526.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 03 Nov 2026 22:28:43 +0530"
+        "pubDate": "Wed, 04 Nov 2026 06:48:49 +0530"
       },
       {
-        "title": "Binance says North Korean hackers stole $6.34 billion funds in a technical breach",
-        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/binance-says-north-korean-hackers-stole-6-34-billion-funds-in-a-technical-breach/articleshow/135506955.cms",
+        "title": "Corporate bond issuances top Rs 17,000 crore as yields ease",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/corporates-rush-to-raise-over-rs-17000-crore-as-yields-ease/articleshow/135517422.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 03 Nov 2026 22:16:58 +0530"
+        "pubDate": "Wed, 04 Nov 2026 06:40:32 +0530"
       },
       {
-        "title": "Sebi levies Rs 40 lakh penalty on four entities in Axis MF front-running case",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-levies-rs-40-lakh-penalty-on-four-entities-in-axis-mf-front-running-case/articleshow/135506148.cms",
+        "title": "Global Market Today: Asian shares retreat as US futures slide on mid-term election bets",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-advance-as-us-tech-stocks-rebound-midterm-results-awaited/articleshow/135517317.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 03 Nov 2026 22:05:56 +0530"
+        "pubDate": "Wed, 04 Nov 2026 06:30:42 +0530"
       },
       {
-        "title": "Utkarsh Small Finance Bank reports sixth consecutive quarterly loss",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/utkarsh-small-finance-bank-reports-sixth-consecutive-quarterly-loss/articleshow/135506409.cms",
+        "title": "Rupee rises as oil slips from six-month high",
+        "link": "https://economictimes.indiatimes.com/markets/forex/rupee-rises-as-oil-slips-from-six-month-high/articleshow/135517334.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 03 Nov 2026 21:54:16 +0530"
+        "pubDate": "Wed, 04 Nov 2026 06:30:08 +0530"
       }
     ],
     "acct": [
@@ -157,28 +157,16 @@
         "pubDate": "Mon, 02 Nov 2026 08:44:50 GMT"
       },
       {
-        "title": "Cineline H1 FY27 revenue gains did not lift pre-Ind AS PAT - Multibagg AI",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmxoeVk5V0tlUDJOMDV1UWJYNHJ1TFY5SVdUOVBNM2NQVWtfU0thRHVnMFlBRHhZTGNmMFhseGhYcDVOdlZ5dXlTR1V2YWN6blgtb3J1cl9IdjZxYjZ4VGk5MTJCZ3M1YmFxSWJVRnJkMTFlVUFsQnpnV1psZERhWXVjSTBNcGpJbmFabnpoNm1FS20xNFh1aG81UjR0UVBOaTMzdXM2SFFob28?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 03 Nov 2026 18:52:50 GMT"
-      },
-      {
         "title": "ICAI CA Foundation September 2026 result date announced: Results likely on November 6, here's how to chec - The Times of India",
         "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPLTF0LWg3YUVKUjZrNlQ2UFZiVlpiN1pSUUtJMFoxa0V4RXh6N3R2a2tlWkMwYUJIQ1hTOUoyS2IzUHNvNGxFVFp5M2EwZkxpMmJGaDZYdGhCbjVvWXU4YUxLb0dUelB6cnRpNkltOTBlZFFBX1NCMS1CenRkaExCWkpIbzhuWWxfcnczUzRfQjlMTWY5VTRqWWgxQW1manhaZDlYLVQ4U3BDUGxlMDU2azZDY3l6YjMxOTd1RWtqMGR3SUlhTjdhY0RwQnNPZ0VNUlltQUlZLXhfQ2s3aF8zTFpJMFRSSnd6RTMyVG02RkVQZjJ5bUlGWURTZWxTYmhicndTU1AyVHgwUjNz0gGSAkFVX3lxTFA3aFhWeHFwWDVvSWRhcDhKRDF0LUZpTmMxeWh0SUNJUmstSGc3MmxPMzNaRk1BQ2pTdEdqM2dybXg3T0I1TFVhejgtWjZpNmZBQjdoTUFPZUw0MUJ3a2FOUzl6VjVsOTRRVWZ2TVVYdEFiVUYtRWljSThOaW9ERlpKZmJZeWJiZGt0Rk5CZmVOcW41TUF6WmgyaU5SMGZGS1Aza3FsN3poeG9mTzgtSFJXWHBnWmxXVHNCOWZpS0pVaEpWeGQ0NEttb1hnNUd6dUl5SjVaT28tNHMwdWM3Tm85ZTRLTVkzZTc1ZDhhZXNkQlg4bjNNT2dsTkFBRUlpc242QWxhUUx6eDdFb1ROcC1aSnc?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 02 Nov 2026 03:47:00 GMT"
       },
       {
-        "title": "Thomson Reuters Reports Third-Quarter 2026 Results - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbFJ2S3B3TFFldDFTeUFnUVlaSW05N0g3c25lWnBPanBBN0NUNEtKUkNoaUdZbFdFajdIVW9aX21DQWwyc3YtSU9sZUZydjdhME1sMFRQZ1dZS3kwOTZSbThkT3pVT3pmRjhSdUxfcXdHcVA0TUlERnN5bXRZNnR3bjRtX25vOE1RN1c2bG5oZ0ZjT2d1M3JoZ3N1VGt2LXQ3VUt3TVUwYkpzVVFnR3hYSg?oc=5",
+        "title": "Cineline H1 FY27 revenue gains did not lift pre-Ind AS PAT - Multibagg AI",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORmxoeVk5V0tlUDJOMDV1UWJYNHJ1TFY5SVdUOVBNM2NQVWtfU0thRHVnMFlBRHhZTGNmMFhseGhYcDVOdlZ5dXlTR1V2YWN6blgtb3J1cl9IdjZxYjZ4VGk5MTJCZ3M1YmFxSWJVRnJkMTFlVUFsQnpnV1psZERhWXVjSTBNcGpJbmFabnpoNm1FS20xNFh1aG81UjR0UVBOaTMzdXM2SFFob28?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 03 Nov 2026 11:30:00 GMT"
-      },
-      {
-        "title": "ICAI Invites Feedback on CA Final November 2026 Papers - Taxscan",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUEY5SW4zU0pzZVVTeEI1dmtHb2ZUbFJtMU51SUNhcEJBb3JPSmlfMzNrLUhvcUpiR3RDb2pHUk9laXQxQzAtSXhhVktrd1J6ZnRablRMZmQyY0llcTVSTms4Wk1kZ2Rndmd3MktNajc3NTFuSUl5Z2NIckNja2ZiZ3JoOGYtMTR6MlVpSkJmRVVYZjREUHR0cmw3Q2FRUExVZFlBejlDM1RfUEttWFlnV0pwMnpndmR1elkxMWR0dw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 03 Nov 2026 08:25:00 GMT"
+        "pubDate": "Tue, 03 Nov 2026 18:52:50 GMT"
       },
       {
         "title": "IFFCO Tokio General Insurance selects CCH Tagetik to support Ind AS 117 and Ind AS 116 compliance - Wolters Kluwer",
@@ -187,10 +175,22 @@
         "pubDate": "Mon, 26 Oct 2026 10:26:29 GMT"
       },
       {
+        "title": "Thomson Reuters Reports Third-Quarter 2026 Results - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbFJ2S3B3TFFldDFTeUFnUVlaSW05N0g3c25lWnBPanBBN0NUNEtKUkNoaUdZbFdFajdIVW9aX21DQWwyc3YtSU9sZUZydjdhME1sMFRQZ1dZS3kwOTZSbThkT3pVT3pmRjhSdUxfcXdHcVA0TUlERnN5bXRZNnR3bjRtX25vOE1RN1c2bG5oZ0ZjT2d1M3JoZ3N1VGt2LXQ3VUt3TVUwYkpzVVFnR3hYSg?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 03 Nov 2026 11:30:00 GMT"
+      },
+      {
         "title": "Getting ready for IFRS 18 - kpmg.com",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcm1Idm5QWU1kM2hSQ2RjQWdzZ0U1ZnBIb2ZieThWZEs3Y0ZHV1BKVWowNTJUWDZwbDVkanBtN1BBbWlCb1g4aTdINXZvNFdfaWZwNXRvSzA3ODkyQVRRQjZJdnlQYWkzQnhKdXM3QXhGUFkzR3BRZ1FPWGZEWUZ3aTB5TDlsZ2dWbmJKSVVJYktiVVh4MzFhTjQ5VmVBdGJrdmVXd3JJUTFVMGtzTFdhVENBZkd4U1d5TE1mcEZxWDU?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "ICAI Invites Feedback on CA Final November 2026 Papers - Taxscan",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUEY5SW4zU0pzZVVTeEI1dmtHb2ZUbFJtMU51SUNhcEJBb3JPSmlfMzNrLUhvcUpiR3RDb2pHUk9laXQxQzAtSXhhVktrd1J6ZnRablRMZmQyY0llcTVSTms4Wk1kZ2Rndmd3MktNajc3NTFuSUl5Z2NIckNja2ZiZ3JoOGYtMTR6MlVpSkJmRVVYZjREUHR0cmw3Q2FRUExVZFlBejlDM1RfUEttWFlnV0pwMnpndmR1elkxMWR0dw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 03 Nov 2026 08:25:00 GMT"
       },
       {
         "title": "ICAI to issue guidance note on new audit reporting framework for multi-state cooperative societies - The Economic Times",
