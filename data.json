@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T19:36:05.077673+00:00",
+  "generatedAt": "2026-11-06T23:52:48.645713+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 75643,
-      "chg": -0.58
+      "price": 75901,
+      "chg": -0.05
     },
     "eth": {
-      "price": 2226.28,
-      "chg": -1.1
+      "price": 2238.85,
+      "chg": 0.22
     }
   },
   "fx": {
@@ -95,7 +95,7 @@
         "pubDate": "Fri, 06 Nov 2026 20:10:26 +0530"
       },
       {
-        "title": "Stock Market Live Updates: US stocks rebound as chip stocks recover, Nasdaq gains over 1%",
+        "title": "Stock Market Highlights: US stocks rebound, but Nasdaq posts fourth straight weekly decline",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-amd-intel-broadcom-micron-tesla-airbnb-ai-chip-stocks-jobs-report-treasury-yields-iran-war-democrat-midterm-inflation-oil-prices-6th-november-2026/liveblog/135609029.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Fri, 06 Nov 2026 18:39:13 +0530"
