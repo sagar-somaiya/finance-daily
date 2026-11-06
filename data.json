@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T12:19:04.768753+00:00",
+  "generatedAt": "2026-11-06T19:36:05.077673+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 76070,
-      "chg": -5.04
+      "price": 75643,
+      "chg": -0.58
     },
     "eth": {
-      "price": 2240.95,
-      "chg": -7.09
+      "price": 2226.28,
+      "chg": -1.1
     }
   },
   "fx": {
@@ -88,6 +88,24 @@
   },
   "news": {
     "corp": [
+      {
+        "title": "US stocks today: Nasdaq rebounds as chip stocks recover from steep losses, rate fears persist",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-opens-higher-as-chips-pare-losses-rate-hike-fears-linger/articleshow/135611515.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 06 Nov 2026 20:10:26 +0530"
+      },
+      {
+        "title": "Stock Market Live Updates: US stocks rebound as chip stocks recover, Nasdaq gains over 1%",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-amd-intel-broadcom-micron-tesla-airbnb-ai-chip-stocks-jobs-report-treasury-yields-iran-war-democrat-midterm-inflation-oil-prices-6th-november-2026/liveblog/135609029.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 06 Nov 2026 18:39:13 +0530"
+      },
+      {
+        "title": "India's 10-year bond posts best week in 7 years, leads emerging Asia as oil slides",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/indias-10-year-bond-posts-best-week-in-7-years-leads-emerging-asia-as-oil-slides/articleshow/135606792.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 06 Nov 2026 17:32:52 +0530"
+      },
       {
         "title": "British Airways parent profit drops on higher fuel costs",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/british-airways-parent-profit-drops-on-higher-fuel-costs/articleshow/135605804.cms",
@@ -101,7 +119,7 @@
         "pubDate": "Fri, 06 Nov 2026 16:58:37 +0530"
       },
       {
-        "title": "Copper falls for 4th day, heads for worst week since March on AI rout",
+        "title": "Copper price falls for 4th day, heads for worst week since March on AI rout",
         "link": "https://economictimes.indiatimes.com/markets/commodities/news/copper-falls-for-4th-day-heads-for-worst-week-since-march-on-ai-rout/articleshow/135605625.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Fri, 06 Nov 2026 16:54:17 +0530"
@@ -129,24 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/12-midcap-stocks-deliver-returns-of-up-to-136-in-fy27-so-far/slideshow/135603584.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Fri, 06 Nov 2026 15:33:29 +0530"
-      },
-      {
-        "title": "Anthropic listing under pressure: Investors question timing and sky-high valuation",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-listing-under-pressure-investors-question-timing-and-sky-high-valuation/slideshow/135600960.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 06 Nov 2026 14:12:31 +0530"
-      },
-      {
-        "title": "BMW Industries Q2 Results: Net profit rise 43% YoY to Rs 21.62 crore",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/bmw-industries-q2-results-net-profit-rise-43-yoy-to-rs-21-62-crore/articleshow/135600062.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 06 Nov 2026 13:50:29 +0530"
-      },
-      {
-        "title": "HCC Q2 profit slumps 53% to Rs 22 crore",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/hcc-q2-profit-slumps-53-to-rs-22-crore/articleshow/135599840.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 06 Nov 2026 13:40:34 +0530"
       }
     ],
     "acct": [
@@ -155,6 +155,12 @@
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaFU1bldtWkNCR3ZzYjdTSl9rdS1hd2toUGd1SE1qa0ZhaW51UVNIankwYkMxUGJvb1ZoLVdsSE1yZHVLZk5NNGJvajkxUFlUdy05ZFZlZ3hBYVAtTHdEZHRSQ2pFQlUyNVdKQnFyNVB6Q0c1YWxqRE5SbUhzMldnTG94bnEwQm04N2hHcFhBVDBfWWlWR0JiZkFWOG9NSl9IampKeDU4NWRZVFQtVy1wXzNCNTBmVk5xaXdJYU9pUlFPVTR1VUJQekJUalpITFE?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 06 Nov 2026 10:48:46 GMT"
+      },
+      {
+        "title": "Citycon: Strong rental growth and leasing were offset by lower IFRS earnings and tighter liquidity - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPSzZpUDBlQW91SzNZcWVhb3RISHYzRWhxaVJjZEtvUUt3NW5aNml1aU1CTWRHVEVwTEZoUFJRWmtEOERlM2hvdVppV2xjWVBvR1lqeUo3b203MEQ3bTBTZ1c5UWlpQjRncXNnZkJSTlMtZmZmU2lsMi1WNWt0WWV6QW9xWElHWjB0T3JkQ0dGdEpTa01lbjJPcVhFOGFwS09TWG5lZkpzTzIwdUcyTXJOZmpSY2h3aDFpZmlzb0FwcXZrMHJiV0lmT0FDOGU4QWxkVGZRM09oRlcxU2RkcWpEZEpPdGxQa3hXZ2s1UG1uRlRBVmYxdFlLSllfcHdKcVhnZHpJXzc0XzdDaDhz?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 06 Nov 2026 17:40:38 GMT"
       },
       {
         "title": "CMSGICL H1 profit falls to Rs 8 crore; Ind AS loss Rs 64.32 crore - Multibagg AI",
@@ -167,6 +173,12 @@
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcVcyU3prMXJYRzg0dDdlZjYtbmpmajczejlPQXU3T2VNeHAwdU5EUEU1aUN0RVc2WmxCLVRjVGVvdlFWVUhYZzNZOHpxcHU1a1VVZlNmNEl1dnRxNW4yWVNYeDF5V0FvdEdQWTNMdDk2TmF5cXVDdmhWM3BNMUpOOGlzQkNkNFk1ek45enl3eE9XYUFxMFJxcW1DeGlubzjSAawBQVVfeXFMUEZMTU5MYkNrVDNNeUF0XzlvbGhjNjZ1clJ2ZThjYndZbTRrVDJvRk1WTDNjdW9YV3RQWHpuQWdDQWE3WU94VG5iYkdPWGlkX2tsRlJjX3JlNDFwZ2RUOGtTXzNwN0hZNTJ2d0ttT2g1SF9LcXd2cTZEUGoxN2J1YU9zRXlra2RZVkxUQmdKZHlpMG1xWnp0QndQdTJHZWRVTExNNnhnRTYzN1duMQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 06 Nov 2026 09:00:00 GMT"
+      },
+      {
+        "title": "ICAI Releases Updated Handbook on GST Liability for Directors, Partners and Business Successors - Taxscan",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNHpHaUxVVm5oSG55ZnBJNGdFYVRyOTM0UndJTl83dUxzVEIzVmwySDItVTNxRzhzRUlPLTFaZlVOWU16dXVmcGNCeU5WSnRiZmZndWh4UzlXNjB6ZDNPXzVGckVfV2FJR2FLbUVIT1RPSm51ZU9WNVk2ZS0yRjFIQVpuX05xemh4Ti02R1hMRUFILVRuSjBqYnZsdnJ6bW1xQ0daaGZaVElhd2preWNpa3l4VjZsRDl1OC1HWGp3?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 06 Nov 2026 12:03:00 GMT"
       },
       {
         "title": "ICAI CA Foundation September 2026 toppers: Kansika, Mahek Gupta share AIR 1 with 90.25%; check list of to - The Times of India",
@@ -197,18 +209,6 @@
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTHI0ZV8yN3BHc3hWeEhfSE1QSVBLV0twblVsdXFxWUJXNlNVclc5MU5BRGY4Z0EzQzNQU3FjLXRZa1MtSGVHbUJ4OUlXSW9nVTlzTGhvMnJNcUplZnF0eHBrRXg4R25OQUUwOXpvZXE1Q2xmWVFvYkdZMllMRHNqTmwwUW05amRmZk0tMzVsNlM4SUhObTJ5Q3I2dVpMRHlGaHdWZDN1ZjlDTHVMS0hDY0lmUThZNU84bE9TTnNkQjB2Z9IBygFBVV95cUxQTTVaMzdiZTgxSHJRVDFiYTZWYlA5TjF6OHZob1FjaHlNRkp1LTFURjNaVUlGRjVyLVZpcDYtZTZ5OGREOW96RHZReUEyUHl6SFQta05DNjFmdTJaZmMtLXh6aU93bjBuV0d1a1NrcG1kejF0VGZ3dl9VQ3hZNkdOcFc0NDAwSDROZnpPYV9qN1ZaWms2cHRYekZUNDcyX0hlb3lmaXlDVHZtR0QxZm1DV2gySDI0U08yQVBGcmJRRVB3b1B0V0Z4WVJ3?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 06 Nov 2026 07:21:14 GMT"
-      },
-      {
-        "title": "ICAI CA Foundation September 2026 result declared; Kansika, Mahek Gupta share AIR 1 - EdexLive",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc2doVVl1Wi1aeXZyUFd3bm9DeVJ0a0RwcHd5S19XeGMwbkZxck5NOGtNdjA1dmcwS1pDa29HMy10c3h4UGVkSFhjYmNzbG90dzFlbkZfejA0YnVJU3p1eElyNWVDdmRrQlA2VnZWQ3V3MG5ZeTFnd1Rtd1ZYNHFrbkpVQXJPUTMydVl0aDN1RG1UTmV6MlFnVHJIejFwOE8wN2l0dG5KTWJ6WGl0LWpTcWxR0gG_AUFVX3lxTE9ZaFZzckVsQzdyUjFPbmFObGhxcG4tRUxBS2VWM3JHRlNUUWRsdE5MMnNqWFRKNnRneEVaTGFkLUVZZzZSS2syU2JwMTdaMnRRU3YwMmRMZTdjS2w5emZScmlVWU5iWkNXMGhVTUE1VWtWRlEzclg0Qloxb09RLU9ROFo4MlFrRkJnSi1Rc3hSbzZWTWROamhXems1QlRwejdtSmtMZ3d3NVpNN0RrUkRJTk1qV0U5bE4zS0NWeVRB?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 06 Nov 2026 06:49:14 GMT"
-      },
-      {
-        "title": "ICAI CA Foundation 2026 toppers list, pass percentage: Kansika and Mahek Gupta share AIR 1; 18.93 pass percentage - Education Times",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMG56SUw1eC1adkFTaVhIX0QxbUpMczdtOTl2V3ZZdG1lNS1tLTRpZVo2UHdmWXNaaVYyQ2xSb0tBUm9xVDZMMjQ2dGNJa2VTaUQxa21ia1Z4M1ZZWElGRDA1RkItcU1iZ2ZyZmlCLXlNaHBVaExsekJtdHRreVg3bTFrYmpyUWRRcS13Ukg0cnR4VmNJdFI0TDZQdmtVTWVPZHhfZ1JSM2YtV19VZFpQM2loSF9xXy15S2VrZ0pkVWg0WGotOXZIOHNLd3hzcTNYQzh1ZnNZb055Rjd4UEFhNXZhRDNCcWNOMnBXVXc3WFZGeDhKVm9IWUEta2MzVE9Vdmc?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 06 Nov 2026 05:56:00 GMT"
       }
     ]
   }
