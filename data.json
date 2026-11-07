@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T23:52:48.645713+00:00",
+  "generatedAt": "2026-11-07T03:46:22.724488+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,19 +72,19 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 75901,
-      "chg": -0.05
+      "price": 75733,
+      "chg": -0.13
     },
     "eth": {
-      "price": 2238.85,
-      "chg": 0.22
+      "price": 2238.91,
+      "chg": 0.38
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 94.54,
-    "eurinr": 106.16,
-    "gbpinr": 127.25
+    "usdinr": 94.14,
+    "eurinr": 105.05,
+    "gbpinr": 125.9
   },
   "news": {
     "corp": [
@@ -169,16 +169,16 @@
         "pubDate": "Fri, 06 Nov 2026 08:51:22 GMT"
       },
       {
-        "title": "Fewer than 1 in 5 candidates clear ICAI CA Foundation September exam - EdexLive",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcVcyU3prMXJYRzg0dDdlZjYtbmpmajczejlPQXU3T2VNeHAwdU5EUEU1aUN0RVc2WmxCLVRjVGVvdlFWVUhYZzNZOHpxcHU1a1VVZlNmNEl1dnRxNW4yWVNYeDF5V0FvdEdQWTNMdDk2TmF5cXVDdmhWM3BNMUpOOGlzQkNkNFk1ek45enl3eE9XYUFxMFJxcW1DeGlubzjSAawBQVVfeXFMUEZMTU5MYkNrVDNNeUF0XzlvbGhjNjZ1clJ2ZThjYndZbTRrVDJvRk1WTDNjdW9YV3RQWHpuQWdDQWE3WU94VG5iYkdPWGlkX2tsRlJjX3JlNDFwZ2RUOGtTXzNwN0hZNTJ2d0ttT2g1SF9LcXd2cTZEUGoxN2J1YU9zRXlra2RZVkxUQmdKZHlpMG1xWnp0QndQdTJHZWRVTExNNnhnRTYzN1duMQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 06 Nov 2026 09:00:00 GMT"
-      },
-      {
         "title": "ICAI Releases Updated Handbook on GST Liability for Directors, Partners and Business Successors - Taxscan",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNHpHaUxVVm5oSG55ZnBJNGdFYVRyOTM0UndJTl83dUxzVEIzVmwySDItVTNxRzhzRUlPLTFaZlVOWU16dXVmcGNCeU5WSnRiZmZndWh4UzlXNjB6ZDNPXzVGckVfV2FJR2FLbUVIT1RPSm51ZU9WNVk2ZS0yRjFIQVpuX05xemh4Ti02R1hMRUFILVRuSjBqYnZsdnJ6bW1xQ0daaGZaVElhd2preWNpa3l4VjZsRDl1OC1HWGp3?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 06 Nov 2026 12:03:00 GMT"
+      },
+      {
+        "title": "Fewer than 1 in 5 candidates clear ICAI CA Foundation September exam - EdexLive",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcVcyU3prMXJYRzg0dDdlZjYtbmpmajczejlPQXU3T2VNeHAwdU5EUEU1aUN0RVc2WmxCLVRjVGVvdlFWVUhYZzNZOHpxcHU1a1VVZlNmNEl1dnRxNW4yWVNYeDF5V0FvdEdQWTNMdDk2TmF5cXVDdmhWM3BNMUpOOGlzQkNkNFk1ek45enl3eE9XYUFxMFJxcW1DeGlubzjSAawBQVVfeXFMUEZMTU5MYkNrVDNNeUF0XzlvbGhjNjZ1clJ2ZThjYndZbTRrVDJvRk1WTDNjdW9YV3RQWHpuQWdDQWE3WU94VG5iYkdPWGlkX2tsRlJjX3JlNDFwZ2RUOGtTXzNwN0hZNTJ2d0ttT2g1SF9LcXd2cTZEUGoxN2J1YU9zRXlra2RZVkxUQmdKZHlpMG1xWnp0QndQdTJHZWRVTExNNnhnRTYzN1duMQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 06 Nov 2026 09:00:00 GMT"
       },
       {
         "title": "ICAI CA Foundation September 2026 toppers: Kansika, Mahek Gupta share AIR 1 with 90.25%; check list of to - The Times of India",
@@ -187,16 +187,16 @@
         "pubDate": "Fri, 06 Nov 2026 05:18:00 GMT"
       },
       {
-        "title": "ICAI CA foundation September 2026 results out; 18.93% pass - Careers360",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1pBSzg5djRFWjd1MVdqZDJkZGVldGRtaWk3d3hQMUxuMlh0c3hKNHRMUS1zV2FZTmotNzU0UUV2bFZRUFljVDB6X0JYVUt3RzE5ZEQ0Zy1QcHNIb1VzR2hRZ0dDWHU3bUl1enRsbEphZF9Fa0U4R050aGFtTFpGeC1WcmY1UEdCTHgxTnNvbTRHQlpRUVVDN1JQX3k4NjNKZXlMMHBzMUNqb0M3ZEgzY1liVnlQdjdTNjlUV0xZLW44RTE1em1xX180dXpCQVNwUGRPWnRMRjBtNkJheHFoVtIB5gFBVV95cUxPa2F0d3lZZzBvcDI4QkNvWTFmTnhPLXQ2aDZfaG1lcWEyVHg0UDNlOG9nNlR3czhpdTliX1llWXpaM041N2RGTkxfVm9KXzdfTTRYemxXZVByTlpjT2Yyc3FZblV6YUE4Q0tsejhhM29OaGVIVS0wWW1lRjFxeEdNc21BLVExYlU1eWtuaUNBZ0N1SmRfZE1Scm1tN2hNdFBhRzFkUnJVYkRlV19TajlCYm45cVVsak15VG0xaUgtMUREbmI2UjZ4WEtjcTBPaDQ0UkduY3dFQUFMbFE0NmhZWW9PWVlqZw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 06 Nov 2026 05:08:28 GMT"
-      },
-      {
         "title": "ICAI CA Foundation September 2026 Result: Kansika, Mahek Gupta top with 90.25%; 19,736 pass - The Indian Express",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWTl2ZHZiRmlvYTFzMExNQUlVY3pUNF9UM3NiZmI1WFM1UEw0eTc3TDN0dlJFVHZuY3JsbGhkZjJjSm5CRndQNWxGMks0aFdZWndGTWRhYjNHZWxMaWNDVENEcnhVZl9uQjBuenF4VllMbUc1N29uMVFPWWliNTEyYkd5cGJRODVGWGZTcDFlWXl4ekpiY281THZSZ2JldzZuYllOa2VxeW9JUlB4OV9XMEJNd3oteDVDMW41bjJNQm9STm9EZG5n0gHOAUFVX3lxTFA3TU1xd2phZ2hvUlRZYkRxenBjTWwyWXJPZlU4cHB6d2oxRFVibkxOcnhKcnpLTG9zd0pjMm9pdW9rMmtEWTRlZTA3ZzJhZ3otTGVfcjdjOEQzb3lVc3B6SzZxLWlvLXUyQ0R6d21ZZHl6V3ZqejJENm9UZUM5ME9qLWk2UXFMSVFmd2IzX1NMbHBOVGp0Sk52ZVhTUTc1TndlSmpKWGg1RmJnWW5BNThBeXVSRm1xOTRTNkNXblNlMURDQjUwWmhnQ3JPVjBB?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 06 Nov 2026 08:31:42 GMT"
+      },
+      {
+        "title": "ICAI CA foundation September 2026 results out; 18.93% pass - Careers360",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1pBSzg5djRFWjd1MVdqZDJkZGVldGRtaWk3d3hQMUxuMlh0c3hKNHRMUS1zV2FZTmotNzU0UUV2bFZRUFljVDB6X0JYVUt3RzE5ZEQ0Zy1QcHNIb1VzR2hRZ0dDWHU3bUl1enRsbEphZF9Fa0U4R050aGFtTFpGeC1WcmY1UEdCTHgxTnNvbTRHQlpRUVVDN1JQX3k4NjNKZXlMMHBzMUNqb0M3ZEgzY1liVnlQdjdTNjlUV0xZLW44RTE1em1xX180dXpCQVNwUGRPWnRMRjBtNkJheHFoVtIB5gFBVV95cUxPa2F0d3lZZzBvcDI4QkNvWTFmTnhPLXQ2aDZfaG1lcWEyVHg0UDNlOG9nNlR3czhpdTliX1llWXpaM041N2RGTkxfVm9KXzdfTTRYemxXZVByTlpjT2Yyc3FZblV6YUE4Q0tsejhhM29OaGVIVS0wWW1lRjFxeEdNc21BLVExYlU1eWtuaUNBZ0N1SmRfZE1Scm1tN2hNdFBhRzFkUnJVYkRlV19TajlCYm45cVVsak15VG0xaUgtMUREbmI2UjZ4WEtjcTBPaDQ0UkduY3dFQUFMbFE0NmhZWW9PWVlqZw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 06 Nov 2026 05:08:28 GMT"
       },
       {
         "title": "ICAI CA Foundation September 2026 Toppers List Out: Kansika and Mahek Gupta Secure AIR 1; Check Mark - Shiksha.com",
