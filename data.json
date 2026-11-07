@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T16:41:29.245184+00:00",
+  "generatedAt": "2026-11-07T20:37:04.130232+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 75695,
-      "chg": 0.08
+      "price": 75673,
+      "chg": -0.19
     },
     "eth": {
-      "price": 2233.26,
-      "chg": 0.38
+      "price": 2230.18,
+      "chg": -0.09
     }
   },
   "fx": {
@@ -151,12 +151,6 @@
     ],
     "acct": [
       {
-        "title": "ICAI Releases Updated GST Handbook on Liability of Directors, Partners, Business Transferees and Legal Heirs under Sections 85–94 of CGST Act - A2Z Taxcorp LLP",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZ21IR2tYcFYxN0k0VlFUa2pERG1hNV9rYmtyRUdRY3VXM0JXZnNsTmR0cDh1M3VZTTBjdUtNSVpIdzh5M1JCQkttYkpjU1dSQ0hzSkVEQ0ZGYW9waDB1NWdfYnF0Q0Qyejg1enRxTFRyREJDZGNQNnpSMGVvTmNfSEt0YTlhWUlsQ3FYaXY2Sk5EOUdtcnVNd3ZzeTVZSUZDazUtZHMtX0dMbWpnX3BQSGh6S2ZOekxFeU5Zbjh5alZma016UENfMzVvcEJ5ZFlwTk5xbTdyWjI5S3VBWlFZZFVvTG83ZDlPSF8ySVIxek5sLUZPcWc?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sat, 07 Nov 2026 10:13:18 GMT"
-      },
-      {
         "title": "ICAI CA Foundation September 2026 toppers: Kansika, Mahek Gupta share AIR 1 with 90.25%; check list of to - The Times of India",
         "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQcXY2ZTNDWXN6LWtUdW4tOVpYQWlkTVkzdG5mTEJiU0N2VWxKQ1FWcG5uVjc0dS0zU2E5TjI0d25DSGZiWTVvTVVBTGtRN0dDTGdpX0ZpTl9lOWhWWWtzdXJJbjRzXzVzUmozUnd6cEVVektNSDVobzhrRW5nbWFERTBfa1V0NXo3ZEFaT1RuNkFXQU5fRy14WVRaanN0SFhfbkxHWEhTbmd2YWg5VE9lM3VudHljZ1BES1IxcjBGbHFxYzhtR3dGUUxTSGpwMXh0dWdLRUpKVkkxYmctZnRrT2F2TnFPSHpDRUZydnlRSFVtTGlHZ0p4LUIwMng0bHprXy1MM2dSN3RmSFZTdktNTUVnUjM3UdIBmwJBVV95cUxPMmJqMWx3ckp3b29GV0g2ZFlRZmc4c0YwQVNmcmNVdXlaTUhLSmZaLXFucDN2c091WjItZU9MaTV6cDd4NHhvU2otazR6SDRqZTRETkdyaXlpSXRlTTNCaFFleTlRSFZjXzMyUlJCOXlhUGVWUTlFLUQwUGg0Nms3SFN0cFlJTmdCVklneVE3empTWkRwWHZaV1lCUmdncktjYURBWTBMMXBERi16TkExWnF5Z3hGUWZzQ3NMYkJPdUhGeVNvZlZPcFRGZFd4bmtITlBDYmRBQ1BhcWpGS2Z2aEV2eTRROVhZMGtZZ3ZGMDlCT29mdU5hYU1femlQQlBKNUtZU2NzYmtvOHFMWmVaaUJCR3BiVDMxMS1F?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -169,10 +163,10 @@
         "pubDate": "Sat, 07 Nov 2026 08:42:04 GMT"
       },
       {
-        "title": "ICAI CA Foundation September 2026 Result Date: When and from where to check results - The Indian Express",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcnRIaUhmYVhSd0J4ZEV5dXJnNXhtdWF5Z2RCQmgyOU9DWk82bFpTM2VubXRkaEVULVhsUU9US1BqWWNFbVNCekp6bFo0OS1XenByS3VpWV9yTi14ZE16TTZ2cU1VUjJ1TlhkbDJ2MW5Zc1UzeEU1ZTBWUDRtVlFuM2dySTEtXzhMQU1neU4xSmJXOV9PYTgwRHJRd0NYUTRnMnpxWEtoRDhzV1V2cWktRkdfNThpdi1fRlp3Q3dyUmJoSllKZllqWElXVFVKMEluV1VhYTdOOGtmci1q0gHjAUFVX3lxTE9DMmd4UDRrQkNTNUhhNkVoQU9OMDkxYi00TUY2c0hLU0xiN1pweUtGT0JFTEN0b0FObFAzU05GX0NKSHVuSGZ5V21fNWNzVGF5WUs0WWs4Q1BoUVdQU0ZONERmS25HVmRUWUVsRjJ6aTRFemIyXzY3MFhJbWZOMjg4NnVscWVZQXdHREFlN0FpNGFqS0ZSM1huTUhMd2ZyRFZKaF9QdDdQN1RsSUFxY2VvaHpNWXpzUHVycDJQaVdEQ1gya3NNdWJDdm9XTHhJYlh1NEhwblE2dVljVUdhZDI4d05r?oc=5",
+        "title": "ICAI Releases Updated GST Handbook on Liability of Directors, Partners, Business Transferees and Legal Heirs under Sections 85–94 of CGST Act - A2Z Taxcorp LLP",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZ21IR2tYcFYxN0k0VlFUa2pERG1hNV9rYmtyRUdRY3VXM0JXZnNsTmR0cDh1M3VZTTBjdUtNSVpIdzh5M1JCQkttYkpjU1dSQ0hzSkVEQ0ZGYW9waDB1NWdfYnF0Q0Qyejg1enRxTFRyREJDZGNQNnpSMGVvTmNfSEt0YTlhWUlsQ3FYaXY2Sk5EOUdtcnVNd3ZzeTVZSUZDazUtZHMtX0dMbWpnX3BQSGh6S2ZOekxFeU5Zbjh5alZma016UENfMzVvcEJ5ZFlwTk5xbTdyWjI5S3VBWlFZZFVvTG83ZDlPSF8ySVIxek5sLUZPcWc?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 06 Nov 2026 21:20:24 GMT"
+        "pubDate": "Sat, 07 Nov 2026 10:13:18 GMT"
       },
       {
         "title": "ICAI CA Foundation September 2026 result: Kansika, Mahek Gupta share AIR 1 with 361 marks - Deccan Herald",
@@ -191,6 +185,12 @@
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYVc1VnZyUlN6bXZmYWZOZ1VNaDFBRVFudkp1ZDR2NGpuSHllUjZwYmdHRW81OXhVWmNuaW9oakhsM0xOSTF1cjdZZ1RKQ2I4RXRXSE5IYjNEVkttRnZyVUo5OUxiSjBKZV9TTkVuVTZlb3FLUzFkYlFrdkdmWTdoVW5SeTR0SEd1Zk5pb2hha3NDcGJtd0d5NWd2V1NRUWpob0RnTG56RFZNNFFILWFBNGJlTQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 06 Nov 2026 15:16:50 GMT"
+      },
+      {
+        "title": "ICAI CA Foundation September 2026 Result Date: When and from where to check results - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcnRIaUhmYVhSd0J4ZEV5dXJnNXhtdWF5Z2RCQmgyOU9DWk82bFpTM2VubXRkaEVULVhsUU9US1BqWWNFbVNCekp6bFo0OS1XenByS3VpWV9yTi14ZE16TTZ2cU1VUjJ1TlhkbDJ2MW5Zc1UzeEU1ZTBWUDRtVlFuM2dySTEtXzhMQU1neU4xSmJXOV9PYTgwRHJRd0NYUTRnMnpxWEtoRDhzV1V2cWktRkdfNThpdi1fRlp3Q3dyUmJoSllKZllqWElXVFVKMEluV1VhYTdOOGtmci1q0gHjAUFVX3lxTE9DMmd4UDRrQkNTNUhhNkVoQU9OMDkxYi00TUY2c0hLU0xiN1pweUtGT0JFTEN0b0FObFAzU05GX0NKSHVuSGZ5V21fNWNzVGF5WUs0WWs4Q1BoUVdQU0ZONERmS25HVmRUWUVsRjJ6aTRFemIyXzY3MFhJbWZOMjg4NnVscWVZQXdHREFlN0FpNGFqS0ZSM1huTUhMd2ZyRFZKaF9QdDdQN1RsSUFxY2VvaHpNWXpzUHVycDJQaVdEQ1gya3NNdWJDdm9XTHhJYlh1NEhwblE2dVljVUdhZDI4d05r?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 06 Nov 2026 21:20:24 GMT"
       },
       {
         "title": "ICAI CA foundation September 2026 results out; 18.93% pass - Careers360",
