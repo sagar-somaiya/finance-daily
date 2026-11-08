@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T13:42:36.505398+00:00",
+  "generatedAt": "2026-11-08T18:35:20.451872+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 75882,
-      "chg": 0.03
+      "price": 75871,
+      "chg": 0.17
     },
     "eth": {
-      "price": 2237.13,
-      "chg": -0.19
+      "price": 2233.69,
+      "chg": -0.03
     }
   },
   "fx": {
@@ -151,6 +151,12 @@
     ],
     "acct": [
       {
+        "title": "Sustainability Reporting: GRI, IFRS S1 and ESRS - CASRAI",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiZFJwQ0hHbFRZcTR3ZVdhYVNUWUFtWU85LWYtN2xTSS1jR1U4VEFkZTVNVHkwZUpUWXp5ZVRlZ2xYTlh3VURQVHRua0YtQmh1Y3dKLW9CeEdQMVhteWlj?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sun, 08 Nov 2026 16:41:31 GMT"
+      },
+      {
         "title": "ICAI CA January 2026 Registrations Ongoing for Foundation & Intermediate Exam at eservices.icai.org - Shiksha.com",
         "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZE5XaV92V3ZGRnMycHdJZl9RTnhGYXJncmlnWlNkaEQ1V0J0b0xuS1dvNmdxMHgwcll6VE5mVHR2bkRnSFRSQkpmYlFyaWFfT3dTVW0wdDNYWWctTEJLX1NXWmRrSXR0N1BBRFVTbkhzeDdrX0FFbDBza09NTWFzUUpfeDNRV29lMTNhWVR2Ri1EVFJYV2J5bUVmRHlXQUNpY1M5dVJqUlplSXBCdnhBaWVTbkhCaXRtejZ6MlAtV0ZQYy1sdHU1akpDUjVwSFJYOGxCbTYtLU0xZTlrTUJlNjUwcl81QnFkUE1WdFBLb0RFLVRVUHdOV0JDUncyZ3NyWGQ4QWJNZw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -175,10 +181,10 @@
         "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "Canadian Securities Administrators finalize amendments to National Instrument 52-112 to address IFRS 18 - Dentons",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYVc1VnZyUlN6bXZmYWZOZ1VNaDFBRVFudkp1ZDR2NGpuSHllUjZwYmdHRW81OXhVWmNuaW9oakhsM0xOSTF1cjdZZ1RKQ2I4RXRXSE5IYjNEVkttRnZyVUo5OUxiSjBKZV9TTkVuVTZlb3FLUzFkYlFrdkdmWTdoVW5SeTR0SEd1Zk5pb2hha3NDcGJtd0d5NWd2V1NRUWpob0RnTG56RFZNNFFILWFBNGJlTQ?oc=5",
+        "title": "KPMG in Qatar marks 26 years of its Annual IFRS Update Workshop - Zawya",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUTZQbk9yN0lnNjEyMnFlVVlqM21QSXczQXBPLVQ2WVhIRFczcTZSUDJJWUhFNjNWZTRrcVdrckZ4RDBDUWN3bkdwWG5pZmtmdE8ydFNJRGxZWGtlY2lUQ29XRDc3Y1ZPX2tBV1lxSnR4T0JHaldjeC1MSEdvdDFBQ1VZMEs3R2xOVWYxN2hGWE9hN0oycmtVeEdMN1VFTWUyVGFKaWR5bTRiYlpoVmVCVWpCcGNCUU1ORVhtczNfYkg4MGlhWjc0QQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 06 Nov 2026 15:16:50 GMT"
+        "pubDate": "Sun, 08 Nov 2026 14:26:00 GMT"
       },
       {
         "title": "ICAI CA foundation September 2026 results out; 18.93% pass - Careers360",
@@ -199,16 +205,10 @@
         "pubDate": "Fri, 06 Nov 2026 08:31:42 GMT"
       },
       {
-        "title": "ICAI CA Foundation September 2026 Toppers List Out: Kansika and Mahek Gupta Secure AIR 1; Check Mark - Shiksha.com",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONTQ1TU9pRUJZaU9zcXpJcEMycEd1WXItQnFuNzlnVWRoQmNoQU9QazkwRVQ2RzJZRW5XZEUtZDJIRDJNbHhVTjBpczByQS0xMHFJTmN3VTBEU3dpNUlSUE53cFFqN3pPcFB6SzMtMWotR1hVWFZtMjYxcWVMb3R4RWM1aDV5bGxPaDktU29nX2NUcWZqSnN0b0lmWmFEZVlqUFVubjliUlZEcDhHdjZpWERCR1VwdWF2YnBIOGZsa0ZUaGx4VE55Nm9kNEFtNkx6VzgwZm4xVVBlTFdUSXJVSXI5RVdLR1FILXhpWmc0YUxCdURJc3NldVkxT0dtYmlPT0Rv?oc=5",
+        "title": "Canadian Securities Administrators finalize amendments to National Instrument 52-112 to address IFRS 18 - Dentons",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYVc1VnZyUlN6bXZmYWZOZ1VNaDFBRVFudkp1ZDR2NGpuSHllUjZwYmdHRW81OXhVWmNuaW9oakhsM0xOSTF1cjdZZ1RKQ2I4RXRXSE5IYjNEVkttRnZyVUo5OUxiSjBKZV9TTkVuVTZlb3FLUzFkYlFrdkdmWTdoVW5SeTR0SEd1Zk5pb2hha3NDcGJtd0d5NWd2V1NRUWpob0RnTG56RFZNNFFILWFBNGJlTQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 06 Nov 2026 06:11:03 GMT"
-      },
-      {
-        "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - Wolters Kluwer",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlIzUGljQXNlVm4xZ2R0ZFhITUtjQmNINmswSXA0R3lSeWtJZHI0MmRvR2l0ZDRJRUpiWFdSX1c0aFMyaVl2bWhNbHJxWGJTTUM5TTd5ZWxMX0lNMEp1Q3YzS2JZSDFnbWRkX3pvbnRFZTd0ZUx3ZTVmMjhhaHBqU1BGYjdMYXdBM2ZBWS1FVUkzVFF1aFEw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
+        "pubDate": "Fri, 06 Nov 2026 15:16:50 GMT"
       }
     ]
   }
