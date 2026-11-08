@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T20:37:04.130232+00:00",
+  "generatedAt": "2026-11-08T00:04:51.700585+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 75673,
-      "chg": -0.19
+      "price": 75746,
+      "chg": -0.09
     },
     "eth": {
-      "price": 2230.18,
-      "chg": -0.09
+      "price": 2236.23,
+      "chg": -0.05
     }
   },
   "fx": {
@@ -157,16 +157,16 @@
         "pubDate": "Fri, 06 Nov 2026 05:18:00 GMT"
       },
       {
-        "title": "ICAI declares September CA Foundation results; 18.93% candidates clear exam - Nagpur Today",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLWxGQTdob0htQnk3U2NDS3ZONk0yZWJkTEFUbzFSd19SekUzNnBKTlVYU2JjRlBCNEtfQnJtUUM5eVhWdEd3ajg0UHRvVmRncWVsa195cVZjbF9pd241d1ZuMF9VSUxVaTRJYTZ0eWZLZEtxc0N2b2t4MGRhb1hrWjdBc1pmNV94OXdlc1NXQ090T3hYS3hXWnA0SFA5U3pwU2M0?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sat, 07 Nov 2026 08:42:04 GMT"
-      },
-      {
         "title": "ICAI Releases Updated GST Handbook on Liability of Directors, Partners, Business Transferees and Legal Heirs under Sections 85–94 of CGST Act - A2Z Taxcorp LLP",
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZ21IR2tYcFYxN0k0VlFUa2pERG1hNV9rYmtyRUdRY3VXM0JXZnNsTmR0cDh1M3VZTTBjdUtNSVpIdzh5M1JCQkttYkpjU1dSQ0hzSkVEQ0ZGYW9waDB1NWdfYnF0Q0Qyejg1enRxTFRyREJDZGNQNnpSMGVvTmNfSEt0YTlhWUlsQ3FYaXY2Sk5EOUdtcnVNd3ZzeTVZSUZDazUtZHMtX0dMbWpnX3BQSGh6S2ZOekxFeU5Zbjh5alZma016UENfMzVvcEJ5ZFlwTk5xbTdyWjI5S3VBWlFZZFVvTG83ZDlPSF8ySVIxek5sLUZPcWc?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Sat, 07 Nov 2026 10:13:18 GMT"
+      },
+      {
+        "title": "ICAI declares September CA Foundation results; 18.93% candidates clear exam - Nagpur Today",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLWxGQTdob0htQnk3U2NDS3ZONk0yZWJkTEFUbzFSd19SekUzNnBKTlVYU2JjRlBCNEtfQnJtUUM5eVhWdEd3ajg0UHRvVmRncWVsa195cVZjbF9pd241d1ZuMF9VSUxVaTRJYTZ0eWZLZEtxc0N2b2t4MGRhb1hrWjdBc1pmNV94OXdlc1NXQ090T3hYS3hXWnA0SFA5U3pwU2M0?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sat, 07 Nov 2026 08:42:04 GMT"
       },
       {
         "title": "ICAI CA Foundation September 2026 result: Kansika, Mahek Gupta share AIR 1 with 361 marks - Deccan Herald",
