@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T00:04:51.700585+00:00",
+  "generatedAt": "2026-11-08T06:24:48.389299+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,101 +72,95 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 75746,
-      "chg": -0.09
+      "price": 75748,
+      "chg": -0.29
     },
     "eth": {
-      "price": 2236.23,
-      "chg": -0.05
+      "price": 2232.78,
+      "chg": -0.48
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 94.14,
-    "eurinr": 105.05,
-    "gbpinr": 125.9
+    "usdinr": 94.11,
+    "eurinr": 105.06,
+    "gbpinr": 125.91
   },
   "news": {
     "corp": [
       {
-        "title": "Dalal Street Week Ahead: Nifty bulls come back to life, but 25,000–25,200 zone poses next test",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-nifty-bulls-come-back-to-life-but-2500025200-zone-poses-next-test/articleshow/135634291.cms",
+        "title": "Diwali turned lucky for these 8 stocks! Investors' wealth more than doubled, returns soar up to 191%",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-turned-lucky-for-these-8-stocks-investors-wealth-more-than-doubled-returns-soar-up-to-191/slideshow/135652712.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 07 Nov 2026 16:37:31 +0530"
+        "pubDate": "Sun, 08 Nov 2026 10:58:18 +0530"
       },
       {
-        "title": "Concurrent Gainers: 9 stocks gain for 5 days in a row",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-9-stocks-gain-for-5-days-in-a-row/slideshow/135631187.cms",
+        "title": "Muhurat Trading 2026 Live Updates: Diwali Muhurat Trading 2026; check NSE, BSE and MCX timings, market outlook and key details",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/diwali-muhurat-trading-2026-live-date-time-sensex-nifty-50-stock-market-check-stocks-to-buy-nse-bse/liveblog/135652392.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 07 Nov 2026 13:41:56 +0530"
+        "pubDate": "Sun, 08 Nov 2026 10:55:03 +0530"
       },
       {
-        "title": "Wall Street grapples with $5.7 trillion rout as AI bets unwind",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-grapples-with-5-7-trillion-rout-as-ai-bets-unwind/articleshow/135628032.cms",
+        "title": "Cipla Share Price Live Updates: Cipla's Recent Trading Activity",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-livestock-price-today-live-updates-08-nov-2026/liveblog/135651441.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 07 Nov 2026 11:31:15 +0530"
+        "pubDate": "Sun, 08 Nov 2026 10:03:33 +0530"
       },
       {
-        "title": "Patakha stock picks! ICICI Bank, BEL, 6 other stocks with 62% to buy this Samvat 2083. See full list",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/patakha-stock-picks-icici-bank-bel-6-other-stocks-with-62-to-buy-this-samvat-2023-see-full-list/slideshow/135627923.cms",
+        "title": "​Market Trading Guide: ITC, ICICI Bank among 5 stock recommendations for Muhurat trading session",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-itc-icici-bank-among-5-stock-recommendations-for-muhurat-trading-session/slideshow/135651235.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 07 Nov 2026 11:13:51 +0530"
+        "pubDate": "Sun, 08 Nov 2026 09:39:18 +0530"
       },
       {
-        "title": "Diwali shagun ke shares! Angel One selects 8 stocks with up to 50% upside to Buy this Diwali. How many do you own?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-shagun-ke-shares-angel-one-selects-8-stocks-with-up-to-50-upside-to-buy-this-diwali-how-many-do-you-own/slideshow/135626837.cms",
+        "title": "SBI Life Share Price Live Updates: SBI Life's Stock Update",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-today-live-08-nov-2026/liveblog/135650295.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 07 Nov 2026 10:14:51 +0530"
+        "pubDate": "Sun, 08 Nov 2026 09:00:05 +0530"
       },
       {
-        "title": "Dollar jumps after strong US payrolls report",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-jumps-after-strong-us-payrolls-report/articleshow/135626197.cms",
+        "title": "Tech Mahindra Share Price Live Updates: Tech Mahindra's Current Market Position",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-livestock-price-today-live-updates-08-nov-2026/liveblog/135650166.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 07 Nov 2026 09:41:35 +0530"
+        "pubDate": "Sun, 08 Nov 2026 08:40:33 +0530"
       },
       {
-        "title": "Gold drops as strong US payrolls boost dollar, yields",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-as-strong-us-payrolls-boost-dollar-yields/articleshow/135626183.cms",
+        "title": "L&amp;T Share Price Live Updates: L&amp;T's Recent Stock Performance",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-today-live-updates-08-nov-2026/liveblog/135650111.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 07 Nov 2026 09:40:07 +0530"
+        "pubDate": "Sun, 08 Nov 2026 08:35:06 +0530"
       },
       {
-        "title": "Risk-off mood sweeps European stocks as AI concerns deepen",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/risk-off-mood-sweeps-european-stocks-as-ai-concerns-deepen/articleshow/135626153.cms",
+        "title": "Sun Pharma Share Price Live Updates: Sun Pharma's Current Trading Status",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-08-nov-2026/liveblog/135650076.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 07 Nov 2026 09:35:44 +0530"
+        "pubDate": "Sun, 08 Nov 2026 08:31:56 +0530"
       },
       {
-        "title": "Wall Street stocks rally after heavy AI-related selloff",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-stocks-rally-after-heavy-ai-related-selloff/articleshow/135626123.cms",
+        "title": "Nestle India Share Price Live Updates: Nestle India Current Price Update",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-live-updates-08-nov-2026/liveblog/135650054.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 07 Nov 2026 09:34:36 +0530"
+        "pubDate": "Sun, 08 Nov 2026 08:31:07 +0530"
       },
       {
-        "title": "Nasdaq rebounds but posts fourth straight weekly decline",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-rebounds-but-posts-fourth-straight-weekly-decline/articleshow/135626093.cms",
+        "title": "M&amp;M Share Price Live Updates: M&amp;M Stock Price Rises Sharply",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-share-price-live-08-nov-2026/liveblog/135650050.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 07 Nov 2026 09:32:31 +0530"
+        "pubDate": "Sun, 08 Nov 2026 08:30:54 +0530"
       }
     ],
     "acct": [
+      {
+        "title": "ICAI CA January 2026 Registrations Ongoing for Foundation & Intermediate Exam at eservices.icai.org - Shiksha.com",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZE5XaV92V3ZGRnMycHdJZl9RTnhGYXJncmlnWlNkaEQ1V0J0b0xuS1dvNmdxMHgwcll6VE5mVHR2bkRnSFRSQkpmYlFyaWFfT3dTVW0wdDNYWWctTEJLX1NXWmRrSXR0N1BBRFVTbkhzeDdrX0FFbDBza09NTWFzUUpfeDNRV29lMTNhWVR2Ri1EVFJYV2J5bUVmRHlXQUNpY1M5dVJqUlplSXBCdnhBaWVTbkhCaXRtejZ6MlAtV0ZQYy1sdHU1akpDUjVwSFJYOGxCbTYtLU0xZTlrTUJlNjUwcl81QnFkUE1WdFBLb0RFLVRVUHdOV0JDUncyZ3NyWGQ4QWJNZw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sun, 08 Nov 2026 06:08:27 GMT"
+      },
       {
         "title": "ICAI CA Foundation September 2026 toppers: Kansika, Mahek Gupta share AIR 1 with 90.25%; check list of to - The Times of India",
         "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQcXY2ZTNDWXN6LWtUdW4tOVpYQWlkTVkzdG5mTEJiU0N2VWxKQ1FWcG5uVjc0dS0zU2E5TjI0d25DSGZiWTVvTVVBTGtRN0dDTGdpX0ZpTl9lOWhWWWtzdXJJbjRzXzVzUmozUnd6cEVVektNSDVobzhrRW5nbWFERTBfa1V0NXo3ZEFaT1RuNkFXQU5fRy14WVRaanN0SFhfbkxHWEhTbmd2YWg5VE9lM3VudHljZ1BES1IxcjBGbHFxYzhtR3dGUUxTSGpwMXh0dWdLRUpKVkkxYmctZnRrT2F2TnFPSHpDRUZydnlRSFVtTGlHZ0p4LUIwMng0bHprXy1MM2dSN3RmSFZTdktNTUVnUjM3UdIBmwJBVV95cUxPMmJqMWx3ckp3b29GV0g2ZFlRZmc4c0YwQVNmcmNVdXlaTUhLSmZaLXFucDN2c091WjItZU9MaTV6cDd4NHhvU2otazR6SDRqZTRETkdyaXlpSXRlTTNCaFFleTlRSFZjXzMyUlJCOXlhUGVWUTlFLUQwUGg0Nms3SFN0cFlJTmdCVklneVE3empTWkRwWHZaV1lCUmdncktjYURBWTBMMXBERi16TkExWnF5Z3hGUWZzQ3NMYkJPdUhGeVNvZlZPcFRGZFd4bmtITlBDYmRBQ1BhcWpGS2Z2aEV2eTRROVhZMGtZZ3ZGMDlCT29mdU5hYU1femlQQlBKNUtZU2NzYmtvOHFMWmVaaUJCR3BiVDMxMS1F?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 06 Nov 2026 05:18:00 GMT"
-      },
-      {
-        "title": "ICAI Releases Updated GST Handbook on Liability of Directors, Partners, Business Transferees and Legal Heirs under Sections 85–94 of CGST Act - A2Z Taxcorp LLP",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZ21IR2tYcFYxN0k0VlFUa2pERG1hNV9rYmtyRUdRY3VXM0JXZnNsTmR0cDh1M3VZTTBjdUtNSVpIdzh5M1JCQkttYkpjU1dSQ0hzSkVEQ0ZGYW9waDB1NWdfYnF0Q0Qyejg1enRxTFRyREJDZGNQNnpSMGVvTmNfSEt0YTlhWUlsQ3FYaXY2Sk5EOUdtcnVNd3ZzeTVZSUZDazUtZHMtX0dMbWpnX3BQSGh6S2ZOekxFeU5Zbjh5alZma016UENfMzVvcEJ5ZFlwTk5xbTdyWjI5S3VBWlFZZFVvTG83ZDlPSF8ySVIxek5sLUZPcWc?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sat, 07 Nov 2026 10:13:18 GMT"
-      },
-      {
-        "title": "ICAI declares September CA Foundation results; 18.93% candidates clear exam - Nagpur Today",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLWxGQTdob0htQnk3U2NDS3ZONk0yZWJkTEFUbzFSd19SekUzNnBKTlVYU2JjRlBCNEtfQnJtUUM5eVhWdEd3ajg0UHRvVmRncWVsa195cVZjbF9pd241d1ZuMF9VSUxVaTRJYTZ0eWZLZEtxc0N2b2t4MGRhb1hrWjdBc1pmNV94OXdlc1NXQ090T3hYS3hXWnA0SFA5U3pwU2M0?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sat, 07 Nov 2026 08:42:04 GMT"
       },
       {
         "title": "ICAI CA Foundation September 2026 result: Kansika, Mahek Gupta share AIR 1 with 361 marks - Deccan Herald",
@@ -181,16 +175,16 @@
         "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "Canadian Securities Administrators finalize amendments to National Instrument 52-112 to address IFRS 18 - Dentons",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYVc1VnZyUlN6bXZmYWZOZ1VNaDFBRVFudkp1ZDR2NGpuSHllUjZwYmdHRW81OXhVWmNuaW9oakhsM0xOSTF1cjdZZ1RKQ2I4RXRXSE5IYjNEVkttRnZyVUo5OUxiSjBKZV9TTkVuVTZlb3FLUzFkYlFrdkdmWTdoVW5SeTR0SEd1Zk5pb2hha3NDcGJtd0d5NWd2V1NRUWpob0RnTG56RFZNNFFILWFBNGJlTQ?oc=5",
+        "title": "ICAI Releases Updated GST Handbook on Liability of Directors, Partners, Business Transferees and Legal Heirs under Sections 85–94 of CGST Act - A2Z Taxcorp LLP",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZ21IR2tYcFYxN0k0VlFUa2pERG1hNV9rYmtyRUdRY3VXM0JXZnNsTmR0cDh1M3VZTTBjdUtNSVpIdzh5M1JCQkttYkpjU1dSQ0hzSkVEQ0ZGYW9waDB1NWdfYnF0Q0Qyejg1enRxTFRyREJDZGNQNnpSMGVvTmNfSEt0YTlhWUlsQ3FYaXY2Sk5EOUdtcnVNd3ZzeTVZSUZDazUtZHMtX0dMbWpnX3BQSGh6S2ZOekxFeU5Zbjh5alZma016UENfMzVvcEJ5ZFlwTk5xbTdyWjI5S3VBWlFZZFVvTG83ZDlPSF8ySVIxek5sLUZPcWc?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 06 Nov 2026 15:16:50 GMT"
+        "pubDate": "Sat, 07 Nov 2026 10:13:18 GMT"
       },
       {
-        "title": "ICAI CA Foundation September 2026 Result Date: When and from where to check results - The Indian Express",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcnRIaUhmYVhSd0J4ZEV5dXJnNXhtdWF5Z2RCQmgyOU9DWk82bFpTM2VubXRkaEVULVhsUU9US1BqWWNFbVNCekp6bFo0OS1XenByS3VpWV9yTi14ZE16TTZ2cU1VUjJ1TlhkbDJ2MW5Zc1UzeEU1ZTBWUDRtVlFuM2dySTEtXzhMQU1neU4xSmJXOV9PYTgwRHJRd0NYUTRnMnpxWEtoRDhzV1V2cWktRkdfNThpdi1fRlp3Q3dyUmJoSllKZllqWElXVFVKMEluV1VhYTdOOGtmci1q0gHjAUFVX3lxTE9DMmd4UDRrQkNTNUhhNkVoQU9OMDkxYi00TUY2c0hLU0xiN1pweUtGT0JFTEN0b0FObFAzU05GX0NKSHVuSGZ5V21fNWNzVGF5WUs0WWs4Q1BoUVdQU0ZONERmS25HVmRUWUVsRjJ6aTRFemIyXzY3MFhJbWZOMjg4NnVscWVZQXdHREFlN0FpNGFqS0ZSM1huTUhMd2ZyRFZKaF9QdDdQN1RsSUFxY2VvaHpNWXpzUHVycDJQaVdEQ1gya3NNdWJDdm9XTHhJYlh1NEhwblE2dVljVUdhZDI4d05r?oc=5",
+        "title": "ICAI declares September CA Foundation results; 18.93% candidates clear exam - Nagpur Today",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLWxGQTdob0htQnk3U2NDS3ZONk0yZWJkTEFUbzFSd19SekUzNnBKTlVYU2JjRlBCNEtfQnJtUUM5eVhWdEd3ajg0UHRvVmRncWVsa195cVZjbF9pd241d1ZuMF9VSUxVaTRJYTZ0eWZLZEtxc0N2b2t4MGRhb1hrWjdBc1pmNV94OXdlc1NXQ090T3hYS3hXWnA0SFA5U3pwU2M0?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 06 Nov 2026 21:20:24 GMT"
+        "pubDate": "Sat, 07 Nov 2026 08:42:04 GMT"
       },
       {
         "title": "ICAI CA foundation September 2026 results out; 18.93% pass - Careers360",
@@ -199,16 +193,22 @@
         "pubDate": "Fri, 06 Nov 2026 05:08:28 GMT"
       },
       {
+        "title": "ICAI CA Foundation September 2026 Result Date: When and from where to check results - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcnRIaUhmYVhSd0J4ZEV5dXJnNXhtdWF5Z2RCQmgyOU9DWk82bFpTM2VubXRkaEVULVhsUU9US1BqWWNFbVNCekp6bFo0OS1XenByS3VpWV9yTi14ZE16TTZ2cU1VUjJ1TlhkbDJ2MW5Zc1UzeEU1ZTBWUDRtVlFuM2dySTEtXzhMQU1neU4xSmJXOV9PYTgwRHJRd0NYUTRnMnpxWEtoRDhzV1V2cWktRkdfNThpdi1fRlp3Q3dyUmJoSllKZllqWElXVFVKMEluV1VhYTdOOGtmci1q0gHjAUFVX3lxTE9DMmd4UDRrQkNTNUhhNkVoQU9OMDkxYi00TUY2c0hLU0xiN1pweUtGT0JFTEN0b0FObFAzU05GX0NKSHVuSGZ5V21fNWNzVGF5WUs0WWs4Q1BoUVdQU0ZONERmS25HVmRUWUVsRjJ6aTRFemIyXzY3MFhJbWZOMjg4NnVscWVZQXdHREFlN0FpNGFqS0ZSM1huTUhMd2ZyRFZKaF9QdDdQN1RsSUFxY2VvaHpNWXpzUHVycDJQaVdEQ1gya3NNdWJDdm9XTHhJYlh1NEhwblE2dVljVUdhZDI4d05r?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 06 Nov 2026 05:01:00 GMT"
+      },
+      {
         "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - Wolters Kluwer",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlIzUGljQXNlVm4xZ2R0ZFhITUtjQmNINmswSXA0R3lSeWtJZHI0MmRvR2l0ZDRJRUpiWFdSX1c0aFMyaVl2bWhNbHJxWGJTTUM5TTd5ZWxMX0lNMEp1Q3YzS2JZSDFnbWRkX3pvbnRFZTd0ZUx3ZTVmMjhhaHBqU1BGYjdMYXdBM2ZBWS1FVUkzVFF1aFEw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "ICAI CA Foundation September 2026 Toppers List Out: Kansika and Mahek Gupta Secure AIR 1; Check Mark - Shiksha.com",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONTQ1TU9pRUJZaU9zcXpJcEMycEd1WXItQnFuNzlnVWRoQmNoQU9QazkwRVQ2RzJZRW5XZEUtZDJIRDJNbHhVTjBpczByQS0xMHFJTmN3VTBEU3dpNUlSUE53cFFqN3pPcFB6SzMtMWotR1hVWFZtMjYxcWVMb3R4RWM1aDV5bGxPaDktU29nX2NUcWZqSnN0b0lmWmFEZVlqUFVubjliUlZEcDhHdjZpWERCR1VwdWF2YnBIOGZsa0ZUaGx4VE55Nm9kNEFtNkx6VzgwZm4xVVBlTFdUSXJVSXI5RVdLR1FILXhpWmc0YUxCdURJc3NldVkxT0dtYmlPT0Rv?oc=5",
+        "title": "ICAI CA Foundation September 2026 Result: Kansika, Mahek Gupta top with 90.25%; 19,736 pass - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWTl2ZHZiRmlvYTFzMExNQUlVY3pUNF9UM3NiZmI1WFM1UEw0eTc3TDN0dlJFVHZuY3JsbGhkZjJjSm5CRndQNWxGMks0aFdZWndGTWRhYjNHZWxMaWNDVENEcnhVZl9uQjBuenF4VllMbUc1N29uMVFPWWliNTEyYkd5cGJRODVGWGZTcDFlWXl4ekpiY281THZSZ2JldzZuYllOa2VxeW9JUlB4OV9XMEJNd3oteDVDMW41bjJNQm9STm9EZG5n0gHOAUFVX3lxTFA3TU1xd2phZ2hvUlRZYkRxenBjTWwyWXJPZlU4cHB6d2oxRFVibkxOcnhKcnpLTG9zd0pjMm9pdW9rMmtEWTRlZTA3ZzJhZ3otTGVfcjdjOEQzb3lVc3B6SzZxLWlvLXUyQ0R6d21ZZHl6V3ZqejJENm9UZUM5ME9qLWk2UXFMSVFmd2IzX1NMbHBOVGp0Sk52ZVhTUTc1TndlSmpKWGg1RmJnWW5BNThBeXVSRm1xOTRTNkNXblNlMURDQjUwWmhnQ3JPVjBB?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 06 Nov 2026 06:11:03 GMT"
+        "pubDate": "Fri, 06 Nov 2026 08:31:42 GMT"
       }
     ]
   }
