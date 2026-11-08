@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T06:24:48.389299+00:00",
+  "generatedAt": "2026-11-08T13:42:36.505398+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 75748,
-      "chg": -0.29
+      "price": 75882,
+      "chg": 0.03
     },
     "eth": {
-      "price": 2232.78,
-      "chg": -0.48
+      "price": 2237.13,
+      "chg": -0.19
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
+        "title": "Lower crude, global stability to drive market growth in new Samvat: ANMI President Kamlesh Shroff",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/lower-crude-global-stability-to-drive-market-growth-in-new-samvat-anmi-president-kamlesh-shroff/articleshow/135656109.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 08 Nov 2026 15:12:47 +0530"
+      },
+      {
+        "title": "Indian economy to grow faster, foreign capital returning to markets: NSE CEO Ashishkumar Chauhan",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-economy-to-grow-faster-foreign-capital-returning-to-markets-nse-ceo-ashishkumar-chauhan/articleshow/135656058.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 08 Nov 2026 15:10:45 +0530"
+      },
+      {
+        "title": "Muhurat trading: Sensex up 320 pts, Nifty crosses 25,100; Tata Steel, Sun Pharma among top gainers",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-sensex-up-320-pts-nifty-crosses-25100-tata-steel-sun-pharma-among-top-gainers/videoshow/135656015.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 08 Nov 2026 15:05:11 +0530"
+      },
+      {
         "title": "Diwali turned lucky for these 8 stocks! Investors' wealth more than doubled, returns soar up to 191%",
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-turned-lucky-for-these-8-stocks-investors-wealth-more-than-doubled-returns-soar-up-to-191/slideshow/135652712.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Sun, 08 Nov 2026 10:58:18 +0530"
       },
       {
-        "title": "Muhurat Trading 2026 Live Updates: Diwali Muhurat Trading 2026; check NSE, BSE and MCX timings, market outlook and key details",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/diwali-muhurat-trading-2026-live-date-time-sensex-nifty-50-stock-market-check-stocks-to-buy-nse-bse/liveblog/135652392.cms",
+        "title": "Muhurat Trading 2026 Highlights | Closing Bell: Sensex ends Muhurat Trading marginally lower, Nifty below 25,000; Divi's Labs surges 7%",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/diwali-muhurat-trading-2026-live-date-time-sensex-nifty-50-stock-market-check-stocks-to-buy-nse-bse/liveblog/135652392.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Sun, 08 Nov 2026 10:55:03 +0530"
       },
       {
-        "title": "Cipla Share Price Live Updates: Cipla's Recent Trading Activity",
+        "title": "Cipla Share Price Highlights: Cipla Stock Price History",
         "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-livestock-price-today-live-updates-08-nov-2026/liveblog/135651441.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Sun, 08 Nov 2026 10:03:33 +0530"
       },
       {
-        "title": "​Market Trading Guide: ITC, ICICI Bank among 5 stock recommendations for Muhurat trading session",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-itc-icici-bank-among-5-stock-recommendations-for-muhurat-trading-session/slideshow/135651235.cms",
+        "title": "LTIMindtree Share Price Highlights: LTIMindtree Stock Price History",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ltimindtree-share-price-today-live-08-nov-2026/liveblog/135651420.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 08 Nov 2026 09:39:18 +0530"
+        "pubDate": "Sun, 08 Nov 2026 10:02:42 +0530"
       },
       {
-        "title": "SBI Life Share Price Live Updates: SBI Life's Stock Update",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sbi-life-stock-price-today-live-08-nov-2026/liveblog/135650295.cms",
+        "title": "Bajaj Auto Share Price Highlights: Bajaj Auto Stock Price History",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bajaj-auto-share-price-today-live-updates-08-nov-2026/liveblog/135651405.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 08 Nov 2026 09:00:05 +0530"
+        "pubDate": "Sun, 08 Nov 2026 10:02:29 +0530"
       },
       {
-        "title": "Tech Mahindra Share Price Live Updates: Tech Mahindra's Current Market Position",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-stock-price-livestock-price-today-live-updates-08-nov-2026/liveblog/135650166.cms",
+        "title": "Tata Steel Share Price Highlights: Tata Steel Stock Price History",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-steel-stock-price-today-live-08-nov-2026/liveblog/135651372.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 08 Nov 2026 08:40:33 +0530"
+        "pubDate": "Sun, 08 Nov 2026 10:01:25 +0530"
       },
       {
-        "title": "L&amp;T Share Price Live Updates: L&amp;T's Recent Stock Performance",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/lt-share-price-today-live-updates-08-nov-2026/liveblog/135650111.cms",
+        "title": "Bharti Airtel Share Price Highlights: Bharti Airtel Stock Price History",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-stock-price-livestock-price-today-live-updates-08-nov-2026/liveblog/135651362.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 08 Nov 2026 08:35:06 +0530"
-      },
-      {
-        "title": "Sun Pharma Share Price Live Updates: Sun Pharma's Current Trading Status",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-today-live-08-nov-2026/liveblog/135650076.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sun, 08 Nov 2026 08:31:56 +0530"
-      },
-      {
-        "title": "Nestle India Share Price Live Updates: Nestle India Current Price Update",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-live-updates-08-nov-2026/liveblog/135650054.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sun, 08 Nov 2026 08:31:07 +0530"
-      },
-      {
-        "title": "M&amp;M Share Price Live Updates: M&amp;M Stock Price Rises Sharply",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-share-price-live-08-nov-2026/liveblog/135650050.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sun, 08 Nov 2026 08:30:54 +0530"
+        "pubDate": "Sun, 08 Nov 2026 10:00:59 +0530"
       }
     ],
     "acct": [
@@ -175,16 +175,10 @@
         "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "ICAI Releases Updated GST Handbook on Liability of Directors, Partners, Business Transferees and Legal Heirs under Sections 85–94 of CGST Act - A2Z Taxcorp LLP",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZ21IR2tYcFYxN0k0VlFUa2pERG1hNV9rYmtyRUdRY3VXM0JXZnNsTmR0cDh1M3VZTTBjdUtNSVpIdzh5M1JCQkttYkpjU1dSQ0hzSkVEQ0ZGYW9waDB1NWdfYnF0Q0Qyejg1enRxTFRyREJDZGNQNnpSMGVvTmNfSEt0YTlhWUlsQ3FYaXY2Sk5EOUdtcnVNd3ZzeTVZSUZDazUtZHMtX0dMbWpnX3BQSGh6S2ZOekxFeU5Zbjh5alZma016UENfMzVvcEJ5ZFlwTk5xbTdyWjI5S3VBWlFZZFVvTG83ZDlPSF8ySVIxek5sLUZPcWc?oc=5",
+        "title": "Canadian Securities Administrators finalize amendments to National Instrument 52-112 to address IFRS 18 - Dentons",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYVc1VnZyUlN6bXZmYWZOZ1VNaDFBRVFudkp1ZDR2NGpuSHllUjZwYmdHRW81OXhVWmNuaW9oakhsM0xOSTF1cjdZZ1RKQ2I4RXRXSE5IYjNEVkttRnZyVUo5OUxiSjBKZV9TTkVuVTZlb3FLUzFkYlFrdkdmWTdoVW5SeTR0SEd1Zk5pb2hha3NDcGJtd0d5NWd2V1NRUWpob0RnTG56RFZNNFFILWFBNGJlTQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sat, 07 Nov 2026 10:13:18 GMT"
-      },
-      {
-        "title": "ICAI declares September CA Foundation results; 18.93% candidates clear exam - Nagpur Today",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLWxGQTdob0htQnk3U2NDS3ZONk0yZWJkTEFUbzFSd19SekUzNnBKTlVYU2JjRlBCNEtfQnJtUUM5eVhWdEd3ajg0UHRvVmRncWVsa195cVZjbF9pd241d1ZuMF9VSUxVaTRJYTZ0eWZLZEtxc0N2b2t4MGRhb1hrWjdBc1pmNV94OXdlc1NXQ090T3hYS3hXWnA0SFA5U3pwU2M0?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sat, 07 Nov 2026 08:42:04 GMT"
+        "pubDate": "Fri, 06 Nov 2026 15:16:50 GMT"
       },
       {
         "title": "ICAI CA foundation September 2026 results out; 18.93% pass - Careers360",
@@ -199,16 +193,22 @@
         "pubDate": "Fri, 06 Nov 2026 05:01:00 GMT"
       },
       {
-        "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - Wolters Kluwer",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlIzUGljQXNlVm4xZ2R0ZFhITUtjQmNINmswSXA0R3lSeWtJZHI0MmRvR2l0ZDRJRUpiWFdSX1c0aFMyaVl2bWhNbHJxWGJTTUM5TTd5ZWxMX0lNMEp1Q3YzS2JZSDFnbWRkX3pvbnRFZTd0ZUx3ZTVmMjhhaHBqU1BGYjdMYXdBM2ZBWS1FVUkzVFF1aFEw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
-      },
-      {
         "title": "ICAI CA Foundation September 2026 Result: Kansika, Mahek Gupta top with 90.25%; 19,736 pass - The Indian Express",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWTl2ZHZiRmlvYTFzMExNQUlVY3pUNF9UM3NiZmI1WFM1UEw0eTc3TDN0dlJFVHZuY3JsbGhkZjJjSm5CRndQNWxGMks0aFdZWndGTWRhYjNHZWxMaWNDVENEcnhVZl9uQjBuenF4VllMbUc1N29uMVFPWWliNTEyYkd5cGJRODVGWGZTcDFlWXl4ekpiY281THZSZ2JldzZuYllOa2VxeW9JUlB4OV9XMEJNd3oteDVDMW41bjJNQm9STm9EZG5n0gHOAUFVX3lxTFA3TU1xd2phZ2hvUlRZYkRxenBjTWwyWXJPZlU4cHB6d2oxRFVibkxOcnhKcnpLTG9zd0pjMm9pdW9rMmtEWTRlZTA3ZzJhZ3otTGVfcjdjOEQzb3lVc3B6SzZxLWlvLXUyQ0R6d21ZZHl6V3ZqejJENm9UZUM5ME9qLWk2UXFMSVFmd2IzX1NMbHBOVGp0Sk52ZVhTUTc1TndlSmpKWGg1RmJnWW5BNThBeXVSRm1xOTRTNkNXblNlMURDQjUwWmhnQ3JPVjBB?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 06 Nov 2026 08:31:42 GMT"
+      },
+      {
+        "title": "ICAI CA Foundation September 2026 Toppers List Out: Kansika and Mahek Gupta Secure AIR 1; Check Mark - Shiksha.com",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONTQ1TU9pRUJZaU9zcXpJcEMycEd1WXItQnFuNzlnVWRoQmNoQU9QazkwRVQ2RzJZRW5XZEUtZDJIRDJNbHhVTjBpczByQS0xMHFJTmN3VTBEU3dpNUlSUE53cFFqN3pPcFB6SzMtMWotR1hVWFZtMjYxcWVMb3R4RWM1aDV5bGxPaDktU29nX2NUcWZqSnN0b0lmWmFEZVlqUFVubjliUlZEcDhHdjZpWERCR1VwdWF2YnBIOGZsa0ZUaGx4VE55Nm9kNEFtNkx6VzgwZm4xVVBlTFdUSXJVSXI5RVdLR1FILXhpWmc0YUxCdURJc3NldVkxT0dtYmlPT0Rv?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 06 Nov 2026 06:11:03 GMT"
+      },
+      {
+        "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - Wolters Kluwer",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlIzUGljQXNlVm4xZ2R0ZFhITUtjQmNINmswSXA0R3lSeWtJZHI0MmRvR2l0ZDRJRUpiWFdSX1c0aFMyaVl2bWhNbHJxWGJTTUM5TTd5ZWxMX0lNMEp1Q3YzS2JZSDFnbWRkX3pvbnRFZTd0ZUx3ZTVmMjhhaHBqU1BGYjdMYXdBM2ZBWS1FVUkzVFF1aFEw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
       }
     ]
   }
