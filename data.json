@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T02:14:09.183273+00:00",
+  "generatedAt": "2026-11-09T09:59:15.560003+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 75166,
-      "chg": -0.62
+      "price": 74256,
+      "chg": -2.1
     },
     "eth": {
-      "price": 2143.92,
-      "chg": -3.87
+      "price": 2108.43,
+      "chg": -5.64
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
-        "title": "US dollar holds onto payrolls gains, NZ dollar rises after election",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-holds-onto-payrolls-gains-nz-dollar-rises-after-election/articleshow/135667774.cms",
+        "title": "MakeMyTrip's India arm gets Sebi nod to float IPO",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/makemytrips-india-arm-gets-sebi-nod-to-float-ipo/articleshow/135675673.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 09 Nov 2026 06:57:32 +0530"
+        "pubDate": "Mon, 09 Nov 2026 13:42:31 +0530"
       },
       {
-        "title": "Oil falls on open as Trump says fresh Iran attacks 'unlikely'",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-on-open-as-trump-says-fresh-iran-attacks-unlikely/articleshow/135667470.cms",
+        "title": "Indian bonds drift with oil; inflation data in focus",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-drift-with-oil-inflation-data-in-focus/articleshow/135674915.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 09 Nov 2026 06:38:45 +0530"
+        "pubDate": "Mon, 09 Nov 2026 13:03:21 +0530"
       },
       {
-        "title": "BoE’s Pill sees scope for interest rate cuts if UK growth stalls",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/boes-pill-sees-scope-for-interest-rate-cuts-if-uk-growth-stalls/articleshow/135667381.cms",
+        "title": "Explained: Why Nvidia shares dropped 4% in overnight trade and what analysts warn can trigger a bloodbath?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-nvidia-shares-dropped-4-in-overnight-trade-and-what-analysts-warn-can-trigger-a-bloodbath/articleshow/135674705.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 09 Nov 2026 06:36:09 +0530"
+        "pubDate": "Mon, 09 Nov 2026 13:00:59 +0530"
       },
       {
-        "title": "Gold edges up as softer crude tempers inflation concerns",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-up-as-softer-crude-tempers-inflation-concerns/articleshow/135667365.cms",
+        "title": "Nvidia stock in focus: 3 key risks after Jensen Huang probe",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-in-focus-3-key-risks-after-jensen-huang-probe/slideshow/135674350.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 09 Nov 2026 06:31:40 +0530"
+        "pubDate": "Mon, 09 Nov 2026 12:13:18 +0530"
       },
       {
-        "title": "Global Market Today: Asian stocks open mostly higher, Nvidia probe looms",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-open-mostly-higher-nvidia-probe-looms/articleshow/135667316.cms",
+        "title": "Nuvama Wealth Management Q2 Results: Profit rises 19% YoY to Rs 304 crore",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nuvama-wealth-management-q2-results-profit-rises-19-yoy-to-rs-304-crore/articleshow/135673703.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 09 Nov 2026 06:26:21 +0530"
+        "pubDate": "Mon, 09 Nov 2026 12:09:56 +0530"
       },
       {
-        "title": "Lower crude, global stability to drive market growth in new Samvat: ANMI President Kamlesh Shroff",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/lower-crude-global-stability-to-drive-market-growth-in-new-samvat-anmi-president-kamlesh-shroff/articleshow/135656109.cms",
+        "title": "Global Markets: 5 key themes to watch this week",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-5-key-themes-to-watch-this-week/slideshow/135673587.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 08 Nov 2026 15:12:47 +0530"
+        "pubDate": "Mon, 09 Nov 2026 11:44:18 +0530"
       },
       {
-        "title": "Indian economy to grow faster, foreign capital returning to markets: NSE CEO Ashishkumar Chauhan",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-economy-to-grow-faster-foreign-capital-returning-to-markets-nse-ceo-ashishkumar-chauhan/articleshow/135656058.cms",
+        "title": "Nvidia falls about 3% in after-hours and perpetual futures trade",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-falls-about-3-in-after-hours-and-perpetual-futures-trade/articleshow/135671212.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 08 Nov 2026 15:10:45 +0530"
+        "pubDate": "Mon, 09 Nov 2026 10:20:48 +0530"
       },
       {
-        "title": "Muhurat trading: Sensex up 320 pts, Nifty crosses 25,100; Tata Steel, Sun Pharma among top gainers",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/muhurat-trading-sensex-up-320-pts-nifty-crosses-25100-tata-steel-sun-pharma-among-top-gainers/videoshow/135656015.cms",
+        "title": "Citi bullish on Indian equities, sees Nifty at 28,000 by end-2027",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/citi-bullish-on-indian-equities-sees-nifty-at-28000-by-end-2027/articleshow/135671094.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 08 Nov 2026 15:05:11 +0530"
+        "pubDate": "Mon, 09 Nov 2026 10:15:45 +0530"
       },
       {
-        "title": "Diwali turned lucky for these 8 stocks! Investors' wealth more than doubled, returns soar up to 191%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-turned-lucky-for-these-8-stocks-investors-wealth-more-than-doubled-returns-soar-up-to-191/slideshow/135652712.cms",
+        "title": "Coal India Share Price Live Updates: Coal India Experiences Small Price Rise",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-stock-price-today-live-09-nov-2026/liveblog/135671037.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 08 Nov 2026 10:58:18 +0530"
+        "pubDate": "Mon, 09 Nov 2026 10:06:43 +0530"
       },
       {
-        "title": "Muhurat Trading 2026 Highlights | Closing Bell: Sensex ends Muhurat Trading marginally lower, Nifty below 25,000; Divi's Labs surges 7%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/diwali-muhurat-trading-2026-live-date-time-sensex-nifty-50-stock-market-check-stocks-to-buy-nse-bse/liveblog/135652392.cms",
+        "title": "BPCL Share Price Live Updates: BPCL Price Movement Analysis",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-share-price-live-09-nov-2026/liveblog/135670950.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sun, 08 Nov 2026 10:55:03 +0530"
+        "pubDate": "Mon, 09 Nov 2026 10:03:09 +0530"
       }
     ],
     "acct": [
@@ -161,12 +161,6 @@
         "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQcXY2ZTNDWXN6LWtUdW4tOVpYQWlkTVkzdG5mTEJiU0N2VWxKQ1FWcG5uVjc0dS0zU2E5TjI0d25DSGZiWTVvTVVBTGtRN0dDTGdpX0ZpTl9lOWhWWWtzdXJJbjRzXzVzUmozUnd6cEVVektNSDVobzhrRW5nbWFERTBfa1V0NXo3ZEFaT1RuNkFXQU5fRy14WVRaanN0SFhfbkxHWEhTbmd2YWg5VE9lM3VudHljZ1BES1IxcjBGbHFxYzhtR3dGUUxTSGpwMXh0dWdLRUpKVkkxYmctZnRrT2F2TnFPSHpDRUZydnlRSFVtTGlHZ0p4LUIwMng0bHprXy1MM2dSN3RmSFZTdktNTUVnUjM3UdIBmwJBVV95cUxPMmJqMWx3ckp3b29GV0g2ZFlRZmc4c0YwQVNmcmNVdXlaTUhLSmZaLXFucDN2c091WjItZU9MaTV6cDd4NHhvU2otazR6SDRqZTRETkdyaXlpSXRlTTNCaFFleTlRSFZjXzMyUlJCOXlhUGVWUTlFLUQwUGg0Nms3SFN0cFlJTmdCVklneVE3empTWkRwWHZaV1lCUmdncktjYURBWTBMMXBERi16TkExWnF5Z3hGUWZzQ3NMYkJPdUhGeVNvZlZPcFRGZFd4bmtITlBDYmRBQ1BhcWpGS2Z2aEV2eTRROVhZMGtZZ3ZGMDlCT29mdU5hYU1femlQQlBKNUtZU2NzYmtvOHFMWmVaaUJCR3BiVDMxMS1F?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 06 Nov 2026 05:18:00 GMT"
-      },
-      {
-        "title": "ICAI CA January 2026 Registrations Ongoing for Foundation & Intermediate Exam at eservices.icai.org - Shiksha.com",
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZE5XaV92V3ZGRnMycHdJZl9RTnhGYXJncmlnWlNkaEQ1V0J0b0xuS1dvNmdxMHgwcll6VE5mVHR2bkRnSFRSQkpmYlFyaWFfT3dTVW0wdDNYWWctTEJLX1NXWmRrSXR0N1BBRFVTbkhzeDdrX0FFbDBza09NTWFzUUpfeDNRV29lMTNhWVR2Ri1EVFJYV2J5bUVmRHlXQUNpY1M5dVJqUlplSXBCdnhBaWVTbkhCaXRtejZ6MlAtV0ZQYy1sdHU1akpDUjVwSFJYOGxCbTYtLU0xZTlrTUJlNjUwcl81QnFkUE1WdFBLb0RFLVRVUHdOV0JDUncyZ3NyWGQ4QWJNZw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sun, 08 Nov 2026 06:08:27 GMT"
       },
       {
         "title": "ICAI CA Foundation September 2026 result: Kansika, Mahek Gupta share AIR 1 with 361 marks - Deccan Herald",
@@ -193,22 +187,28 @@
         "pubDate": "Sat, 07 Nov 2026 10:13:18 GMT"
       },
       {
-        "title": "CMSGICL H1 profit falls to Rs 8 crore; Ind AS loss Rs 64.32 crore - Multibagg AI",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGJ0cnpZSzBWTjhSc01FRWRYYzc2LW83ZllVOTcxZTcyYWZuRHNrdE1ZSE54N09xVVU4aVo1OVgxTm55Q1pFQlBzWDRZR2ZaWlg2MWJCYUFCWTMtV0hhSDdYRHBZU3ZSa0NhZ1h2VzVDMXF3NlUtM00xbU9CeS0zYlFGTllaME9ncXVsQWNoMVNXaC0yR3VRektBV2NvanVIRVNkbEk3eEg4b2NabW91WFN6MTk?oc=5",
+        "title": "ICAI CA foundation September 2026 results out; 18.93% pass - Careers360",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNb1pBSzg5djRFWjd1MVdqZDJkZGVldGRtaWk3d3hQMUxuMlh0c3hKNHRMUS1zV2FZTmotNzU0UUV2bFZRUFljVDB6X0JYVUt3RzE5ZEQ0Zy1QcHNIb1VzR2hRZ0dDWHU3bUl1enRsbEphZF9Fa0U4R050aGFtTFpGeC1WcmY1UEdCTHgxTnNvbTRHQlpRUVVDN1JQX3k4NjNKZXlMMHBzMUNqb0M3ZEgzY1liVnlQdjdTNjlUV0xZLW44RTE1em1xX180dXpCQVNwUGRPWnRMRjBtNkJheHFoVtIB5gFBVV95cUxPa2F0d3lZZzBvcDI4QkNvWTFmTnhPLXQ2aDZfaG1lcWEyVHg0UDNlOG9nNlR3czhpdTliX1llWXpaM041N2RGTkxfVm9KXzdfTTRYemxXZVByTlpjT2Yyc3FZblV6YUE4Q0tsejhhM29OaGVIVS0wWW1lRjFxeEdNc21BLVExYlU1eWtuaUNBZ0N1SmRfZE1Scm1tN2hNdFBhRzFkUnJVYkRlV19TajlCYm45cVVsak15VG0xaUgtMUREbmI2UjZ4WEtjcTBPaDQ0UkduY3dFQUFMbFE0NmhZWW9PWVlqZw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 06 Nov 2026 08:51:22 GMT"
+        "pubDate": "Fri, 06 Nov 2026 05:08:28 GMT"
       },
       {
-        "title": "ICAI declares September CA Foundation results; 18.93% candidates clear exam - Nagpur Today",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLWxGQTdob0htQnk3U2NDS3ZONk0yZWJkTEFUbzFSd19SekUzNnBKTlVYU2JjRlBCNEtfQnJtUUM5eVhWdEd3ajg0UHRvVmRncWVsa195cVZjbF9pd241d1ZuMF9VSUxVaTRJYTZ0eWZLZEtxc0N2b2t4MGRhb1hrWjdBc1pmNV94OXdlc1NXQ090T3hYS3hXWnA0SFA5U3pwU2M0?oc=5",
+        "title": "ICAI CA Foundation September 2026 Result Date: When and from where to check results - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcnRIaUhmYVhSd0J4ZEV5dXJnNXhtdWF5Z2RCQmgyOU9DWk82bFpTM2VubXRkaEVULVhsUU9US1BqWWNFbVNCekp6bFo0OS1XenByS3VpWV9yTi14ZE16TTZ2cU1VUjJ1TlhkbDJ2MW5Zc1UzeEU1ZTBWUDRtVlFuM2dySTEtXzhMQU1neU4xSmJXOV9PYTgwRHJRd0NYUTRnMnpxWEtoRDhzV1V2cWktRkdfNThpdi1fRlp3Q3dyUmJoSllKZllqWElXVFVKMEluV1VhYTdOOGtmci1q0gHjAUFVX3lxTE9DMmd4UDRrQkNTNUhhNkVoQU9OMDkxYi00TUY2c0hLU0xiN1pweUtGT0JFTEN0b0FObFAzU05GX0NKSHVuSGZ5V21fNWNzVGF5WUs0WWs4Q1BoUVdQU0ZONERmS25HVmRUWUVsRjJ6aTRFemIyXzY3MFhJbWZOMjg4NnVscWVZQXdHREFlN0FpNGFqS0ZSM1huTUhMd2ZyRFZKaF9QdDdQN1RsSUFxY2VvaHpNWXpzUHVycDJQaVdEQ1gya3NNdWJDdm9XTHhJYlh1NEhwblE2dVljVUdhZDI4d05r?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sat, 07 Nov 2026 08:42:04 GMT"
+        "pubDate": "Fri, 06 Nov 2026 05:01:00 GMT"
       },
       {
-        "title": "KPMG in Qatar marks 26 years of its Annual IFRS Update Workshop - Zawya",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUTZQbk9yN0lnNjEyMnFlVVlqM21QSXczQXBPLVQ2WVhIRFczcTZSUDJJWUhFNjNWZTRrcVdrckZ4RDBDUWN3bkdwWG5pZmtmdE8ydFNJRGxZWGtlY2lUQ29XRDc3Y1ZPX2tBV1lxSnR4T0JHaldjeC1MSEdvdDFBQ1VZMEs3R2xOVWYxN2hGWE9hN0oycmtVeEdMN1VFTWUyVGFKaWR5bTRiYlpoVmVCVWpCcGNCUU1ORVhtczNfYkg4MGlhWjc0QQ?oc=5",
+        "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - Wolters Kluwer",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlIzUGljQXNlVm4xZ2R0ZFhITUtjQmNINmswSXA0R3lSeWtJZHI0MmRvR2l0ZDRJRUpiWFdSX1c0aFMyaVl2bWhNbHJxWGJTTUM5TTd5ZWxMX0lNMEp1Q3YzS2JZSDFnbWRkX3pvbnRFZTd0ZUx3ZTVmMjhhaHBqU1BGYjdMYXdBM2ZBWS1FVUkzVFF1aFEw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sun, 08 Nov 2026 14:26:00 GMT"
+        "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "ICAI CA Foundation September 2026 Result: Kansika, Mahek Gupta top with 90.25%; 19,736 pass - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWTl2ZHZiRmlvYTFzMExNQUlVY3pUNF9UM3NiZmI1WFM1UEw0eTc3TDN0dlJFVHZuY3JsbGhkZjJjSm5CRndQNWxGMks0aFdZWndGTWRhYjNHZWxMaWNDVENEcnhVZl9uQjBuenF4VllMbUc1N29uMVFPWWliNTEyYkd5cGJRODVGWGZTcDFlWXl4ekpiY281THZSZ2JldzZuYllOa2VxeW9JUlB4OV9XMEJNd3oteDVDMW41bjJNQm9STm9EZG5n0gHOAUFVX3lxTFA3TU1xd2phZ2hvUlRZYkRxenBjTWwyWXJPZlU4cHB6d2oxRFVibkxOcnhKcnpLTG9zd0pjMm9pdW9rMmtEWTRlZTA3ZzJhZ3otTGVfcjdjOEQzb3lVc3B6SzZxLWlvLXUyQ0R6d21ZZHl6V3ZqejJENm9UZUM5ME9qLWk2UXFMSVFmd2IzX1NMbHBOVGp0Sk52ZVhTUTc1TndlSmpKWGg1RmJnWW5BNThBeXVSRm1xOTRTNkNXblNlMURDQjUwWmhnQ3JPVjBB?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 06 Nov 2026 08:31:42 GMT"
       }
     ]
   }
