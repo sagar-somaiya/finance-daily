@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T23:36:25.902403+00:00",
+  "generatedAt": "2026-11-11T03:48:24.616759+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,81 +72,81 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 73609,
-      "chg": -2.04
+      "price": 73668,
+      "chg": -1.04
     },
     "eth": {
-      "price": 2047.8,
-      "chg": -3.85
+      "price": 2060.1,
+      "chg": -2.38
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 93.93,
-    "eurinr": 105.25,
-    "gbpinr": 126.13
+    "usdinr": 93.96,
+    "eurinr": 105.1,
+    "gbpinr": 125.58
   },
   "news": {
     "corp": [
+      {
+        "title": "India’s rich pivot to real estate after stock returns falter",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-rich-pivot-to-real-estate-after-stock-returns-falter/articleshow/135723008.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 11 Nov 2026 08:04:49 +0530"
+      },
+      {
+        "title": "Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-from-two-month-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes/articleshow/135722819.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 11 Nov 2026 07:39:13 +0530"
+      },
+      {
+        "title": "Stock Market Live Updates: GIFT Nifty signals a muted start; Asian shares trade higher",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-mrf-coal-india-share-price-11-november-2026/liveblog/135722695.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 11 Nov 2026 07:16:12 +0530"
+      },
+      {
+        "title": "Gold holds near one-week low as hot US inflation boosts Fed hike bets",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-near-one-week-low-as-hot-us-inflation-boosts-fed-hike-bets/articleshow/135722357.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 11 Nov 2026 07:01:41 +0530"
+      },
+      {
+        "title": "Dollar gains traction as Fed speakers warn of risks from inflation",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-gains-traction-as-fed-speakers-warn-of-risks-from-inflation/articleshow/135722346.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 11 Nov 2026 06:55:13 +0530"
+      },
+      {
+        "title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/openai-posts-steep-losses-even-as-quarterly-revenue-rises-to-10-billion-wsj-reports/articleshow/135722331.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 11 Nov 2026 06:52:01 +0530"
+      },
+      {
+        "title": "Higher input costs drag MRF Q2 net profit down 23%",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/higher-input-costs-drag-mrf-q2-net-profit-down-23/articleshow/135722166.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 11 Nov 2026 06:30:09 +0530"
+      },
+      {
+        "title": "Global Market Today: Asian stocks rise on CoreWeave results, bonds drop",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-on-coreweave-results-bonds-drop/articleshow/135721939.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 11 Nov 2026 06:23:06 +0530"
+      },
+      {
+        "title": "Anthropic targets $90 billion IPO at $1.4 trillion valuation",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-targets-90-billion-ipo-at-1-4-trillion-valuation/articleshow/135721872.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 11 Nov 2026 05:57:03 +0530"
+      },
       {
         "title": "US stocks: US market falls as hot inflation, hawkish Fed fuel rate-hike fears",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries/articleshow/135719918.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Wed, 11 Nov 2026 02:45:32 +0530"
-      },
-      {
-        "title": "US stocks: Five things to know about Anthropic",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-five-things-to-know-about-anthropic/articleshow/135718802.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 11 Nov 2026 00:23:44 +0530"
-      },
-      {
-        "title": "Chipmakers warn AI demand is creating bottlenecks in automotive supply chain",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/chipmakers-warn-ai-demand-is-creating-bottlenecks-in-automotive-supply-chain/articleshow/135718403.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 10 Nov 2026 23:55:20 +0530"
-      },
-      {
-        "title": "US Fed's Logan calls for two more rate hikes, possibly rapidly",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-feds-logan-calls-for-two-more-rate-hikes-possibly-rapidly/articleshow/135718142.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 10 Nov 2026 23:35:16 +0530"
-      },
-      {
-        "title": "Traders raise odds of 50 bps Fed rate hike as CPI rise exceeds expectations",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/traders-raise-odds-of-50-bps-fed-rate-hike-as-cpi-rise-exceeds-expectations/articleshow/135714586.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 10 Nov 2026 20:45:45 +0530"
-      },
-      {
-        "title": "US stocks: Dow Jones falls 200 points as hot inflation revives rate-hike fears; Nvidia sinks",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-after-octobers-hot-inflation-print/articleshow/135714411.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 10 Nov 2026 20:40:03 +0530"
-      },
-      {
-        "title": "Anthropic's potential mega IPO joins ranks of world's biggest stock market listings",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-potential-mega-ipo-joins-ranks-of-worlds-biggest-stock-market-listings/articleshow/135714028.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 10 Nov 2026 20:25:20 +0530"
-      },
-      {
-        "title": "TSMC to invest up to $1 billion in Anthropic, OpenAI",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/tsmc-to-invest-up-to-1-billion-in-anthropic-openai/articleshow/135713301.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 10 Nov 2026 19:52:30 +0530"
-      },
-      {
-        "title": "US consumer prices rise above expectations in October",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-consumer-prices-rise-above-expectations-in-october/articleshow/135712897.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 10 Nov 2026 19:31:53 +0530"
-      },
-      {
-        "title": "US market ends lower as hot inflation data, Fed comments heighten rate worries: Stock Market Highlights",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-anthropic-ipo-nvidia-intel-marvell-tech-ai-chip-stocks-inflation-fed-rate-hike-treasury-bond-yield-news-10th-november-2026/liveblog/135712173.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 10 Nov 2026 18:33:22 +0530"
       }
     ],
     "acct": [
@@ -163,16 +163,16 @@
         "pubDate": "Tue, 10 Nov 2026 15:22:03 GMT"
       },
       {
-        "title": "Irdai sets up working groups to align risk-based capital regime with Ind AS - Business Standard",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYkM4NmRidVhnankzOFE1X2ppWFU1cVB1bW1OaXI5QS05WTBGZUU3ZGZlRDh1d1laZXRfX1JYOTZLdVZLT3V3NEY3NjRrb3BsZjd4cG9XTG85NFFEZFl6ZnllSlU3RzBoR0NuNlJURGpheU9kaU10SUlDS2hnU1EtVnpEbTBGLUtKVDk5UkhlOWNyZ2p4LVZZX1ozUExYNGVxclV1WFQ4Z1kybHBza2Q0c0tqRXJITDF5TWxoSGF3czJhV1JsWlZFUktyN3k5ZFdCRFlyN3VkNS1SVFUyOGlUctIB5gFBVV95cUxNdGV4N2I4UHd0OUJob1dZaUczbnZ0djNUSUt3MlpjTW1mN3IxUWZMazJWcnpVXzVKVmhSaG5LQUxueUtKcFBDWDhaUm45dzlZWTlOcFNjTUVMYUpuN2xKZ09mNDE0dGE1Mm1sVlY4N0x2cDNPUXp6Y1EyZ0tSYmstdlpySFQwRzkyR0pmTXM3RTZfbnNIUlZZb3JZX0tQOVV1aXY2SXVzNDdtSU9lYWw4M2NpUkRpOGh5ZmNuUy11R0lVcDh1YzVLMTJBZVo5NjBYZ2ZpOGV6MVpWZ0lZQ3lmTlctNm0yZw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 10 Nov 2026 14:32:29 GMT"
-      },
-      {
         "title": "ICAI CA Foundation September 2026 toppers: Kansika, Mahek Gupta share AIR 1 with 90.25%; check list of to - The Times of India",
         "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQcXY2ZTNDWXN6LWtUdW4tOVpYQWlkTVkzdG5mTEJiU0N2VWxKQ1FWcG5uVjc0dS0zU2E5TjI0d25DSGZiWTVvTVVBTGtRN0dDTGdpX0ZpTl9lOWhWWWtzdXJJbjRzXzVzUmozUnd6cEVVektNSDVobzhrRW5nbWFERTBfa1V0NXo3ZEFaT1RuNkFXQU5fRy14WVRaanN0SFhfbkxHWEhTbmd2YWg5VE9lM3VudHljZ1BES1IxcjBGbHFxYzhtR3dGUUxTSGpwMXh0dWdLRUpKVkkxYmctZnRrT2F2TnFPSHpDRUZydnlRSFVtTGlHZ0p4LUIwMng0bHprXy1MM2dSN3RmSFZTdktNTUVnUjM3UdIBmwJBVV95cUxPMmJqMWx3ckp3b29GV0g2ZFlRZmc4c0YwQVNmcmNVdXlaTUhLSmZaLXFucDN2c091WjItZU9MaTV6cDd4NHhvU2otazR6SDRqZTRETkdyaXlpSXRlTTNCaFFleTlRSFZjXzMyUlJCOXlhUGVWUTlFLUQwUGg0Nms3SFN0cFlJTmdCVklneVE3empTWkRwWHZaV1lCUmdncktjYURBWTBMMXBERi16TkExWnF5Z3hGUWZzQ3NMYkJPdUhGeVNvZlZPcFRGZFd4bmtITlBDYmRBQ1BhcWpGS2Z2aEV2eTRROVhZMGtZZ3ZGMDlCT29mdU5hYU1femlQQlBKNUtZU2NzYmtvOHFMWmVaaUJCR3BiVDMxMS1F?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 06 Nov 2026 05:18:00 GMT"
+      },
+      {
+        "title": "Irdai sets up working groups to align risk-based capital regime with Ind AS - Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYkM4NmRidVhnankzOFE1X2ppWFU1cVB1bW1OaXI5QS05WTBGZUU3ZGZlRDh1d1laZXRfX1JYOTZLdVZLT3V3NEY3NjRrb3BsZjd4cG9XTG85NFFEZFl6ZnllSlU3RzBoR0NuNlJURGpheU9kaU10SUlDS2hnU1EtVnpEbTBGLUtKVDk5UkhlOWNyZ2p4LVZZX1ozUExYNGVxclV1WFQ4Z1kybHBza2Q0c0tqRXJITDF5TWxoSGF3czJhV1JsWlZFUktyN3k5ZFdCRFlyN3VkNS1SVFUyOGlUctIB5gFBVV95cUxNdGV4N2I4UHd0OUJob1dZaUczbnZ0djNUSUt3MlpjTW1mN3IxUWZMazJWcnpVXzVKVmhSaG5LQUxueUtKcFBDWDhaUm45dzlZWTlOcFNjTUVMYUpuN2xKZ09mNDE0dGE1Mm1sVlY4N0x2cDNPUXp6Y1EyZ0tSYmstdlpySFQwRzkyR0pmTXM3RTZfbnNIUlZZb3JZX0tQOVV1aXY2SXVzNDdtSU9lYWw4M2NpUkRpOGh5ZmNuUy11R0lVcDh1YzVLMTJBZVo5NjBYZ2ZpOGV6MVpWZ0lZQ3lmTlctNm0yZw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 10 Nov 2026 14:32:29 GMT"
       },
       {
         "title": "IFFCO Tokio General Insurance selects CCH Tagetik to support Ind AS 117 and Ind AS 116 compliance - Wolters Kluwer",
