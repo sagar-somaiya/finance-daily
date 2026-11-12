@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T01:36:21.709504+00:00",
+  "generatedAt": "2026-11-12T08:58:16.217927+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 73655,
-      "chg": -0.1
+      "price": 73537,
+      "chg": -0.18
     },
     "eth": {
-      "price": 2051.67,
-      "chg": -0.16
+      "price": 2048.49,
+      "chg": -0.41
     }
   },
   "fx": {
@@ -89,72 +89,72 @@
   "news": {
     "corp": [
       {
-        "title": "Bajaj Finance unveils share sale to raise up to $1.25 billion",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/bajaj-finance-unveils-share-sale-to-raise-up-to-1-25-billion/articleshow/135751856.cms",
+        "title": "Bloom Energy shares jump 13%: Can the AI power stock sustain its rally?",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bloom-energy-shares-jump-13-can-the-ai-power-stock-sustain-its-rally/slideshow/135760252.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 12 Nov 2026 06:51:48 +0530"
+        "pubDate": "Thu, 12 Nov 2026 12:38:20 +0530"
       },
       {
-        "title": "Gold slips as strong US inflation data bolsters dollar, Fed hike expectations",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slips-as-strong-us-inflation-data-bolsters-dollar-fed-hike-expectations/articleshow/135751745.cms",
+        "title": "Mahindra &amp; Mahindra among 5 stocks showing White Marubozu Pattern",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/mahindra-amp-mahindra-among-5-stocks-showing-white-marubozu-pattern/slideshow/135758580.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 12 Nov 2026 06:26:46 +0530"
+        "pubDate": "Thu, 12 Nov 2026 11:59:25 +0530"
       },
       {
-        "title": "Dollar near one-month high as yen edges toward 160",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-near-one-month-high-as-yen-edges-toward-160/articleshow/135751707.cms",
+        "title": "Indian bonds drift as US debt rout saps oil relief before CPI",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-drift-as-us-debt-rout-saps-oil-relief-before-cpi/articleshow/135758028.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 12 Nov 2026 06:19:16 +0530"
+        "pubDate": "Thu, 12 Nov 2026 11:46:58 +0530"
       },
       {
-        "title": "Yes Bank bondholders press for compliance with Supreme Court's AT-1 order",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/yes-bank-bondholders-press-for-compliance-with-supreme-courts-at-1-order/articleshow/135744450.cms",
+        "title": "FIIs are back! Jefferies lists 11 stocks that can be the biggest beneficiaries",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-are-back-jefferies-lists-11-stocks-that-can-be-the-biggest-beneficiaries/slideshow/135758277.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 11 Nov 2026 22:25:06 +0530"
+        "pubDate": "Thu, 12 Nov 2026 11:24:56 +0530"
       },
       {
-        "title": "Anthropic’s IPO is said to be multiple times oversubscribed",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-ipo-is-said-to-be-multiple-times-oversubscribed/articleshow/135743507.cms",
+        "title": "From SpaceX to Anthropic, markets have a new playbook for mega-share debuts",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-spacex-to-anthropic-markets-have-a-new-playbook-for-mega-share-debuts/articleshow/135756798.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 11 Nov 2026 21:55:21 +0530"
+        "pubDate": "Thu, 12 Nov 2026 11:05:33 +0530"
       },
       {
-        "title": "Market Trading Guide: Astra Microwave among 3 stock recommendations for Thursday",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-astra-microwave-among-3-stock-recommendations-for-thursday/slideshow/135742034.cms",
+        "title": "Vishal Mega Mart among 5 stocks showing RSI trending up",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/vishal-mega-mart-among-5-stocks-showing-rsi-trending-up/slideshow/135755604.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 11 Nov 2026 20:44:07 +0530"
+        "pubDate": "Thu, 12 Nov 2026 10:06:34 +0530"
       },
       {
-        "title": "US stocks: S&amp;P 500, Nasdaq rise as CoreWeave results ease AI spending concerns",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-as-coreweave-lifts-ai-trade/articleshow/135741336.cms",
+        "title": "Oil India among 6 stocks closing above VWAP",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/oil-india-among-6-stocks-closing-above-vwap/slideshow/135755140.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 11 Nov 2026 20:26:26 +0530"
+        "pubDate": "Thu, 12 Nov 2026 09:43:06 +0530"
       },
       {
-        "title": "Baird downgrades Nvidia on China curbs, AI demand worries",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/baird-downgrades-nvidia-on-china-curbs-ai-demand-worries/articleshow/135740853.cms",
+        "title": "Tech Mahindra Share Price Live Updates: Tech Mahindra's Current Market Position",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-share-price-today-live-updates-12-nov-2026/liveblog/135754851.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 11 Nov 2026 20:04:53 +0530"
+        "pubDate": "Thu, 12 Nov 2026 09:36:09 +0530"
       },
       {
-        "title": "EasyJet shareholders approve £5.7 billion Apollo takeover",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/easyjet-shareholders-approve-5-7-billion-apollo-takeover/articleshow/135740460.cms",
+        "title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Faces Slight Decline",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-today-live-12-nov-2026/liveblog/135754348.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 11 Nov 2026 19:46:04 +0530"
+        "pubDate": "Thu, 12 Nov 2026 09:15:24 +0530"
       },
       {
-        "title": "India to switch bonds worth 250 billion rupees next week",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/india-to-switch-bonds-worth-250-billion-rupees-next-week/articleshow/135740426.cms",
+        "title": "Dr Reddys Share Price Live Updates: Dr. Reddys Current Price Update",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-live-updates-12-nov-2026/liveblog/135754002.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 11 Nov 2026 19:43:38 +0530"
+        "pubDate": "Thu, 12 Nov 2026 09:06:31 +0530"
       }
     ],
     "acct": [
       {
-        "title": "IF: 23% lending growth; IFRS 5 NPL write-down drove a €67.3m reported loss - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRVlOVHZ3emdWQlpRcVFhZmFtcEo4REtLcDR6YnlEcndLbzZwSGIzQW1kdXo3NGtTUC14OTJXNk45MmVSbzdpNnplMTNFbmNZQ2gwdXlNMHM4WXdiUWNYeC0xWFJHcUN2V2ZHbmk2Y3prZTFtdy1qSWE3dVJPb1ZMZXVsUmx0S180UmE4M3pVc3JfZ1NfRmxFY2N0THdiakh2bExnWUZaVWE1TFRpaXNveENzRkcwY2cxeENYWlJ2bUtOb3N3WVJhMmdWcmZHN2pTcnVRVEVaT2hfaFVlOWpaX04yekRpQzYt?oc=5",
+        "title": "The Works Expects Pre-IFRS 16 Adjusted EBITDA For Current Financial Year To Be Ahead Of Market Expectations - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPT241RWpvc3FpM1ZrM0VuT0Y1SHhUWDI1SEpVUllrY2pWX3dGeU1RMGFPX0w3eHUzbmN2SVFTWjlPOUJXdFN4eFZFSVNVOHhERUJIU250N05kUGc2ZmRwdUQ5OE5nRm5LT19WTy01ZEQ4ZmlONmJHdnNhZmdfSi1rbUYxS0pGMnQ4S3MxU3FKODNjRFJRZWg1eUpFZDlyV1VzdkRMc1plZG1SM0piVmVvaXdrbFhZZnJ6elBoaG1GR0h3aEZCRmdsV2dTUkwzQ2pIaEJVN0lsOFhsalc1WkdVWkJKcHdPNndoZERyNFVlYW96SjV3VXl5UkFLWWJGZUR6dU4xZDZIZ0Y?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 11 Nov 2026 13:04:47 GMT"
+        "pubDate": "Thu, 12 Nov 2026 08:21:13 GMT"
       },
       {
         "title": "IFFCO Tokio General Insurance selects CCH Tagetik to support Ind AS 117 and Ind AS 116 compliance - Wolters Kluwer",
@@ -169,28 +169,22 @@
         "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT"
       },
       {
-        "title": "Irdai sets up working groups to align risk-based capital regime with Ind AS - Business Standard",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYkM4NmRidVhnankzOFE1X2ppWFU1cVB1bW1OaXI5QS05WTBGZUU3ZGZlRDh1d1laZXRfX1JYOTZLdVZLT3V3NEY3NjRrb3BsZjd4cG9XTG85NFFEZFl6ZnllSlU3RzBoR0NuNlJURGpheU9kaU10SUlDS2hnU1EtVnpEbTBGLUtKVDk5UkhlOWNyZ2p4LVZZX1ozUExYNGVxclV1WFQ4Z1kybHBza2Q0c0tqRXJITDF5TWxoSGF3czJhV1JsWlZFUktyN3k5ZFdCRFlyN3VkNS1SVFUyOGlUctIB5gFBVV95cUxNdGV4N2I4UHd0OUJob1dZaUczbnZ0djNUSUt3MlpjTW1mN3IxUWZMazJWcnpVXzVKVmhSaG5LQUxueUtKcFBDWDhaUm45dzlZWTlOcFNjTUVMYUpuN2xKZ09mNDE0dGE1Mm1sVlY4N0x2cDNPUXp6Y1EyZ0tSYmstdlpySFQwRzkyR0pmTXM3RTZfbnNIUlZZb3JZX0tQOVV1aXY2SXVzNDdtSU9lYWw4M2NpUkRpOGh5ZmNuUy11R0lVcDh1YzVLMTJBZVo5NjBYZ2ZpOGV6MVpWZ0lZQ3lmTlctNm0yZw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 10 Nov 2026 14:32:29 GMT"
-      },
-      {
         "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFhGX19mVjU0d0pwWWhNRndFUjliUTNFXzMtbFB1aXVETlZMdXk2aU9mOXFfUU1CYUZNY211QUVFNmYwbERsOWtrM0p0ZVhHSnJFQlY4OFpGb1JkOEFGeGFGMTA3Mzdrc2kycVM1TDhuV0pmRG5SME4tUXNhdTRTcWs1WXhWVWtFanBYTVBNemt2b0dLbjhwZW9nRjB3UUY3OU5TbUxRWQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 10 Jul 2026 14:35:46 GMT"
       },
       {
-        "title": "ICAI CA Foundation September 2026 Result Date: When and from where to check results - The Indian Express",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcnRIaUhmYVhSd0J4ZEV5dXJnNXhtdWF5Z2RCQmgyOU9DWk82bFpTM2VubXRkaEVULVhsUU9US1BqWWNFbVNCekp6bFo0OS1XenByS3VpWV9yTi14ZE16TTZ2cU1VUjJ1TlhkbDJ2MW5Zc1UzeEU1ZTBWUDRtVlFuM2dySTEtXzhMQU1neU4xSmJXOV9PYTgwRHJRd0NYUTRnMnpxWEtoRDhzV1V2cWktRkdfNThpdi1fRlp3Q3dyUmJoSllKZllqWElXVFVKMEluV1VhYTdOOGtmci1q0gHjAUFVX3lxTE9DMmd4UDRrQkNTNUhhNkVoQU9OMDkxYi00TUY2c0hLU0xiN1pweUtGT0JFTEN0b0FObFAzU05GX0NKSHVuSGZ5V21fNWNzVGF5WUs0WWs4Q1BoUVdQU0ZONERmS25HVmRUWUVsRjJ6aTRFemIyXzY3MFhJbWZOMjg4NnVscWVZQXdHREFlN0FpNGFqS0ZSM1huTUhMd2ZyRFZKaF9QdDdQN1RsSUFxY2VvaHpNWXpzUHVycDJQaVdEQ1gya3NNdWJDdm9XTHhJYlh1NEhwblE2dVljVUdhZDI4d05r?oc=5",
+        "title": "Irdai sets up working groups to align risk-based capital regime with Ind AS - Business Standard",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYkM4NmRidVhnankzOFE1X2ppWFU1cVB1bW1OaXI5QS05WTBGZUU3ZGZlRDh1d1laZXRfX1JYOTZLdVZLT3V3NEY3NjRrb3BsZjd4cG9XTG85NFFEZFl6ZnllSlU3RzBoR0NuNlJURGpheU9kaU10SUlDS2hnU1EtVnpEbTBGLUtKVDk5UkhlOWNyZ2p4LVZZX1ozUExYNGVxclV1WFQ4Z1kybHBza2Q0c0tqRXJITDF5TWxoSGF3czJhV1JsWlZFUktyN3k5ZFdCRFlyN3VkNS1SVFUyOGlUctIB5gFBVV95cUxNdGV4N2I4UHd0OUJob1dZaUczbnZ0djNUSUt3MlpjTW1mN3IxUWZMazJWcnpVXzVKVmhSaG5LQUxueUtKcFBDWDhaUm45dzlZWTlOcFNjTUVMYUpuN2xKZ09mNDE0dGE1Mm1sVlY4N0x2cDNPUXp6Y1EyZ0tSYmstdlpySFQwRzkyR0pmTXM3RTZfbnNIUlZZb3JZX0tQOVV1aXY2SXVzNDdtSU9lYWw4M2NpUkRpOGh5ZmNuUy11R0lVcDh1YzVLMTJBZVo5NjBYZ2ZpOGV6MVpWZ0lZQ3lmTlctNm0yZw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 06 Nov 2026 05:01:00 GMT"
+        "pubDate": "Tue, 10 Nov 2026 14:32:29 GMT"
       },
       {
-        "title": "ORBIT GARANT REPORTS RECORD REVENUE FOR ITS FISCAL 2027 FIRST QUARTER - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS1pLYXlXdnlYSHdkSEV0U2hHcEROZ0lpUG9pX0haOWZ6M1Z4NzU2ak1zQW96b2dSM09nNEVlQmdDajNRR2xqbi1vQ0xZeEdGT2tTTXdXQlRXZ3lHSVd3NHhDWVRSM2lpV09QRGQ0clFZa2pDY28wRTMwYk5aY2FBQnVpelRCSHc2UnNSdGY2U0ZmUXlzRG1PbGpGYUQzQ1VMRzRfN0h1Z1lrVExUTnBTSGN1Sml0SmhfOGVNajhoSGpwMVB3RDRGOWtR?oc=5",
+        "title": "IF: 23% lending growth; IFRS 5 NPL write-down drove a €67.3m reported loss - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRVlOVHZ3emdWQlpRcVFhZmFtcEo4REtLcDR6YnlEcndLbzZwSGIzQW1kdXo3NGtTUC14OTJXNk45MmVSbzdpNnplMTNFbmNZQ2gwdXlNMHM4WXdiUWNYeC0xWFJHcUN2V2ZHbmk2Y3prZTFtdy1qSWE3dVJPb1ZMZXVsUmx0S180UmE4M3pVc3JfZ1NfRmxFY2N0THdiakh2bExnWUZaVWE1TFRpaXNveENzRkcwY2cxeENYWlJ2bUtOb3N3WVJhMmdWcmZHN2pTcnVRVEVaT2hfaFVlOWpaX04yekRpQzYt?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 11 Nov 2026 22:40:57 GMT"
+        "pubDate": "Wed, 11 Nov 2026 13:04:47 GMT"
       },
       {
         "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - Wolters Kluwer",
@@ -209,6 +203,12 @@
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVi1kYVhpWFZlZFE2b0dZMG83WW1mSnVpR2tHcVRLbkhEdlV0aHhkV2hxUF8zYnZVS0dqYmZjVTFBSVVldG9hZ256ZDdfaWRuMG5PcVFMUWhtZnBIVTJnQlVNdkVKMEFBOVN3UUZ2cVlSSUpKUWNLanV5VUhlclVhaGV4Y01IS1hDWkFhaVh5aUVwR01PcWh1emlFNUQ1eUpXVHl2WnVjSkI5YU5Oc3J0MWplMW1zaDc4ZGc?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 24 Mar 2026 09:53:22 GMT"
+      },
+      {
+        "title": "ORBIT GARANT REPORTS RECORD REVENUE FOR ITS FISCAL 2027 FIRST QUARTER - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS1pLYXlXdnlYSHdkSEV0U2hHcEROZ0lpUG9pX0haOWZ6M1Z4NzU2ak1zQW96b2dSM09nNEVlQmdDajNRR2xqbi1vQ0xZeEdGT2tTTXdXQlRXZ3lHSVd3NHhDWVRSM2lpV09QRGQ0clFZa2pDY28wRTMwYk5aY2FBQnVpelRCSHc2UnNSdGY2U0ZmUXlzRG1PbGpGYUQzQ1VMRzRfN0h1Z1lrVExUTnBTSGN1Sml0SmhfOGVNajhoSGpwMVB3RDRGOWtR?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 11 Nov 2026 22:40:57 GMT"
       }
     ]
   }
