@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T08:58:16.217927+00:00",
+  "generatedAt": "2026-11-12T17:22:13.771837+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 73537,
-      "chg": -0.18
+      "price": 71748,
+      "chg": -3.62
     },
     "eth": {
-      "price": 2048.49,
-      "chg": -0.41
+      "price": 2007.72,
+      "chg": -3.9
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
-        "title": "Bloom Energy shares jump 13%: Can the AI power stock sustain its rally?",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bloom-energy-shares-jump-13-can-the-ai-power-stock-sustain-its-rally/slideshow/135760252.cms",
+        "title": "October retail inflation surge may weigh on housing demand, raise rate hike concerns: Knight Frank, PHDCCI",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/october-retail-inflation-surge-may-weigh-on-housing-demand-raise-rate-hike-concerns-knight-frank-phdcci/articleshow/135776096.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 12 Nov 2026 12:38:20 +0530"
+        "pubDate": "Thu, 12 Nov 2026 21:39:52 +0530"
       },
       {
-        "title": "Mahindra &amp; Mahindra among 5 stocks showing White Marubozu Pattern",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/mahindra-amp-mahindra-among-5-stocks-showing-white-marubozu-pattern/slideshow/135758580.cms",
+        "title": "Nvidia default risk nears record high as board weighs CEO’s fate",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-default-risk-nears-record-high-as-board-weighs-ceos-fate/articleshow/135775893.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 12 Nov 2026 11:59:25 +0530"
+        "pubDate": "Thu, 12 Nov 2026 21:30:02 +0530"
       },
       {
-        "title": "Indian bonds drift as US debt rout saps oil relief before CPI",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-drift-as-us-debt-rout-saps-oil-relief-before-cpi/articleshow/135758028.cms",
+        "title": "US stocks: S&amp;P 500, Nasdaq fall as Nvidia CEO exit rattles AI stocks",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-after-nvidia-ceo-steps-down/articleshow/135773944.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 12 Nov 2026 11:46:58 +0530"
+        "pubDate": "Thu, 12 Nov 2026 20:30:31 +0530"
       },
       {
-        "title": "FIIs are back! Jefferies lists 11 stocks that can be the biggest beneficiaries",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-are-back-jefferies-lists-11-stocks-that-can-be-the-biggest-beneficiaries/slideshow/135758277.cms",
+        "title": "Nebius beats quarterly revenue estimates on strong AI demand",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nebius-beats-quarterly-revenue-estimates-on-strong-ai-demand/articleshow/135771184.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 12 Nov 2026 11:24:56 +0530"
+        "pubDate": "Thu, 12 Nov 2026 18:47:09 +0530"
       },
       {
-        "title": "From SpaceX to Anthropic, markets have a new playbook for mega-share debuts",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-spacex-to-anthropic-markets-have-a-new-playbook-for-mega-share-debuts/articleshow/135756798.cms",
+        "title": "Nasdaq, S&amp;P 500 futures fall as Nvidia turbulence unsettles AI stocks",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-sp-500-futures-fall-as-nvidia-turbulence-unsettles-ai-stocks/articleshow/135771074.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 12 Nov 2026 11:05:33 +0530"
+        "pubDate": "Thu, 12 Nov 2026 18:44:54 +0530"
       },
       {
-        "title": "Vishal Mega Mart among 5 stocks showing RSI trending up",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/vishal-mega-mart-among-5-stocks-showing-rsi-trending-up/slideshow/135755604.cms",
+        "title": "Clean Max Enviro Energy pledges Rs 50,000 crore investment in Andhra Pradesh",
+        "link": "https://economictimes.indiatimes.com/markets/companies/clean-max-enviro-energy-pledges-rs-50000-crore-investment-in-andhra-pradesh/articleshow/135771043.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 12 Nov 2026 10:06:34 +0530"
+        "pubDate": "Thu, 12 Nov 2026 18:41:57 +0530"
       },
       {
-        "title": "Oil India among 6 stocks closing above VWAP",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/oil-india-among-6-stocks-closing-above-vwap/slideshow/135755140.cms",
+        "title": "US stocks steady after sharp swings in Nvidia, oil prices: Stock Market Live Updates",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-intel-micron-ai-stocks-marvell-coreweave-ai-chip-stocks-treasury-yield-news-12th-november-2026/liveblog/135771380.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 12 Nov 2026 09:43:06 +0530"
+        "pubDate": "Thu, 12 Nov 2026 18:40:17 +0530"
       },
       {
-        "title": "Tech Mahindra Share Price Live Updates: Tech Mahindra's Current Market Position",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-share-price-today-live-updates-12-nov-2026/liveblog/135754851.cms",
+        "title": "India bonds track Treasury weakness ahead of debt supply",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-track-treasury-weakness-ahead-of-debt-supply/articleshow/135769595.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 12 Nov 2026 09:36:09 +0530"
+        "pubDate": "Thu, 12 Nov 2026 17:58:02 +0530"
       },
       {
-        "title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Faces Slight Decline",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-today-live-12-nov-2026/liveblog/135754348.cms",
+        "title": "Punjab National Bank among 4 stocks hitting 52-week highs; rally up to 22% in a month",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/punjab-national-bank-among-4-stocks-hitting-52-week-highs-rally-up-to-22-in-a-month/slideshow/135769519.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 12 Nov 2026 09:15:24 +0530"
+        "pubDate": "Thu, 12 Nov 2026 17:51:16 +0530"
       },
       {
-        "title": "Dr Reddys Share Price Live Updates: Dr. Reddys Current Price Update",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/dr-reddys-share-price-live-updates-12-nov-2026/liveblog/135754002.cms",
+        "title": "Nvidia Boardroom Turmoil: What's Happening to Jensen Huang?",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-boardroom-turmoil-whats-happening-to-jensen-huang/videoshow/135769095.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 12 Nov 2026 09:06:31 +0530"
+        "pubDate": "Thu, 12 Nov 2026 17:41:01 +0530"
       }
     ],
     "acct": [
@@ -175,40 +175,40 @@
         "pubDate": "Fri, 10 Jul 2026 14:35:46 GMT"
       },
       {
+        "title": "Sustainability Reporting: GRI, IFRS S1 and ESRS - CASRAI",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiZFJwQ0hHbFRZcTR3ZVdhYVNUWUFtWU85LWYtN2xTSS1jR1U4VEFkZTVNVHkwZUpUWXp5ZVRlZ2xYTlh3VURQVHRua0YtQmh1Y3dKLW9CeEdQMVhteWlj?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sun, 08 Nov 2026 16:41:31 GMT"
+      },
+      {
+        "title": "Form 6-K ATHENA GOLD CORP For: Sep 30 - StreetInsider",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXJNMHVmdWdWZW0wcEhPakMyQ0FSY1ZGSVFhT1o3bHp2d181VVlOc0RWQ0hfVV9MWjlYVlJLREM2TkNBRGc0cFVGay1idGNrMVRrTlE4dXdsSWFITXZIVTVWaFVZWTF5WnByU3hwZzBMU2lMdXphY2RwZk5vb0l5anFWN2pFd09abjU5NDhrVXM2VHZaNHpaS2R5NA?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 12 Nov 2026 12:20:32 GMT"
+      },
+      {
         "title": "Irdai sets up working groups to align risk-based capital regime with Ind AS - Business Standard",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYkM4NmRidVhnankzOFE1X2ppWFU1cVB1bW1OaXI5QS05WTBGZUU3ZGZlRDh1d1laZXRfX1JYOTZLdVZLT3V3NEY3NjRrb3BsZjd4cG9XTG85NFFEZFl6ZnllSlU3RzBoR0NuNlJURGpheU9kaU10SUlDS2hnU1EtVnpEbTBGLUtKVDk5UkhlOWNyZ2p4LVZZX1ozUExYNGVxclV1WFQ4Z1kybHBza2Q0c0tqRXJITDF5TWxoSGF3czJhV1JsWlZFUktyN3k5ZFdCRFlyN3VkNS1SVFUyOGlUctIB5gFBVV95cUxNdGV4N2I4UHd0OUJob1dZaUczbnZ0djNUSUt3MlpjTW1mN3IxUWZMazJWcnpVXzVKVmhSaG5LQUxueUtKcFBDWDhaUm45dzlZWTlOcFNjTUVMYUpuN2xKZ09mNDE0dGE1Mm1sVlY4N0x2cDNPUXp6Y1EyZ0tSYmstdlpySFQwRzkyR0pmTXM3RTZfbnNIUlZZb3JZX0tQOVV1aXY2SXVzNDdtSU9lYWw4M2NpUkRpOGh5ZmNuUy11R0lVcDh1YzVLMTJBZVo5NjBYZ2ZpOGV6MVpWZ0lZQ3lmTlctNm0yZw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 10 Nov 2026 14:32:29 GMT"
       },
       {
-        "title": "IF: 23% lending growth; IFRS 5 NPL write-down drove a €67.3m reported loss - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQRVlOVHZ3emdWQlpRcVFhZmFtcEo4REtLcDR6YnlEcndLbzZwSGIzQW1kdXo3NGtTUC14OTJXNk45MmVSbzdpNnplMTNFbmNZQ2gwdXlNMHM4WXdiUWNYeC0xWFJHcUN2V2ZHbmk2Y3prZTFtdy1qSWE3dVJPb1ZMZXVsUmx0S180UmE4M3pVc3JfZ1NfRmxFY2N0THdiakh2bExnWUZaVWE1TFRpaXNveENzRkcwY2cxeENYWlJ2bUtOb3N3WVJhMmdWcmZHN2pTcnVRVEVaT2hfaFVlOWpaX04yekRpQzYt?oc=5",
+        "title": "Earnings Flash (ASND) Ascendis Pharma Posts Q3 Non-IFRS EPS 1.71 Euros - www.marketscreener.com",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZTVqZTRxSVN0Yjg2R3RBcE9NcE9yTHNSLUx4ZXdiV0dZTEFkUkdRUjhFUS1DZGEyVnhOOXlHdjNKU3NnZnhOVTQ5WGRnTERmRzRBcWw3RDJYMTU4Wms0ZHFTbDIzXzJZQTJJNDBPeFhMeDB1bzNpeHRORU9QLXo2a293RmZVc1E2VFczZWxiOThkQUVib3lSVlFSUl9ITy02UHBMaUcxUmp5cnlfdmdyX3d0ZnNBWElsdjEyNVN3?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 11 Nov 2026 13:04:47 GMT"
+        "pubDate": "Thu, 12 Nov 2026 13:05:00 GMT"
+      },
+      {
+        "title": "AGI (AGBK): Amends 2025 annual report, adds IPO and share counts - Quantisnow",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRGpoajB1VmZVOW1vTFNuZW5QYVo2M29DSG1FTE5UZ0dXY1pZbEt4OGlKejV5dFlMcTZkZVNSN0Ryb0VTU2dZWFpOVUlITmVIWlFEYWRiYkRodHE0eTBRNU92NWtUa1hIdlFoNlphY0NPR1FKS1RCREZyQk5CeGl2LXluUUZvSDJ0b1NPZA?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 12 Nov 2026 11:11:52 GMT"
       },
       {
         "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - Wolters Kluwer",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlIzUGljQXNlVm4xZ2R0ZFhITUtjQmNINmswSXA0R3lSeWtJZHI0MmRvR2l0ZDRJRUpiWFdSX1c0aFMyaVl2bWhNbHJxWGJTTUM5TTd5ZWxMX0lNMEp1Q3YzS2JZSDFnbWRkX3pvbnRFZTd0ZUx3ZTVmMjhhaHBqU1BGYjdMYXdBM2ZBWS1FVUkzVFF1aFEw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Insurers: Are you ready for IFRS 18? - kpmg.com",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wcDhQbmt3OExHbWtkWXE0VU9relJ3MlJoVTBSeTBxMVFCMkRBd1M3NTVLNUxtb1BpS3l6N1ZKazZiSFhXbTNLYmJ3MTNaN3h1YU1Rc1JyMGlKOGhDemgwSkpZQnZFWjNOMnVsS3lKZjh5NXdS?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 26 May 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Ind AS 118: Changing the way the numbers speak - EY",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVi1kYVhpWFZlZFE2b0dZMG83WW1mSnVpR2tHcVRLbkhEdlV0aHhkV2hxUF8zYnZVS0dqYmZjVTFBSVVldG9hZ256ZDdfaWRuMG5PcVFMUWhtZnBIVTJnQlVNdkVKMEFBOVN3UUZ2cVlSSUpKUWNLanV5VUhlclVhaGV4Y01IS1hDWkFhaVh5aUVwR01PcWh1emlFNUQ1eUpXVHl2WnVjSkI5YU5Oc3J0MWplMW1zaDc4ZGc?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 24 Mar 2026 09:53:22 GMT"
-      },
-      {
-        "title": "ORBIT GARANT REPORTS RECORD REVENUE FOR ITS FISCAL 2027 FIRST QUARTER - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS1pLYXlXdnlYSHdkSEV0U2hHcEROZ0lpUG9pX0haOWZ6M1Z4NzU2ak1zQW96b2dSM09nNEVlQmdDajNRR2xqbi1vQ0xZeEdGT2tTTXdXQlRXZ3lHSVd3NHhDWVRSM2lpV09QRGQ0clFZa2pDY28wRTMwYk5aY2FBQnVpelRCSHc2UnNSdGY2U0ZmUXlzRG1PbGpGYUQzQ1VMRzRfN0h1Z1lrVExUTnBTSGN1Sml0SmhfOGVNajhoSGpwMVB3RDRGOWtR?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 11 Nov 2026 22:40:57 GMT"
       }
     ]
   }
