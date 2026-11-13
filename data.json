@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T22:48:41.624330+00:00",
+  "generatedAt": "2026-11-13T03:02:36.601562+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,22 +72,64 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 71355,
-      "chg": -3.62
+      "price": 70189,
+      "chg": -4.83
     },
     "eth": {
-      "price": 2010.39,
-      "chg": -2.26
+      "price": 1988.8,
+      "chg": -3.28
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 93.85,
-    "eurinr": 104.3,
-    "gbpinr": 124.73
+    "usdinr": 94.09,
+    "eurinr": 104.14,
+    "gbpinr": 124.59
   },
   "news": {
     "corp": [
+      {
+        "title": "India equity surge brightens outlook for exchanges, brokerages",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-equity-surge-brightens-outlook-for-exchanges-brokerages/articleshow/135786787.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 13 Nov 2026 08:13:10 +0530"
+      },
+      {
+        "title": "Anthropic's IPO is about six times oversubscribed, Bloomberg News reports",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-ipo-is-about-six-times-oversubscribed-bloomberg-news-reports/articleshow/135786658.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 13 Nov 2026 07:59:21 +0530"
+      },
+      {
+        "title": "Dollar near 19-month high on Fed hike bets, yen tests 160",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-near-19-month-high-on-fed-hike-bets-yen-tests-160/articleshow/135786354.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 13 Nov 2026 07:33:28 +0530"
+      },
+      {
+        "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade higher",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-vodafone-idea-mm-share-price-13-november-2026/liveblog/135786229.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 13 Nov 2026 07:10:11 +0530"
+      },
+      {
+        "title": "Gold inches higher but heads for weekly loss on Fed hike concerns",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-higher-but-heads-for-weekly-loss-on-fed-hike-concerns/articleshow/135785994.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 13 Nov 2026 07:01:36 +0530"
+      },
+      {
+        "title": "Jensen Huang forfeits $108 million in unvested Nvidia equity",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/jensen-huang-forfeits-108-million-in-unvested-nvidia-equity/articleshow/135785775.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 13 Nov 2026 06:35:44 +0530"
+      },
+      {
+        "title": "Global Market Today: Asian stocks gain after Nvidia shakeup, oil steady",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-gain-after-nvidia-shakeup-oil-steady/articleshow/135785602.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 13 Nov 2026 06:15:37 +0530"
+      },
       {
         "title": "US stocks: Retail buyers limit Nvidia stock rout",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-retail-buyers-limit-nvidia-stock-rout/articleshow/135782108.cms",
@@ -105,56 +147,20 @@
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/kalshi-ends-donald-trump-jrs-advisory-contract-due-to-polymarket-conflict/articleshow/135780903.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Fri, 13 Nov 2026 00:16:11 +0530"
-      },
-      {
-        "title": "October retail inflation surge may weigh on housing demand, raise rate hike concerns: Knight Frank, PHDCCI",
-        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/october-retail-inflation-surge-may-weigh-on-housing-demand-raise-rate-hike-concerns-knight-frank-phdcci/articleshow/135776096.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 12 Nov 2026 21:39:52 +0530"
-      },
-      {
-        "title": "Nvidia default risk nears record high as board weighs CEO’s fate",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nvidia-default-risk-nears-record-high-as-board-weighs-ceos-fate/articleshow/135775893.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 12 Nov 2026 21:30:02 +0530"
-      },
-      {
-        "title": "US stocks: S&amp;P 500, Nasdaq fall as Nvidia CEO exit rattles AI stocks",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-lower-after-nvidia-ceo-steps-down/articleshow/135773944.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 12 Nov 2026 20:30:31 +0530"
-      },
-      {
-        "title": "Nebius beats quarterly revenue estimates on strong AI demand",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nebius-beats-quarterly-revenue-estimates-on-strong-ai-demand/articleshow/135771184.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 12 Nov 2026 18:47:09 +0530"
-      },
-      {
-        "title": "Nasdaq, S&amp;P 500 futures fall as Nvidia turbulence unsettles AI stocks",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-sp-500-futures-fall-as-nvidia-turbulence-unsettles-ai-stocks/articleshow/135771074.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 12 Nov 2026 18:44:54 +0530"
-      },
-      {
-        "title": "Clean Max Enviro Energy pledges Rs 50,000 crore investment in Andhra Pradesh",
-        "link": "https://economictimes.indiatimes.com/markets/companies/clean-max-enviro-energy-pledges-rs-50000-crore-investment-in-andhra-pradesh/articleshow/135771043.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 12 Nov 2026 18:41:57 +0530"
-      },
-      {
-        "title": "US stocks close lower as Nvidia drop outweighs energy gains: Stock Market Highlights",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-intel-micron-ai-stocks-marvell-coreweave-ai-chip-stocks-treasury-yield-news-12th-november-2026/liveblog/135771380.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Thu, 12 Nov 2026 18:40:17 +0530"
       }
     ],
     "acct": [
       {
-        "title": "The Works Expects Pre-IFRS 16 Adjusted EBITDA For Current Financial Year To Be Ahead Of Market Expectations - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPT241RWpvc3FpM1ZrM0VuT0Y1SHhUWDI1SEpVUllrY2pWX3dGeU1RMGFPX0w3eHUzbmN2SVFTWjlPOUJXdFN4eFZFSVNVOHhERUJIU250N05kUGc2ZmRwdUQ5OE5nRm5LT19WTy01ZEQ4ZmlONmJHdnNhZmdfSi1rbUYxS0pGMnQ4S3MxU3FKODNjRFJRZWg1eUpFZDlyV1VzdkRMc1plZG1SM0piVmVvaXdrbFhZZnJ6elBoaG1GR0h3aEZCRmdsV2dTUkwzQ2pIaEJVN0lsOFhsalc1WkdVWkJKcHdPNndoZERyNFVlYW96SjV3VXl5UkFLWWJGZUR6dU4xZDZIZ0Y?oc=5",
+        "title": "ECN Capital: Q3 adjusted net income reached $24.0 million as IFRS net income returned to $22.3 million - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPTGNnVlk2Wi0yTFRUOTNlY1hVakR6anUzVVB3V3F2QnI4Q3NxenptYy1LTER1bXZhNFRqc3FxM0hSdnI1VlBKSnJRLTZxbXYxMm1mLWFSclZqbThSMmlPNUE4a1liN1RWWFJRcFAxNU84aXRKaHdydkpfMHZaZ25sRFpSZWdSeEZ4M1J1c1lXNWZKeDFpT05jTDllNG1ERi1aSG1FUlR5QjFQLTdLeEdkVFd6MUs0bUdBRHVweFFudGRvUVcxUklUOU9JN3lxbVhwNzhJVjZ1eS1HNTlZOWVKUWN2Wm04UHZKenNQOWRDTXdOLWZ4RWI1TC11RmdIU3Z0ZGJkd1RwcGpOQUhkcnpJ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 12 Nov 2026 08:21:13 GMT"
+        "pubDate": "Fri, 13 Nov 2026 02:30:00 GMT"
+      },
+      {
+        "title": "Inter : 3Q26 IFRS Financial Statements - www.marketscreener.com",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUx5QWRNMWMtZE5iOUdTa3AtSWFIOVFYeFp5NVVIUGdGZ1dQR01pN2ZYb01BQ2FMUEk2MTBqMHF1RmVwU2R5MHRxTnV5Wnd6cllrTEJYeUd3blpsT2dMLWVULUpwVmNaZHhBMTc1elJ5RGVLdTFpaWI2Y0NhX0hIRUhCbU55R1p4eFprVTFJM3lpaXM?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 12 Nov 2026 23:25:14 GMT"
       },
       {
         "title": "IFRS 16 – An overview - kpmg.com",
@@ -187,28 +193,22 @@
         "pubDate": "Tue, 10 Nov 2026 14:32:29 GMT"
       },
       {
-        "title": "Earnings Flash (ASND) Ascendis Pharma Posts Q3 Non-IFRS EPS 1.71 Euros - marketscreener.com",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZTVqZTRxSVN0Yjg2R3RBcE9NcE9yTHNSLUx4ZXdiV0dZTEFkUkdRUjhFUS1DZGEyVnhOOXlHdjNKU3NnZnhOVTQ5WGRnTERmRzRBcWw3RDJYMTU4Wms0ZHFTbDIzXzJZQTJJNDBPeFhMeDB1bzNpeHRORU9QLXo2a293RmZVc1E2VFczZWxiOThkQUVib3lSVlFSUl9ITy02UHBMaUcxUmp5cnlfdmdyX3d0ZnNBWElsdjEyNVN3?oc=5",
+        "title": "The Works Expects Pre-IFRS 16 Adjusted EBITDA For Current Financial Year To Be Ahead Of Market Expectations - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPT241RWpvc3FpM1ZrM0VuT0Y1SHhUWDI1SEpVUllrY2pWX3dGeU1RMGFPX0w3eHUzbmN2SVFTWjlPOUJXdFN4eFZFSVNVOHhERUJIU250N05kUGc2ZmRwdUQ5OE5nRm5LT19WTy01ZEQ4ZmlONmJHdnNhZmdfSi1rbUYxS0pGMnQ4S3MxU3FKODNjRFJRZWg1eUpFZDlyV1VzdkRMc1plZG1SM0piVmVvaXdrbFhZZnJ6elBoaG1GR0h3aEZCRmdsV2dTUkwzQ2pIaEJVN0lsOFhsalc1WkdVWkJKcHdPNndoZERyNFVlYW96SjV3VXl5UkFLWWJGZUR6dU4xZDZIZ0Y?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 12 Nov 2026 13:05:00 GMT"
-      },
-      {
-        "title": "Form 6-K ATHENA GOLD CORP For: Sep 30 - StreetInsider",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYXJNMHVmdWdWZW0wcEhPakMyQ0FSY1ZGSVFhT1o3bHp2d181VVlOc0RWQ0hfVV9MWjlYVlJLREM2TkNBRGc0cFVGay1idGNrMVRrTlE4dXdsSWFITXZIVTVWaFVZWTF5WnByU3hwZzBMU2lMdXphY2RwZk5vb0l5anFWN2pFd09abjU5NDhrVXM2VHZaNHpaS2R5NA?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 12 Nov 2026 12:20:04 GMT"
-      },
-      {
-        "title": "AGI (AGBK): Amends 2025 annual report, adds IPO and share counts - Quantisnow",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRGpoajB1VmZVOW1vTFNuZW5QYVo2M29DSG1FTE5UZ0dXY1pZbEt4OGlKejV5dFlMcTZkZVNSN0Ryb0VTU2dZWFpOVUlITmVIWlFEYWRiYkRodHE0eTBRNU92NWtUa1hIdlFoNlphY0NPR1FKS1RCREZyQk5CeGl2LXluUUZvSDJ0b1NPZA?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 12 Nov 2026 11:11:52 GMT"
+        "pubDate": "Thu, 12 Nov 2026 08:21:13 GMT"
       },
       {
         "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - Wolters Kluwer",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlIzUGljQXNlVm4xZ2R0ZFhITUtjQmNINmswSXA0R3lSeWtJZHI0MmRvR2l0ZDRJRUpiWFdSX1c0aFMyaVl2bWhNbHJxWGJTTUM5TTd5ZWxMX0lNMEp1Q3YzS2JZSDFnbWRkX3pvbnRFZTd0ZUx3ZTVmMjhhaHBqU1BGYjdMYXdBM2ZBWS1FVUkzVFF1aFEw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Insurers: Are you ready for IFRS 18? - kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wcDhQbmt3OExHbWtkWXE0VU9relJ3MlJoVTBSeTBxMVFCMkRBd1M3NTVLNUxtb1BpS3l6N1ZKazZiSFhXbTNLYmJ3MTNaN3h1YU1Rc1JyMGlKOGhDemgwSkpZQnZFWjNOMnVsS3lKZjh5NXdS?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 26 May 2026 07:00:00 GMT"
       }
     ]
   }
