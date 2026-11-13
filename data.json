@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T11:19:44.185754+00:00",
+  "generatedAt": "2026-11-13T18:37:39.947847+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 69311,
-      "chg": -5.44
+      "price": 68830,
+      "chg": -4.32
     },
     "eth": {
-      "price": 1952.88,
-      "chg": -4.32
+      "price": 1939.92,
+      "chg": -4.03
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
-        "title": "Indian rupee snaps rising streak on hawkish Fed, oil rise",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-snaps-rising-streak-on-hawkish-fed-oil-rise/articleshow/135798564.cms",
+        "title": "Anthropic IPO share orders from China are said to be rebuffed",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed/articleshow/135809948.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 15:41:52 +0530"
+        "pubDate": "Fri, 13 Nov 2026 21:58:14 +0530"
       },
       {
-        "title": "Cisco shares rally after earnings beat: 6 key things investors need to know",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/cisco-shares-rally-after-earnings-beat-6-key-things-investors-need-to-know/slideshow/135794957.cms",
+        "title": "BofA adds January Fed hike to forecast, says quarterly pace no longer enough",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bofa-adds-january-fed-hike-to-forecast-says-quarterly-pace-no-longer-enough/articleshow/135808910.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 13:10:19 +0530"
+        "pubDate": "Fri, 13 Nov 2026 21:15:53 +0530"
       },
       {
-        "title": "Tesla-SpaceX Merger: Musk eyes December deal announcement",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/tesla-spacex-merger-musk-eyes-december-deal-announcement/slideshow/135793745.cms",
+        "title": "US stocks: US stocks reverse early gains as Nvidia turmoil hits tech sector",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-soft-producer-prices-data/articleshow/135807296.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 12:23:07 +0530"
+        "pubDate": "Fri, 13 Nov 2026 20:15:46 +0530"
       },
       {
-        "title": "MSCI rejig: Which stocks may see the biggest inflows &amp; outflows?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/msci-rejig-which-stocks-may-see-the-biggest-inflows-amp-outflows/slideshow/135792280.cms",
+        "title": "Chicago Fed's Goolsbee says on CNBC the Fed needs to guard against demand overheating",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/chicago-feds-goolsbee-says-on-cnbc-the-fed-needs-to-guard-against-demand-overheating/articleshow/135807011.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 11:36:12 +0530"
+        "pubDate": "Fri, 13 Nov 2026 20:14:42 +0530"
       },
       {
-        "title": "Carlsberg said to start road show for $600 million India IPO",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-said-to-start-road-show-for-600-million-india-ipo/articleshow/135790402.cms",
+        "title": "US Treasury chief says Fed should not hike rates over energy shock tied to Iran war",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-chief-says-fed-should-not-hike-rates-over-energy-shock-tied-to-iran-war/articleshow/135806960.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 10:45:15 +0530"
+        "pubDate": "Fri, 13 Nov 2026 20:01:51 +0530"
       },
       {
-        "title": "Top pension fund to buy more India state bonds on high yields",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/top-pension-fund-to-buy-more-india-state-bonds-on-high-yields/articleshow/135789980.cms",
+        "title": "MAN Industries PAT rises to Rs 82 cr in Q2",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/man-industries-pat-rises-to-rs-82-cr-in-q2/articleshow/135806024.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 10:31:33 +0530"
+        "pubDate": "Fri, 13 Nov 2026 19:30:47 +0530"
       },
       {
-        "title": "India bonds under pressure before debt supply; hot inflation prints pinch further",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-under-pressure-before-debt-supply-hot-inflation-prints-pinch-further/articleshow/135789760.cms",
+        "title": "Nasdaq, S&amp;P 500 tumble as Nvidia overhang weighs on tech stocks: Stock Market Live Updates",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-microsoft-cerebras-amd-micron-treasury-yield-news-13th-november-2026/liveblog/135804970.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 10:16:04 +0530"
+        "pubDate": "Fri, 13 Nov 2026 18:41:45 +0530"
       },
       {
-        "title": "Asian Paints Share Price Live Updates: Asian Paints Volume and Price Insights",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-share-price-today-live-updates-13-nov-2026/liveblog/135789396.cms",
+        "title": "Godrej Properties buys 31-acre land in Indore for Rs 130 cr to build housing project",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/godrej-properties-buys-31-acre-land-in-indore-for-rs-130-cr-to-build-housing-project/articleshow/135804198.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 10:00:39 +0530"
+        "pubDate": "Fri, 13 Nov 2026 18:24:17 +0530"
       },
       {
-        "title": "Aditya Birla Capital among 9 stocks showing White Marubozu Pattern",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/aditya-birla-capital-among-9-stocks-showing-white-marubozu-pattern/slideshow/135788959.cms",
+        "title": "German yields set for biggest weekly rise in two months",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/german-yields-set-for-biggest-weekly-rise-in-two-months/articleshow/135804160.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 09:21:41 +0530"
+        "pubDate": "Fri, 13 Nov 2026 18:22:46 +0530"
       },
       {
-        "title": "One97 Communications among 3 stocks closing above VWAP",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/one97-communications-among-3-stocks-closing-above-vwap/slideshow/135788620.cms",
+        "title": "India 10-year bond yield reverses half of last week's drop on elevated inflation",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-yield-reverses-half-of-last-weeks-drop-on-elevated-inflation/articleshow/135804127.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 09:14:54 +0530"
+        "pubDate": "Fri, 13 Nov 2026 18:21:07 +0530"
       }
     ],
     "acct": [
@@ -154,7 +154,13 @@
         "title": "How IFRS 18 for financial services can reshape GCC reporting - EY",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObmhnOXNBY2luMTFtYW8yTEo5NmZxdU5wR3NxNmNnQ1h0MDJqaWluSjQ2QnRRZFhDOUtZS18xZ0JVcW1VSGRlTklacGNpZmFFa2FGbUs5SUdJYmJpOTM5UjdsOHc2UGgycFJTbVpZdFFnRE5xalZaaUE2UVRrRlpXQmo5LU11TXNoY3EweUpnN0YzTy1mdUp1X19uVmJyVFYxMWxRY3hIWDU5NWhmVERxdkVMaU14N091MjM3UWNPMFA3eTg3VGNkM1JYaEVwdw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 13 Nov 2026 06:57:02 GMT"
+        "pubDate": "Fri, 13 Nov 2026 06:58:36 GMT"
+      },
+      {
+        "title": "ICAI Hyderabad Hosts Conference on Evolving IPO Ecosystem, Role of CAs - Deccan Chronicle",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeXZjTjNoUHRfaW1vWkxLWEZkb254cTRNRGJuWFZFc05YWFVjcnFBc3A4enpaN1RTM0d0RWpTVGRDZHN2VVBjMTVwc0dpNkN0QWl4bkxsa3BEdTNwSWVyWlpabXo3VG4wbW5IYTJWM1hac2ZLS0JjdUNjUnkxOXhobUxGTlBtMTdIOVlsSzU0SmFPR1p6UVpTMGNrdEFUNDZ1d210aWh4UDc0WXR1U2c3d3oyYzBMMU93MjRWSkZaMXVlMkRqVkk0WE54SmluQ2g40gHWAUFVX3lxTE5CMzVmb1dmS3hjT1JDajNhTGo2c0VGU1VpdHhpbmFqMkJmY2FMbXI4WEM5Rlkxc3hSRlNtOTZpSFZ2UHhaVzA1bmdjdklvZVU2TVVBQXhscWdGNDhaNlBoMlY2ODFsYk5PT2VraG42MTE1UGxYaFpRYlhobFh5bWtYbnFCMUEwRUkzR3lPTlpZV1VDWi1Na3dzcmo2amplRWQwaXJtSDhNM1pCbVZJZXZ3UFZpNG5yMWxMUld5engxZ2hUQ2trekFZSkZSX01yZFVMXzdxU2c?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 13 Nov 2026 18:14:17 GMT"
       },
       {
         "title": "ECN Capital: Q3 adjusted net income reached $24.0 million as IFRS net income returned to $22.3 million - TradingView",
@@ -175,22 +181,16 @@
         "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "Inter : 3Q26 IFRS Financial Statements - www.marketscreener.com",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUx5QWRNMWMtZE5iOUdTa3AtSWFIOVFYeFp5NVVIUGdGZ1dQR01pN2ZYb01BQ2FMUEk2MTBqMHF1RmVwU2R5MHRxTnV5Wnd6cllrTEJYeUd3blpsT2dMLWVULUpwVmNaZHhBMTc1elJ5RGVLdTFpaWI2Y0NhX0hIRUhCbU55R1p4eFprVTFJM3lpaXM?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 12 Nov 2026 23:25:14 GMT"
-      },
-      {
         "title": "Irdai sets up working groups to align risk-based capital regime with Ind AS - Business Standard",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYkM4NmRidVhnankzOFE1X2ppWFU1cVB1bW1OaXI5QS05WTBGZUU3ZGZlRDh1d1laZXRfX1JYOTZLdVZLT3V3NEY3NjRrb3BsZjd4cG9XTG85NFFEZFl6ZnllSlU3RzBoR0NuNlJURGpheU9kaU10SUlDS2hnU1EtVnpEbTBGLUtKVDk5UkhlOWNyZ2p4LVZZX1ozUExYNGVxclV1WFQ4Z1kybHBza2Q0c0tqRXJITDF5TWxoSGF3czJhV1JsWlZFUktyN3k5ZFdCRFlyN3VkNS1SVFUyOGlUctIB5gFBVV95cUxNdGV4N2I4UHd0OUJob1dZaUczbnZ0djNUSUt3MlpjTW1mN3IxUWZMazJWcnpVXzVKVmhSaG5LQUxueUtKcFBDWDhaUm45dzlZWTlOcFNjTUVMYUpuN2xKZ09mNDE0dGE1Mm1sVlY4N0x2cDNPUXp6Y1EyZ0tSYmstdlpySFQwRzkyR0pmTXM3RTZfbnNIUlZZb3JZX0tQOVV1aXY2SXVzNDdtSU9lYWw4M2NpUkRpOGh5ZmNuUy11R0lVcDh1YzVLMTJBZVo5NjBYZ2ZpOGV6MVpWZ0lZQ3lmTlctNm0yZw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 10 Nov 2026 14:32:29 GMT"
       },
       {
-        "title": "Sustainability Reporting: GRI, IFRS S1 and ESRS - CASRAI",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiZFJwQ0hHbFRZcTR3ZVdhYVNUWUFtWU85LWYtN2xTSS1jR1U4VEFkZTVNVHkwZUpUWXp5ZVRlZ2xYTlh3VURQVHRua0YtQmh1Y3dKLW9CeEdQMVhteWlj?oc=5",
+        "title": "Inter : 3Q26 IFRS Financial Statements - www.marketscreener.com",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUx5QWRNMWMtZE5iOUdTa3AtSWFIOVFYeFp5NVVIUGdGZ1dQR01pN2ZYb01BQ2FMUEk2MTBqMHF1RmVwU2R5MHRxTnV5Wnd6cllrTEJYeUd3blpsT2dMLWVULUpwVmNaZHhBMTc1elJ5RGVLdTFpaWI2Y0NhX0hIRUhCbU55R1p4eFprVTFJM3lpaXM?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sun, 08 Nov 2026 16:41:31 GMT"
+        "pubDate": "Thu, 12 Nov 2026 23:25:14 GMT"
       },
       {
         "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - Wolters Kluwer",
