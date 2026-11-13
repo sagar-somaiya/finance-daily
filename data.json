@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T03:02:36.601562+00:00",
+  "generatedAt": "2026-11-13T11:19:44.185754+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 70189,
-      "chg": -4.83
+      "price": 69311,
+      "chg": -5.44
     },
     "eth": {
-      "price": 1988.8,
-      "chg": -3.28
+      "price": 1952.88,
+      "chg": -4.32
     }
   },
   "fx": {
@@ -89,78 +89,78 @@
   "news": {
     "corp": [
       {
-        "title": "India equity surge brightens outlook for exchanges, brokerages",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/india-equity-surge-brightens-outlook-for-exchanges-brokerages/articleshow/135786787.cms",
+        "title": "Indian rupee snaps rising streak on hawkish Fed, oil rise",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-snaps-rising-streak-on-hawkish-fed-oil-rise/articleshow/135798564.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 08:13:10 +0530"
+        "pubDate": "Fri, 13 Nov 2026 15:41:52 +0530"
       },
       {
-        "title": "Anthropic's IPO is about six times oversubscribed, Bloomberg News reports",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-ipo-is-about-six-times-oversubscribed-bloomberg-news-reports/articleshow/135786658.cms",
+        "title": "Cisco shares rally after earnings beat: 6 key things investors need to know",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/cisco-shares-rally-after-earnings-beat-6-key-things-investors-need-to-know/slideshow/135794957.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 07:59:21 +0530"
+        "pubDate": "Fri, 13 Nov 2026 13:10:19 +0530"
       },
       {
-        "title": "Dollar near 19-month high on Fed hike bets, yen tests 160",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-near-19-month-high-on-fed-hike-bets-yen-tests-160/articleshow/135786354.cms",
+        "title": "Tesla-SpaceX Merger: Musk eyes December deal announcement",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/tesla-spacex-merger-musk-eyes-december-deal-announcement/slideshow/135793745.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 07:33:28 +0530"
+        "pubDate": "Fri, 13 Nov 2026 12:23:07 +0530"
       },
       {
-        "title": "Sensex Today | Nifty 50 | Stock Market Live Updates: GIFT Nifty signals a negative start; Asian shares trade higher",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-vodafone-idea-mm-share-price-13-november-2026/liveblog/135786229.cms",
+        "title": "MSCI rejig: Which stocks may see the biggest inflows &amp; outflows?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/msci-rejig-which-stocks-may-see-the-biggest-inflows-amp-outflows/slideshow/135792280.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 07:10:11 +0530"
+        "pubDate": "Fri, 13 Nov 2026 11:36:12 +0530"
       },
       {
-        "title": "Gold inches higher but heads for weekly loss on Fed hike concerns",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-higher-but-heads-for-weekly-loss-on-fed-hike-concerns/articleshow/135785994.cms",
+        "title": "Carlsberg said to start road show for $600 million India IPO",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/carlsberg-said-to-start-road-show-for-600-million-india-ipo/articleshow/135790402.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 07:01:36 +0530"
+        "pubDate": "Fri, 13 Nov 2026 10:45:15 +0530"
       },
       {
-        "title": "Jensen Huang forfeits $108 million in unvested Nvidia equity",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/jensen-huang-forfeits-108-million-in-unvested-nvidia-equity/articleshow/135785775.cms",
+        "title": "Top pension fund to buy more India state bonds on high yields",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/top-pension-fund-to-buy-more-india-state-bonds-on-high-yields/articleshow/135789980.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 06:35:44 +0530"
+        "pubDate": "Fri, 13 Nov 2026 10:31:33 +0530"
       },
       {
-        "title": "Global Market Today: Asian stocks gain after Nvidia shakeup, oil steady",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-gain-after-nvidia-shakeup-oil-steady/articleshow/135785602.cms",
+        "title": "India bonds under pressure before debt supply; hot inflation prints pinch further",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-under-pressure-before-debt-supply-hot-inflation-prints-pinch-further/articleshow/135789760.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 06:15:37 +0530"
+        "pubDate": "Fri, 13 Nov 2026 10:16:04 +0530"
       },
       {
-        "title": "US stocks: Retail buyers limit Nvidia stock rout",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-retail-buyers-limit-nvidia-stock-rout/articleshow/135782108.cms",
+        "title": "Asian Paints Share Price Live Updates: Asian Paints Volume and Price Insights",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/asian-paints-share-price-today-live-updates-13-nov-2026/liveblog/135789396.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 02:06:34 +0530"
+        "pubDate": "Fri, 13 Nov 2026 10:00:39 +0530"
       },
       {
-        "title": "US Fed sets new meeting schedule for 2027, as foretold by Chairman Kevin Warsh",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-sets-new-meeting-schedule-for-2027-as-foretold-by-chairman-kevin-warsh/articleshow/135781878.cms",
+        "title": "Aditya Birla Capital among 9 stocks showing White Marubozu Pattern",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/aditya-birla-capital-among-9-stocks-showing-white-marubozu-pattern/slideshow/135788959.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 01:42:45 +0530"
+        "pubDate": "Fri, 13 Nov 2026 09:21:41 +0530"
       },
       {
-        "title": "Kalshi ends Donald Trump Jr's advisory contract due to Polymarket conflict",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/kalshi-ends-donald-trump-jrs-advisory-contract-due-to-polymarket-conflict/articleshow/135780903.cms",
+        "title": "One97 Communications among 3 stocks closing above VWAP",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/one97-communications-among-3-stocks-closing-above-vwap/slideshow/135788620.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 00:16:11 +0530"
+        "pubDate": "Fri, 13 Nov 2026 09:14:54 +0530"
       }
     ],
     "acct": [
+      {
+        "title": "How IFRS 18 for financial services can reshape GCC reporting - EY",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObmhnOXNBY2luMTFtYW8yTEo5NmZxdU5wR3NxNmNnQ1h0MDJqaWluSjQ2QnRRZFhDOUtZS18xZ0JVcW1VSGRlTklacGNpZmFFa2FGbUs5SUdJYmJpOTM5UjdsOHc2UGgycFJTbVpZdFFnRE5xalZaaUE2UVRrRlpXQmo5LU11TXNoY3EweUpnN0YzTy1mdUp1X19uVmJyVFYxMWxRY3hIWDU5NWhmVERxdkVMaU14N091MjM3UWNPMFA3eTg3VGNkM1JYaEVwdw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 13 Nov 2026 06:57:02 GMT"
+      },
       {
         "title": "ECN Capital: Q3 adjusted net income reached $24.0 million as IFRS net income returned to $22.3 million - TradingView",
         "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPTGNnVlk2Wi0yTFRUOTNlY1hVakR6anUzVVB3V3F2QnI4Q3NxenptYy1LTER1bXZhNFRqc3FxM0hSdnI1VlBKSnJRLTZxbXYxMm1mLWFSclZqbThSMmlPNUE4a1liN1RWWFJRcFAxNU84aXRKaHdydkpfMHZaZ25sRFpSZWdSeEZ4M1J1c1lXNWZKeDFpT05jTDllNG1ERi1aSG1FUlR5QjFQLTdLeEdkVFd6MUs0bUdBRHVweFFudGRvUVcxUklUOU9JN3lxbVhwNzhJVjZ1eS1HNTlZOWVKUWN2Wm04UHZKenNQOWRDTXdOLWZ4RWI1TC11RmdIU3Z0ZGJkd1RwcGpOQUhkcnpJ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 13 Nov 2026 02:30:00 GMT"
-      },
-      {
-        "title": "Inter : 3Q26 IFRS Financial Statements - www.marketscreener.com",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUx5QWRNMWMtZE5iOUdTa3AtSWFIOVFYeFp5NVVIUGdGZ1dQR01pN2ZYb01BQ2FMUEk2MTBqMHF1RmVwU2R5MHRxTnV5Wnd6cllrTEJYeUd3blpsT2dMLWVULUpwVmNaZHhBMTc1elJ5RGVLdTFpaWI2Y0NhX0hIRUhCbU55R1p4eFprVTFJM3lpaXM?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 12 Nov 2026 23:25:14 GMT"
       },
       {
         "title": "IFRS 16 – An overview - kpmg.com",
@@ -175,16 +175,10 @@
         "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFhGX19mVjU0d0pwWWhNRndFUjliUTNFXzMtbFB1aXVETlZMdXk2aU9mOXFfUU1CYUZNY211QUVFNmYwbERsOWtrM0p0ZVhHSnJFQlY4OFpGb1JkOEFGeGFGMTA3Mzdrc2kycVM1TDhuV0pmRG5SME4tUXNhdTRTcWs1WXhWVWtFanBYTVBNemt2b0dLbjhwZW9nRjB3UUY3OU5TbUxRWQ?oc=5",
+        "title": "Inter : 3Q26 IFRS Financial Statements - www.marketscreener.com",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUx5QWRNMWMtZE5iOUdTa3AtSWFIOVFYeFp5NVVIUGdGZ1dQR01pN2ZYb01BQ2FMUEk2MTBqMHF1RmVwU2R5MHRxTnV5Wnd6cllrTEJYeUd3blpsT2dMLWVULUpwVmNaZHhBMTc1elJ5RGVLdTFpaWI2Y0NhX0hIRUhCbU55R1p4eFprVTFJM3lpaXM?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 10 Jul 2026 14:35:46 GMT"
-      },
-      {
-        "title": "Sustainability Reporting: GRI, IFRS S1 and ESRS - CASRAI",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiZFJwQ0hHbFRZcTR3ZVdhYVNUWUFtWU85LWYtN2xTSS1jR1U4VEFkZTVNVHkwZUpUWXp5ZVRlZ2xYTlh3VURQVHRua0YtQmh1Y3dKLW9CeEdQMVhteWlj?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sun, 08 Nov 2026 16:41:31 GMT"
+        "pubDate": "Thu, 12 Nov 2026 23:25:14 GMT"
       },
       {
         "title": "Irdai sets up working groups to align risk-based capital regime with Ind AS - Business Standard",
@@ -193,10 +187,10 @@
         "pubDate": "Tue, 10 Nov 2026 14:32:29 GMT"
       },
       {
-        "title": "The Works Expects Pre-IFRS 16 Adjusted EBITDA For Current Financial Year To Be Ahead Of Market Expectations - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPT241RWpvc3FpM1ZrM0VuT0Y1SHhUWDI1SEpVUllrY2pWX3dGeU1RMGFPX0w3eHUzbmN2SVFTWjlPOUJXdFN4eFZFSVNVOHhERUJIU250N05kUGc2ZmRwdUQ5OE5nRm5LT19WTy01ZEQ4ZmlONmJHdnNhZmdfSi1rbUYxS0pGMnQ4S3MxU3FKODNjRFJRZWg1eUpFZDlyV1VzdkRMc1plZG1SM0piVmVvaXdrbFhZZnJ6elBoaG1GR0h3aEZCRmdsV2dTUkwzQ2pIaEJVN0lsOFhsalc1WkdVWkJKcHdPNndoZERyNFVlYW96SjV3VXl5UkFLWWJGZUR6dU4xZDZIZ0Y?oc=5",
+        "title": "Sustainability Reporting: GRI, IFRS S1 and ESRS - CASRAI",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiZFJwQ0hHbFRZcTR3ZVdhYVNUWUFtWU85LWYtN2xTSS1jR1U4VEFkZTVNVHkwZUpUWXp5ZVRlZ2xYTlh3VURQVHRua0YtQmh1Y3dKLW9CeEdQMVhteWlj?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 12 Nov 2026 08:21:13 GMT"
+        "pubDate": "Sun, 08 Nov 2026 16:41:31 GMT"
       },
       {
         "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - Wolters Kluwer",
@@ -209,6 +203,12 @@
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wcDhQbmt3OExHbWtkWXE0VU9relJ3MlJoVTBSeTBxMVFCMkRBd1M3NTVLNUxtb1BpS3l6N1ZKazZiSFhXbTNLYmJ3MTNaN3h1YU1Rc1JyMGlKOGhDemgwSkpZQnZFWjNOMnVsS3lKZjh5NXdS?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 26 May 2026 07:00:00 GMT"
+      },
+      {
+        "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFhGX19mVjU0d0pwWWhNRndFUjliUTNFXzMtbFB1aXVETlZMdXk2aU9mOXFfUU1CYUZNY211QUVFNmYwbERsOWtrM0p0ZVhHSnJFQlY4OFpGb1JkOEFGeGFGMTA3Mzdrc2kycVM1TDhuV0pmRG5SME4tUXNhdTRTcWs1WXhWVWtFanBYTVBNemt2b0dLbjhwZW9nRjB3UUY3OU5TbUxRWQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 10 Jul 2026 14:35:46 GMT"
       }
     ]
   }
