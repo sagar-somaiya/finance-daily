@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T00:03:36.617078+00:00",
+  "generatedAt": "2026-11-14T06:49:16.097692+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,81 +72,81 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 68314,
-      "chg": -4.31
+      "price": 67308,
+      "chg": -2.08
     },
     "eth": {
-      "price": 1932.28,
-      "chg": -4.22
+      "price": 1902.91,
+      "chg": -1.27
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 94.09,
-    "eurinr": 104.14,
-    "gbpinr": 124.59
+    "usdinr": 94.29,
+    "eurinr": 104.08,
+    "gbpinr": 124.65
   },
   "news": {
     "corp": [
       {
-        "title": "Anthropic IPO share orders from China are said to be rebuffed",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed/articleshow/135809948.cms",
+        "title": "6 out of 10 top performing largecap stocks in November delivered multibagger returns in long run. Do you own any?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/6-out-of-10-top-performing-largecap-stocks-in-november-delivered-multibagger-returns-in-long-run-do-you-own-any/slideshow/135824732.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 21:58:14 +0530"
+        "pubDate": "Sat, 14 Nov 2026 11:31:43 +0530"
       },
       {
-        "title": "BofA adds January Fed hike to forecast, says quarterly pace no longer enough",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bofa-adds-january-fed-hike-to-forecast-says-quarterly-pace-no-longer-enough/articleshow/135808910.cms",
+        "title": "Anthropic IPO buyers have more influence on price than SpaceX",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-buyers-have-more-influence-on-price-than-spacex/articleshow/135823355.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 21:15:53 +0530"
+        "pubDate": "Sat, 14 Nov 2026 10:33:57 +0530"
       },
       {
-        "title": "US stocks: US stocks reverse early gains as Nvidia turmoil hits tech sector",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-after-soft-producer-prices-data/articleshow/135807296.cms",
+        "title": "Wall Street’s wild ride delivers big paydays and bigger bruises",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-streets-wild-ride-delivers-big-paydays-and-bigger-bruises/articleshow/135822826.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 20:15:46 +0530"
+        "pubDate": "Sat, 14 Nov 2026 10:24:26 +0530"
       },
       {
-        "title": "Chicago Fed's Goolsbee says on CNBC the Fed needs to guard against demand overheating",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/chicago-feds-goolsbee-says-on-cnbc-the-fed-needs-to-guard-against-demand-overheating/articleshow/135807011.cms",
+        "title": "Nvidia has worst week since Trump tariff selloff as Huang exits",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-has-worst-week-since-trump-tariff-selloff-as-huang-exits/articleshow/135822623.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 20:14:42 +0530"
+        "pubDate": "Sat, 14 Nov 2026 09:58:50 +0530"
       },
       {
-        "title": "US Treasury chief says Fed should not hike rates over energy shock tied to Iran war",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-chief-says-fed-should-not-hike-rates-over-energy-shock-tied-to-iran-war/articleshow/135806960.cms",
+        "title": "Bitcoin’s billion-dollar wipeouts are becoming a familiar sight",
+        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoins-billion-dollar-wipeouts-are-becoming-a-familiar-sight/articleshow/135822462.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 20:01:51 +0530"
+        "pubDate": "Sat, 14 Nov 2026 09:46:35 +0530"
       },
       {
-        "title": "MAN Industries PAT rises to Rs 82 cr in Q2",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/man-industries-pat-rises-to-rs-82-cr-in-q2/articleshow/135806024.cms",
+        "title": "5 world market themes for the week ahead",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-world-market-themes-for-the-week-ahead/articleshow/135822113.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 19:30:47 +0530"
+        "pubDate": "Sat, 14 Nov 2026 09:32:17 +0530"
       },
       {
-        "title": "S&amp;P 500, Nasdaq close lower as rate-hike bets pressure US stocks: Stock Market Highlights",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-microsoft-cerebras-amd-micron-treasury-yield-news-13th-november-2026/liveblog/135804970.cms",
+        "title": "AI rockets to top of worries about financial system in latest Fed survey",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-rockets-to-top-of-worries-about-financial-system-in-latest-fed-survey/articleshow/135821841.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 18:41:45 +0530"
+        "pubDate": "Sat, 14 Nov 2026 09:25:22 +0530"
       },
       {
-        "title": "Godrej Properties buys 31-acre land in Indore for Rs 130 cr to build housing project",
-        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/godrej-properties-buys-31-acre-land-in-indore-for-rs-130-cr-to-build-housing-project/articleshow/135804198.cms",
+        "title": "Fed's Jefferson says he is taking his policy cues from inflation",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-jefferson-says-he-is-taking-his-policy-cues-from-inflation/articleshow/135821792.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 18:24:17 +0530"
+        "pubDate": "Sat, 14 Nov 2026 09:20:59 +0530"
       },
       {
-        "title": "German yields set for biggest weekly rise in two months",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/german-yields-set-for-biggest-weekly-rise-in-two-months/articleshow/135804160.cms",
+        "title": "Wall Street Week Ahead: Nvidia results, Anthropic IPO pose tests for tumultuous AI trade",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-st-week-ahead-nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade/articleshow/135821735.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 18:22:46 +0530"
+        "pubDate": "Sat, 14 Nov 2026 09:16:38 +0530"
       },
       {
-        "title": "India 10-year bond yield reverses half of last week's drop on elevated inflation",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-yield-reverses-half-of-last-weeks-drop-on-elevated-inflation/articleshow/135804127.cms",
+        "title": "US Supreme Court to consider lawsuit over Robinhood's 2021 IPO",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-supreme-court-to-consider-lawsuit-over-robinhoods-2021-ipo/articleshow/135821666.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 13 Nov 2026 18:21:07 +0530"
+        "pubDate": "Sat, 14 Nov 2026 09:14:05 +0530"
       }
     ],
     "acct": [
@@ -157,8 +157,14 @@
         "pubDate": "Fri, 13 Nov 2026 06:58:36 GMT"
       },
       {
+        "title": "One Lease, Two Expense Patterns: Ind AS 116 vs ASC 842 - CAclubindia",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEtITThRaFB2LUZJdXBCeXhYTTNybFhOUzdjUFJiWlpIdUh2Si1VZlpTVVB5V29WX1hZbHd5RUJZU3NHTmJfNUV2REtwV3d0d2ZFMnY5eUlib1BfWW13cF9BZXlaQ3FBQng1X3p0c3dEOEpKblhfZmZXV1Y3clJNQ0ViT053ai1nQklkMXN5UEI5Y0RYMTBTdG5IcnpnR0dv?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sat, 14 Nov 2026 03:26:00 GMT"
+      },
+      {
         "title": "ICAI Hyderabad Hosts Conference on Evolving IPO Ecosystem, Role of CAs - Deccan Chronicle",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeXZjTjNoUHRfaW1vWkxLWEZkb254cTRNRGJuWFZFc05YWFVjcnFBc3A4enpaN1RTM0d0RWpTVGRDZHN2VVBjMTVwc0dpNkN0QWl4bkxsa3BEdTNwSWVyWlpabXo3VG4wbW5IYTJWM1hac2ZLS0JjdUNjUnkxOXhobUxGTlBtMTdIOVlsSzU0SmFPR1p6UVpTMGNrdEFUNDZ1d210aWh4UDc0WXR1U2c3d3oyYzBMMU93MjRWSkZaMXVlMkRqVkk0WE54SmluQ2g40gHWAUFVX3lxTE5CMzVmb1dmS3hjT1JDajNhTGo2c0VGU1VpdHhpbmFqMkJmY2FMbXI4WEM5Rlkxc3hSRlNtOTZpSFZ2UHhaVzA1bmdjdklvZVU2TVVBQXhscWdGNDhaNlBoMlY2ODFsYk5PT2VraG42MTE1UGxYaFpRYlhobFh5bWtYbnFCMUEwRUkzR3lPTlpZV1VDWi1Na3dzcmo2amplRWQwaXJtSDhNM1pCbVZJZXZ3UFZpNG5yMWxMUld5engxZ2hUQ2trekFZSkZSX01yZFVMXzdxU2c?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeXZjTjNoUHRfaW1vWkxLWEZkb254cTRNRGJuWFZFc05YWFVjcnFBc3A4enpaN1RTM0d0RWpTVGRDZHN2VVBjMTVwc0dpNkN0QWl4bkxsa3BEdTNwSWVyWlpabXo3VG4wbW5IYTJWM1hac2ZLS0JjdUNjUnkxOXhobUxGTlBtMTdIOVlsSzU0SmFPR1p6UVpTMGNrdEFUNDZ1d210aWh4UDc0WXR1U2c3d3oyYzBMMU93MjRWSkZaMXVlMkRqVkk0WE54SmluQ2g4?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 13 Nov 2026 18:14:17 GMT"
       },
@@ -173,6 +179,12 @@
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ2FGY3hKRFNBYndXMDNRZUpYekxmejNZc3hyeVlWODgxRmM5aGZzMmFBRVZieGhQNlNxRk44VlZZSU1mYTlQWWlmMHBZUzNqQld0WmJnYVdueGV3RkRXVmZSVEV4Q05XVFFOT3JERG5uZVhfN3ZMSmJZbTZMZXNwSXVjbi1MUktqLUZpQ3ZUTldta3ZKNnJJZ0NiWmVFVHFHT2FibUFrU1VmYkNWa0M1QXgteGRzcWNTS09kQm1EMlFFYXcwR2lpb1luNXNkWjM1czB3UkFmdw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "IFRS 20 adoption - PwC",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFOVd2Q1NMQzBXZUhlcjV4TjJMNm1hVGZXUm9IUXZXcVRIS1dmU2tRZGJBZnVIMXVtaW1LNjJvMmc5aHI3SW5RNXFab2JQSVB6MTFPY0V6d1I2aDhnZnpmZkhkZ2xKZHVVbWlIRFJYY0xIakdDaDRCUVRaTEMtQms?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 12 Nov 2026 08:00:00 GMT"
       },
       {
         "title": "The Works Expects Pre-IFRS 16 Adjusted EBITDA For Current Financial Year To Be Ahead Of Market Expectations - TradingView",
@@ -197,18 +209,6 @@
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFhGX19mVjU0d0pwWWhNRndFUjliUTNFXzMtbFB1aXVETlZMdXk2aU9mOXFfUU1CYUZNY211QUVFNmYwbERsOWtrM0p0ZVhHSnJFQlY4OFpGb1JkOEFGeGFGMTA3Mzdrc2kycVM1TDhuV0pmRG5SME4tUXNhdTRTcWs1WXhWVWtFanBYTVBNemt2b0dLbjhwZW9nRjB3UUY3OU5TbUxRWQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 10 Jul 2026 14:35:46 GMT"
-      },
-      {
-        "title": "Insurers: Are you ready for IFRS 18? - kpmg.com",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wcDhQbmt3OExHbWtkWXE0VU9relJ3MlJoVTBSeTBxMVFCMkRBd1M3NTVLNUxtb1BpS3l6N1ZKazZiSFhXbTNLYmJ3MTNaN3h1YU1Rc1JyMGlKOGhDemgwSkpZQnZFWjNOMnVsS3lKZjh5NXdS?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 26 May 2026 07:00:00 GMT"
-      },
-      {
-        "title": "HomeToGo SE: HomeToGo Increases FY/26 Adjusted EBITDA Guidance to €48M - €50M; Confirms IFRS Revenue Guidance - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZXg0UWRIUGxRTFpZVTZ1MkMtLVZlX1hyMFVrNUJJTVd5aFJzV3haQnJEMWdzVFpqUWRieTczYTI4TVBDcEVmdzNqeDlfUHlwYzBsblppWUl1dy1PdjE5dG1vV0k0eVVPS3c5cTNoOGpuSTIwRTRFSzVWUkptSG5BQ0t5eUVPQjVRc2htNGdFazVUSkczWXRybDFOa2MzcUs1amFaU09sb28zdWh4MTV2REFHRlIyT2tjaTBNMm9uSkQ5a0FqTjg0NzhodlN4RGlMNTcxUGZsTVV1TWNBU3lqOHZ4Q0w5Z2tXclg3LVZn?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 10 Nov 2026 15:22:03 GMT"
       }
     ]
   }
