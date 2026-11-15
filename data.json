@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T22:49:05.846281+00:00",
+  "generatedAt": "2026-11-15T02:17:09.279660+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,19 +72,19 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 63808,
-      "chg": -6.64
+      "price": 63846,
+      "chg": -6.31
     },
     "eth": {
-      "price": 1758.41,
-      "chg": -8.85
+      "price": 1773.88,
+      "chg": -7.69
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 94.29,
-    "eurinr": 104.08,
-    "gbpinr": 124.65
+    "usdinr": 94.26,
+    "eurinr": 104.04,
+    "gbpinr": 124.62
   },
   "news": {
     "corp": [
@@ -187,10 +187,10 @@
         "pubDate": "Tue, 10 Nov 2026 09:16:14 GMT"
       },
       {
-        "title": "IFRS 20 adoption - PwC",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFOVd2Q1NMQzBXZUhlcjV4TjJMNm1hVGZXUm9IUXZXcVRIS1dmU2tRZGJBZnVIMXVtaW1LNjJvMmc5aHI3SW5RNXFab2JQSVB6MTFPY0V6d1I2aDhnZnpmZkhkZ2xKZHVVbWlIRFJYY0xIakdDaDRCUVRaTEMtQms?oc=5",
+        "title": "Valeura Energy Inc. Announces Exploration, Development, Production Success - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc0lkanpBeFRSMGRveEtzSjNneGFLLTBkYzdEcEI4LXVPblBiQTNnM2l0NU1WQTA2SUJBRTRFaFNhUHV0RGUxaE5zc0N3RE1qczZzNkJTYXVnaUpqOEJHd3M0cTN5Y3I1QVRTQ3lidVNHMU5UYU9faDRPaU5CVWZfOHpJVWRRbmsyN0wweHN5LVB4SWczZVVmMWoxQVAxbDRzbkJVbXhxYzZncF9hdVIwVzk0dldWSHFQcGRoYW9aVU00eTY1X1VwSHZRVQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 12 Nov 2026 08:00:00 GMT"
+        "pubDate": "Wed, 11 Nov 2026 07:00:00 GMT"
       },
       {
         "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
