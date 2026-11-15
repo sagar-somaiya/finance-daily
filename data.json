@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T16:42:27.539956+00:00",
+  "generatedAt": "2026-11-15T21:25:05.882597+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 64490,
-      "chg": -1.43
+      "price": 64917,
+      "chg": 0.87
     },
     "eth": {
-      "price": 1810.74,
-      "chg": -1.03
+      "price": 1815.02,
+      "chg": 2.37
     }
   },
   "fx": {
@@ -175,12 +175,6 @@
         "pubDate": "Fri, 13 Nov 2026 18:14:17 GMT"
       },
       {
-        "title": "HomeToGo SE: HomeToGo Increases FY/26 Adjusted EBITDA Guidance to €48M - €50M; Confirms IFRS Revenue Guidance - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZXg0UWRIUGxRTFpZVTZ1MkMtLVZlX1hyMFVrNUJJTVd5aFJzV3haQnJEMWdzVFpqUWRieTczYTI4TVBDcEVmdzNqeDlfUHlwYzBsblppWUl1dy1PdjE5dG1vV0k0eVVPS3c5cTNoOGpuSTIwRTRFSzVWUkptSG5BQ0t5eUVPQjVRc2htNGdFazVUSkczWXRybDFOa2MzcUs1amFaU09sb28zdWh4MTV2REFHRlIyT2tjaTBNMm9uSkQ5a0FqTjg0NzhodlN4RGlMNTcxUGZsTVV1TWNBU3lqOHZ4Q0w5Z2tXclg3LVZn?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 10 Nov 2026 15:22:03 GMT"
-      },
-      {
         "title": "CA Final November 2026: MCQ pattern changes across five subjects, full analysis here - India Today",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMGlmUVQyaHVfOHJBeTFTY0tPcnJkV20wSjhEVE9acXdSa183TGVkdWdrcnhwQUxRa2drOTRkTl9mNmc3MDE5RU5nSXRLa3FWVjN3WlpEY1JfRlBkNnJGcEg5bzF2TWlwRzhUNFBLTzdhS0hhWDI5bGRVYmxHM1lERmxmS3lUSVBpWnctWFJ4cUozTUpqTHE4MFhYQXZfNEw5dERMdWpFYUhzVmFpWDBXd0o2aUN0dF9jQTFfdFd1WVRCc2ZFSUlJR3VGcXBnTXJDNkNHUNIB2gFBVV95cUxPQjJXRklhR2k3RWdyVkdJN1ZhamJIQTl5czhnb095cTVRSEFwckpQVENNNjFHc003bFFrYzlvc3oyV2hHend4RWVSWGlFTjc5Qk5ZV2JYdm9udUhIb1ZrcTF0Y0RQd0xqYnIzci0yZl9nZGFlYVFQYXR6dEdRQ19yT2twWVpiUTRqaHBlVWkzVjNjSFFfVGFEWTF4NDBHUm1uc3lQZnFPQ0RUb0pwR3VwODBzYnByWmlfV254a0VwVWZ6dklqVE9PckdIQ2k3TUFzeHk0NEItWEUtdw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -209,6 +203,12 @@
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wcDhQbmt3OExHbWtkWXE0VU9relJ3MlJoVTBSeTBxMVFCMkRBd1M3NTVLNUxtb1BpS3l6N1ZKazZiSFhXbTNLYmJ3MTNaN3h1YU1Rc1JyMGlKOGhDemgwSkpZQnZFWjNOMnVsS3lKZjh5NXdS?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 26 May 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Ind AS 118: Changing the way the numbers speak - EY",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVi1kYVhpWFZlZFE2b0dZMG83WW1mSnVpR2tHcVRLbkhEdlV0aHhkV2hxUF8zYnZVS0dqYmZjVTFBSVVldG9hZ256ZDdfaWRuMG5PcVFMUWhtZnBIVTJnQlVNdkVKMEFBOVN3UUZ2cVlSSUpKUWNLanV5VUhlclVhaGV4Y01IS1hDWkFhaVh5aUVwR01PcWh1emlFNUQ1eUpXVHl2WnVjSkI5YU5Oc3J0MWplMW1zaDc4ZGc?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 24 Mar 2026 09:53:22 GMT"
       }
     ]
   }
