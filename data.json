@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T01:12:42.425470+00:00",
+  "generatedAt": "2026-11-16T08:10:59.863006+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 64770,
-      "chg": 3.11
+      "price": 64652,
+      "chg": 0.93
     },
     "eth": {
-      "price": 1811.02,
-      "chg": 4.91
+      "price": 1810.5,
+      "chg": 1.42
     }
   },
   "fx": {
@@ -89,72 +89,78 @@
   "news": {
     "corp": [
       {
-        "title": "Yes Bank moves SC seeking review of order on writing off of Rs 8,415 cr AT-1 bonds",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-moves-sc-seeking-review-of-order-on-writing-off-of-rs-8415-cr-at-1-bonds/articleshow/135830873.cms",
+        "title": "UPL Share Price Live Updates: UPL Surges Above 100-Day Exponential Moving Average",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/upl-stock-price-live-updates-16-nov-2026/liveblog/135872604.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 14 Nov 2026 16:40:38 +0530"
+        "pubDate": "Mon, 16 Nov 2026 09:47:59 +0530"
       },
       {
-        "title": "RHI Magnesita Q2 net profit jumps 62 pc to over Rs 62 cr",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/rhi-magnesita-q2-net-profit-jumps-62-pc-to-over-rs-62-cr/articleshow/135830890.cms",
+        "title": "Technical picks: ABB India among 5 stocks to buy this week for healthy returns",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/tech-picks-abb-india-among-5-stocks-to-buy-this-week-for-healthy-returns/slideshow/135872688.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 14 Nov 2026 16:39:54 +0530"
+        "pubDate": "Mon, 16 Nov 2026 09:43:24 +0530"
       },
       {
-        "title": "Mahanadi Coalfields files RHP for proposed IPO worth nearly Rs 9,500 crore",
-        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-rs-9500-crore/articleshow/135829640.cms",
+        "title": "Sun Pharma Share Price Live Updates: Current Market Performance of Sun Pharma",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-share-price-today-live-updates-16-nov-2026/liveblog/135871948.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 14 Nov 2026 15:42:53 +0530"
+        "pubDate": "Mon, 16 Nov 2026 09:20:11 +0530"
       },
       {
-        "title": "Dalal Street Week Ahead: Can Nifty bulls overcome key resistance levels?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-can-nifty-bulls-overcome-key-resistance-levels/articleshow/135829497.cms",
+        "title": "Maruti Suzuki Share Price Live Updates: Maruti Suzuki's Current Trading Status",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/maruti-suzuki-share-price-today-live-16-nov-2026/liveblog/135871604.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 14 Nov 2026 15:38:04 +0530"
+        "pubDate": "Mon, 16 Nov 2026 09:05:24 +0530"
       },
       {
-        "title": "Concurrent Gainers: 8 stocks gain for 5 days in a row",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-8-stocks-gain-for-5-days-in-a-row/slideshow/135828499.cms",
+        "title": "BPCL Share Price Live Updates: Current Price Analysis for BPCL",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-stock-price-live-updates-16-nov-2026/liveblog/135871462.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 14 Nov 2026 14:45:57 +0530"
+        "pubDate": "Mon, 16 Nov 2026 09:01:16 +0530"
       },
       {
-        "title": "Binance targets full reopening of withdrawals by next week",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/binance-targets-full-reopening-of-withdrawals-by-next-week/articleshow/135828102.cms",
+        "title": "Coal India Share Price Live Updates: Coal India Price Update: Slight Decline Observed",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/coal-india-ltd-stock-price-livestock-price-today-live-updates-16-nov-2026/liveblog/135871357.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 14 Nov 2026 14:35:48 +0530"
+        "pubDate": "Mon, 16 Nov 2026 08:55:08 +0530"
       },
       {
-        "title": "Base metals lose momentum amid strong dollar and demand concerns",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/base-metals-lose-momentum-amid-strong-dollar-and-demand-concerns/articleshow/135827655.cms",
+        "title": "Tech Mahindra Share Price Live Updates: Tech Mahindra's Current Market Position",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tech-mahindra-share-price-live-16-nov-2026/liveblog/135871297.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 14 Nov 2026 14:20:56 +0530"
+        "pubDate": "Mon, 16 Nov 2026 08:51:15 +0530"
       },
       {
-        "title": "6 out of 10 top performing largecap stocks in November delivered multibagger returns in long run. Do you own any?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/6-out-of-10-top-performing-largecap-stocks-in-november-delivered-multibagger-returns-in-long-run-do-you-own-any/slideshow/135824732.cms",
+        "title": "Nestle India Share Price Live Updates: Nestle India Trading Insights",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-today-live-16-nov-2026/liveblog/135871285.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 14 Nov 2026 11:31:43 +0530"
+        "pubDate": "Mon, 16 Nov 2026 08:50:26 +0530"
       },
       {
-        "title": "Anthropic IPO buyers have more influence on price than SpaceX",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ipo-buyers-have-more-influence-on-price-than-spacex/articleshow/135823355.cms",
+        "title": "M&amp;M Share Price Live Updates: M&amp;M Stock Details",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-share-price-live-16-nov-2026/liveblog/135871088.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 14 Nov 2026 10:33:57 +0530"
+        "pubDate": "Mon, 16 Nov 2026 08:40:29 +0530"
       },
       {
-        "title": "Wall Street’s wild ride delivers big paydays and bigger bruises",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-streets-wild-ride-delivers-big-paydays-and-bigger-bruises/articleshow/135822826.cms",
+        "title": "HCL Tech Share Price Live Updates: HCL Tech Stock Details",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hcl-tech-share-price-live-updates-16-nov-2026/liveblog/135870988.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Sat, 14 Nov 2026 10:24:26 +0530"
+        "pubDate": "Mon, 16 Nov 2026 08:36:04 +0530"
       }
     ],
     "acct": [
       {
-        "title": "How IFRS 18 for financial services can reshape GCC reporting - EY",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObmhnOXNBY2luMTFtYW8yTEo5NmZxdU5wR3NxNmNnQ1h0MDJqaWluSjQ2QnRRZFhDOUtZS18xZ0JVcW1VSGRlTklacGNpZmFFa2FGbUs5SUdJYmJpOTM5UjdsOHc2UGgycFJTbVpZdFFnRE5xalZaaUE2UVRrRlpXQmo5LU11TXNoY3EweUpnN0YzTy1mdUp1X19uVmJyVFYxMWxRY3hIWDU5NWhmVERxdkVMaU14N091MjM3UWNPMFA3eTg3VGNkM1JYaEVwdw?oc=5",
+        "title": "Weekly Recap: Rental growth and IFRS profit surge on valuation surplus - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNHFVdVpaeTZKUnVibHhZd09zdU1CbGt2ZFQxYmZqUzBvck1LOFB3VlVWYjE2X1ZLa2RNaUVGQm15Z3RVcjBRS3MwX0s1eG1KR1UwUC1sb0ZzdXA4VVNDY1FQQzVYZ2g0MkxtNHVpaUhXMVY5eDFDX3FyU1R3cnc2RDk1RlBGV1NjVE9WUVhhVE9vYkZSb3UyQmFXWDJGU3JYY3pjMnAtNmZPOVNjVHlCTVg5cmQ1NnRNZjVMc1BjZTlGZk1nRGJmVzIwWQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 13 Nov 2026 06:58:36 GMT"
+        "pubDate": "Mon, 16 Nov 2026 05:00:00 GMT"
+      },
+      {
+        "title": "Air Water : Consolidated Financial Results (Under IFRS) For the Second Quarter of the March 31, 2027 Fiscal Year - www.marketscreener.com",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPem9sa3NPSUdhcEMzdXAxeGY0Mk9Rc3Vkc2M4SDFGT1dWS3J3ZVVqWFg2eDhLaHlHWUtnXzJPNy10UlhleG9jc0JhUlhNRHpHeVNlYWFnRUV1RXo0VTh4emY4cWNfNktIYzNHajAzRmdRYVhBTUNodlF2VjZYV0l1eHlmZ0pSNXg3WThrLWMtcHFuRldmeG1tTHAyZ2hJd3NiOE9HMGZYOVR1MkJBWmRmUjVLMXZDT1ZmQnJXRG1aMmFHWHQzY0s1ZVltdmJhMS02U0k2eTR5TGpFYmVnLWpHSjRR?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 16 Nov 2026 07:33:04 GMT"
       },
       {
         "title": "IFRS 16 – An overview - kpmg.com",
@@ -169,22 +175,22 @@
         "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "ICAI Hyderabad Hosts Conference on Evolving IPO Ecosystem, Role of CAs - Deccan Chronicle",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeXZjTjNoUHRfaW1vWkxLWEZkb254cTRNRGJuWFZFc05YWFVjcnFBc3A4enpaN1RTM0d0RWpTVGRDZHN2VVBjMTVwc0dpNkN0QWl4bkxsa3BEdTNwSWVyWlpabXo3VG4wbW5IYTJWM1hac2ZLS0JjdUNjUnkxOXhobUxGTlBtMTdIOVlsSzU0SmFPR1p6UVpTMGNrdEFUNDZ1d210aWh4UDc0WXR1U2c3d3oyYzBMMU93MjRWSkZaMXVlMkRqVkk0WE54SmluQ2g4?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 13 Nov 2026 18:14:17 GMT"
-      },
-      {
-        "title": "Inter : 3Q26 IFRS Financial Statements - www.marketscreener.com",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUx5QWRNMWMtZE5iOUdTa3AtSWFIOVFYeFp5NVVIUGdGZ1dQR01pN2ZYb01BQ2FMUEk2MTBqMHF1RmVwU2R5MHRxTnV5Wnd6cllrTEJYeUd3blpsT2dMLWVULUpwVmNaZHhBMTc1elJ5RGVLdTFpaWI2Y0NhX0hIRUhCbU55R1p4eFprVTFJM3lpaXM?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 12 Nov 2026 23:25:14 GMT"
-      },
-      {
         "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFhGX19mVjU0d0pwWWhNRndFUjliUTNFXzMtbFB1aXVETlZMdXk2aU9mOXFfUU1CYUZNY211QUVFNmYwbERsOWtrM0p0ZVhHSnJFQlY4OFpGb1JkOEFGeGFGMTA3Mzdrc2kycVM1TDhuV0pmRG5SME4tUXNhdTRTcWs1WXhWVWtFanBYTVBNemt2b0dLbjhwZW9nRjB3UUY3OU5TbUxRWQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 10 Jul 2026 14:35:46 GMT"
+      },
+      {
+        "title": "ICAI Hyderabad Hosts Conference on Evolving IPO Ecosystem, Role of CAs - Deccan Chronicle",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeXZjTjNoUHRfaW1vWkxLWEZkb254cTRNRGJuWFZFc05YWFVjcnFBc3A4enpaN1RTM0d0RWpTVGRDZHN2VVBjMTVwc0dpNkN0QWl4bkxsa3BEdTNwSWVyWlpabXo3VG4wbW5IYTJWM1hac2ZLS0JjdUNjUnkxOXhobUxGTlBtMTdIOVlsSzU0SmFPR1p6UVpTMGNrdEFUNDZ1d210aWh4UDc0WXR1U2c3d3oyYzBMMU93MjRWSkZaMXVlMkRqVkk0WE54SmluQ2g40gHWAUFVX3lxTE5CMzVmb1dmS3hjT1JDajNhTGo2c0VGU1VpdHhpbmFqMkJmY2FMbXI4WEM5Rlkxc3hSRlNtOTZpSFZ2UHhaVzA1bmdjdklvZVU2TVVBQXhscWdGNDhaNlBoMlY2ODFsYk5PT2VraG42MTE1UGxYaFpRYlhobFh5bWtYbnFCMUEwRUkzR3lPTlpZV1VDWi1Na3dzcmo2amplRWQwaXJtSDhNM1pCbVZJZXZ3UFZpNG5yMWxMUld5engxZ2hUQ2trekFZSkZSX01yZFVMXzdxU2c?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 13 Nov 2026 18:14:17 GMT"
+      },
+      {
+        "title": "Air Water : Consolidated Financial Results (Under IFRS) For the First Quarter of the March 31, 2027 Fiscal Year - www.marketscreener.com",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaU5jWHU0bkttbHFxSGkyOXVmSUI4REtpaXN3Z09qZkdyQWdUWks2Ui1TMzA0aktvZ010R0dfQktZNFdxb0JKN1Zxa0l1dXpEVUpQWGhYZ0pnTkstazJMMlFsTzVWejFfVDBJM2J0Nm1FMTc2QXpCdzZJdEtBYXRESTBoY2lrSkRoMTJtaWxWZ3JfLUZCdlBpLW1RWWZqUDdRbGhSbFNPcy1oM1N6ZmRyRlpNUHVQQXFXdTJGWWxwM3lNQjZNYmI3MDQzd21tdDg1d1l3TU9jQXlCdXFhMHliTQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 16 Nov 2026 07:39:09 GMT"
       },
       {
         "title": "Regulatory assets and regulatory liabilities - kpmg.com",
@@ -193,22 +199,16 @@
         "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT"
       },
       {
-        "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - Wolters Kluwer",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlIzUGljQXNlVm4xZ2R0ZFhITUtjQmNINmswSXA0R3lSeWtJZHI0MmRvR2l0ZDRJRUpiWFdSX1c0aFMyaVl2bWhNbHJxWGJTTUM5TTd5ZWxMX0lNMEp1Q3YzS2JZSDFnbWRkX3pvbnRFZTd0ZUx3ZTVmMjhhaHBqU1BGYjdMYXdBM2ZBWS1FVUkzVFF1aFEw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
-      },
-      {
-        "title": "Insurers: Are you ready for IFRS 18? - kpmg.com",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wcDhQbmt3OExHbWtkWXE0VU9relJ3MlJoVTBSeTBxMVFCMkRBd1M3NTVLNUxtb1BpS3l6N1ZKazZiSFhXbTNLYmJ3MTNaN3h1YU1Rc1JyMGlKOGhDemgwSkpZQnZFWjNOMnVsS3lKZjh5NXdS?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 26 May 2026 07:00:00 GMT"
-      },
-      {
         "title": "Ind AS 118: Changing the way the numbers speak - EY",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVi1kYVhpWFZlZFE2b0dZMG83WW1mSnVpR2tHcVRLbkhEdlV0aHhkV2hxUF8zYnZVS0dqYmZjVTFBSVVldG9hZ256ZDdfaWRuMG5PcVFMUWhtZnBIVTJnQlVNdkVKMEFBOVN3UUZ2cVlSSUpKUWNLanV5VUhlclVhaGV4Y01IS1hDWkFhaVh5aUVwR01PcWh1emlFNUQ1eUpXVHl2WnVjSkI5YU5Oc3J0MWplMW1zaDc4ZGc?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 24 Mar 2026 09:53:22 GMT"
+      },
+      {
+        "title": "Ind AS 117 reporting for Indian insurers: Why finance, actuarial and disclosure processes need to connect - Wolters Kluwer",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlIzUGljQXNlVm4xZ2R0ZFhITUtjQmNINmswSXA0R3lSeWtJZHI0MmRvR2l0ZDRJRUpiWFdSX1c0aFMyaVl2bWhNbHJxWGJTTUM5TTd5ZWxMX0lNMEp1Q3YzS2JZSDFnbWRkX3pvbnRFZTd0ZUx3ZTVmMjhhaHBqU1BGYjdMYXdBM2ZBWS1FVUkzVFF1aFEw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 19 Oct 2026 07:00:00 GMT"
       }
     ]
   }
