@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T21:25:05.882597+00:00",
+  "generatedAt": "2026-11-16T01:12:42.425470+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,19 +72,19 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 64917,
-      "chg": 0.87
+      "price": 64770,
+      "chg": 3.11
     },
     "eth": {
-      "price": 1815.02,
-      "chg": 2.37
+      "price": 1811.02,
+      "chg": 4.91
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 94.26,
-    "eurinr": 104.04,
-    "gbpinr": 124.62
+    "usdinr": 94.4,
+    "eurinr": 104.12,
+    "gbpinr": 124.77
   },
   "news": {
     "corp": [
@@ -175,10 +175,10 @@
         "pubDate": "Fri, 13 Nov 2026 18:14:17 GMT"
       },
       {
-        "title": "CA Final November 2026: MCQ pattern changes across five subjects, full analysis here - India Today",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMGlmUVQyaHVfOHJBeTFTY0tPcnJkV20wSjhEVE9acXdSa183TGVkdWdrcnhwQUxRa2drOTRkTl9mNmc3MDE5RU5nSXRLa3FWVjN3WlpEY1JfRlBkNnJGcEg5bzF2TWlwRzhUNFBLTzdhS0hhWDI5bGRVYmxHM1lERmxmS3lUSVBpWnctWFJ4cUozTUpqTHE4MFhYQXZfNEw5dERMdWpFYUhzVmFpWDBXd0o2aUN0dF9jQTFfdFd1WVRCc2ZFSUlJR3VGcXBnTXJDNkNHUNIB2gFBVV95cUxPQjJXRklhR2k3RWdyVkdJN1ZhamJIQTl5czhnb095cTVRSEFwckpQVENNNjFHc003bFFrYzlvc3oyV2hHend4RWVSWGlFTjc5Qk5ZV2JYdm9udUhIb1ZrcTF0Y0RQd0xqYnIzci0yZl9nZGFlYVFQYXR6dEdRQ19yT2twWVpiUTRqaHBlVWkzVjNjSFFfVGFEWTF4NDBHUm1uc3lQZnFPQ0RUb0pwR3VwODBzYnByWmlfV254a0VwVWZ6dklqVE9PckdIQ2k3TUFzeHk0NEItWEUtdw?oc=5",
+        "title": "Inter : 3Q26 IFRS Financial Statements - www.marketscreener.com",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUx5QWRNMWMtZE5iOUdTa3AtSWFIOVFYeFp5NVVIUGdGZ1dQR01pN2ZYb01BQ2FMUEk2MTBqMHF1RmVwU2R5MHRxTnV5Wnd6cllrTEJYeUd3blpsT2dMLWVULUpwVmNaZHhBMTc1elJ5RGVLdTFpaWI2Y0NhX0hIRUhCbU55R1p4eFprVTFJM3lpaXM?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sat, 14 Nov 2026 12:28:44 GMT"
+        "pubDate": "Thu, 12 Nov 2026 23:25:14 GMT"
       },
       {
         "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
