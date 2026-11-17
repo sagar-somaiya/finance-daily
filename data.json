@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T10:54:33.387605+00:00",
+  "generatedAt": "2026-11-17T19:29:17.836791+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 64180,
-      "chg": -0.41
+      "price": 63733,
+      "chg": -1.69
     },
     "eth": {
-      "price": 1791.24,
-      "chg": -0.73
+      "price": 1788.95,
+      "chg": -1.47
     }
   },
   "fx": {
@@ -89,78 +89,84 @@
   "news": {
     "corp": [
       {
-        "title": "Millions launches US stocks, ETFs investment facility for Indian investors",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/millions-launches-us-stocks-etfs-investment-facility-for-indian-investors/articleshow/135920698.cms",
+        "title": "Nike targets $5 billion more in revenue growth by 2031 in latest turnaround push",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nike-targets-5-billion-more-in-revenue-growth-by-2031-in-latest-turnaround-push/articleshow/135930431.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 17 Nov 2026 15:44:05 +0530"
+        "pubDate": "Tue, 17 Nov 2026 20:27:08 +0530"
       },
       {
-        "title": "Sebi may limit leveraged stock bets to curb volatility: Report",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-may-limit-leveraged-stock-bets-to-curb-volatility-report/articleshow/135920460.cms",
+        "title": "Signature Global-led consortium buys 194 acre land via auction for Rs 194 cr",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/signature-global-led-consortium-buys-194-acre-land-via-auction-for-rs-194-cr/articleshow/135929748.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 17 Nov 2026 15:37:02 +0530"
+        "pubDate": "Tue, 17 Nov 2026 20:08:12 +0530"
       },
       {
-        "title": "FIIs, MFs raise stakes in 5 largecap stocks for two straight quarters; shares rally up to 80%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-mfs-raise-stakes-in-5-largecap-stocks-for-two-straight-quarters-shares-rally-up-to-80/slideshow/135915639.cms",
+        "title": "Sebi lowers margin requirements for agri-derivatives contracts",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-lowers-margin-requirements-for-agri-derivatives-contracts/articleshow/135929718.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 17 Nov 2026 12:54:18 +0530"
+        "pubDate": "Tue, 17 Nov 2026 20:06:13 +0530"
       },
       {
-        "title": "South Korean shares close at over 9-month low on Nvidia caution",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-close-at-over-9-month-low-on-nvidia-caution/articleshow/135914599.cms",
+        "title": "BP launches offer to buy back up to $6 billion of bonds",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/bp-launches-offer-to-buy-back-up-to-6-billion-of-bonds/articleshow/135929675.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 17 Nov 2026 12:26:18 +0530"
+        "pubDate": "Tue, 17 Nov 2026 20:04:57 +0530"
       },
       {
-        "title": "Why are Nokia shares falling? Nvidia stake sale sparks concerns",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-are-nokia-shares-falling-nvidia-stake-sale-sparks-concerns/slideshow/135912331.cms",
+        "title": "K Raheja Corp inks joint development agreement for 165-acre township in Mumbai region",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/k-raheja-corp-inks-joint-development-agreement-for-165-acre-township-in-mumbai-region/articleshow/135929507.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 17 Nov 2026 10:46:30 +0530"
+        "pubDate": "Tue, 17 Nov 2026 20:03:25 +0530"
       },
       {
-        "title": "Nvidia Earnings Preview: 6 key factors investors will watch",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-earnings-preview-6-key-factors-investors-will-watch/slideshow/135911290.cms",
+        "title": "BlackRock raises its stake in Axis Bank to 5%",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/blackrock-raises-its-stake-in-axis-bank-to-5/articleshow/135929469.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 17 Nov 2026 10:24:47 +0530"
+        "pubDate": "Tue, 17 Nov 2026 19:58:06 +0530"
       },
       {
-        "title": "Australia sells A$6 billion of new 2057 Treasury bond",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/australia-sells-a6-billion-of-new-2057-treasury-bond/articleshow/135910893.cms",
+        "title": "Dow tumbles over 800 pts ahead of Nvidia Q3 earnings: Stock Market Live Updates",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-ai-stocks-intel-coreweave-meta-tesla-nvidia-earnings-anthropic-ipo-treasury-fed-rate-treasury-bond-yield-brent-oil-news-17th-november-2026/liveblog/135927419.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 17 Nov 2026 10:20:09 +0530"
+        "pubDate": "Tue, 17 Nov 2026 18:37:43 +0530"
       },
       {
-        "title": "Indian bonds gain as oil slide eases rate hike concerns",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-gain-as-oil-slide-eases-rate-hike-concerns/articleshow/135910842.cms",
+        "title": "Centricity WealthTech launches private clients business for NRIs",
+        "link": "https://economictimes.indiatimes.com/markets/companies/centricity-wealthtech-launches-private-clients-business-for-nris/articleshow/135926555.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 17 Nov 2026 10:18:04 +0530"
+        "pubDate": "Tue, 17 Nov 2026 18:27:57 +0530"
       },
       {
-        "title": "JGB yields climb as buyers hold back on long-dated debt",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/jgb-yields-climb-as-buyers-hold-back-on-long-dated-debt/articleshow/135910809.cms",
+        "title": "M3M India to invest Rs 1,650 cr to build luxury homes under Jacob &amp; Co brand in Gurugram",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/m3m-india-to-invest-rs-1650-cr-to-build-luxury-homes-under-jacob-co-brand-in-gurugram/articleshow/135926381.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 17 Nov 2026 10:17:20 +0530"
+        "pubDate": "Tue, 17 Nov 2026 18:20:25 +0530"
       },
       {
-        "title": "Tata Consumer Share Price Live Updates: Tata Consumer Price Movement",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-share-price-today-live-17-nov-2026/liveblog/135910596.cms",
+        "title": "Indian bonds surge after oil slide eases aggressive rate hike concerns",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-surge-after-oil-slide-eases-aggressive-rate-hike-concerns/articleshow/135924727.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 17 Nov 2026 10:05:21 +0530"
+        "pubDate": "Tue, 17 Nov 2026 17:32:23 +0530"
       }
     ],
     "acct": [
       {
-        "title": "JD HEALTH 3Q Non-IFRS Operating Profit Up 14.3% YoY, Non-IFRS Profit Up 1.5% - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTWFrU19pWVVVQUZQVkpwdFZUYkw3OUw0UVVDQjZLUnNqWGFwQk5UV1JDc3A5N3l6aF8waHJaWUtpcEFpMjByM0M4Z3dvVU1PNVBZWl9IbXFKLWwxclBhLWpQbTI0bFk4WUVYeHZqYl9NOHhCVnRaUlRscmVsQzJvYllQdS1Ca2ZTc3MycWVlbE9sdEVJcmdBeHZuMUtmZmxtYjMyM2tCdmZfeVB3NnFZSzctMnUzS3BXeFdIdTY4b1VWdmI4MDlHcUtB?oc=5",
+        "title": "ICAI President on board of International Federation of Accountants - BusinessLine",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdVl4RVBNVFR0MTVMTTFheUFweTZWcjhHdWp5UUZLU0lMcktjbW5FY2VOOTRNQ2hqeVJUblZsc0hDdE5DX0RRQ1BZaEZTTGtxUFg0cmM0bHlZeF9oMTRGMmVackdMRHhOazdDTi00VkZqZW5PclZhSWZqV1MzWlVyNDhUdTI5MVRtTnhHRXEzZnJUSG5ncC1YZmlMSmlWMDhRTXQzcF9MSDJBbTJtbGZnX2h5UjgzQlBKMlNycDNRTGtBQW5MaXE00gHOAUFVX3lxTFBCbEJuMFF2SXMzTVhUWk01dEt0SFpoSnJEU0tyY24wNUpQemxHV0xIUng3T1BoZzg4UVA1MmVtR0JrTG5MV25aVDdkM2tGSzF1YUllSEQtQWxDczVQSW9tTlVDNUk3MUFNMzUyTFNuWEtpOGpybnVkVW5fSlhWWS1JNEFsU1UycldSRWN1am1sRFhLUjF1MmFUOHVJeUsxMk5xem1uN3RZNElNRlY1MXZkRi03R0ZEaVVvMWNnUVF6Z3JVY3Z1ZkNKS3htY1pB?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 17 Nov 2026 10:18:00 GMT"
+        "pubDate": "Tue, 17 Nov 2026 12:27:53 GMT"
       },
       {
         "title": "How IFRS 18 for financial services can reshape GCC reporting - EY",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObmhnOXNBY2luMTFtYW8yTEo5NmZxdU5wR3NxNmNnQ1h0MDJqaWluSjQ2QnRRZFhDOUtZS18xZ0JVcW1VSGRlTklacGNpZmFFa2FGbUs5SUdJYmJpOTM5UjdsOHc2UGgycFJTbVpZdFFnRE5xalZaaUE2UVRrRlpXQmo5LU11TXNoY3EweUpnN0YzTy1mdUp1X19uVmJyVFYxMWxRY3hIWDU5NWhmVERxdkVMaU14N091MjM3UWNPMFA3eTg3VGNkM1JYaEVwdw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 13 Nov 2026 06:58:36 GMT"
+      },
+      {
+        "title": "JD HEALTH 3Q Non-IFRS Operating Profit Up 14.3% YoY, Non-IFRS Profit Up 1.5% - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTWFrU19pWVVVQUZQVkpwdFZUYkw3OUw0UVVDQjZLUnNqWGFwQk5UV1JDc3A5N3l6aF8waHJaWUtpcEFpMjByM0M4Z3dvVU1PNVBZWl9IbXFKLWwxclBhLWpQbTI0bFk4WUVYeHZqYl9NOHhCVnRaUlRscmVsQzJvYllQdS1Ca2ZTc3MycWVlbE9sdEVJcmdBeHZuMUtmZmxtYjMyM2tCdmZfeVB3NnFZSzctMnUzS3BXeFdIdTY4b1VWdmI4MDlHcUtB?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 17 Nov 2026 10:18:00 GMT"
       },
       {
         "title": "Long Queue to Nowhere: Inside ICAI's Disciplinary System- PART 1 - Moneylife",
@@ -175,28 +181,16 @@
         "pubDate": "Tue, 17 Nov 2026 01:54:23 GMT"
       },
       {
-        "title": "ICAI weighs rule changes to help CA firms challenge global Big Four - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMXE3M25uYThZajNjWm55ZEpsOVBzTmtHbllMeENzM25lZXN4OTAzLWUwXzlnLTVxTE1TVE01V2RVU2ltZnFmc3p1U3R4cjQwMGd4bUVRRzBBQ1NyMlJsU0dkajhFT0pNUHl6dzhWemdBa0cwR0RvanZiTS10R2pzOEd0SldoWUtIajNXQ1lMbUk4ZFBQZ01DMnlDSXFiWnUtNjdRUlhDOC1haldRRm1VYXRVeERxQ1J0SnRXcVEzUm13dkpQZmwxcThsejBQYkFjYWhzUTZRWGZLeWhU0gHiAUFVX3lxTE5JQ2xYZFJ0OVp5VVlsWVFDMnRPcENPMTF6ZUpzRmxkblFiMDNYN1ZYRVF4MUprSWhndFVaSS1OdV9MeVJzR0NpaG85a0RlTlhXOENzLUVDbzNEUVRhdmxLUXRXVHAxN0xwemI2NlFxT2tjX3dWQnRWWXlTVVRpZGtzRWl5VmxicEFUT2xzM25NNl91aDVrenNSb0FYRDhROEZfLUhVMXIzSGthYWpfYi13dERuMmwxMXF0N1FRbEZjYWliMFRWWnlXTFBsY0UwUWxnUlBJdVA1QTRPS0xHZmhHOHc?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 16 Nov 2026 18:43:00 GMT"
-      },
-      {
-        "title": "Elected leaders of statutory professional bodies such as ICAI, ICMAI and ICSI must meet exacting standards of integrity and fitness - BusinessLine",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM21qZG9aS3AxMThvS3p4cTVrd01qV284YmpmcE9fVTlNWjBSVkw3UjBjME1DcmEtOUs1OEtBSGRUYktKcXRxS3h6eDBWM28tWGsxTEZSVDljb3Ryb2NQQVFBbGN1Z0VfZ19BWU04ODlRSEhEcHpUV21QMXgtd1piSVUxOHg4UHQzOTRKcV9oTVlYOS00dkNidWN4dE5UVUltREE0UzhCV3NEODJSZW1ELdIBtwFBVV95cUxPU2FIZExxazlqb2sydXdVY0hMZ3FObTIzUUltejIwcFg1dkpsMm1kSFFEVVVFeXBrRnR6M1BrUVZ4UG54MDVNdkJ1ZGxyMURyaHFIMkwtNjRxOGFNNDh1RjM2YW5oTHRQYzUtRVlZcFpIQlVGMTJOMnhLNFhWSTROVTd5b2tXSnFjaThMVWRSWFlGamptNmhob0NHLVRrbFZJZWVsWWJqOWxyV3lwWlVpc3VoRzZXTDQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 16 Nov 2026 15:49:50 GMT"
-      },
-      {
         "title": "IFRS 16 – An overview - kpmg.com",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYm5DVEo0emt4MmlIN29QSkgxOVVTdkkxOVNqQi1CNjVvNUdtMmF3V2M5NTlyam1mTHV5SFJGMG9yRzh5M1lodE82ekpVNENLVmJqbTNiOVdVRF90RDVHb1E0bGdnbzJfX2VBSi1IWTdIOU9LWGp1M0xuMlVybUYzY2o1VVRTRi13UnIxb2pOS25kMG8tbzNOOXBBbDJIWE5fbWYtY2N4QQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT"
       },
       {
-        "title": "FRS 102 changes: what’s happening and why it matters - The Guardian",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM0t0ZnotRXNJLXdKZjE4MnFST1dRN2I2Zk0wOTV4Ym1WUENfcVBrZmxkM0lsOV9VQlYzcS1ZRWxGel9lNWJtdlROc0hIMnl3N25uWlQ5c3JRSGxXZ2d6RXpIVmp5TnV0dmZISkVwbDdxWHJsY0NBTDlqVWxjMVktTUJUbndiSnl4ZW9YVENVbzlnSlhUamVKY1ZKTWk2djRxaGVZTVdYZXl2RTVwaGRKaDZ4aEFxNmNSNXIzZDhSSQ?oc=5",
+        "title": "ICAI weighs rule changes to help CA firms challenge global Big Four - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMXE3M25uYThZajNjWm55ZEpsOVBzTmtHbllMeENzM25lZXN4OTAzLWUwXzlnLTVxTE1TVE01V2RVU2ltZnFmc3p1U3R4cjQwMGd4bUVRRzBBQ1NyMlJsU0dkajhFT0pNUHl6dzhWemdBa0cwR0RvanZiTS10R2pzOEd0SldoWUtIajNXQ1lMbUk4ZFBQZ01DMnlDSXFiWnUtNjdRUlhDOC1haldRRm1VYXRVeERxQ1J0SnRXcVEzUm13dkpQZmwxcThsejBQYkFjYWhzUTZRWGZLeWhU0gHiAUFVX3lxTE5JQ2xYZFJ0OVp5VVlsWVFDMnRPcENPMTF6ZUpzRmxkblFiMDNYN1ZYRVF4MUprSWhndFVaSS1OdV9MeVJzR0NpaG85a0RlTlhXOENzLUVDbzNEUVRhdmxLUXRXVHAxN0xwemI2NlFxT2tjX3dWQnRWWXlTVVRpZGtzRWl5VmxicEFUT2xzM25NNl91aDVrenNSb0FYRDhROEZfLUhVMXIzSGthYWpfYi13dERuMmwxMXF0N1FRbEZjYWliMFRWWnlXTFBsY0UwUWxnUlBJdVA1QTRPS0xHZmhHOHc?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 17 Nov 2026 09:05:35 GMT"
+        "pubDate": "Mon, 16 Nov 2026 18:43:00 GMT"
       },
       {
         "title": "IFFCO Tokio General Insurance selects CCH Tagetik to support Ind AS 117 and Ind AS 116 compliance - Wolters Kluwer",
@@ -205,10 +199,16 @@
         "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT"
       },
       {
-        "title": "Tencent Music Entertainment Group Announces Third Quarter 2026 Unaudited Financial Results - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOUg2cXZhcDhjWHI2bGZYTWR1emJTTkZJbjVKUXFiLXJjSmxoTnVGd0M1MnF6VFBDS0hNdUJtSnVhUW5tekE1Sm9UcFNQWmF3OU1PQ0p5SVA5OExFdEhnWlNWY0hvNVo2Z0ZyOE9zUlliZzUzTjVKczEtUkx3OWhvRFRtQzhJVTlQbzAtNjl5YWtCSHN2VEVRRXlfQXdjU0s0Yy1FQU1EODUxVVBQT0tnZi1YMkhwY21lS1FiVlVwdk1OanZhWFZsVGVLX3B3eFh1eHJxdHJvZUE5ZFZFdFZYSWpMTGRSQQ?oc=5",
+        "title": "CPA Australia warns against shrinking IASB - Accounting Today",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUko3Rm9qSTJJSGpnVXpBVlpIOTgzcGZQaGNKSlg5Nm9vZ0pCWS1JQTRRNmxlYzI2dWVESWlfNksxMExyUzNTSUN2NDh4c21fNXVabUpLaTRramdQWmNtU2FYeDJSMTAyNnAxNUVscmJiUUNLNEU3MGFoRHhoNmRYME93MVpZdw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 17 Nov 2026 09:00:00 GMT"
+        "pubDate": "Tue, 17 Nov 2026 16:20:00 GMT"
+      },
+      {
+        "title": "FRS 102 changes: what’s happening and why it matters - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM0t0ZnotRXNJLXdKZjE4MnFST1dRN2I2Zk0wOTV4Ym1WUENfcVBrZmxkM0lsOV9VQlYzcS1ZRWxGel9lNWJtdlROc0hIMnl3N25uWlQ5c3JRSGxXZ2d6RXpIVmp5TnV0dmZISkVwbDdxWHJsY0NBTDlqVWxjMVktTUJUbndiSnl4ZW9YVENVbzlnSlhUamVKY1ZKTWk2djRxaGVZTVdYZXl2RTVwaGRKaDZ4aEFxNmNSNXIzZDhSSQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 17 Nov 2026 09:05:35 GMT"
       }
     ]
   }
