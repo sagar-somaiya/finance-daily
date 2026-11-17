@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T02:13:04.004827+00:00",
+  "generatedAt": "2026-11-17T10:54:33.387605+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 64779,
-      "chg": -0.17
+      "price": 64180,
+      "chg": -0.41
     },
     "eth": {
-      "price": 1822.03,
-      "chg": 0.35
+      "price": 1791.24,
+      "chg": -0.73
     }
   },
   "fx": {
@@ -89,66 +89,127 @@
   "news": {
     "corp": [
       {
-        "title": "US dollar hits 19-month peak on Fed hike bets; Aussie dips",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/us-dollar-hits-19-month-peak-on-fed-hike-bets-aussie-dips/articleshow/135907267.cms",
+        "title": "Millions launches US stocks, ETFs investment facility for Indian investors",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/millions-launches-us-stocks-etfs-investment-facility-for-indian-investors/articleshow/135920698.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 17 Nov 2026 07:22:42 +0530"
+        "pubDate": "Tue, 17 Nov 2026 15:44:05 +0530"
       },
       {
-        "title": "Oil slips on supply surplus outlook despite Gulf tensions",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-slips-on-supply-surplus-outlook-despite-gulf-tensions/articleshow/135907255.cms",
+        "title": "Sebi may limit leveraged stock bets to curb volatility: Report",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-may-limit-leveraged-stock-bets-to-curb-volatility-report/articleshow/135920460.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 17 Nov 2026 07:21:03 +0530"
+        "pubDate": "Tue, 17 Nov 2026 15:37:02 +0530"
       },
       {
-        "title": "Gold hovers near over one-year low as firm dollar, Fed-hike bets weigh",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hovers-near-over-one-year-low-as-firm-dollar-fed-hike-bets-weigh/articleshow/135907217.cms",
+        "title": "FIIs, MFs raise stakes in 5 largecap stocks for two straight quarters; shares rally up to 80%",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-mfs-raise-stakes-in-5-largecap-stocks-for-two-straight-quarters-shares-rally-up-to-80/slideshow/135915639.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 17 Nov 2026 07:19:25 +0530"
+        "pubDate": "Tue, 17 Nov 2026 12:54:18 +0530"
       },
       {
-        "title": "Global Market Today: Asian stocks fall as Wall Street selloff deepens ahead of Nvidia earnings",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-fall-as-wall-street-selloff-deepens-ahead-of-nvidia-earnings/articleshow/135906533.cms",
+        "title": "South Korean shares close at over 9-month low on Nvidia caution",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-close-at-over-9-month-low-on-nvidia-caution/articleshow/135914599.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Tue, 17 Nov 2026 06:17:32 +0530"
+        "pubDate": "Tue, 17 Nov 2026 12:26:18 +0530"
       },
       {
-        "title": "Interest in Trump's meme coin dinner fades as $TRUMP sinks to record lows",
-        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/interest-in-trumps-meme-coin-dinner-fades-as-trump-sinks-to-record-lows/articleshow/135899741.cms",
+        "title": "Why are Nokia shares falling? Nvidia stake sale sparks concerns",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-are-nokia-shares-falling-nvidia-stake-sale-sparks-concerns/slideshow/135912331.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 16 Nov 2026 23:57:28 +0530"
+        "pubDate": "Tue, 17 Nov 2026 10:46:30 +0530"
       },
       {
-        "title": "Trump Media faces possible $1 billion debt repayment as stock nears record lows",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/trump-media-faces-possible-1-billion-debt-repayment-as-stock-nears-record-lows/articleshow/135898089.cms",
+        "title": "Nvidia Earnings Preview: 6 key factors investors will watch",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-earnings-preview-6-key-factors-investors-will-watch/slideshow/135911290.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 16 Nov 2026 23:14:02 +0530"
+        "pubDate": "Tue, 17 Nov 2026 10:24:47 +0530"
       },
       {
-        "title": "Nvidia earnings spotlight shifts to leadership, AI financing after Huang exit",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nvidia-set-to-deliver-first-life-after-huang-briefing/articleshow/135896160.cms",
+        "title": "Australia sells A$6 billion of new 2057 Treasury bond",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/australia-sells-a6-billion-of-new-2057-treasury-bond/articleshow/135910893.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 16 Nov 2026 22:13:54 +0530"
+        "pubDate": "Tue, 17 Nov 2026 10:20:09 +0530"
       },
       {
-        "title": "Barclays lowers 2027 year-end target for S&amp;P 500 index to 8,700",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/barclays-lowers-2027-year-end-target-for-sp-500-index-to-8700/articleshow/135894874.cms",
+        "title": "Indian bonds gain as oil slide eases rate hike concerns",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-gain-as-oil-slide-eases-rate-hike-concerns/articleshow/135910842.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 16 Nov 2026 21:20:17 +0530"
+        "pubDate": "Tue, 17 Nov 2026 10:18:04 +0530"
       },
       {
-        "title": "US stocks: Summit shares drop after US FDA declines to approve lung cancer drug",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-summit-shares-drop-after-us-fda-declines-to-approve-lung-cancer-drug/articleshow/135894815.cms",
+        "title": "JGB yields climb as buyers hold back on long-dated debt",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/jgb-yields-climb-as-buyers-hold-back-on-long-dated-debt/articleshow/135910809.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 16 Nov 2026 21:18:04 +0530"
+        "pubDate": "Tue, 17 Nov 2026 10:17:20 +0530"
       },
       {
-        "title": "US stocks: Nasdaq slides over 1% as AI selloff deepens ahead of Nvidia earnings",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-falls-1-at-open-as-nvidia-woes-weigh-on-sentiment-ahead-of-earnings/articleshow/135894333.cms",
+        "title": "Tata Consumer Share Price Live Updates: Tata Consumer Price Movement",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-consumer-share-price-today-live-17-nov-2026/liveblog/135910596.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 16 Nov 2026 21:04:11 +0530"
+        "pubDate": "Tue, 17 Nov 2026 10:05:21 +0530"
       }
     ],
-    "acct": []
+    "acct": [
+      {
+        "title": "JD HEALTH 3Q Non-IFRS Operating Profit Up 14.3% YoY, Non-IFRS Profit Up 1.5% - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTWFrU19pWVVVQUZQVkpwdFZUYkw3OUw0UVVDQjZLUnNqWGFwQk5UV1JDc3A5N3l6aF8waHJaWUtpcEFpMjByM0M4Z3dvVU1PNVBZWl9IbXFKLWwxclBhLWpQbTI0bFk4WUVYeHZqYl9NOHhCVnRaUlRscmVsQzJvYllQdS1Ca2ZTc3MycWVlbE9sdEVJcmdBeHZuMUtmZmxtYjMyM2tCdmZfeVB3NnFZSzctMnUzS3BXeFdIdTY4b1VWdmI4MDlHcUtB?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 17 Nov 2026 10:18:00 GMT"
+      },
+      {
+        "title": "How IFRS 18 for financial services can reshape GCC reporting - EY",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObmhnOXNBY2luMTFtYW8yTEo5NmZxdU5wR3NxNmNnQ1h0MDJqaWluSjQ2QnRRZFhDOUtZS18xZ0JVcW1VSGRlTklacGNpZmFFa2FGbUs5SUdJYmJpOTM5UjdsOHc2UGgycFJTbVpZdFFnRE5xalZaaUE2UVRrRlpXQmo5LU11TXNoY3EweUpnN0YzTy1mdUp1X19uVmJyVFYxMWxRY3hIWDU5NWhmVERxdkVMaU14N091MjM3UWNPMFA3eTg3VGNkM1JYaEVwdw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 13 Nov 2026 06:58:36 GMT"
+      },
+      {
+        "title": "Long Queue to Nowhere: Inside ICAI's Disciplinary System- PART 1 - Moneylife",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa0pGRHNYb2wxUEt1bHN2SzcxYS1uc20tbFlYZl9RSW5rX3pkNzcwTGloOHV5ZnF0MkZVb0tORUVSeGpRTE03Z09fZEc3QlZ4ancwUnMzWml6RG41cXNXSFR3a1N5N1NoeFZUMGRHclpEUWRoNXRRY3lUc2c2ZVVucy0xN3JFSlo1NEN2LTFxNi1tX1kzdWNKcnI0Qk1pNVM0Tk41TWo0NGU?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 17 Nov 2026 04:49:37 GMT"
+      },
+      {
+        "title": "​Chartered Accountant Arrested in Chennai for Rs 8.2 Crore Fraud at Pharma Firm - The 420.in",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDR0NUN6bFRIMnBPQ2hfWHJmMEE3d1B1a3RlbEZsY05uOWh0V2JKamt1ajl5RkUxRlVTN0tnOENiSHFEMTR6MDFpY2lpeWs4dVZGS2FZb0tYUXA0SHU2T3RqcTlUZWthTHU0dkMzenI4a3RjbnVuMmc1U3BLaS1JRlVpSmp2eE5PQmhGT2l3ZHdBNkdTYWxlNDR3XzdqQQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 17 Nov 2026 01:54:23 GMT"
+      },
+      {
+        "title": "ICAI weighs rule changes to help CA firms challenge global Big Four - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMXE3M25uYThZajNjWm55ZEpsOVBzTmtHbllMeENzM25lZXN4OTAzLWUwXzlnLTVxTE1TVE01V2RVU2ltZnFmc3p1U3R4cjQwMGd4bUVRRzBBQ1NyMlJsU0dkajhFT0pNUHl6dzhWemdBa0cwR0RvanZiTS10R2pzOEd0SldoWUtIajNXQ1lMbUk4ZFBQZ01DMnlDSXFiWnUtNjdRUlhDOC1haldRRm1VYXRVeERxQ1J0SnRXcVEzUm13dkpQZmwxcThsejBQYkFjYWhzUTZRWGZLeWhU0gHiAUFVX3lxTE5JQ2xYZFJ0OVp5VVlsWVFDMnRPcENPMTF6ZUpzRmxkblFiMDNYN1ZYRVF4MUprSWhndFVaSS1OdV9MeVJzR0NpaG85a0RlTlhXOENzLUVDbzNEUVRhdmxLUXRXVHAxN0xwemI2NlFxT2tjX3dWQnRWWXlTVVRpZGtzRWl5VmxicEFUT2xzM25NNl91aDVrenNSb0FYRDhROEZfLUhVMXIzSGthYWpfYi13dERuMmwxMXF0N1FRbEZjYWliMFRWWnlXTFBsY0UwUWxnUlBJdVA1QTRPS0xHZmhHOHc?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 16 Nov 2026 18:43:00 GMT"
+      },
+      {
+        "title": "Elected leaders of statutory professional bodies such as ICAI, ICMAI and ICSI must meet exacting standards of integrity and fitness - BusinessLine",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM21qZG9aS3AxMThvS3p4cTVrd01qV284YmpmcE9fVTlNWjBSVkw3UjBjME1DcmEtOUs1OEtBSGRUYktKcXRxS3h6eDBWM28tWGsxTEZSVDljb3Ryb2NQQVFBbGN1Z0VfZ19BWU04ODlRSEhEcHpUV21QMXgtd1piSVUxOHg4UHQzOTRKcV9oTVlYOS00dkNidWN4dE5UVUltREE0UzhCV3NEODJSZW1ELdIBtwFBVV95cUxPU2FIZExxazlqb2sydXdVY0hMZ3FObTIzUUltejIwcFg1dkpsMm1kSFFEVVVFeXBrRnR6M1BrUVZ4UG54MDVNdkJ1ZGxyMURyaHFIMkwtNjRxOGFNNDh1RjM2YW5oTHRQYzUtRVlZcFpIQlVGMTJOMnhLNFhWSTROVTd5b2tXSnFjaThMVWRSWFlGamptNmhob0NHLVRrbFZJZWVsWWJqOWxyV3lwWlVpc3VoRzZXTDQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 16 Nov 2026 15:49:50 GMT"
+      },
+      {
+        "title": "IFRS 16 – An overview - kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYm5DVEo0emt4MmlIN29QSkgxOVVTdkkxOVNqQi1CNjVvNUdtMmF3V2M5NTlyam1mTHV5SFJGMG9yRzh5M1lodE82ekpVNENLVmJqbTNiOVdVRF90RDVHb1E0bGdnbzJfX2VBSi1IWTdIOU9LWGp1M0xuMlVybUYzY2o1VVRTRi13UnIxb2pOS25kMG8tbzNOOXBBbDJIWE5fbWYtY2N4QQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT"
+      },
+      {
+        "title": "FRS 102 changes: what’s happening and why it matters - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM0t0ZnotRXNJLXdKZjE4MnFST1dRN2I2Zk0wOTV4Ym1WUENfcVBrZmxkM0lsOV9VQlYzcS1ZRWxGel9lNWJtdlROc0hIMnl3N25uWlQ5c3JRSGxXZ2d6RXpIVmp5TnV0dmZISkVwbDdxWHJsY0NBTDlqVWxjMVktTUJUbndiSnl4ZW9YVENVbzlnSlhUamVKY1ZKTWk2djRxaGVZTVdYZXl2RTVwaGRKaDZ4aEFxNmNSNXIzZDhSSQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 17 Nov 2026 09:05:35 GMT"
+      },
+      {
+        "title": "IFFCO Tokio General Insurance selects CCH Tagetik to support Ind AS 117 and Ind AS 116 compliance - Wolters Kluwer",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ2FGY3hKRFNBYndXMDNRZUpYekxmejNZc3hyeVlWODgxRmM5aGZzMmFBRVZieGhQNlNxRk44VlZZSU1mYTlQWWlmMHBZUzNqQld0WmJnYVdueGV3RkRXVmZSVEV4Q05XVFFOT3JERG5uZVhfN3ZMSmJZbTZMZXNwSXVjbi1MUktqLUZpQ3ZUTldta3ZKNnJJZ0NiWmVFVHFHT2FibUFrU1VmYkNWa0M1QXgteGRzcWNTS09kQm1EMlFFYXcwR2lpb1luNXNkWjM1czB3UkFmdw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT"
+      },
+      {
+        "title": "Tencent Music Entertainment Group Announces Third Quarter 2026 Unaudited Financial Results - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOUg2cXZhcDhjWHI2bGZYTWR1emJTTkZJbjVKUXFiLXJjSmxoTnVGd0M1MnF6VFBDS0hNdUJtSnVhUW5tekE1Sm9UcFNQWmF3OU1PQ0p5SVA5OExFdEhnWlNWY0hvNVo2Z0ZyOE9zUlliZzUzTjVKczEtUkx3OWhvRFRtQzhJVTlQbzAtNjl5YWtCSHN2VEVRRXlfQXdjU0s0Yy1FQU1EODUxVVBQT0tnZi1YMkhwY21lS1FiVlVwdk1OanZhWFZsVGVLX3B3eFh1eHJxdHJvZUE5ZFZFdFZYSWpMTGRSQQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 17 Nov 2026 09:00:00 GMT"
+      }
+    ]
   }
 }
