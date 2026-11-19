@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T08:10:37.061981+00:00",
+  "generatedAt": "2026-11-19T17:29:19.981594+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 63634,
-      "chg": -1.57
+      "price": 62966,
+      "chg": -0.34
     },
     "eth": {
-      "price": 1802.2,
-      "chg": -0.45
+      "price": 1775.66,
+      "chg": 0.26
     }
   },
   "fx": {
@@ -89,84 +89,84 @@
   "news": {
     "corp": [
       {
-        "title": "Goldman Sachs names 22 ‘high-growth’ stocks; Bharti Airtel, Eternal and HDFC Bank feature in the list",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-names-22-high-growth-stocks-bharti-airtel-eternal-and-hdfc-bank-feature-in-the-list/slideshow/135981076.cms",
+        "title": "Amundi CIO says not bearish on France bonds, AI at the start of repricing",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/amundi-cio-says-not-bearish-on-france-bonds-ai-at-the-start-of-repricing/articleshow/135998168.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 19 Nov 2026 12:35:20 +0530"
+        "pubDate": "Thu, 19 Nov 2026 21:31:26 +0530"
       },
       {
-        "title": "Why AMD shares are rising: 7 things investors should know",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-amd-shares-are-rising-7-things-investors-should-know/slideshow/135980657.cms",
+        "title": "Sebi roadmap focuses on faster IPOs, easier foreign investor access: Official",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-roadmap-focuses-on-faster-ipos-easier-foreign-investor-access-official/articleshow/135998128.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 19 Nov 2026 11:59:37 +0530"
+        "pubDate": "Thu, 19 Nov 2026 21:29:26 +0530"
       },
       {
-        "title": "Gold prices fall marginally, silver rises up to 0.5% on MCX: Gold Silver Rates Live Updates",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-19th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/135979606.cms",
+        "title": "Six listed REIT firms distribute Rs 3,234 cr in Q2 to over 5.25 lakh unitholders",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/six-listed-reit-firms-distribute-rs-3234-cr-in-q2-to-over-5-25-lakh-unitholders/articleshow/135998101.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 19 Nov 2026 11:28:41 +0530"
+        "pubDate": "Thu, 19 Nov 2026 21:27:34 +0530"
       },
       {
-        "title": "Can AI demand drive further gains in PANW stock?",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-ai-demand-drive-further-gains-in-panw-stock/slideshow/135979684.cms",
+        "title": "Keystone Realtors to launch Rs 5,000 cr worth housing properties in MMR by Mar: CMD",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/keystone-realtors-to-launch-rs-5000-cr-worth-housing-properties-in-mmr-by-mar-cmd/articleshow/135997982.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 19 Nov 2026 11:15:13 +0530"
+        "pubDate": "Thu, 19 Nov 2026 21:26:22 +0530"
       },
       {
-        "title": "India bonds hold on to opening gains; moves in crude, Treasuries to stay main trigger",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-hold-on-to-opening-gains-moves-in-crude-treasuries-to-stay-main-trigger/articleshow/135978286.cms",
+        "title": "Signature Global acquires 10-acre land parcels in Gurugram to build realty projects",
+        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/signature-global-acquires-10-acre-land-parcels-in-gurugram-to-build-realty-projects/articleshow/135997924.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 19 Nov 2026 10:41:46 +0530"
+        "pubDate": "Thu, 19 Nov 2026 21:23:49 +0530"
       },
       {
-        "title": "Star Health among 3 stocks showing RSI trending up",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/star-health-among-3-stocks-showing-rsi-trending-up/slideshow/135977535.cms",
+        "title": "Walmart raises its outlook for the year for the 3rd time after a solid quarter",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/walmart-raises-its-outlook-for-the-year-for-the-3rd-time-after-a-solid-quarter/articleshow/135997871.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 19 Nov 2026 09:57:54 +0530"
+        "pubDate": "Thu, 19 Nov 2026 21:22:19 +0530"
       },
       {
-        "title": "Hindalco Share Price Live Updates: Hindalco's Daily Performance Update",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/hindalco-stock-price-today-live-19-nov-2026/liveblog/135977262.cms",
+        "title": "Palo Alto's raised sales forecast powers rally in cybersecurity stocks",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/palo-altos-raised-sales-forecast-powers-rally-in-cybersecurity-stocks/articleshow/135997775.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 19 Nov 2026 09:40:28 +0530"
+        "pubDate": "Thu, 19 Nov 2026 21:20:59 +0530"
       },
       {
-        "title": "Morgan Stanley is ‘overweight’ on these 9 largecap stocks. How many do you own?",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/morgan-stanley-is-overweight-on-these-9-largecap-stocks-how-many-do-you-own/slideshow/135977398.cms",
+        "title": "Nasdaq rallies as record Anthropic IPO revives AI stocks",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-nasdaq-rises-over-1-at-open-as-anthropic-ipo-pricing-bolsters-ai-trade/articleshow/135996273.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 19 Nov 2026 09:27:05 +0530"
+        "pubDate": "Thu, 19 Nov 2026 20:47:37 +0530"
       },
       {
-        "title": "Sterlite Technologies among 3 stocks showing White Marubozu pattern",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sterlite-technologies-among-3-stocks-showing-white-marubozu-pattern/slideshow/135976918.cms",
+        "title": "Fund managers turn overweight on India, first such classification since Jan",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/fund-managers-turn-overweight-on-india-first-such-classification-since-jan/articleshow/135996610.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 19 Nov 2026 09:24:26 +0530"
+        "pubDate": "Thu, 19 Nov 2026 20:32:14 +0530"
       },
       {
-        "title": "CreditAccess Grameen among 7 stocks closing below VWAP",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/creditaccess-grameen-among-7-stocks-closing-below-vwap/slideshow/135976841.cms",
+        "title": "Investors vs Economists: Should Govt Cut LTCG Tax?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/investors-vs-economists-should-govt-cut-ltcg-tax/videoshow/135993683.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 19 Nov 2026 09:19:26 +0530"
+        "pubDate": "Thu, 19 Nov 2026 19:01:48 +0530"
       }
     ],
     "acct": [
       {
-        "title": "Financial Statements under IFRS 2026 - Moore Kazakhstan",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzWjI2cU1UR1NfVTczNVdKNVZFTklqRG1TcWV1aDh0N3F4Zi14TW1tQkxSQWpQMkE2c2JqTk1nN00wNFQxTW1KRF9HQ2pwd0FKLXRkcEdteVNYU1lncm5hdGNDcUNLUTEwSnI2eG9yQS1POE9MYzR6UENFOFg3UQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 19 Nov 2026 06:37:40 GMT"
-      },
-      {
         "title": "The Complainant Pays, Waits and Has No Appeal: Inside ICAI's Disciplinary System - PART 3 - Moneylife",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM1ZXcFd2cHU0eW8yVkRPQ3p4YThqOTNBQ2tFRzE3N3NYaWI3alNLR3RtbEVjNkU1a1dTalRsa0xZOFQ0alI2WHNLWmdqYkFucjdJdGJ6RUVwRWRYUEg4YnVUNF9vQ2JXb054WTRfWmdqNjgzczBEZjVKeFh1cER6cWU5OUdQUUxEUnpfNFBDUXNFaTNoak1Ya0xKQkhzdDdzYU4tZEtZVGdwLWRTejJKVGFGMUhpcHZFZGZFTFFtM2hQcDItUW0w?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 19 Nov 2026 05:54:24 GMT"
+        "pubDate": "Thu, 19 Nov 2026 11:48:22 GMT"
       },
       {
-        "title": "How IFRS 18 for financial services can reshape GCC reporting - EY",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObmhnOXNBY2luMTFtYW8yTEo5NmZxdU5wR3NxNmNnQ1h0MDJqaWluSjQ2QnRRZFhDOUtZS18xZ0JVcW1VSGRlTklacGNpZmFFa2FGbUs5SUdJYmJpOTM5UjdsOHc2UGgycFJTbVpZdFFnRE5xalZaaUE2UVRrRlpXQmo5LU11TXNoY3EweUpnN0YzTy1mdUp1X19uVmJyVFYxMWxRY3hIWDU5NWhmVERxdkVMaU14N091MjM3UWNPMFA3eTg3VGNkM1JYaEVwdw?oc=5",
+        "title": "Financial Statements under IFRS 2026 - Moore Kazakhstan",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzWjI2cU1UR1NfVTczNVdKNVZFTklqRG1TcWV1aDh0N3F4Zi14TW1tQkxSQWpQMkE2c2JqTk1nN00wNFQxTW1KRF9HQ2pwd0FKLXRkcEdteVNYU1lncm5hdGNDcUNLUTEwSnI2eG9yQS1POE9MYzR6UENFOFg3UQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 13 Nov 2026 06:58:36 GMT"
+        "pubDate": "Thu, 19 Nov 2026 06:36:15 GMT"
+      },
+      {
+        "title": "Ubisoft - Expects To Get Back To Free Cash Flow Generation And Positive Non-IFRS EBIT In Fy2027-28 - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR0JFbUY4aElYbWtoX1VWT2JwSmJ6NUY3b2U3MV9QYmJ0M3Y0Ri00T2FoTWJKeWlWdk5xWVR6dWxwRDk1elFybGwyLWdUV1ZaLU5KRTk4Q2d5MUNpanlldU0xR05QT0VvSXlxclZsMTRPOG45aHY2V0ZidXV5WHhiS0VRU2x4cVpjUXdPOXdERXlFRDRXNWt2TWl6S2VnRms2ZWFJZlJMM0FCb2laV1ZLOXhBVFhoSzV5SVBmX2k2ak1sc0hycWlyQS04cU1sNllmRjVpU2NNVVpLYmg5TjN6LUhXNmNhbFgzRE5pd00wcTVfNVlEbTJsTHdn?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 19 Nov 2026 16:50:24 GMT"
       },
       {
         "title": "Chartered Accountant Explains How To Invest Rs 5 Lakh Wisely: 'Main Problem Isn't Money' - NDTV",
@@ -175,22 +175,10 @@
         "pubDate": "Wed, 18 Nov 2026 10:08:56 GMT"
       },
       {
-        "title": "CA Foundation Jan 2027 Registration Window Closing Today at SSP Portal; Know More - Shiksha.com",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxON2VOZFd3bHJOSERxZURNYi1EVkpudWRMVkt2MlJaelZvX1pEdTlHY1lPaXFRY1RUWnlnUUZaTy03cU4zTTBhRDBYczdPZTdpa0lfNHpTSWZrdC0zeFZwNHVGWkhqb24yWXpyeG1LR0Myb2NBY1pQRzVOSnFwMC1fRDFMSlk5V1ljTkJUOWQtYjNVbElycXVKWGx2WkV1c05IXzhIWWd4c2hDU1ZleWV2UmloRnpONGdhelJvUllUYVFJelY2Y0tSQjVqd2J1LXhPQUNyRzJad0NhYkNOSlZ0MWdkRzUwOW1TT19rdjg4SWJGZlo4cGZoU25WcVZ3a1F5aENwS0VYdktqR0k?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 19 Nov 2026 05:54:07 GMT"
-      },
-      {
         "title": "ICAI President on board of International Federation of Accountants - BusinessLine",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdVl4RVBNVFR0MTVMTTFheUFweTZWcjhHdWp5UUZLU0lMcktjbW5FY2VOOTRNQ2hqeVJUblZsc0hDdE5DX0RRQ1BZaEZTTGtxUFg0cmM0bHlZeF9oMTRGMmVackdMRHhOazdDTi00VkZqZW5PclZhSWZqV1MzWlVyNDhUdTI5MVRtTnhHRXEzZnJUSG5ncC1YZmlMSmlWMDhRTXQzcF9MSDJBbTJtbGZnX2h5UjgzQlBKMlNycDNRTGtBQW5MaXE00gHOAUFVX3lxTFBCbEJuMFF2SXMzTVhUWk01dEt0SFpoSnJEU0tyY24wNUpQemxHV0xIUng3T1BoZzg4UVA1MmVtR0JrTG5MV25aVDdkM2tGSzF1YUllSEQtQWxDczVQSW9tTlVDNUk3MUFNMzUyTFNuWEtpOGpybnVkVW5fSlhWWS1JNEFsU1UycldSRWN1am1sRFhLUjF1MmFUOHVJeUsxMk5xem1uN3RZNElNRlY1MXZkRi03R0ZEaVVvMWNnUVF6Z3JVY3Z1ZkNKS3htY1pB?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 17 Nov 2026 12:27:53 GMT"
-      },
-      {
-        "title": "Tencent Holdings Limited Revenue Rises 8%, Non-IFRS Operating Profit Falls 6% - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWmtjODNGM200b0lzdFJkNk81RG9fR3RDX2ZWd3JjNnkwTGJlRno3c3UzN1hCZm0xbWRsZDRFSjg3WTlMUG43V0FILTZERUVlNEdiSWNwTWJpc0Q5YlE0c2JralAtOXpWTkhTUVFVN1A4SlVZa04yU2lLRmhicWdSRm1pV1ZyLW0yMDBhOEY4akRLMTVNcXpVMHZtSF80bVNsRE0tVHY1MmFiOGRjdzAxWFNSMlZXSVloMFRuMnM2eVZfSG9kVEVaWUdBUVlud2FfZGc?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 18 Nov 2026 12:59:00 GMT"
       },
       {
         "title": "IFRS 16 – An overview - kpmg.com",
@@ -199,16 +187,28 @@
         "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT"
       },
       {
+        "title": "Three-day ICAI Kuwait course focuses on AI’s role in accounting and finance - Times Kuwait",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYjQtZU44c1VyMzN0VEh5eC14RlNScFRFZ1cyaFByMzBpMGJJb2NNdnh1a1JXeWtpRjRsMVo2RnptS214NVlDSFFpUXd5MllzRnZGSmFEVVZsa0l4SUFOZi0zMW45MVFDYVFYRlhkVUtvX0VIT0tDQV92NXhKMnlham9EemJZZUxobVRjMkdvS2ZWVEVtTUxoLTJ1UEZIM1NW?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 19 Nov 2026 13:26:54 GMT"
+      },
+      {
         "title": "ICAI president Prasanna Kumar D elected to IFAC board for three-year term - Careers360",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX19kZnE2SnpoNXhKT2RjRWd5djlaZFhoWGhrVktVcU5jWlhxb0JoVnBaSVFPY2NXcFZiNXYyTEFieFhvY216RHJHNHdVQWd4UGFldG5fYnQyMTBwVzM3VzJldUtaQjhESkdJQ3BxdnN4a3ktZ09BU2JtcW5Pd3AzWTAxc0QtTHk2Qm5pMnhpalYzWnNYTENvemwtSnNHQ3l4UktTWnJqaXFhSF9GdjdYVDdNUjZoYnhPaVRvRXBoT21Xa2lkbmVkblFfeWxhZjhrd21hNtIB2gFBVV95cUxQbzFHbjVCWE81VnFtT2cwYjJfN21mbHpPQjB6RHVXTElFQ0xQcTU3Wm9kMzdydElDWWtfT01KdWVIUEs3T1U3MDdOS2lqV2E1Tk94ZHlOMl9UTkx3NWVta3Iyb2xCSFRXV3RXdWp6c1BYeTd3d0VGYUxGYlViSzFjMWNSLUlLTWxFQUNLeXJDYks5Z3FMRUV2M2ZNR012azYxUkx1YlphRUtwdkkwWENMTG5vN2NmWjZoWGpZVjdsbTNQVFBzV1pJWTZmeVg2UzlEdHVyeDQ1WkZlZw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 17 Nov 2026 10:18:19 GMT"
       },
       {
-        "title": "IFFCO Tokio General Insurance selects CCH Tagetik to support Ind AS 117 and Ind AS 116 compliance - Wolters Kluwer",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ2FGY3hKRFNBYndXMDNRZUpYekxmejNZc3hyeVlWODgxRmM5aGZzMmFBRVZieGhQNlNxRk44VlZZSU1mYTlQWWlmMHBZUzNqQld0WmJnYVdueGV3RkRXVmZSVEV4Q05XVFFOT3JERG5uZVhfN3ZMSmJZbTZMZXNwSXVjbi1MUktqLUZpQ3ZUTldta3ZKNnJJZ0NiWmVFVHFHT2FibUFrU1VmYkNWa0M1QXgteGRzcWNTS09kQm1EMlFFYXcwR2lpb1luNXNkWjM1czB3UkFmdw?oc=5",
+        "title": "CA Foundation Jan 2027 Registration Window Closing Today at SSP Portal; Know More - Shiksha.com",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxON2VOZFd3bHJOSERxZURNYi1EVkpudWRMVkt2MlJaelZvX1pEdTlHY1lPaXFRY1RUWnlnUUZaTy03cU4zTTBhRDBYczdPZTdpa0lfNHpTSWZrdC0zeFZwNHVGWkhqb24yWXpyeG1LR0Myb2NBY1pQRzVOSnFwMC1fRDFMSlk5V1ljTkJUOWQtYjNVbElycXVKWGx2WkV1c05IXzhIWWd4c2hDU1ZleWV2UmloRnpONGdhelJvUllUYVFJelY2Y0tSQjVqd2J1LXhPQUNyRzJad0NhYkNOSlZ0MWdkRzUwOW1TT19rdjg4SWJGZlo4cGZoU25WcVZ3a1F5aENwS0VYdktqR0k?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT"
+        "pubDate": "Thu, 19 Nov 2026 05:54:07 GMT"
+      },
+      {
+        "title": "IFRS 20: new accounting for regulatory assets and liabilities - EY",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMFhGX19mVjU0d0pwWWhNRndFUjliUTNFXzMtbFB1aXVETlZMdXk2aU9mOXFfUU1CYUZNY211QUVFNmYwbERsOWtrM0p0ZVhHSnJFQlY4OFpGb1JkOEFGeGFGMTA3Mzdrc2kycVM1TDhuV0pmRG5SME4tUXNhdTRTcWs1WXhWVWtFanBYTVBNemt2b0dLbjhwZW9nRjB3UUY3OU5TbUxRWQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 10 Jul 2026 14:35:46 GMT"
       }
     ]
   }
