@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T18:18:36.939861+00:00",
+  "generatedAt": "2026-11-19T00:36:37.832960+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,22 +72,34 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 63112,
-      "chg": -0.85
+      "price": 62900,
+      "chg": -2.89
     },
     "eth": {
-      "price": 1766.94,
-      "chg": -1.02
+      "price": 1777.62,
+      "chg": -2.29
     }
   },
   "fx": {
     "ok": true,
     "usdinr": 93.51,
-    "eurinr": 102.85,
-    "gbpinr": 123.43
+    "eurinr": 102.62,
+    "gbpinr": 123.04
   },
   "news": {
     "corp": [
+      {
+        "title": "Dow slumps over 500 pts as Fed minutes revive rate-hike fears",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-slumps-over-500-pts-as-fed-minutes-revive-rate-hike-fears/articleshow/135971558.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 19 Nov 2026 02:42:38 +0530"
+      },
+      {
+        "title": "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-policymakers-focused-on-inflation-risks-in-october-with-some-seeing-need-for-bigger-rate-hike/articleshow/135970652.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Thu, 19 Nov 2026 00:55:40 +0530"
+      },
       {
         "title": "Market Trading Guide: Deepak Fertilisers among 3 stock recommendations for Thursday",
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-deepak-fertilisers-among-3-stock-recommendations-for-thursday/slideshow/135967160.cms",
@@ -135,18 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/prestige-group-buys-50-pc-stake-in-advent-convention-and-hotels-international-for-rs-500-cr/articleshow/135965381.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Wed, 18 Nov 2026 19:34:52 +0530"
-      },
-      {
-        "title": "Prestige Group buys 50 pc stake in Advent Convention and Hotels International for Rs 500 cr",
-        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/prestige-group-buys-50-pc-stake-in-advent-convention-and-hotels-international-for-rs-500-cr/articleshow/135965185.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 18 Nov 2026 19:31:51 +0530"
-      },
-      {
-        "title": "Gateway Distriparks to operate, manage common rail yard terminal at JNPA",
-        "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/gateway-distriparks-to-operate-manage-common-rail-yard-terminal-at-jnpa/articleshow/135964806.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Wed, 18 Nov 2026 19:14:28 +0530"
       }
     ],
     "acct": [
@@ -199,16 +199,16 @@
         "pubDate": "Mon, 16 Nov 2026 18:43:00 GMT"
       },
       {
+        "title": "IFFCO Tokio General Insurance selects CCH Tagetik to support Ind AS 117 and Ind AS 116 compliance - Wolters Kluwer",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ2FGY3hKRFNBYndXMDNRZUpYekxmejNZc3hyeVlWODgxRmM5aGZzMmFBRVZieGhQNlNxRk44VlZZSU1mYTlQWWlmMHBZUzNqQld0WmJnYVdueGV3RkRXVmZSVEV4Q05XVFFOT3JERG5uZVhfN3ZMSmJZbTZMZXNwSXVjbi1MUktqLUZpQ3ZUTldta3ZKNnJJZ0NiWmVFVHFHT2FibUFrU1VmYkNWa0M1QXgteGRzcWNTS09kQm1EMlFFYXcwR2lpb1luNXNkWjM1czB3UkFmdw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT"
+      },
+      {
         "title": "[Tencent Holdings Q3 2026 Earnings Call] Tencent's AI Bet Squeezes Profit: Non-IFRS Operating Profit Falls 6% as CapEx Surges 257% - BigGo Finance",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DN1NLSDVXeUZYQWxJQXBsWmluM1hicktzWmU4QkdpWmpWN2J2bEpSMVEwTDByM3NKRUdvM2c2NTUwZnQyQ0pfM3MzcDEzcHduNVoxWUdqOHJLbVlacTNF?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 18 Nov 2026 14:14:00 GMT"
-      },
-      {
-        "title": "​Chartered Accountant Arrested in Chennai for Rs 8.2 Crore Fraud at Pharma Firm - The 420.in",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDR0NUN6bFRIMnBPQ2hfWHJmMEE3d1B1a3RlbEZsY05uOWh0V2JKamt1ajl5RkUxRlVTN0tnOENiSHFEMTR6MDFpY2lpeWs4dVZGS2FZb0tYUXA0SHU2T3RqcTlUZWthTHU0dkMzenI4a3RjbnVuMmc1U3BLaS1JRlVpSmp2eE5PQmhGT2l3ZHdBNkdTYWxlNDR3XzdqQQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 17 Nov 2026 01:54:23 GMT"
       }
     ]
   }
