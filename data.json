@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T04:54:50.699691+00:00",
+  "generatedAt": "2026-11-20T13:44:17.662018+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 61404,
-      "chg": -3.37
+      "price": 61374,
+      "chg": -3.6
     },
     "eth": {
-      "price": 1721.99,
-      "chg": -4.26
+      "price": 1732.64,
+      "chg": -3.97
     }
   },
   "fx": {
@@ -89,73 +89,67 @@
   "news": {
     "corp": [
       {
-        "title": "IndiGo, Tata Motors PV among 10 Nifty stocks facing earnings downgrades",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-tata-motors-pv-among-10-nifty-stocks-facing-earnings-downgrades/slideshow/136012225.cms",
+        "title": "Rupee climbs past 93/USD as investors seek shelter in Indian stocks, shorts unwind",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-climbs-past-93/usd-as-investors-seek-shelter-in-indian-stocks-shorts-unwind/articleshow/136023536.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 20 Nov 2026 09:11:57 +0530"
+        "pubDate": "Fri, 20 Nov 2026 16:15:31 +0530"
       },
       {
-        "title": "Axis Direct names 35 top stocks to buy; ICICI Bank, HUL and Maruti Suzuki feature in list",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/axis-direct-names-35-top-stocks-to-buy-icici-bank-hul-and-maruti-suzuki-feature-in-list/slideshow/136011903.cms",
+        "title": "Anthropic's debut rally fades as shares crack 7% in US pre-market trade",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropics-debut-rally-fades-as-shares-crack-7-in-pre-market-trade-on-day-2/articleshow/136021174.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 20 Nov 2026 09:01:23 +0530"
+        "pubDate": "Fri, 20 Nov 2026 15:06:25 +0530"
       },
       {
-        "title": "Gold Rate Today Live: Gold slides 4%, silver tumbles 5% on MCX as dollar strengthens, Fed rate hike bets rise",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-20th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/136011549.cms",
+        "title": "Sharp rupee appreciation may cut IT firms' FY27 earnings by up to 13%: Report",
+        "link": "https://economictimes.indiatimes.com/markets/forex/sharp-rupee-appreciation-may-cut-it-firms-fy27-earnings-by-up-to-13-report/articleshow/136021296.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 20 Nov 2026 08:57:40 +0530"
+        "pubDate": "Fri, 20 Nov 2026 15:06:14 +0530"
       },
       {
-        "title": "TVS Motor Company among 4 stocks that close above VWAP",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/tvs-motor-company-among-4-stocks-that-close-above-vwap/slideshow/136011430.cms",
+        "title": "Sebi plans consultation paper to remove FPI constraints absent in other markets",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-plans-consultation-paper-to-remove-fpi-constraints-absent-in-other-markets/articleshow/136020808.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 20 Nov 2026 08:46:04 +0530"
+        "pubDate": "Fri, 20 Nov 2026 14:49:53 +0530"
       },
       {
-        "title": "Tata Technologies among 4 stocks showing RSI trending up",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/tata-technologies-among-4-stocks-showing-rsi-trending-up/slideshow/136011353.cms",
+        "title": "Indian finance hub eyes dual share model to kickstart public offers: Report",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-finance-hub-eyes-dual-share-model-to-kickstart-public-offers-report/articleshow/136017941.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 20 Nov 2026 08:40:26 +0530"
+        "pubDate": "Fri, 20 Nov 2026 13:02:59 +0530"
       },
       {
-        "title": "Maruti Suzuki among 6 stocks flashing White Marubozu pattern",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/maruti-suzuki-among-6-stocks-flashing-white-marubozu-pattern/slideshow/136011413.cms",
+        "title": "Who is Roaring Kitty? The man behind GameStop's meme rally",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/who-is-roaring-kitty-the-man-behind-gamestops-meme-rally/slideshow/136017912.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 20 Nov 2026 08:39:49 +0530"
+        "pubDate": "Fri, 20 Nov 2026 12:20:28 +0530"
       },
       {
-        "title": "D-Street’s stellar rally faces valuation test as bond allure grows",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/indias-stock-rally-faces-valuation-test-as-bond-allure-grows/articleshow/136010605.cms",
+        "title": "Sun Pharma Share Price Live Updates: Sun Pharma Stock Price History",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/sun-pharma-stock-price-livestock-price-today-live-updates-20-nov-2026/liveblog/136016959.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 20 Nov 2026 08:17:28 +0530"
+        "pubDate": "Fri, 20 Nov 2026 12:19:25 +0530"
       },
       {
-        "title": "Oil prices edge higher as Houthi attacks on Riyadh raise supply concerns",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-edge-higher-as-houthi-attacks-on-riyadh-raise-supply-concerns/articleshow/136010331.cms",
+        "title": "M&amp;M Share Price Live Updates: M&amp;M Stock Price History",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/mm-share-price-today-live-20-nov-2026/liveblog/136016893.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 20 Nov 2026 07:49:44 +0530"
+        "pubDate": "Fri, 20 Nov 2026 12:17:54 +0530"
       },
       {
-        "title": "IMF chief sees more correction in markets due to AI",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/imf-chief-sees-more-correction-in-markets-due-to-ai/articleshow/136010135.cms",
+        "title": "Eicher Motors Share Price Live Updates: Eicher Motors Stock Price History",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/eicher-motors-share-price-live-20-nov-2026/liveblog/136016875.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 20 Nov 2026 07:38:53 +0530"
+        "pubDate": "Fri, 20 Nov 2026 12:17:28 +0530"
       },
       {
-        "title": "Dollar near 19-month peak as AI jitters sap risk appetite",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-near-19-month-peak-as-ai-jitters-sap-risk-appetite/articleshow/136009931.cms",
+        "title": "NTPC Share Price Live Updates: NTPC Stock Price History",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/ntpc-stock-price-today-live-20-nov-2026/liveblog/136016873.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Fri, 20 Nov 2026 07:26:39 +0530"
+        "pubDate": "Fri, 20 Nov 2026 12:17:28 +0530"
       }
     ],
     "acct": [
-      {
-        "title": "Accounting and Reporting for Foreign Subsidiaries in India: Ind AS vs IFRS and Group Reporting - CAclubindia",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOUlTZVFqQWc0cmdlYVZ5aEN0cHhUTW9ZQ2NwSUlHOXVWM1VJd252dW0tb2ZfM2Q0MXJIWjNBQ0xqVTJZYV9lNnZWS19vZDkxX0tLZG5vdE81ZDNldER5ZGhybC05QUFONXYxaWRqc1A3U3R0Zl9ZcjJvTnFGN1MyaGxCb3dRQWpVM2NlLUx3a2NJbXg2a1g4QVk2YVd1MVJFV2NERmg4bzBQc080NjBCb2hQRlZ6WWFGYVZNbnkyOXpHektVZnREak5LSEdZYzdBSmNfUkEwYw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 20 Nov 2026 03:30:00 GMT"
-      },
       {
         "title": "Parliamentary Panel Seeks MCA Explanation Over Non-Implementation of Reservation Policy in ICAI - TaxGuru",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelF4dkJCVW95Z1huRjhnV2FtQVhsa3lXbkRpVnZyZXZ0cUl4U2oyZnp6TVd1Qno0XzBjWnh5dW9VZXB1OUVzdkFuZ2diNzFQNDVYM1E3SmI5MkhyWk11UjlJSWxlVU95UHhPUHNCVTFKTnZUS2VnXzRUS2xGbTdMdzBlTUVVcGxNNXZtQ1k2b0ZhR1RKZGFWY1VKT29pbWszVHdFTmlMcXcxTGZHa2dfLWNhcERlbkxfR0ZOaVZCZDA3QjFKU2t5ZA?oc=5",
@@ -163,16 +157,28 @@
         "pubDate": "Fri, 20 Nov 2026 04:06:35 GMT"
       },
       {
-        "title": "The Complainant Pays, Waits and Has No Appeal: Inside ICAI's Disciplinary System - PART 3 - Moneylife",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM1ZXcFd2cHU0eW8yVkRPQ3p4YThqOTNBQ2tFRzE3N3NYaWI3alNLR3RtbEVjNkU1a1dTalRsa0xZOFQ0alI2WHNLWmdqYkFucjdJdGJ6RUVwRWRYUEg4YnVUNF9vQ2JXb054WTRfWmdqNjgzczBEZjVKeFh1cER6cWU5OUdQUUxEUnpfNFBDUXNFaTNoak1Ya0xKQkhzdDdzYU4tZEtZVGdwLWRTejJKVGFGMUhpcHZFZGZFTFFtM2hQcDItUW0w?oc=5",
+        "title": "Accounting and Reporting for Foreign Subsidiaries in India: Ind AS vs IFRS and Group Reporting - CAclubindia",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOUlTZVFqQWc0cmdlYVZ5aEN0cHhUTW9ZQ2NwSUlHOXVWM1VJd252dW0tb2ZfM2Q0MXJIWjNBQ0xqVTJZYV9lNnZWS19vZDkxX0tLZG5vdE81ZDNldER5ZGhybC05QUFONXYxaWRqc1A3U3R0Zl9ZcjJvTnFGN1MyaGxCb3dRQWpVM2NlLUx3a2NJbXg2a1g4QVk2YVd1MVJFV2NERmg4bzBQc080NjBCb2hQRlZ6WWFGYVZNbnkyOXpHektVZnREak5LSEdZYzdBSmNfUkEwYw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 19 Nov 2026 11:48:22 GMT"
+        "pubDate": "Fri, 20 Nov 2026 03:30:00 GMT"
       },
       {
-        "title": "Globant Reports 2026 Third Quarter Financial Results - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd3NxZUxJY2FXVGFDSHZVZ083MXR2ZERUSnc2Wm5TdDlvV19EekVZdDE3RWtsd3ZKb241MXZMQXpGQWF2NThIcHhwdk02aVpYRXdIZS1tNU9sc056N2hpaURHX1lBMUlscEx4NzQzSVZtWUpxLTZPbmZmMzVBdXdYRnd2VW5WaTdJQkExV3FSSmg4UXdOMEhUbVRnRm9MbHpXelU1Ym9pWnFYTmRYcjAzblRBQQ?oc=5",
+        "title": "ICAI CA Inter Registration Jan 2027 Closed; Online Form Correction Open Till Nov 22 at SSP Portal - Shiksha.com",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdkZYOGw3WDRUeTQ4b21YNWp3THI1QlRmRWdnNS1zU0NRSFRfY3JKWkk0VWRZYWVkQl94MlotRHNFOVpBejFhcmRzV2VjS0t5Q1hKbi1Vdm1uY2VWWlRDYy1rMUtad0JHYVBqaVdsZ1p2WjVVeV9rLVpRN2lCYWpCNUMwQ2FCb2t0LVBIVGpnT3FVSVh0RzB2UTAzX3phZTFHN0lqN3FicHEwVnNoWGpBRWtxRnVEMWVNbWFzTUsya21pVkRjMFdCUGwwOWxqcHk0RGhUSlFWc2NSWnFaUlJJMDZXVjdLSTFqSVZ0am8yS3g?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 19 Nov 2026 21:15:00 GMT"
+        "pubDate": "Fri, 20 Nov 2026 06:30:02 GMT"
+      },
+      {
+        "title": "Accumulate Physicswallah; target of Rs 144: Prabhudas Lilladher - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTVFVeXpBSTdXQW1EWk53ZGtBX1NGVUhxS0o5UHFBX3dNZ3dQdDI1VFpFWFd1OUk4bHhsRF96V0xaWjZza1pUVEhIY091cGMzWDVmSjdrZ3RMMHM4dEhib2tNUjh0cU42M3h6RkFFckdXLWRNZGVWeXhLeUZhYUk1UkRpMHpDZTg5N1VaTngxb0UxTzh5cDBzZ3B1ZXE2SGRRTVVmb2lXNWRHOTJLX0t0MWlEUnEzekxPbnVYVHhwSXR2UQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 20 Nov 2026 06:24:00 GMT"
+      },
+      {
+        "title": "Chartered Accountant Explains How To Invest Rs 5 Lakh Wisely: 'Main Problem Isn't Money' - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQmVhTWxnbHRrZ2M4TzBpM3IwaGJMdzc2ekJEc244ZVMtY0tJSXhfVkdsT3lKNFdFaUduRmRwSU9oM1dYUzdlQy1ncUNKUURpemtseC1vUnlsX3FNX194NUF6REdHeG4zazA0M00tVlRLLXh1MTBzVkszbEl6Z2pQM2hEbktBYUhFZ1lkbU5BRzBGSVgtdVAxSC14dlJFM3VydG11OTJ0Zzl2a1IzV05STVZzTmF6Qm9IYnpaVkw4b9IBxwFBVV95cUxOQVJFa0N6ZnJDQ3pKZE1wX1NzQU5oLXV0ZGVrelYwd2VqeDVHc0c1dDdzZUdDb09WQk5xSFRocDVtZXFHQlN6d0tkakV2eV8zcUFlbWc1bUIyaDBHVjlRMVpVVE9YWTNHYTJCVnNJY3BQT1IwQ1hEQi1EVzRqR1BOX3pnVl95eE4wZDJuZWJMczJuek45ZUJhYkE0Vzk5dUJRTnZldWJuNHVfeHNiOWlwX0YydWs2Y2ZoM1c4S1l5ZGtiUGdENWE4?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 18 Nov 2026 10:08:56 GMT"
       },
       {
         "title": "How IFRS 18 for financial services can reshape GCC reporting - EY",
@@ -187,28 +193,22 @@
         "pubDate": "Thu, 19 Nov 2026 06:36:15 GMT"
       },
       {
-        "title": "Chartered Accountant Explains How To Invest Rs 5 Lakh Wisely: 'Main Problem Isn't Money' - NDTV",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQmVhTWxnbHRrZ2M4TzBpM3IwaGJMdzc2ekJEc244ZVMtY0tJSXhfVkdsT3lKNFdFaUduRmRwSU9oM1dYUzdlQy1ncUNKUURpemtseC1vUnlsX3FNX194NUF6REdHeG4zazA0M00tVlRLLXh1MTBzVkszbEl6Z2pQM2hEbktBYUhFZ1lkbU5BRzBGSVgtdVAxSC14dlJFM3VydG11OTJ0Zzl2a1IzV05STVZzTmF6Qm9IYnpaVkw4b9IBxwFBVV95cUxOQVJFa0N6ZnJDQ3pKZE1wX1NzQU5oLXV0ZGVrelYwd2VqeDVHc0c1dDdzZUdDb09WQk5xSFRocDVtZXFHQlN6d0tkakV2eV8zcUFlbWc1bUIyaDBHVjlRMVpVVE9YWTNHYTJCVnNJY3BQT1IwQ1hEQi1EVzRqR1BOX3pnVl95eE4wZDJuZWJMczJuek45ZUJhYkE0Vzk5dUJRTnZldWJuNHVfeHNiOWlwX0YydWs2Y2ZoM1c4S1l5ZGtiUGdENWE4?oc=5",
+        "title": "IFRS 16 – An overview - kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYm5DVEo0emt4MmlIN29QSkgxOVVTdkkxOVNqQi1CNjVvNUdtMmF3V2M5NTlyam1mTHV5SFJGMG9yRzh5M1lodE82ekpVNENLVmJqbTNiOVdVRF90RDVHb1E0bGdnbzJfX2VBSi1IWTdIOU9LWGp1M0xuMlVybUYzY2o1VVRTRi13UnIxb2pOS25kMG8tbzNOOXBBbDJIWE5fbWYtY2N4QQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 18 Nov 2026 10:08:56 GMT"
+        "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT"
       },
       {
-        "title": "ICAI President on board of International Federation of Accountants - BusinessLine",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdVl4RVBNVFR0MTVMTTFheUFweTZWcjhHdWp5UUZLU0lMcktjbW5FY2VOOTRNQ2hqeVJUblZsc0hDdE5DX0RRQ1BZaEZTTGtxUFg0cmM0bHlZeF9oMTRGMmVackdMRHhOazdDTi00VkZqZW5PclZhSWZqV1MzWlVyNDhUdTI5MVRtTnhHRXEzZnJUSG5ncC1YZmlMSmlWMDhRTXQzcF9MSDJBbTJtbGZnX2h5UjgzQlBKMlNycDNRTGtBQW5MaXE00gHOAUFVX3lxTFBCbEJuMFF2SXMzTVhUWk01dEt0SFpoSnJEU0tyY24wNUpQemxHV0xIUng3T1BoZzg4UVA1MmVtR0JrTG5MV25aVDdkM2tGSzF1YUllSEQtQWxDczVQSW9tTlVDNUk3MUFNMzUyTFNuWEtpOGpybnVkVW5fSlhWWS1JNEFsU1UycldSRWN1am1sRFhLUjF1MmFUOHVJeUsxMk5xem1uN3RZNElNRlY1MXZkRi03R0ZEaVVvMWNnUVF6Z3JVY3Z1ZkNKS3htY1pB?oc=5",
+        "title": "Listed, Adjourned, Listed Again: Inside ICAI's Disciplinary System- Part 2 - Moneylife",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTjZ2QVdqMGxaOEU2X2lGVXR2S285ZkYzS3k3VWtKMFhfWE1ZN3lKdDF1bmlMa1RxN0RYRzA0RmFKSVRUSVphV2hSMEtjZElHODlHOTR1SmNfclhma1BMTUNSUzQzX0dHLWtfWjBFYWEtWndOdmFKM04ySE1jUTFLU1dUbjBxSFBmR3dEWWNSUEpFV0EzRGlLVGV0c19Tbm4yOHpwVVNTWGIta3B1UHBJZ2hJbw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 17 Nov 2026 12:27:53 GMT"
+        "pubDate": "Wed, 18 Nov 2026 05:02:16 GMT"
       },
       {
-        "title": "ICAI president Prasanna Kumar D elected to IFAC board for three-year term - Careers360",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX19kZnE2SnpoNXhKT2RjRWd5djlaZFhoWGhrVktVcU5jWlhxb0JoVnBaSVFPY2NXcFZiNXYyTEFieFhvY216RHJHNHdVQWd4UGFldG5fYnQyMTBwVzM3VzJldUtaQjhESkdJQ3BxdnN4a3ktZ09BU2JtcW5Pd3AzWTAxc0QtTHk2Qm5pMnhpalYzWnNYTENvemwtSnNHQ3l4UktTWnJqaXFhSF9GdjdYVDdNUjZoYnhPaVRvRXBoT21Xa2lkbmVkblFfeWxhZjhrd21hNtIB2gFBVV95cUxQbzFHbjVCWE81VnFtT2cwYjJfN21mbHpPQjB6RHVXTElFQ0xQcTU3Wm9kMzdydElDWWtfT01KdWVIUEs3T1U3MDdOS2lqV2E1Tk94ZHlOMl9UTkx3NWVta3Iyb2xCSFRXV3RXdWp6c1BYeTd3d0VGYUxGYlViSzFjMWNSLUlLTWxFQUNLeXJDYks5Z3FMRUV2M2ZNR012azYxUkx1YlphRUtwdkkwWENMTG5vN2NmWjZoWGpZVjdsbTNQVFBzV1pJWTZmeVg2UzlEdHVyeDQ1WkZlZw?oc=5",
+        "title": "IFFCO Tokio General Insurance selects CCH Tagetik to support Ind AS 117 and Ind AS 116 compliance - Wolters Kluwer",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ2FGY3hKRFNBYndXMDNRZUpYekxmejNZc3hyeVlWODgxRmM5aGZzMmFBRVZieGhQNlNxRk44VlZZSU1mYTlQWWlmMHBZUzNqQld0WmJnYVdueGV3RkRXVmZSVEV4Q05XVFFOT3JERG5uZVhfN3ZMSmJZbTZMZXNwSXVjbi1MUktqLUZpQ3ZUTldta3ZKNnJJZ0NiWmVFVHFHT2FibUFrU1VmYkNWa0M1QXgteGRzcWNTS09kQm1EMlFFYXcwR2lpb1luNXNkWjM1czB3UkFmdw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 17 Nov 2026 10:18:19 GMT"
-      },
-      {
-        "title": "Three-day ICAI Kuwait course focuses on AI’s role in accounting and finance - Times Kuwait",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYjQtZU44c1VyMzN0VEh5eC14RlNScFRFZ1cyaFByMzBpMGJJb2NNdnh1a1JXeWtpRjRsMVo2RnptS214NVlDSFFpUXd5MllzRnZGSmFEVVZsa0l4SUFOZi0zMW45MVFDYVFYRlhkVUtvX0VIT0tDQV92NXhKMnlham9EemJZZUxobVRjMkdvS2ZWVEVtTUxoLTJ1UEZIM1NW?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 19 Nov 2026 13:26:54 GMT"
+        "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT"
       }
     ]
   }
