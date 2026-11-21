@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T10:27:50.718960+00:00",
+  "generatedAt": "2026-11-21T17:42:52.075449+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 57935,
-      "chg": -6.32
+      "price": 59931,
+      "chg": 1.53
     },
     "eth": {
-      "price": 1637.57,
-      "chg": -6.39
+      "price": 1676.8,
+      "chg": 3.12
     }
   },
   "fx": {
@@ -149,6 +149,67 @@
         "pubDate": "Sat, 21 Nov 2026 10:42:07 +0530"
       }
     ],
-    "acct": []
+    "acct": [
+      {
+        "title": "IFRS® compared to US GAAP - kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVkVteUpjSzF0d2tfSl9zaHhpREppbngxMXJRNGFEMXIwaVgycC1Lek5NN1hCcUV6ajU4TkdpWmpzUnhpVEhQdDB2bmpGNlFzTmVaSDEtRTVmdEdxZUFZRFU2bFEtT0l0UFU3SjJIQWpMR2VodElURUc1NDhPTTh5a2xSckU4Vm5FVTByTnBNVno2Z1ZYWTZzWURqWXc0dGs1U1hQd1ZzeXlFZWlSQVN0VXRsbzFoUQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT"
+      },
+      {
+        "title": "Long Queue to Nowhere: Inside ICAI's Disciplinary System- PART 1 - Moneylife",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa0pGRHNYb2wxUEt1bHN2SzcxYS1uc20tbFlYZl9RSW5rX3pkNzcwTGloOHV5ZnF0MkZVb0tORUVSeGpRTE03Z09fZEc3QlZ4ancwUnMzWml6RG41cXNXSFR3a1N5N1NoeFZUMGRHclpEUWRoNXRRY3lUc2c2ZVVucy0xN3JFSlo1NEN2LTFxNi1tX1kzdWNKcnI0Qk1pNVM0Tk41TWo0NGU?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sat, 21 Nov 2026 01:52:56 GMT"
+      },
+      {
+        "title": "Parliamentary Panel Seeks MCA Explanation Over Non-Implementation of Reservation Policy in ICAI - TaxGuru",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelF4dkJCVW95Z1huRjhnV2FtQVhsa3lXbkRpVnZyZXZ0cUl4U2oyZnp6TVd1Qno0XzBjWnh5dW9VZXB1OUVzdkFuZ2diNzFQNDVYM1E3SmI5MkhyWk11UjlJSWxlVU95UHhPUHNCVTFKTnZUS2VnXzRUS2xGbTdMdzBlTUVVcGxNNXZtQ1k2b0ZhR1RKZGFWY1VKT29pbWszVHdFTmlMcXcxTGZHa2dfLWNhcERlbkxfR0ZOaVZCZDA3QjFKU2t5ZA?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 20 Nov 2026 04:06:35 GMT"
+      },
+      {
+        "title": "Accounting and Reporting for Foreign Subsidiaries in India: Ind AS vs IFRS and Group Reporting - CAclubindia",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOUlTZVFqQWc0cmdlYVZ5aEN0cHhUTW9ZQ2NwSUlHOXVWM1VJd252dW0tb2ZfM2Q0MXJIWjNBQ0xqVTJZYV9lNnZWS19vZDkxX0tLZG5vdE81ZDNldER5ZGhybC05QUFONXYxaWRqc1A3U3R0Zl9ZcjJvTnFGN1MyaGxCb3dRQWpVM2NlLUx3a2NJbXg2a1g4QVk2YVd1MVJFV2NERmg4bzBQc080NjBCb2hQRlZ6WWFGYVZNbnkyOXpHektVZnREak5LSEdZYzdBSmNfUkEwYw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 20 Nov 2026 03:30:00 GMT"
+      },
+      {
+        "title": "How IFRS 18 for financial services can reshape GCC reporting - EY",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObmhnOXNBY2luMTFtYW8yTEo5NmZxdU5wR3NxNmNnQ1h0MDJqaWluSjQ2QnRRZFhDOUtZS18xZ0JVcW1VSGRlTklacGNpZmFFa2FGbUs5SUdJYmJpOTM5UjdsOHc2UGgycFJTbVpZdFFnRE5xalZaaUE2UVRrRlpXQmo5LU11TXNoY3EweUpnN0YzTy1mdUp1X19uVmJyVFYxMWxRY3hIWDU5NWhmVERxdkVMaU14N091MjM3UWNPMFA3eTg3VGNkM1JYaEVwdw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 13 Nov 2026 06:58:36 GMT"
+      },
+      {
+        "title": "Chartered Accountant Explains How To Invest Rs 5 Lakh Wisely: 'Main Problem Isn't Money' - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQmVhTWxnbHRrZ2M4TzBpM3IwaGJMdzc2ekJEc244ZVMtY0tJSXhfVkdsT3lKNFdFaUduRmRwSU9oM1dYUzdlQy1ncUNKUURpemtseC1vUnlsX3FNX194NUF6REdHeG4zazA0M00tVlRLLXh1MTBzVkszbEl6Z2pQM2hEbktBYUhFZ1lkbU5BRzBGSVgtdVAxSC14dlJFM3VydG11OTJ0Zzl2a1IzV05STVZzTmF6Qm9IYnpaVkw4b9IBxwFBVV95cUxOQVJFa0N6ZnJDQ3pKZE1wX1NzQU5oLXV0ZGVrelYwd2VqeDVHc0c1dDdzZUdDb09WQk5xSFRocDVtZXFHQlN6d0tkakV2eV8zcUFlbWc1bUIyaDBHVjlRMVpVVE9YWTNHYTJCVnNJY3BQT1IwQ1hEQi1EVzRqR1BOX3pnVl95eE4wZDJuZWJMczJuek45ZUJhYkE0Vzk5dUJRTnZldWJuNHVfeHNiOWlwX0YydWs2Y2ZoM1c4S1l5ZGtiUGdENWE4?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 18 Nov 2026 10:08:56 GMT"
+      },
+      {
+        "title": "ICAI CA Inter Registration Jan 2027 Closed; Online Form Correction Open Till Nov 22 at SSP Portal - Shiksha.com",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdkZYOGw3WDRUeTQ4b21YNWp3THI1QlRmRWdnNS1zU0NRSFRfY3JKWkk0VWRZYWVkQl94MlotRHNFOVpBejFhcmRzV2VjS0t5Q1hKbi1Vdm1uY2VWWlRDYy1rMUtad0JHYVBqaVdsZ1p2WjVVeV9rLVpRN2lCYWpCNUMwQ2FCb2t0LVBIVGpnT3FVSVh0RzB2UTAzX3phZTFHN0lqN3FicHEwVnNoWGpBRWtxRnVEMWVNbWFzTUsya21pVkRjMFdCUGwwOWxqcHk0RGhUSlFWc2NSWnFaUlJJMDZXVjdLSTFqSVZ0am8yS3g?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 20 Nov 2026 06:30:02 GMT"
+      },
+      {
+        "title": "ICAI President on board of International Federation of Accountants - BusinessLine",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdVl4RVBNVFR0MTVMTTFheUFweTZWcjhHdWp5UUZLU0lMcktjbW5FY2VOOTRNQ2hqeVJUblZsc0hDdE5DX0RRQ1BZaEZTTGtxUFg0cmM0bHlZeF9oMTRGMmVackdMRHhOazdDTi00VkZqZW5PclZhSWZqV1MzWlVyNDhUdTI5MVRtTnhHRXEzZnJUSG5ncC1YZmlMSmlWMDhRTXQzcF9MSDJBbTJtbGZnX2h5UjgzQlBKMlNycDNRTGtBQW5MaXE00gHOAUFVX3lxTFBCbEJuMFF2SXMzTVhUWk01dEt0SFpoSnJEU0tyY24wNUpQemxHV0xIUng3T1BoZzg4UVA1MmVtR0JrTG5MV25aVDdkM2tGSzF1YUllSEQtQWxDczVQSW9tTlVDNUk3MUFNMzUyTFNuWEtpOGpybnVkVW5fSlhWWS1JNEFsU1UycldSRWN1am1sRFhLUjF1MmFUOHVJeUsxMk5xem1uN3RZNElNRlY1MXZkRi03R0ZEaVVvMWNnUVF6Z3JVY3Z1ZkNKS3htY1pB?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 17 Nov 2026 12:27:53 GMT"
+      },
+      {
+        "title": "IFRS 18: Is your financial reporting function ready? - Crowe",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zYkJDYXZlWVdNZXo4aHZsYWtmWWstNUxFZnZJbWVEbV96c1ktZDlva25OV1UxNFlXamYybm5BVk9QWUpBQ250bjdTamR0Z2tQbF9DYkRDaG0zM1IwVjQzY2pZRjlhRnJjWnY1dEI3NW02SnhFVk9kM2tHNGVSUQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 19 Nov 2026 17:55:08 GMT"
+      },
+      {
+        "title": "IFFCO Tokio General Insurance selects CCH Tagetik to support Ind AS 117 and Ind AS 116 compliance - Wolters Kluwer",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ2FGY3hKRFNBYndXMDNRZUpYekxmejNZc3hyeVlWODgxRmM5aGZzMmFBRVZieGhQNlNxRk44VlZZSU1mYTlQWWlmMHBZUzNqQld0WmJnYVdueGV3RkRXVmZSVEV4Q05XVFFOT3JERG5uZVhfN3ZMSmJZbTZMZXNwSXVjbi1MUktqLUZpQ3ZUTldta3ZKNnJJZ0NiWmVFVHFHT2FibUFrU1VmYkNWa0M1QXgteGRzcWNTS09kQm1EMlFFYXcwR2lpb1luNXNkWjM1czB3UkFmdw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT"
+      }
+    ]
   }
 }
