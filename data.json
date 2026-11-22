@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T22:35:59.574172+00:00",
+  "generatedAt": "2026-11-22T02:44:39.713584+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,19 +72,19 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 60170,
-      "chg": 2.07
+      "price": 59561,
+      "chg": 1.77
     },
     "eth": {
-      "price": 1679.92,
-      "chg": 3.82
+      "price": 1669.69,
+      "chg": 3.33
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 93.37,
-    "eurinr": 102.52,
-    "gbpinr": 122.48
+    "usdinr": 92.89,
+    "eurinr": 101.94,
+    "gbpinr": 121.65
   },
   "news": {
     "corp": [
@@ -169,12 +169,6 @@
         "pubDate": "Fri, 20 Nov 2026 03:30:00 GMT"
       },
       {
-        "title": "Long Queue to Nowhere: Inside ICAI's Disciplinary System- PART 1 - Moneylife",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa0pGRHNYb2wxUEt1bHN2SzcxYS1uc20tbFlYZl9RSW5rX3pkNzcwTGloOHV5ZnF0MkZVb0tORUVSeGpRTE03Z09fZEc3QlZ4ancwUnMzWml6RG41cXNXSFR3a1N5N1NoeFZUMGRHclpEUWRoNXRRY3lUc2c2ZVVucy0xN3JFSlo1NEN2LTFxNi1tX1kzdWNKcnI0Qk1pNVM0Tk41TWo0NGU?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sat, 21 Nov 2026 01:52:56 GMT"
-      },
-      {
         "title": "How IFRS 18 for financial services can reshape GCC reporting - EY",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObmhnOXNBY2luMTFtYW8yTEo5NmZxdU5wR3NxNmNnQ1h0MDJqaWluSjQ2QnRRZFhDOUtZS18xZ0JVcW1VSGRlTklacGNpZmFFa2FGbUs5SUdJYmJpOTM5UjdsOHc2UGgycFJTbVpZdFFnRE5xalZaaUE2UVRrRlpXQmo5LU11TXNoY3EweUpnN0YzTy1mdUp1X19uVmJyVFYxMWxRY3hIWDU5NWhmVERxdkVMaU14N091MjM3UWNPMFA3eTg3VGNkM1JYaEVwdw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -185,6 +179,12 @@
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQmVhTWxnbHRrZ2M4TzBpM3IwaGJMdzc2ekJEc244ZVMtY0tJSXhfVkdsT3lKNFdFaUduRmRwSU9oM1dYUzdlQy1ncUNKUURpemtseC1vUnlsX3FNX194NUF6REdHeG4zazA0M00tVlRLLXh1MTBzVkszbEl6Z2pQM2hEbktBYUhFZ1lkbU5BRzBGSVgtdVAxSC14dlJFM3VydG11OTJ0Zzl2a1IzV05STVZzTmF6Qm9IYnpaVkw4b9IBxwFBVV95cUxOQVJFa0N6ZnJDQ3pKZE1wX1NzQU5oLXV0ZGVrelYwd2VqeDVHc0c1dDdzZUdDb09WQk5xSFRocDVtZXFHQlN6d0tkakV2eV8zcUFlbWc1bUIyaDBHVjlRMVpVVE9YWTNHYTJCVnNJY3BQT1IwQ1hEQi1EVzRqR1BOX3pnVl95eE4wZDJuZWJMczJuek45ZUJhYkE0Vzk5dUJRTnZldWJuNHVfeHNiOWlwX0YydWs2Y2ZoM1c4S1l5ZGtiUGdENWE4?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Wed, 18 Nov 2026 10:08:56 GMT"
+      },
+      {
+        "title": "Long Queue to Nowhere: Inside ICAI's Disciplinary System- PART 1 - Moneylife",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa0pGRHNYb2wxUEt1bHN2SzcxYS1uc20tbFlYZl9RSW5rX3pkNzcwTGloOHV5ZnF0MkZVb0tORUVSeGpRTE03Z09fZEc3QlZ4ancwUnMzWml6RG41cXNXSFR3a1N5N1NoeFZUMGRHclpEUWRoNXRRY3lUc2c2ZVVucy0xN3JFSlo1NEN2LTFxNi1tX1kzdWNKcnI0Qk1pNVM0Tk41TWo0NGU?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sat, 21 Nov 2026 01:52:56 GMT"
       },
       {
         "title": "ICAI President on board of International Federation of Accountants - BusinessLine",
@@ -205,10 +205,10 @@
         "pubDate": "Wed, 18 Nov 2026 12:59:00 GMT"
       },
       {
-        "title": "IFRS 16 – An overview - kpmg.com",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYm5DVEo0emt4MmlIN29QSkgxOVVTdkkxOVNqQi1CNjVvNUdtMmF3V2M5NTlyam1mTHV5SFJGMG9yRzh5M1lodE82ekpVNENLVmJqbTNiOVdVRF90RDVHb1E0bGdnbzJfX2VBSi1IWTdIOU9LWGp1M0xuMlVybUYzY2o1VVRTRi13UnIxb2pOS25kMG8tbzNOOXBBbDJIWE5fbWYtY2N4QQ?oc=5",
+        "title": "Direction for international financial reporting standards - Vietnam Economic Times",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVUxCaHB4N2tOc3V4MjM3ZzExTFFBX3ZIem5LaWdPOFpUZmQ2X2pkbkpBWWgzNC1LaTE3YXFtRVJxYllrQkd4dDlXTEVTZmE0QUc3QTU5bU9kRDlRSG1EWWdTQWtJSGdIQlhnYVlMdHdiSEpWWlNncm9tc0RJX3hWZk5UMEFxRmhNNzFTS3pR?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT"
+        "pubDate": "Sun, 22 Nov 2026 01:00:00 GMT"
       }
     ]
   }
