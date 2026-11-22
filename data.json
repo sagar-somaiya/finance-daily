@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T02:44:39.713584+00:00",
+  "generatedAt": "2026-11-22T10:30:41.091560+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 59561,
-      "chg": 1.77
+      "price": 60835,
+      "chg": 4.8
     },
     "eth": {
-      "price": 1669.69,
-      "chg": 3.33
+      "price": 1708.65,
+      "chg": 4.01
     }
   },
   "fx": {
@@ -88,6 +88,36 @@
   },
   "news": {
     "corp": [
+      {
+        "title": "Why gold’s five-year winning streak is under threat after dramatic selloff",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/why-golds-five-year-winning-streak-is-under-threat-after-dramatic-selloff/articleshow/136070323.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 22 Nov 2026 13:51:09 +0530"
+      },
+      {
+        "title": "InvIT IPO rush gathers pace; 4-5 private trusts likely to go public by Mar 2027",
+        "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/invit-ipo-rush-gathers-pace-4-5-private-trusts-likely-to-go-public-by-mar-2027/articleshow/136069094.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 22 Nov 2026 12:15:10 +0530"
+      },
+      {
+        "title": "5 penny stocks plunge up to 68% in six months. Do you own any?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/5-penny-stocks-plunge-up-to-68-in-six-months-do-you-own-any/slideshow/136069072.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 22 Nov 2026 12:03:45 +0530"
+      },
+      {
+        "title": "Reliance Brands FY26 revenue up 3.8% to Rs 3,390.9 crore; loss narrows to Rs 137 crore",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-brands-fy26-revenue-up-3-8-to-rs-3390-9-crore-loss-narrows-to-rs-137-crore/articleshow/136068185.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 22 Nov 2026 11:14:52 +0530"
+      },
+      {
+        "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-post-debut-stumble-delivers-reality-check-for-ai-trade/articleshow/136066633.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sun, 22 Nov 2026 09:00:15 +0530"
+      },
       {
         "title": "Nifty eyes 26,200 as rally strengthens; 6 sectors signal outperformance",
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-eyes-26200-as-rally-strengthens-6-sectors-signal-outperformance/articleshow/136050218.cms",
@@ -117,36 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-winners-max-healthcare-deepak-fertilisers-among-10-stocks-that-surged-up-to-14-in-last-week/slideshow/136046616.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Sat, 21 Nov 2026 11:21:22 +0530"
-      },
-      {
-        "title": "US Treasury yields drop for day and week; AI trade concern spurs safe-haven bid",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-drop-for-day-and-week-ai-trade-concern-spurs-safe-haven-bid/articleshow/136045682.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sat, 21 Nov 2026 10:53:49 +0530"
-      },
-      {
-        "title": "Dollar weaker as Fed-fueled rally stalls; lower US yields help yen",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-weaker-as-fed-fueled-rally-stalls-lower-us-yields-help-yen/articleshow/136045620.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sat, 21 Nov 2026 10:50:04 +0530"
-      },
-      {
-        "title": "Crude prices may normalise to USD 70 by end-2027 as global oil market moves into surplus: Report",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/crude-prices-may-normalise-to-usd-70-by-end-2027-as-global-oil-market-moves-into-surplus-report/articleshow/136045576.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sat, 21 Nov 2026 10:46:52 +0530"
-      },
-      {
-        "title": "Gold's slide deepens as AI rout, rate-hike bets hurt bullion",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/golds-slide-deepens-as-ai-rout-rate-hike-bets-hurt-bullion/articleshow/136045549.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sat, 21 Nov 2026 10:44:11 +0530"
-      },
-      {
-        "title": "UK stocks sink as global selloff weighs on banks and miners",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-stocks-sink-as-global-selloff-weighs-on-banks-and-miners/articleshow/136045502.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Sat, 21 Nov 2026 10:42:07 +0530"
       }
     ],
     "acct": [
@@ -157,22 +157,22 @@
         "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT"
       },
       {
+        "title": "From spreadsheets to soil: Malayali chartered accountant turns to heritage farming in Idukki - Onmanorama",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTW5ZbVRRamJhb28tYXRmVmdaQ2g0RTZoWUtNVFhLVmloM0lCdGgtMm9mRndFZUtpVmVvU2JaeTJIYW1PbG9zMExYZWVTYV9VVHNEVTN6aHExc1J1eWhiRUJscTR1QlExTmFmX21yT0VsbXYtN0dPLThEeTBoTzZYSGNoTExKWmtXZTJBWWczYWQ5RW91cHl6ajFR?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sun, 22 Nov 2026 09:26:37 GMT"
+      },
+      {
         "title": "Parliamentary Panel Seeks MCA Explanation Over Non-Implementation of Reservation Policy in ICAI - TaxGuru",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelF4dkJCVW95Z1huRjhnV2FtQVhsa3lXbkRpVnZyZXZ0cUl4U2oyZnp6TVd1Qno0XzBjWnh5dW9VZXB1OUVzdkFuZ2diNzFQNDVYM1E3SmI5MkhyWk11UjlJSWxlVU95UHhPUHNCVTFKTnZUS2VnXzRUS2xGbTdMdzBlTUVVcGxNNXZtQ1k2b0ZhR1RKZGFWY1VKT29pbWszVHdFTmlMcXcxTGZHa2dfLWNhcERlbkxfR0ZOaVZCZDA3QjFKU2t5ZA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 20 Nov 2026 04:06:35 GMT"
       },
       {
-        "title": "Accounting and Reporting for Foreign Subsidiaries in India: Ind AS vs IFRS and Group Reporting - CAclubindia",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOUlTZVFqQWc0cmdlYVZ5aEN0cHhUTW9ZQ2NwSUlHOXVWM1VJd252dW0tb2ZfM2Q0MXJIWjNBQ0xqVTJZYV9lNnZWS19vZDkxX0tLZG5vdE81ZDNldER5ZGhybC05QUFONXYxaWRqc1A3U3R0Zl9ZcjJvTnFGN1MyaGxCb3dRQWpVM2NlLUx3a2NJbXg2a1g4QVk2YVd1MVJFV2NERmg4bzBQc080NjBCb2hQRlZ6WWFGYVZNbnkyOXpHektVZnREak5LSEdZYzdBSmNfUkEwYw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 20 Nov 2026 03:30:00 GMT"
-      },
-      {
         "title": "How IFRS 18 for financial services can reshape GCC reporting - EY",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObmhnOXNBY2luMTFtYW8yTEo5NmZxdU5wR3NxNmNnQ1h0MDJqaWluSjQ2QnRRZFhDOUtZS18xZ0JVcW1VSGRlTklacGNpZmFFa2FGbUs5SUdJYmJpOTM5UjdsOHc2UGgycFJTbVpZdFFnRE5xalZaaUE2UVRrRlpXQmo5LU11TXNoY3EweUpnN0YzTy1mdUp1X19uVmJyVFYxMWxRY3hIWDU5NWhmVERxdkVMaU14N091MjM3UWNPMFA3eTg3VGNkM1JYaEVwdw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 13 Nov 2026 06:58:36 GMT"
+        "pubDate": "Fri, 13 Nov 2026 06:57:02 GMT"
       },
       {
         "title": "Chartered Accountant Explains How To Invest Rs 5 Lakh Wisely: 'Main Problem Isn't Money' - NDTV",
@@ -196,7 +196,7 @@
         "title": "IFFCO Tokio General Insurance selects CCH Tagetik to support Ind AS 117 and Ind AS 116 compliance - Wolters Kluwer",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ2FGY3hKRFNBYndXMDNRZUpYekxmejNZc3hyeVlWODgxRmM5aGZzMmFBRVZieGhQNlNxRk44VlZZSU1mYTlQWWlmMHBZUzNqQld0WmJnYVdueGV3RkRXVmZSVEV4Q05XVFFOT3JERG5uZVhfN3ZMSmJZbTZMZXNwSXVjbi1MUktqLUZpQ3ZUTldta3ZKNnJJZ0NiWmVFVHFHT2FibUFrU1VmYkNWa0M1QXgteGRzcWNTS09kQm1EMlFFYXcwR2lpb1luNXNkWjM1czB3UkFmdw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT"
+        "pubDate": "Mon, 26 Oct 2026 10:26:29 GMT"
       },
       {
         "title": "Tencent Holdings Limited Revenue Rises 8%, Non-IFRS Operating Profit Falls 6% - TradingView",
@@ -205,10 +205,10 @@
         "pubDate": "Wed, 18 Nov 2026 12:59:00 GMT"
       },
       {
-        "title": "Direction for international financial reporting standards - Vietnam Economic Times",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVUxCaHB4N2tOc3V4MjM3ZzExTFFBX3ZIem5LaWdPOFpUZmQ2X2pkbkpBWWgzNC1LaTE3YXFtRVJxYllrQkd4dDlXTEVTZmE0QUc3QTU5bU9kRDlRSG1EWWdTQWtJSGdIQlhnYVlMdHdiSEpWWlNncm9tc0RJX3hWZk5UMEFxRmhNNzFTS3pR?oc=5",
+        "title": "IFRS 16 – An overview - kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYm5DVEo0emt4MmlIN29QSkgxOVVTdkkxOVNqQi1CNjVvNUdtMmF3V2M5NTlyam1mTHV5SFJGMG9yRzh5M1lodE82ekpVNENLVmJqbTNiOVdVRF90RDVHb1E0bGdnbzJfX2VBSi1IWTdIOU9LWGp1M0xuMlVybUYzY2o1VVRTRi13UnIxb2pOS25kMG8tbzNOOXBBbDJIWE5fbWYtY2N4QQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sun, 22 Nov 2026 01:00:00 GMT"
+        "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT"
       }
     ]
   }
