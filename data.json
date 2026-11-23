@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T04:48:01.907915+00:00",
+  "generatedAt": "2026-11-23T15:31:49.797894+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 61091,
-      "chg": 3.21
+      "price": 63336,
+      "chg": 4.12
     },
     "eth": {
-      "price": 1724.99,
-      "chg": 3.91
+      "price": 1787.73,
+      "chg": 4.2
     }
   },
   "fx": {
@@ -89,66 +89,127 @@
   "news": {
     "corp": [
       {
-        "title": "Gold Silver Rates Live Updates: Gold rebounds from 14-month low as US inflation data, Fed rate outlook take centre stage",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-19th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/136088467.cms",
+        "title": "NSEL releases Rs 1,950 crore in one-time settlement, ends 14-year payment default",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/nsel-releases-rs-1950-crore-in-one-time-settlement-ends-14-year-payment-default/articleshow/136104164.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 23 Nov 2026 09:08:19 +0530"
+        "pubDate": "Mon, 23 Nov 2026 18:43:56 +0530"
       },
       {
-        "title": "APL Apollo Tubes among 3 stocks that rose above VWAP",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/apl-apollo-tubes-among-3-stocks-that-rose-above-vwap/slideshow/136088216.cms",
+        "title": "Nasdaq soars 7% as Jensen Huang's return lifts Nvidia, US market: Stock Market Live Updates",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-meta-anthropic-amd-micron-tesla-ai-chip-earnings-fed-rate-treasury-yield-news-23rd-november-2026/liveblog/136104474.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 23 Nov 2026 08:56:15 +0530"
+        "pubDate": "Mon, 23 Nov 2026 18:42:48 +0530"
       },
       {
-        "title": "Rupee could rise to 91.50/$ on equity inflows, says HDFC Bank's treasury head",
-        "link": "https://economictimes.indiatimes.com/markets/forex/rupee-could-rise-to-91-50/-on-equity-inflows-says-hdfc-banks-treasury-head/articleshow/136088042.cms",
+        "title": "Adani Airport raises $300 mn from 360 ONE Asset, taking total equity infusion to $1.35 bn",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-airport-raises-300-mn-from-360-one-asset-taking-total-equity-infusion-to-1-35-bn/articleshow/136104118.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 23 Nov 2026 08:50:47 +0530"
+        "pubDate": "Mon, 23 Nov 2026 18:41:12 +0530"
       },
       {
-        "title": "HDFC Bank among 5 stocks showing White Marubozu pattern",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-among-5-stocks-showing-white-marubozu-pattern/slideshow/136087788.cms",
+        "title": "Nasdaq futures surge 3% as battered AI stocks gain ground",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-futures-surge-3-as-battered-ai-stocks-gain-ground/articleshow/136104059.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 23 Nov 2026 08:25:27 +0530"
+        "pubDate": "Mon, 23 Nov 2026 18:39:42 +0530"
       },
       {
-        "title": "Persistent Systems among 4 stocks showing RSI trending up",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-among-4-stocks-showing-rsi-trending-up/slideshow/136087624.cms",
+        "title": "Rupee reversal, debt supply drag India bonds in holiday-shortened week",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/rupee-reversal-debt-supply-drag-india-bonds-in-holiday-shortened-week/articleshow/136103987.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 23 Nov 2026 08:19:23 +0530"
+        "pubDate": "Mon, 23 Nov 2026 18:37:06 +0530"
       },
       {
-        "title": "Positive Breakout: These 7 stocks cross above their 200 DMAs",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-7-stocks-cross-above-their-200-dmas/slideshow/136086994.cms",
+        "title": "Rupee retreats with stocks as rally takes a breather, positive bias lingers",
+        "link": "https://economictimes.indiatimes.com/markets/forex/rupee-retreats-with-stocks-as-rally-takes-a-breather-positive-bias-lingers/articleshow/136098391.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 23 Nov 2026 07:33:22 +0530"
+        "pubDate": "Mon, 23 Nov 2026 15:58:38 +0530"
       },
       {
-        "title": "Gold recovers from 14-month low; focus turns to US inflation data",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-recovers-from-14-month-low-focus-turns-to-us-inflation-data/articleshow/136086840.cms",
+        "title": "German bond yields edge higher as equity rebound eases safe-haven demand",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/german-bond-yields-edge-higher-as-equity-rebound-eases-safe-haven-demand/articleshow/136097404.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 23 Nov 2026 07:29:53 +0530"
+        "pubDate": "Mon, 23 Nov 2026 15:25:49 +0530"
       },
       {
-        "title": "South Korean shares slump nearly 3% on AI-driven tech selloff despite policy pledge",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-shares-slump-nearly-3-on-ai-driven-tech-selloff-despite-policy-pledge/articleshow/136086822.cms",
+        "title": "India bonds give up marginal opening gains as profit booking takes over",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-give-up-marginal-opening-gains-as-profit-booking-takes-over/articleshow/136093136.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 23 Nov 2026 07:28:25 +0530"
+        "pubDate": "Mon, 23 Nov 2026 12:46:54 +0530"
       },
       {
-        "title": "Dollar edges off 19-month high after market rout; yen softens",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-edges-off-19-month-high-after-market-rout-yen-softens/articleshow/136086760.cms",
+        "title": "Rupee retreats, Goldman calls it a 'port of stability' in AI storm",
+        "link": "https://economictimes.indiatimes.com/markets/forex/rupee-retreats-goldman-calls-it-a-port-of-stability-in-ai-storm/articleshow/136092977.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 23 Nov 2026 07:22:28 +0530"
+        "pubDate": "Mon, 23 Nov 2026 12:39:49 +0530"
       },
       {
-        "title": "Stock Market Live Updates: Sensex crashes over 1,300 points from day's high, Nifty below 25,650; metal, bank stocks tumble",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-maruti-adani-energy-share-price-23-november-2026/liveblog/136086783.cms",
+        "title": "Cipla Share Price Live Updates: Cipla Stock Price History",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/cipla-stock-price-live-updates-23-nov-2026/liveblog/136092588.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Mon, 23 Nov 2026 07:13:21 +0530"
+        "pubDate": "Mon, 23 Nov 2026 12:20:09 +0530"
       }
     ],
-    "acct": []
+    "acct": [
+      {
+        "title": "IFRS® compared to US GAAP - kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVkVteUpjSzF0d2tfSl9zaHhpREppbngxMXJRNGFEMXIwaVgycC1Lek5NN1hCcUV6ajU4TkdpWmpzUnhpVEhQdDB2bmpGNlFzTmVaSDEtRTVmdEdxZUFZRFU2bFEtT0l0UFU3SjJIQWpMR2VodElURUc1NDhPTTh5a2xSckU4Vm5FVTByTnBNVno2Z1ZYWTZzWURqWXc0dGs1U1hQd1ZzeXlFZWlSQVN0VXRsbzFoUQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT"
+      },
+      {
+        "title": "Ind AS 34 Interim Tax Expense: Annual Effective Rate, Year-to-Date True-Ups and Loss-Year Controls - TaxGuru",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVVgxNXVzd3RFQmJfVnRwbzltcnNCSEtOenNKT0FvNEY2RndNYWpWU2hDWlhCd01qdDR1cUNrdk5JZW5iRWNmck5rNUR0bVdtNk1nSHZRUC1lYUVGckpial9Hd2YwWmc5LTFQaDRNemZGVndiTFZ3TVFUNUxSb3ZaWkVscjY5bXkyMGxZd3JmOWEwSG1jckViYUVqdm1aMHBfaWxydmZuVGNEdzJ3RlNTanFkcVBmT2FFTWppQTFCNDlPd3ItWGVlVHdldw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 23 Nov 2026 13:19:41 GMT"
+      },
+      {
+        "title": "How IFRS 18 for financial services can reshape GCC reporting - EY",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObmhnOXNBY2luMTFtYW8yTEo5NmZxdU5wR3NxNmNnQ1h0MDJqaWluSjQ2QnRRZFhDOUtZS18xZ0JVcW1VSGRlTklacGNpZmFFa2FGbUs5SUdJYmJpOTM5UjdsOHc2UGgycFJTbVpZdFFnRE5xalZaaUE2UVRrRlpXQmo5LU11TXNoY3EweUpnN0YzTy1mdUp1X19uVmJyVFYxMWxRY3hIWDU5NWhmVERxdkVMaU14N091MjM3UWNPMFA3eTg3VGNkM1JYaEVwdw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 13 Nov 2026 06:57:02 GMT"
+      },
+      {
+        "title": "Freightos Reports Third Quarter 2026 Results, Cuts Adjusted EBITDA Loss by Over 50% and Announces a Share Repurchase Program - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPejBwTFVQSEdPOXdMenM1N09wMzhSX1Rhb0sxNmpTVFc3Mk5mTXRxUmFONFMtc3RXSDhMdmtCY1pOU0oxMWlqN1IzTnJGSlBqNlQxeVBqS1hCdDRGdTNLV3ZDSXIzT1hOMGtjOFkwNnBudk0wazIyZW1BRmVIaldDSGphd05NU04tOUJRdUZlS09HZ2hhVENINjlhT0RMb2Yyemowa0tzLUF6UWtsY3BMczB4aDR4WHZQVnRmUmV3VkIxeU4yZUdVQlRKejBib29lVXBiVS1EajBxei01U2lsX191c3lWWXRUc2lGeXZPLUpxLVNUQXFOSUZoeTloOS1FMUlvOGszNnl2MFZEbDNqUQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 23 Nov 2026 12:00:00 GMT"
+      },
+      {
+        "title": "Long Queue to Nowhere: Inside ICAI's Disciplinary System- PART 1 - Moneylife",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa0pGRHNYb2wxUEt1bHN2SzcxYS1uc20tbFlYZl9RSW5rX3pkNzcwTGloOHV5ZnF0MkZVb0tORUVSeGpRTE03Z09fZEc3QlZ4ancwUnMzWml6RG41cXNXSFR3a1N5N1NoeFZUMGRHclpEUWRoNXRRY3lUc2c2ZVVucy0xN3JFSlo1NEN2LTFxNi1tX1kzdWNKcnI0Qk1pNVM0Tk41TWo0NGU?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sat, 21 Nov 2026 10:43:29 GMT"
+      },
+      {
+        "title": "Acron : IFRS revenue for 9M 2026 up 5% - www.marketscreener.com",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdnVISlZmSUV1X0N3NzFsWk53T21jMG0zWThIcm5DRzNUQlUyQ0huSUwxLXVHc2dWWmVqNEI5aUtLTEFicjlhZ2lHQ2UwUTVuTk1yWVJFVHpmV1hTVGtVUlJ3dmFqaUZMcnI1Y1NaU0RYYnc0THpQRXphWk9kZ0J2RTlVb0pwWWFINmxtajhCWTFhdw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 23 Nov 2026 12:55:03 GMT"
+      },
+      {
+        "title": "Chartered Accountant Explains How To Invest Rs 5 Lakh Wisely: 'Main Problem Isn't Money' - NDTV",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQmVhTWxnbHRrZ2M4TzBpM3IwaGJMdzc2ekJEc244ZVMtY0tJSXhfVkdsT3lKNFdFaUduRmRwSU9oM1dYUzdlQy1ncUNKUURpemtseC1vUnlsX3FNX194NUF6REdHeG4zazA0M00tVlRLLXh1MTBzVkszbEl6Z2pQM2hEbktBYUhFZ1lkbU5BRzBGSVgtdVAxSC14dlJFM3VydG11OTJ0Zzl2a1IzV05STVZzTmF6Qm9IYnpaVkw4b9IBxwFBVV95cUxOQVJFa0N6ZnJDQ3pKZE1wX1NzQU5oLXV0ZGVrelYwd2VqeDVHc0c1dDdzZUdDb09WQk5xSFRocDVtZXFHQlN6d0tkakV2eV8zcUFlbWc1bUIyaDBHVjlRMVpVVE9YWTNHYTJCVnNJY3BQT1IwQ1hEQi1EVzRqR1BOX3pnVl95eE4wZDJuZWJMczJuek45ZUJhYkE0Vzk5dUJRTnZldWJuNHVfeHNiOWlwX0YydWs2Y2ZoM1c4S1l5ZGtiUGdENWE4?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 18 Nov 2026 10:08:56 GMT"
+      },
+      {
+        "title": "ICAI CA Inter Registration Jan 2027 Closed; Online Form Correction Open Till Nov 22 at SSP Portal - Shiksha.com",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdkZYOGw3WDRUeTQ4b21YNWp3THI1QlRmRWdnNS1zU0NRSFRfY3JKWkk0VWRZYWVkQl94MlotRHNFOVpBejFhcmRzV2VjS0t5Q1hKbi1Vdm1uY2VWWlRDYy1rMUtad0JHYVBqaVdsZ1p2WjVVeV9rLVpRN2lCYWpCNUMwQ2FCb2t0LVBIVGpnT3FVSVh0RzB2UTAzX3phZTFHN0lqN3FicHEwVnNoWGpBRWtxRnVEMWVNbWFzTUsya21pVkRjMFdCUGwwOWxqcHk0RGhUSlFWc2NSWnFaUlJJMDZXVjdLSTFqSVZ0am8yS3g?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 20 Nov 2026 06:30:02 GMT"
+      },
+      {
+        "title": "From spreadsheets to soil: Malayali chartered accountant turns to heritage farming in Idukki - Onmanorama",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTW5ZbVRRamJhb28tYXRmVmdaQ2g0RTZoWUtNVFhLVmloM0lCdGgtMm9mRndFZUtpVmVvU2JaeTJIYW1PbG9zMExYZWVTYV9VVHNEVTN6aHExc1J1eWhiRUJscTR1QlExTmFmX21yT0VsbXYtN0dPLThEeTBoTzZYSGNoTExKWmtXZTJBWWczYWQ5RW91cHl6ajFR?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Sun, 22 Nov 2026 09:26:37 GMT"
+      },
+      {
+        "title": "IFFCO Tokio General Insurance selects CCH Tagetik to support Ind AS 117 and Ind AS 116 compliance - Wolters Kluwer",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ2FGY3hKRFNBYndXMDNRZUpYekxmejNZc3hyeVlWODgxRmM5aGZzMmFBRVZieGhQNlNxRk44VlZZSU1mYTlQWWlmMHBZUzNqQld0WmJnYVdueGV3RkRXVmZSVEV4Q05XVFFOT3JERG5uZVhfN3ZMSmJZbTZMZXNwSXVjbi1MUktqLUZpQ3ZUTldta3ZKNnJJZ0NiWmVFVHFHT2FibUFrU1VmYkNWa0M1QXgteGRzcWNTS09kQm1EMlFFYXcwR2lpb1luNXNkWjM1czB3UkFmdw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Mon, 26 Oct 2026 10:26:29 GMT"
+      }
+    ]
   }
 }
