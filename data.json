@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T13:05:23.586871+00:00",
+  "generatedAt": "2026-11-24T23:09:12.161062+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 60386,
-      "chg": -1.38
+      "price": 59974,
+      "chg": -2.21
     },
     "eth": {
-      "price": 1702.04,
-      "chg": -1.09
+      "price": 1683.59,
+      "chg": -1.86
     }
   },
   "fx": {
@@ -88,6 +88,24 @@
   },
   "news": {
     "corp": [
+      {
+        "title": "Nasdaq, S&amp;P 500 end lower as investors assess Jensen Huang's return to Nvidia",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-sp-500-end-lower-as-investors-assess-jensen-huangs-return-to-nvidia/articleshow/136141893.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Wed, 25 Nov 2026 02:39:28 +0530"
+      },
+      {
+        "title": "PE/VC investments in India surge to USD 8.7 billion in October, highest monthly level in five years: EY-IVCA report",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/pe/vc-investments-in-india-surge-to-usd-8-7-billion-in-october-highest-monthly-level-in-five-years-ey-ivca-report/articleshow/136132831.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Tue, 24 Nov 2026 19:17:50 +0530"
+      },
+      {
+        "title": "Nasdaq, S&amp;P 500 end lower as investors assess Jensen Huang's return to Nvidia: US Stock Market Highlights",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-anthropic-iphone-google-meta-tesla-earnings-treasury-yield-news-24-nov-2026/liveblog/136131363.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Tue, 24 Nov 2026 18:30:48 +0530"
+      },
       {
         "title": "Shift in pension and insurance money to equities dampens long-term G-sec demand: RBI DG",
         "link": "https://economictimes.indiatimes.com/markets/bonds/shift-in-pension-and-insurance-money-to-equities-dampens-long-term-g-sec-demand-rbi-dg/articleshow/136130860.cms",
@@ -129,24 +147,6 @@
         "link": "https://economictimes.indiatimes.com/markets/stocks/news/investors-mint-rs-34-61-lakh-cr-in-november-as-markets-rally-nearly-11/articleshow/136123662.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Tue, 24 Nov 2026 13:28:46 +0530"
-      },
-      {
-        "title": "HDFC Bank, Reliance Industries among 10 stocks with highest DII holding in Q2. See full list",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-reliance-industries-among-10-stocks-with-highest-dii-holding-in-q2-see-full-list/slideshow/136126992.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 24 Nov 2026 11:45:03 +0530"
-      },
-      {
-        "title": "The LTCG debate: Why markets need tax stability and not ad-hoc fixes",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/the-ltcg-debate-why-markets-need-tax-stability-and-not-ad-hoc-fixes/articleshow/136121257.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 24 Nov 2026 11:38:55 +0530"
-      },
-      {
-        "title": "Bitcoin fails to hold Nvidia bump with crypto headwinds in focus",
-        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-fails-to-hold-nvidia-bump-with-crypto-headwinds-in-focus/articleshow/136119619.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Tue, 24 Nov 2026 10:10:09 +0530"
       }
     ],
     "acct": [
@@ -157,10 +157,40 @@
         "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT"
       },
       {
+        "title": "PRA statement on IFRS 18 and FINREP reporting - Global Regulation Tomorrow",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOblBnMUFmZ2l3LThnR1NYeEoyaUlZYk5DazdMSmZWdDBMUnJCZFF2QlBzeVp2SEtvZG9mQTJhTUVGU3JfNjllNmtSSlMwWDNDdEx3akRXN1BDQkphc1JUM3hwdWc5bkYxeTFnaHAwOG9zZEt3U2dRWkt4eUhqX3Byako3OUdfMVBoSmV4ME1GNWpqY28?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 24 Nov 2026 19:52:06 GMT"
+      },
+      {
+        "title": "Mumbai court denies bail plea in forex fraud case - Law.asia",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TNHJ2T1pTVFUwNGRKaWctYjQ5WE5EeXhueEl2ZFQ2Wl90OVBwYWtuY2l4RUprcUxpdFBVWUV3WEVBa2JrY3lzLXhBY19XMGliRm54M0YtMWxvcEoxbl9neGF4Z28tQQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 24 Nov 2026 17:17:57 GMT"
+      },
+      {
+        "title": "ICAI November 2026 Technical Guides on GSTR-9 and GSTR-9C: Six Key Changes With Practical Examples - TaxGuru",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzZFY1FfZklGTXF4NWJFQmN6MGtFZGxBWjk4VlBHNFBraHBkd2xrRUFDN0ZXTF9qSDNkQ20yYTVZckg3b0lSblE3UnE1azliaks3OVEyZnR6c3dGOHZ1QnlQTHpJdFBqY1dUYlJ6dXI2QkZlLVNzaE9RcGFqM3BTdWhvY1NpLXJuN09sZG5UR3JKSkJNQ005My1RcWRoZ24zNjFUbkZ1LXdRVmk1TGNHbk1kaS1Oa01rM0xN?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 24 Nov 2026 19:31:09 GMT"
+      },
+      {
         "title": "PSU statutory audits: ICAI and CAG discuss cybersecurity, financial reporting and audit standards - The Times of India",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQOGdoUmUtV1piLVdSLVdkb0ZFOTM5ZXRJVXROMlZzM2otYUlzR3BFVXI4OEp5MjE4eE9oU1JnRUZFMUJOQzVfN0NHNExwVmdDMDNBcTBFeUY0QjRsV0V5VVRXUVpXRDFsY2hscS1DNC13akRVcGhtZXlOSFAtaWp6N3ZRLWpTTGZtR3I0LWpNYWtIQ3haVUVpZjlINmtBaVc1NXl0UU1NTGp4R3YwQ0taTW5ZRXNORElOcWdVQlVWNV9CNUdCQlRrU1hjRXpOVVNOODctSVBwRFZzLVQySWZSazBFNWlkOTkwa2NadVNYMlNFRXBvbzEzRkpDTl81akh3LUHSAYcCQVVfeXFMTVhScFRRTWxkVTlnOFVmLXN0QXRwQTdiVUZ6cUducG52cS16R1lsT0diT3FJU1FGXzRwVERCanlRYXZsVGFydlRaYmRSMGlGNnBOM0dIbkxuTTVfZzlJMnliS3BKMmx3SS1VTzVGUVNOMTJwVE1KeVZqcVNBWjhOcl9kY2RxWnFkbVpCSVkzNERjcEZnTnhsVU90dXg4UE1GSGdHb1dNcnNuOXp4aUk2ek5wNE5kUkZrOUtnenNKMWR6aFUyNWUtQnJlUk8xbDdiZGlhUzV5TWZaY2trZGFYTWYzSWtlSzVlakxfTWRKbkllOEkxb3RGRkJqcklmUW03SzVCeTU2TDA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 24 Nov 2026 10:03:00 GMT"
+      },
+      {
+        "title": "Getting ready for IFRS 18 - kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbUY0TFRsTGlvWHB4c2JPU05OQ0pUSFV3T2NFV2J5bDFFM3Q3cllxWlBuUlJtVDM2RFlPeU4wdUoxZ3kzYVJBbTFNWno3MC1PNklWNjA4bS1BcWNoeHFEaHg1Nno5ZVpnaXFSdXFXcVo1a2YxdG1XOGFQN1A2WlE1NjZOZmpDZDZRZzFzRA?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 24 Nov 2026 18:09:35 GMT"
+      },
+      {
+        "title": "Ratos divests Plantasjen as part of its 2030 strategy - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWFJTUEZYMFJob1dOa2p1NWUxQjUzck5fMHR3T0Y4UHdBSTdHY0I0LWJRRENCOGlVM25OcUJ0Q0dDdjNlVGdvbG9QMG0wRmlXbnJQdnVnWDBPUlYyN1RaVzB2Y1l3blJhVDVBWFdvSkZpdG81ZUZVc0NQV21TWVdwUHdZdDlXbDVkTk1jSUxTM2VjaWRFWElqNF9abTJGZFpUdDRpbEUxM21hX2hWR2cxUl8waEo5bE1EZ2FV?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 24 Nov 2026 17:12:00 GMT"
       },
       {
         "title": "ICAI workshop reviews audit quality and accountability in public sector undertakings - FlipItMoney",
@@ -169,46 +199,16 @@
         "pubDate": "Tue, 24 Nov 2026 10:54:43 GMT"
       },
       {
-        "title": "Prudential Regulation Authority's statement on IFRS 18 and FINREP reporting - Bank of England",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSm5SU3NrMGplSHk0R1VueUhmVDl5Sm1vQ1JFTTRvcEVuTS1lLWFuaEYyeWxnMGx1VUItY3drU3hiS0ZqSlRVV0dWOXctM003czRhX01ZWml2ck9ZNVRlQVIyTUR4TWdPVl9Wc01fY2VVNnFuYVoycWxlU3dRMXlGRmUtQUY2dzJSdEpWWUtKUFl5SFpHcFBlVkpyRFlsTTJ2UFk3TGhTOUZJbTJncDUzNFRhTkl4N3M5Z2x0V3F5R2xxZk0?oc=5",
+        "title": "PRA keeps existing FINREP reporting templates ahead of IFRS 18 transition - Traders Union",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSkRzWHNIQ19zUnZqUVNHZktaaDRKYlNBdzhXVzBmYkhwY1IzazRxb3lIWjdWLVhoSWZRM053Ym1DTUJKbEhscUE2X1VCUjZPQlMxY28zRVVfUG9Od05Sd1NfOUdJRklqVzFQaEZsYjh6NUVEWk52dmJIN3hBMjc4cWhmMDc2SnpyM3dIYXk5SlVKcXVQTE14VQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 24 Nov 2026 10:39:30 GMT"
-      },
-      {
-        "title": "Parliamentary Panel Seeks MCA Explanation Over Non-Implementation of Reservation Policy in ICAI - TaxGuru",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelF4dkJCVW95Z1huRjhnV2FtQVhsa3lXbkRpVnZyZXZ0cUl4U2oyZnp6TVd1Qno0XzBjWnh5dW9VZXB1OUVzdkFuZ2diNzFQNDVYM1E3SmI5MkhyWk11UjlJSWxlVU95UHhPUHNCVTFKTnZUS2VnXzRUS2xGbTdMdzBlTUVVcGxNNXZtQ1k2b0ZhR1RKZGFWY1VKT29pbWszVHdFTmlMcXcxTGZHa2dfLWNhcERlbkxfR0ZOaVZCZDA3QjFKU2t5ZA?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 20 Nov 2026 04:06:35 GMT"
+        "pubDate": "Tue, 24 Nov 2026 14:19:31 GMT"
       },
       {
         "title": "How IFRS 18 for financial services can reshape GCC reporting - EY",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObmhnOXNBY2luMTFtYW8yTEo5NmZxdU5wR3NxNmNnQ1h0MDJqaWluSjQ2QnRRZFhDOUtZS18xZ0JVcW1VSGRlTklacGNpZmFFa2FGbUs5SUdJYmJpOTM5UjdsOHc2UGgycFJTbVpZdFFnRE5xalZaaUE2UVRrRlpXQmo5LU11TXNoY3EweUpnN0YzTy1mdUp1X19uVmJyVFYxMWxRY3hIWDU5NWhmVERxdkVMaU14N091MjM3UWNPMFA3eTg3VGNkM1JYaEVwdw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 13 Nov 2026 06:57:02 GMT"
-      },
-      {
-        "title": "South Korea's IFRS 18 Takes Effect in January, Changing How Operating Profit Is Reported - BigGo Finance",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NQl9WUF93SkpxNnFwYk5qOTJ6VU55a0RSclpaWFNsSVgtR2d4NzFCMXJDc09HMjJ6Z2EtbExQMk1XcC1XeHkzRlViMmN6aUZyNDZVeTYxUC16c2taR0F4bTVrTHRSdDlibWpXY3dxcFk1bDZxenc?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 24 Nov 2026 01:35:00 GMT"
-      },
-      {
-        "title": "ICAI CA Inter Registration Jan 2027 Closed; Online Form Correction Open Till Nov 22 at SSP Portal - Shiksha.com",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdkZYOGw3WDRUeTQ4b21YNWp3THI1QlRmRWdnNS1zU0NRSFRfY3JKWkk0VWRZYWVkQl94MlotRHNFOVpBejFhcmRzV2VjS0t5Q1hKbi1Vdm1uY2VWWlRDYy1rMUtad0JHYVBqaVdsZ1p2WjVVeV9rLVpRN2lCYWpCNUMwQ2FCb2t0LVBIVGpnT3FVSVh0RzB2UTAzX3phZTFHN0lqN3FicHEwVnNoWGpBRWtxRnVEMWVNbWFzTUsya21pVkRjMFdCUGwwOWxqcHk0RGhUSlFWc2NSWnFaUlJJMDZXVjdLSTFqSVZ0am8yS3g?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 20 Nov 2026 06:30:02 GMT"
-      },
-      {
-        "title": "From spreadsheets to soil: Malayali chartered accountant turns to heritage farming in Idukki - Onmanorama",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTW5ZbVRRamJhb28tYXRmVmdaQ2g0RTZoWUtNVFhLVmloM0lCdGgtMm9mRndFZUtpVmVvU2JaeTJIYW1PbG9zMExYZWVTYV9VVHNEVTN6aHExc1J1eWhiRUJscTR1QlExTmFmX21yT0VsbXYtN0dPLThEeTBoTzZYSGNoTExKWmtXZTJBWWczYWQ5RW91cHl6ajFR?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Sun, 22 Nov 2026 09:26:37 GMT"
-      },
-      {
-        "title": "Chartered Accountant Explains How To Invest Rs 5 Lakh Wisely: 'Main Problem Isn't Money' - NDTV",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQmVhTWxnbHRrZ2M4TzBpM3IwaGJMdzc2ekJEc244ZVMtY0tJSXhfVkdsT3lKNFdFaUduRmRwSU9oM1dYUzdlQy1ncUNKUURpemtseC1vUnlsX3FNX194NUF6REdHeG4zazA0M00tVlRLLXh1MTBzVkszbEl6Z2pQM2hEbktBYUhFZ1lkbU5BRzBGSVgtdVAxSC14dlJFM3VydG11OTJ0Zzl2a1IzV05STVZzTmF6Qm9IYnpaVkw4b9IBxwFBVV95cUxOQVJFa0N6ZnJDQ3pKZE1wX1NzQU5oLXV0ZGVrelYwd2VqeDVHc0c1dDdzZUdDb09WQk5xSFRocDVtZXFHQlN6d0tkakV2eV8zcUFlbWc1bUIyaDBHVjlRMVpVVE9YWTNHYTJCVnNJY3BQT1IwQ1hEQi1EVzRqR1BOX3pnVl95eE4wZDJuZWJMczJuek45ZUJhYkE0Vzk5dUJRTnZldWJuNHVfeHNiOWlwX0YydWs2Y2ZoM1c4S1l5ZGtiUGdENWE4?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 18 Nov 2026 10:08:56 GMT"
       }
     ]
   }
