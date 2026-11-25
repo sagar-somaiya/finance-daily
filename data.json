@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T05:32:46.617357+00:00",
+  "generatedAt": "2026-11-25T16:28:29.528805+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 59035,
-      "chg": -2.7
+      "price": 58776,
+      "chg": -1.51
     },
     "eth": {
-      "price": 1655.46,
-      "chg": -2.99
+      "price": 1650.52,
+      "chg": -1.52
     }
   },
   "fx": {
@@ -89,67 +89,73 @@
   "news": {
     "corp": [
       {
-        "title": "HPE shares crash 17%, stock suffers its worst-ever single-day fall. Here's why",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/hpe-shares-crash-17-stock-suffers-its-worst-ever-single-day-fall-heres-why/slideshow/136148964.cms",
+        "title": "Carlyle pares 7.4% stake in Piramal Pharma for over Rs 2,211 crore",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/carlyle-pares-7-4-stake-in-piramal-pharma-for-over-rs-2211-crore/articleshow/136165837.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 25 Nov 2026 10:08:14 +0530"
+        "pubDate": "Wed, 25 Nov 2026 20:32:44 +0530"
       },
       {
-        "title": "Rupee jumps 23 paise to 92.62 against US dollar in early trade",
-        "link": "https://economictimes.indiatimes.com/markets/forex/rupee-jumps-23-paise-to-92-62-against-us-dollar-in-early-trade/articleshow/136147947.cms",
+        "title": "RBI raises share of domestically held gold reserves, data shows",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-raises-share-of-domestically-held-gold-reserves-data-shows/articleshow/136165807.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 25 Nov 2026 10:00:22 +0530"
+        "pubDate": "Wed, 25 Nov 2026 20:30:14 +0530"
       },
       {
-        "title": "APL Apollo Tubes among 4 Nifty500 stocks closing below VWAP",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/apl-apollo-tubes-among-4-nifty500-stocks-closing-below-vwap/slideshow/136147553.cms",
+        "title": "Two in five Indian family offices, UHNIs have engaged with crypto amid regulatory caution",
+        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/two-in-five-indian-family-offices-uhnis-have-engaged-with-crypto-amid-regulatory-caution/articleshow/136163899.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 25 Nov 2026 09:26:10 +0530"
+        "pubDate": "Wed, 25 Nov 2026 19:19:47 +0530"
       },
       {
-        "title": "PB Fintech among 3 Nifty500 stocks flashing RSI uptrend signal",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/pb-fintech-among-3-nifty500-stocks-flashing-rsi-uptrend-signal/slideshow/136147231.cms",
+        "title": "RBI net buyer of dollars for fourth straight month in September, data shows",
+        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-buyer-of-dollars-for-fourth-straight-month-in-september-data-shows/articleshow/136163192.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 25 Nov 2026 09:07:48 +0530"
+        "pubDate": "Wed, 25 Nov 2026 18:49:28 +0530"
       },
       {
-        "title": "Negative Breakout: These 4 stocks dropped below their 200 DMAs",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/negative-breakout-these-4-stocks-dropped-below-their-200-dmas/slideshow/136147014.cms",
+        "title": "US Stock Market Live Updates: Dow Jones plunges 800 pts, Nasdaq over 3% as AI rout intensifies",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-alphabet-amazon-anthropic-dell-inflation-fed-rate-hike-gold-treasury-yield-news-25th-november-2026/liveblog/136163404.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 25 Nov 2026 09:02:00 +0530"
+        "pubDate": "Wed, 25 Nov 2026 18:42:55 +0530"
       },
       {
-        "title": "Gold Silver Rates Live Updates: Gold, silver edge lower on MCX. Check key levels and estimates",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/live-updates-gold-rate-today-25th-november-24k-22k-20k-18-carat-mcx-gold-silver-price-in-delhi-hyderabad-chennai-bengaluru-citywise/liveblog/136146334.cms",
+        "title": "SEBI eases KYC norms, centralises supplementary client data to simplify onboarding",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-kyc-norms-centralises-supplementary-client-data-to-simplify-onboarding/articleshow/136162936.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 25 Nov 2026 08:19:04 +0530"
+        "pubDate": "Wed, 25 Nov 2026 18:41:00 +0530"
       },
       {
-        "title": "India pension funds pivot to bonds as equity exposure nears cap",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/india-pension-funds-pivot-to-bonds-as-equity-exposure-nears-cap/articleshow/136146220.cms",
+        "title": "Sebi mulls early payout of up to 80% of sale proceeds to FPOs in commodity derivatives market",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-mulls-early-payout-of-up-to-80-of-sale-proceeds-to-fpos-in-commodity-derivatives-market/articleshow/136162861.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 25 Nov 2026 08:12:38 +0530"
+        "pubDate": "Wed, 25 Nov 2026 18:39:04 +0530"
       },
       {
-        "title": "Dollar takes breather ahead of US data on Fed path; Aussie jumps on CPI",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-takes-breather-ahead-of-us-data-on-fed-path-aussie-jumps-on-cpi/articleshow/136145689.cms",
+        "title": "RBI may opt for 25 bps rate hike as oil eases, inflation risks persist: Baroda BNP Paribas MF CIO",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-opt-for-25-bps-rate-hike-as-oil-eases-inflation-risks-persist-baroda-bnp-paribas-mf-cio/articleshow/136162711.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 25 Nov 2026 07:28:10 +0530"
+        "pubDate": "Wed, 25 Nov 2026 18:36:00 +0530"
       },
       {
-        "title": "Gold ticks lower ahead of US inflation data",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-ticks-lower-ahead-of-us-inflation-data/articleshow/136145643.cms",
+        "title": "US Treasury gains lift India bonds ahead of RBI meet",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-gains-lift-india-bonds-ahead-of-rbi-meet/articleshow/136161527.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 25 Nov 2026 07:26:22 +0530"
+        "pubDate": "Wed, 25 Nov 2026 17:55:47 +0530"
       },
       {
-        "title": "Stock Market Live Updates: Sensex rockets over 1,600 pts, Nifty above 25,800; IT index jumps 2%",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-tata-steel-hindalco-share-price-25-november-2026/liveblog/136145716.cms",
+        "title": "Fed policymakers at odds over causes of high inflation",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-policymakers-at-odds-over-causes-of-high-inflation/articleshow/136160394.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 25 Nov 2026 07:11:52 +0530"
+        "pubDate": "Wed, 25 Nov 2026 17:21:51 +0530"
       }
     ],
     "acct": [
+      {
+        "title": "NBCC Director (Finance) Shares Key Audit Insights at ICAI–C&AG National Workshop - thenewsmanofindia.com",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYWVnazdpZTJMNUNMNUt3MDdybTVHQjB6c05kdGUzRkVUbUNRYjhfUXRfTEE4a1didDYzNlBWZC04TmozS2VFckgxbk95Sk42Q2VDT3J4NWZ3Q2liNk1oS0R0WWx0LTFsZjJlV1FHS0NpTXdoaXlMdzMwYnVfZUl6Z19HTkgwclk2b0tvSVBNWC1FUEsxei1QbHFlRjQtREVuTjNPSkdjSGdWM3VB?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 25 Nov 2026 14:45:18 GMT"
+      },
       {
         "title": "Getting ready for IFRS 18 - kpmg.com",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbUY0TFRsTGlvWHB4c2JPU05OQ0pUSFV3T2NFV2J5bDFFM3Q3cllxWlBuUlJtVDM2RFlPeU4wdUoxZ3kzYVJBbTFNWno3MC1PNklWNjA4bS1BcWNoeHFEaHg1Nno5ZVpnaXFSdXFXcVo1a2YxdG1XOGFQN1A2WlE1NjZOZmpDZDZRZzFzRA?oc=5",
@@ -161,6 +167,12 @@
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOblBnMUFmZ2l3LThnR1NYeEoyaUlZYk5DazdMSmZWdDBMUnJCZFF2QlBzeVp2SEtvZG9mQTJhTUVGU3JfNjllNmtSSlMwWDNDdEx3akRXN1BDQkphc1JUM3hwdWc5bkYxeTFnaHAwOG9zZEt3U2dRWkt4eUhqX3Byako3OUdfMVBoSmV4ME1GNWpqY28?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Tue, 24 Nov 2026 19:52:06 GMT"
+      },
+      {
+        "title": "IFRS Update 2026 Session in Yerevan - EY",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVU9rSklBNWtCZV9qeE1Kam4yMV9hN3hQVjU4NlUxQ2tqRmgzS25qYUhRT0xUYmNSVHh2SjBpQm9NdFV4ZEI3T18wZWJzcWpmYk9NUFRLSW85SW5qYnByRElRclRrQ0JHME5TcTQ4UlBCWW9rTUhBV2FZbEJwdDlTLUdEbw?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 20 Nov 2026 19:16:30 GMT"
       },
       {
         "title": "Mumbai court denies bail plea in forex fraud case - Law.asia",
@@ -175,12 +187,6 @@
         "pubDate": "Tue, 24 Nov 2026 19:31:09 GMT"
       },
       {
-        "title": "IFRS Update 2026 Session in Yerevan - EY",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVU9rSklBNWtCZV9qeE1Kam4yMV9hN3hQVjU4NlUxQ2tqRmgzS25qYUhRT0xUYmNSVHh2SjBpQm9NdFV4ZEI3T18wZWJzcWpmYk9NUFRLSW85SW5qYnByRElRclRrQ0JHME5TcTQ4UlBCWW9rTUhBV2FZbEJwdDlTLUdEbw?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 20 Nov 2026 19:16:30 GMT"
-      },
-      {
         "title": "PSU statutory audits: ICAI and CAG discuss cybersecurity, financial reporting and audit standards - The Times of India",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQOGdoUmUtV1piLVdSLVdkb0ZFOTM5ZXRJVXROMlZzM2otYUlzR3BFVXI4OEp5MjE4eE9oU1JnRUZFMUJOQzVfN0NHNExwVmdDMDNBcTBFeUY0QjRsV0V5VVRXUVpXRDFsY2hscS1DNC13akRVcGhtZXlOSFAtaWp6N3ZRLWpTTGZtR3I0LWpNYWtIQ3haVUVpZjlINmtBaVc1NXl0UU1NTGp4R3YwQ0taTW5ZRXNORElOcWdVQlVWNV9CNUdCQlRrU1hjRXpOVVNOODctSVBwRFZzLVQySWZSazBFNWlkOTkwa2NadVNYMlNFRXBvbzEzRkpDTl81akh3LUHSAYcCQVVfeXFMTVhScFRRTWxkVTlnOFVmLXN0QXRwQTdiVUZ6cUducG52cS16R1lsT0diT3FJU1FGXzRwVERCanlRYXZsVGFydlRaYmRSMGlGNnBOM0dIbkxuTTVfZzlJMnliS3BKMmx3SS1VTzVGUVNOMTJwVE1KeVZqcVNBWjhOcl9kY2RxWnFkbVpCSVkzNERjcEZnTnhsVU90dXg4UE1GSGdHb1dNcnNuOXp4aUk2ek5wNE5kUkZrOUtnenNKMWR6aFUyNWUtQnJlUk8xbDdiZGlhUzV5TWZaY2trZGFYTWYzSWtlSzVlakxfTWRKbkllOEkxb3RGRkJqcklmUW03SzVCeTU2TDA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -193,22 +199,16 @@
         "pubDate": "Mon, 23 Nov 2026 02:28:33 GMT"
       },
       {
-        "title": "Prudential Regulation Authority's statement on IFRS 18 and FINREP reporting - Bank of England",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSm5SU3NrMGplSHk0R1VueUhmVDl5Sm1vQ1JFTTRvcEVuTS1lLWFuaEYyeWxnMGx1VUItY3drU3hiS0ZqSlRVV0dWOXctM003czRhX01ZWml2ck9ZNVRlQVIyTUR4TWdPVl9Wc01fY2VVNnFuYVoycWxlU3dRMXlGRmUtQUY2dzJSdEpWWUtKUFl5SFpHcFBlVkpyRFlsTTJ2UFk3TGhTOUZJbTJncDUzNFRhTkl4N3M5Z2x0V3F5R2xxZk0?oc=5",
+        "title": "National Workshop & Interactive Meet: Strengthening Statutory Audit in PSUs – An Initiative of ICAI under the aegis of Comptroller and Auditor General of India (CAG) - Odisha Diary",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdERKWkwtWjZ0QUNOLTE3Zks1RjRYb0ZPWFZSUzlUOThTTmQ3dlBwYWJxWVZfeHpxaW1sRG84X0JNNVhQMWNteFZVbm04c3FPcUh5N1JqMlpWSHVtYnc1YkNnbnkyVThzQk5BaGNhdkstamdxdzQzY2ZDTlF1S0xaOFpvdUZqSGNWMC1YQ2lsSVNQa0JVZm1IUFhqdWhsMmNsTlZlMmhEeHNFNDVPTFNVMTNNcWhSalVTWGxmRUJOZTYwVlRsZU9SNVV1Z0k3UXZiR2d2V3lIMGdESW92NGl0RGxOQXBoelF5RG5yWFB6bldSR0czNHp1aTUweUVOZzNkRTh2RWZaaEpQY2ZJUll3NA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 24 Nov 2026 10:39:30 GMT"
+        "pubDate": "Wed, 25 Nov 2026 06:44:58 GMT"
       },
       {
-        "title": "Ratos divests Plantasjen as part of its 2030 strategy - TradingView",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWFJTUEZYMFJob1dOa2p1NWUxQjUzck5fMHR3T0Y4UHdBSTdHY0I0LWJRRENCOGlVM25OcUJ0Q0dDdjNlVGdvbG9QMG0wRmlXbnJQdnVnWDBPUlYyN1RaVzB2Y1l3blJhVDVBWFdvSkZpdG81ZUZVc0NQV21TWVdwUHdZdDlXbDVkTk1jSUxTM2VjaWRFWElqNF9abTJGZFpUdDRpbEUxM21hX2hWR2cxUl8waEo5bE1EZ2FV?oc=5",
+        "title": "ICAI CA Final November 2026: Mock test paper schedule out, check dates - The Indian Express",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb3dYdUpubnNlczRXNjFVVkZwQzNuMVp5MEZJMldhZ0h5S1ZQWjBTajF6NVB2b0ZiVkxOTW1fWmNzcjB4UGpzTmk1UnRkREVwd1c1bkhjc1JYT1hnYkJVX0dMaUpCajNjTzVZeE4zRTMyNUprWFZHWU9Tc3dzZnlGeDlVVHYwczB6ZlpfU2lfZ09tTkE2T0VXR0xGcUtXZUs0ejJmeW5pQWtNeTBzdEJIZ3cwUGc5cFlPVnUwVTRGeHpBdTVxVS1FR0V4V01FYWQxNmpSbWxMN2pMTmpP0gHjAUFVX3lxTE4xd2syd0JKbTFTSHVFRV94WXpwd1Y5Y0FVQWR6bUdRWFpFZ256UUduRzBuQ3liUU9RSGN5NGNqSTdyWHV4S2NkWEVZMW1YN2h3dHN5QWhVYTFVQTkxdkhqM0ljUExHQjZNTEpvYy02dkx2Njl5aDgwQk1Cb0JfNTA5aXc2WWI3M2tSdThHeUlKZVh6b1h2YXdIcmpVYVZpcVVueWpQNFUycDNQX21ETS0wblRDbDNlaGFURFR0eExwV3N1VXhJUDNQVUtwUm9aT1ByZllpMXVZM3piZHZqeG14cU1R?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 24 Nov 2026 17:12:00 GMT"
-      },
-      {
-        "title": "PRA keeps existing FINREP reporting templates ahead of IFRS 18 transition - Traders Union",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSkRzWHNIQ19zUnZqUVNHZktaaDRKYlNBdzhXVzBmYkhwY1IzazRxb3lIWjdWLVhoSWZRM053Ym1DTUJKbEhscUE2X1VCUjZPQlMxY28zRVVfUG9Od05Sd1NfOUdJRklqVzFQaEZsYjh6NUVEWk52dmJIN3hBMjc4cWhmMDc2SnpyM3dIYXk5SlVKcXVQTE14VQ?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 24 Nov 2026 14:19:31 GMT"
+        "pubDate": "Fri, 20 Nov 2026 08:00:00 GMT"
       }
     ]
   }
