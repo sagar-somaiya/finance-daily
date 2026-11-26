@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T00:34:41.532051+00:00",
+  "generatedAt": "2026-11-26T09:01:38.025703+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 60787,
-      "chg": 2.14
+      "price": 60838,
+      "chg": 2.54
     },
     "eth": {
-      "price": 1702.55,
-      "chg": 1.95
+      "price": 1698.8,
+      "chg": 2.97
     }
   },
   "fx": {
@@ -89,64 +89,64 @@
   "news": {
     "corp": [
       {
-        "title": "Fed survey shows continued growth and sticky inflation in recent weeks",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-survey-shows-continued-growth-and-sticky-inflation-in-recent-weeks/articleshow/136172166.cms",
+        "title": "Rupee falls 20 paise to 92.40 against US dollar in early trade",
+        "link": "https://economictimes.indiatimes.com/markets/forex/rupee-falls-20-paise-to-92-40-against-us-dollar-in-early-trade/articleshow/136179591.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 26 Nov 2026 01:37:37 +0530"
+        "pubDate": "Thu, 26 Nov 2026 10:54:36 +0530"
       },
       {
-        "title": "Copper slumps to lowest in 11 months as investors flee",
-        "link": "https://economictimes.indiatimes.com/markets/commodities/copper-slumps-to-lowest-in-11-months-as-investors-flee/articleshow/136172100.cms",
+        "title": "India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation risks",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-as-brent-tops-95-per-barrel-rbi-flags-food-inflation-risks/articleshow/136179562.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Thu, 26 Nov 2026 01:23:49 +0530"
+        "pubDate": "Thu, 26 Nov 2026 10:50:12 +0530"
       },
       {
-        "title": "Carlyle pares 7.4% stake in Piramal Pharma for over Rs 2,211 crore",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/carlyle-pares-7-4-stake-in-piramal-pharma-for-over-rs-2211-crore/articleshow/136165837.cms",
+        "title": "Why is SanDisk stock falling despite surging profits?",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-is-sandisk-stock-falling-despite-surging-profits/slideshow/136179318.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 25 Nov 2026 20:32:44 +0530"
+        "pubDate": "Thu, 26 Nov 2026 10:32:15 +0530"
       },
       {
-        "title": "RBI raises share of domestically held gold reserves, data shows",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-raises-share-of-domestically-held-gold-reserves-data-shows/articleshow/136165807.cms",
+        "title": "Adani firms plan public bond sale to raise at least Rs 2,000 crore",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/adani-firms-plan-public-bond-sale-to-raise-at-least-220-million/articleshow/136178950.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 25 Nov 2026 20:30:14 +0530"
+        "pubDate": "Thu, 26 Nov 2026 10:19:08 +0530"
       },
       {
-        "title": "Two in five Indian family offices, UHNIs have engaged with crypto amid regulatory caution",
-        "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/two-in-five-indian-family-offices-uhnis-have-engaged-with-crypto-amid-regulatory-caution/articleshow/136163899.cms",
+        "title": "Eternal, Adani Enterprises among 10 stocks with highest FII buying in Q2. How many do you have?",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/eternal-adani-enterprises-among-10-stocks-with-highest-fii-buying-in-q2-how-many-do-you-have/slideshow/136178864.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 25 Nov 2026 19:19:47 +0530"
+        "pubDate": "Thu, 26 Nov 2026 10:06:47 +0530"
       },
       {
-        "title": "RBI net buyer of dollars for fourth straight month in September, data shows",
-        "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-net-buyer-of-dollars-for-fourth-straight-month-in-september-data-shows/articleshow/136163192.cms",
+        "title": "Why is Alphabet stock sliding? Key factors behind the sell-off",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-is-alphabet-stock-sliding-key-factors-behind-the-sell-off/slideshow/136178516.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 25 Nov 2026 18:49:28 +0530"
+        "pubDate": "Thu, 26 Nov 2026 09:52:51 +0530"
       },
       {
-        "title": "Nasdaq, S&amp;P 500 end lower but rebound sharply from session lows: Stock Market Highlights",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-alphabet-amazon-anthropic-dell-inflation-fed-rate-hike-gold-treasury-yield-news-25th-november-2026/liveblog/136163404.cms",
+        "title": "Jupiter Wagons among 8 stocks showing White Marubozu pattern",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/jupiter-wagons-among-8-stocks-showing-white-marubozu-pattern/slideshow/136177975.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 25 Nov 2026 18:42:55 +0530"
+        "pubDate": "Thu, 26 Nov 2026 09:20:59 +0530"
       },
       {
-        "title": "SEBI eases KYC norms, centralises supplementary client data to simplify onboarding",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-eases-kyc-norms-centralises-supplementary-client-data-to-simplify-onboarding/articleshow/136162936.cms",
+        "title": "Britannia Industries among 4 stocks closing above VWAP",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/britannia-industries-among-4-stocks-closing-above-vwap/slideshow/136177856.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 25 Nov 2026 18:41:00 +0530"
+        "pubDate": "Thu, 26 Nov 2026 09:15:17 +0530"
       },
       {
-        "title": "Sebi mulls early payout of up to 80% of sale proceeds to FPOs in commodity derivatives market",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-mulls-early-payout-of-up-to-80-of-sale-proceeds-to-fpos-in-commodity-derivatives-market/articleshow/136162861.cms",
+        "title": "Avenue Supermarts among 3 stocks showing RSI trending up",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/avenue-supermarts-among-3-stocks-showing-rsi-trending-up/slideshow/136177712.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 25 Nov 2026 18:39:04 +0530"
+        "pubDate": "Thu, 26 Nov 2026 09:11:43 +0530"
       },
       {
-        "title": "RBI may opt for 25 bps rate hike as oil eases, inflation risks persist: Baroda BNP Paribas MF CIO",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-opt-for-25-bps-rate-hike-as-oil-eases-inflation-risks-persist-baroda-bnp-paribas-mf-cio/articleshow/136162711.cms",
+        "title": "Positive Breakout: These 5 stocks rose above their 200 DMAs",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-5-stocks-rose-above-their-200-dmas/slideshow/136177467.cms",
         "source": "Markets-Economic Times",
-        "pubDate": "Wed, 25 Nov 2026 18:36:00 +0530"
+        "pubDate": "Thu, 26 Nov 2026 08:59:35 +0530"
       }
     ],
     "acct": [
@@ -169,16 +169,16 @@
         "pubDate": "Wed, 25 Nov 2026 16:21:51 GMT"
       },
       {
+        "title": "ICAI November 2026 Technical Guides on GSTR-9 and GSTR-9C: Six Key Changes With Practical Examples - TaxGuru",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzZFY1FfZklGTXF4NWJFQmN6MGtFZGxBWjk4VlBHNFBraHBkd2xrRUFDN0ZXTF9qSDNkQ20yYTVZckg3b0lSblE3UnE1azliaks3OVEyZnR6c3dGOHZ1QnlQTHpJdFBqY1dUYlJ6dXI2QkZlLVNzaE9RcGFqM3BTdWhvY1NpLXJuN09sZG5UR3JKSkJNQ005My1RcWRoZ24zNjFUbkZ1LXdRVmk1TGNHbk1kaS1Oa01rM0xN?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Tue, 24 Nov 2026 19:31:09 GMT"
+      },
+      {
         "title": "Form 4 Cizzle Brands Corp For: 25 November By Investing.com - Investing.com India",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNblVQR28wS0J5SFkxNk14LU8ta0RFMHVSS2hTaVBKYjAwLS10NFhVRVdRMnVra2M1Tm5wemFlblBaMUFiUmE0X0dGVGdiUmRGWFh6WnJJT2kyYVEyWEwyUlJWUTVabk9TOGRLU1cyMXhOaTdiSGhFYVRxcHQwQTJHejNSR1ZlQndObGthX3dXTkoyWW8taE5tV0k1VjF4Sjl6OG5XOA?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 25 Nov 2026 22:44:26 GMT"
-      },
-      {
-        "title": "PRA statement on IFRS 18 and FINREP reporting - Global Regulation Tomorrow",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOblBnMUFmZ2l3LThnR1NYeEoyaUlZYk5DazdMSmZWdDBMUnJCZFF2QlBzeVp2SEtvZG9mQTJhTUVGU3JfNjllNmtSSlMwWDNDdEx3akRXN1BDQkphc1JUM3hwdWc5bkYxeTFnaHAwOG9zZEt3U2dRWkt4eUhqX3Byako3OUdfMVBoSmV4ME1GNWpqY28?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 24 Nov 2026 19:52:06 GMT"
+        "pubDate": "Wed, 25 Nov 2026 23:35:13 GMT"
       },
       {
         "title": "How IFRS 18 for financial services can reshape GCC reporting - EY",
@@ -199,16 +199,16 @@
         "pubDate": "Tue, 24 Nov 2026 17:17:57 GMT"
       },
       {
-        "title": "Parliamentary Panel Seeks MCA Explanation Over Non-Implementation of Reservation Policy in ICAI - TaxGuru",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelF4dkJCVW95Z1huRjhnV2FtQVhsa3lXbkRpVnZyZXZ0cUl4U2oyZnp6TVd1Qno0XzBjWnh5dW9VZXB1OUVzdkFuZ2diNzFQNDVYM1E3SmI5MkhyWk11UjlJSWxlVU95UHhPUHNCVTFKTnZUS2VnXzRUS2xGbTdMdzBlTUVVcGxNNXZtQ1k2b0ZhR1RKZGFWY1VKT29pbWszVHdFTmlMcXcxTGZHa2dfLWNhcERlbkxfR0ZOaVZCZDA3QjFKU2t5ZA?oc=5",
+        "title": "ICAI workshop reviews audit quality and accountability in public sector undertakings - FlipItMoney",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNXNiQm5IRTY3MDF5QjJMWFVHMDVQY01TZHloNnVidTRzR0NrRmh4TVR0V2hkOHdNVExrSDZaNXdyMVFpLWVzYTlBM2JydnRiR0RjUTJlQWRUT19IR3k3YnJRYVRrMlNpSGkxUUdCWXY2T1RPeGcxYzc2NTRDdDRRaWNCSFRBU3JBUnUtMWh2UExiR1FWTG9jZXdHRkdsUWEtcG9Sd1NVN3pzQlRSYzdseg?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 20 Nov 2026 04:06:35 GMT"
+        "pubDate": "Tue, 24 Nov 2026 10:54:43 GMT"
       },
       {
-        "title": "National Workshop & Interactive Meet: Strengthening Statutory Audit in PSUs – An Initiative of ICAI under the aegis of Comptroller and Auditor General of India (CAG) - Odisha Diary",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdERKWkwtWjZ0QUNOLTE3Zks1RjRYb0ZPWFZSUzlUOThTTmQ3dlBwYWJxWVZfeHpxaW1sRG84X0JNNVhQMWNteFZVbm04c3FPcUh5N1JqMlpWSHVtYnc1YkNnbnkyVThzQk5BaGNhdkstamdxdzQzY2ZDTlF1S0xaOFpvdUZqSGNWMC1YQ2lsSVNQa0JVZm1IUFhqdWhsMmNsTlZlMmhEeHNFNDVPTFNVMTNNcWhSalVTWGxmRUJOZTYwVlRsZU9SNVV1Z0k3UXZiR2d2V3lIMGdESW92NGl0RGxOQXBoelF5RG5yWFB6bldSR0czNHp1aTUweUVOZzNkRTh2RWZaaEpQY2ZJUll3NA?oc=5",
+        "title": "ICAI CA Inter Registration Jan 2027 Closed; Online Form Correction Open Till Nov 22 at SSP Portal - Shiksha.com",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdkZYOGw3WDRUeTQ4b21YNWp3THI1QlRmRWdnNS1zU0NRSFRfY3JKWkk0VWRZYWVkQl94MlotRHNFOVpBejFhcmRzV2VjS0t5Q1hKbi1Vdm1uY2VWWlRDYy1rMUtad0JHYVBqaVdsZ1p2WjVVeV9rLVpRN2lCYWpCNUMwQ2FCb2t0LVBIVGpnT3FVSVh0RzB2UTAzX3phZTFHN0lqN3FicHEwVnNoWGpBRWtxRnVEMWVNbWFzTUsya21pVkRjMFdCUGwwOWxqcHk0RGhUSlFWc2NSWnFaUlJJMDZXVjdLSTFqSVZ0am8yS3g?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 25 Nov 2026 06:44:58 GMT"
+        "pubDate": "Fri, 20 Nov 2026 06:37:59 GMT"
       }
     ]
   }
