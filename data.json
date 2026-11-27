@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T11:04:45.623694+00:00",
+  "generatedAt": "2026-11-27T20:05:49.025654+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,12 +72,12 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 61528,
-      "chg": 1.78
+      "price": 59810,
+      "chg": -1.4
     },
     "eth": {
-      "price": 1724.63,
-      "chg": 1.94
+      "price": 1669.2,
+      "chg": -1.94
     }
   },
   "fx": {
@@ -89,6 +89,54 @@
   "news": {
     "corp": [
       {
+        "title": "OPEC+ set to keep oil production targets steady: Report",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/opec-set-to-keep-oil-production-targets-steady-report/articleshow/136232084.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 28 Nov 2026 00:16:42 +0530"
+      },
+      {
+        "title": "Copper sweeps higher as China offers stock market support",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/copper-sweeps-higher-as-china-offers-stock-market-support/articleshow/136232015.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 28 Nov 2026 00:13:45 +0530"
+      },
+      {
+        "title": "Gold pares gains as Fed-hike risks linger, eyes first weekly rise in three weeks",
+        "link": "https://economictimes.indiatimes.com/markets/commodities/gold-pares-gains-as-fed-hike-risks-linger-eyes-first-weekly-rise-in-three-weeks/articleshow/136231951.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Sat, 28 Nov 2026 00:09:27 +0530"
+      },
+      {
+        "title": "Blackstone sells 1.55% stake in IGI for Rs 280 crore to meet public shareholding norms",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/blackstone-sells-1-55-stake-in-igi-for-rs-280-crore-to-meet-public-shareholding-norms/articleshow/136228297.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 27 Nov 2026 22:03:18 +0530"
+      },
+      {
+        "title": "Capital market industry hopes for relief in capital gains taxation in Budget 2027-28: Axis Capital MD",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/capital-market-industry-hopes-for-relief-in-capital-gains-taxation-in-budget-2027-28-axis-capital-md/articleshow/136224186.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 27 Nov 2026 18:56:12 +0530"
+      },
+      {
+        "title": "Nasdaq jumps 2%, Dow gains 600 pts as US stocks log weekly gains: Stock Market Live Updates",
+        "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-gold-silver-price-coreqeave-nebius-meta-nvidia-ai-stocks-fed-rate-hike-treasury-yield-news-27th-november-2026/liveblog/136223511.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 27 Nov 2026 18:16:59 +0530"
+      },
+      {
+        "title": "India bonds slump as oil spike adds to RBI hike bets",
+        "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slump-as-oil-spike-adds-to-rbi-hike-bets/articleshow/136221243.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 27 Nov 2026 17:24:01 +0530"
+      },
+      {
+        "title": "Ion Exchange India among 6 stocks hitting 52-week low; shares slipped up to 20% in a month",
+        "link": "https://economictimes.indiatimes.com/markets/stocks/news/ion-exchange-india-among-6-stocks-hitting-52-week-low-shares-slipped-up-to-20-in-a-month/slideshow/136219516.cms",
+        "source": "Markets-Economic Times",
+        "pubDate": "Fri, 27 Nov 2026 16:31:59 +0530"
+      },
+      {
         "title": "Eurozone bond yields rise as investors return to riskier assets, oil prices rebound",
         "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-rise-as-investors-return-to-riskier-assets-oil-prices-rebound/articleshow/136218279.cms",
         "source": "Markets-Economic Times",
@@ -99,74 +147,26 @@
         "link": "https://economictimes.indiatimes.com/markets/forex/rupee-rally-takes-a-hit-as-ai-trade-revival-dents-shares-currency-sees-weekly-dip/articleshow/136218142.cms",
         "source": "Markets-Economic Times",
         "pubDate": "Fri, 27 Nov 2026 15:53:05 +0530"
-      },
-      {
-        "title": "Can SpaceX's AI ambitions drive further upside in its stock?",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/can-spacexs-ai-ambitions-drive-further-upside-in-its-stock/slideshow/136213079.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 27 Nov 2026 12:23:29 +0530"
-      },
-      {
-        "title": "India bonds decline ahead of fresh debt sale as elevated oil prices fan inflation worries",
-        "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-decline-ahead-of-fresh-debt-sale-as-elevated-oil-prices-fan-inflation-worries/articleshow/136211546.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 27 Nov 2026 11:40:03 +0530"
-      },
-      {
-        "title": "Nvidia stock plunges 35% from record high: Is it a buying opportunity?",
-        "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-stock-plunges-35-from-record-high-is-it-a-buying-opportunity/slideshow/136209377.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 27 Nov 2026 10:07:47 +0530"
-      },
-      {
-        "title": "Nestle India Share Price Live Updates: Nestle India Bonus Updates",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/nestle-india-share-price-today-live-27-nov-2026/liveblog/136209163.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 27 Nov 2026 10:05:03 +0530"
-      },
-      {
-        "title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Bonus Updates",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-stock-price-today-live-27-nov-2026/liveblog/136209148.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 27 Nov 2026 10:04:35 +0530"
-      },
-      {
-        "title": "Bharti Airtel Share Price Live Updates: Bharti Airtel Bonus Updates",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bharti-airtel-share-price-live-27-nov-2026/liveblog/136209136.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 27 Nov 2026 10:04:14 +0530"
-      },
-      {
-        "title": "BPCL Share Price Live Updates: BPCL Bonus Updates",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/bpcl-stock-price-live-updates-27-nov-2026/liveblog/136209119.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 27 Nov 2026 10:03:56 +0530"
-      },
-      {
-        "title": "ICICI Bank Share Price Live Updates: ICICI Bank Dividend Updates",
-        "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/icici-bank-stock-price-today-live-27-nov-2026/liveblog/136209072.cms",
-        "source": "Markets-Economic Times",
-        "pubDate": "Fri, 27 Nov 2026 10:03:08 +0530"
       }
     ],
     "acct": [
       {
-        "title": "IIPA, ICAI join hands to strengthen municipal financial governance; Jitendra Singh calls for evidence - DD News",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWGpoUmRWb0xZS3NheTFmQmlGZUM5ellSVy12SGc5Q2Y2MGNWdGFLcXcxbl9XZmhRYnNXM1R5S0RmSHlwQVVnRFBpTjVxbHZZUGFLbExGYWFkQ1h5bm1VclZKYWdpZUppd3RfUmFhQVF5b29YU044b25MSF9pWU5xcDZtVFVyTDBKZmNqbXBGMFpacDI1eTBVbXdtTjVyUkUxLUdBXzRLVTVrV01IVE1meXJnMjBFV29hSEppQWJUV1BVRktGeHUyMFM4SmJDaUs3Uy1zRFZtMVBUNFZGZEE?oc=5",
+        "title": "IFRS® compared to US GAAP - kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVkVteUpjSzF0d2tfSl9zaHhpREppbngxMXJRNGFEMXIwaVgycC1Lek5NN1hCcUV6ajU4TkdpWmpzUnhpVEhQdDB2bmpGNlFzTmVaSDEtRTVmdEdxZUFZRFU2bFEtT0l0UFU3SjJIQWpMR2VodElURUc1NDhPTTh5a2xSckU4Vm5FVTByTnBNVno2Z1ZYWTZzWURqWXc0dGs1U1hQd1ZzeXlFZWlSQVN0VXRsbzFoUQ?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 26 Nov 2026 10:14:00 GMT"
+        "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT"
+      },
+      {
+        "title": "Celebrating excellence, leadership and impact in the CA profession. ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Tune-in to watch the conclave on Saturday, 28th November at 5:30 PM, exclusively on Zee - Facebook",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcTI4TEN1ZDc4VnhuS2g2Mk1HQUN5N3ZrZ3NIZlNvUWxTMUFJN1ZHbXIxWTNib25UOFpONHpIdEk2WkRrY05QS2djb1lPckRkZU9kUnRaLTEwTGkyd0lLcU9NNUE1S3hkaGxzS1VNSEc0U21kVkZFQkZaTHhpaVN1VHN5T0pKOXMwbXF2QVNPY2JKUUpaMXI0dUZac2wtS2dLV0ZrYnJRRE1ieTBKaDk2eUhSa0MxR2xWRVM2Y1FfS3lDcmU5VUU3TzBsdldGV2NabXRXaDlaZV9CSUZ2ZlFn?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Fri, 27 Nov 2026 15:20:57 GMT"
       },
       {
         "title": "KPIL Publishes First IFRS S2-Aligned Climate Risk Disclosure Report - The CSR Universe",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWZqRXc2NlBTN0hWUVIxT0s2RmE3aHJfQ3ZjS19YZ2JDQmYtWVZDalU1UEdVbV9hMDlrdndLY3hjNExjRHBLT2phNXdwdGlZS3VVMmRzZ18tM1dsN0t3QkxtMzJhUTNxc0hJeDVaZlBnTTM2d01TUzFOZ0RFQ3JiVmctdE9OWGRSaTI1dXF6cXUteXVjX01MN3AwNlhaYk90cHIzd3l3?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 27 Nov 2026 10:12:00 GMT"
-      },
-      {
-        "title": "IFRS 18: Emerging application and implementation insights - kpmg.com",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY2hYelZuTFBoVEZLR2RRa1g5VW03WV85T0dyS1RYQ1d5czJUWVEweXJJV1BROHFpNXFtbXgxUDc1QldPc01fWjlaYWdVRHVlblQ0UGVzN0FweDk3YUs5UUM0Yzd6cjZYNVIwbEY0N0JncVhlQzNYcnlfMFpCQ192Z0lvOVVBc2EwNkpVamZVNFpNWmdTbXJCR1pGbENIcHRSaFg4aA?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 26 Nov 2026 09:01:20 GMT"
       },
       {
         "title": "PRA statement on IFRS 18 and FINREP reporting - Global Regulation Tomorrow",
@@ -193,22 +193,22 @@
         "pubDate": "Fri, 13 Nov 2026 06:57:02 GMT"
       },
       {
-        "title": "Mumbai court denies bail plea in forex fraud case - Law.asia",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TNHJ2T1pTVFUwNGRKaWctYjQ5WE5EeXhueEl2ZFQ2Wl90OVBwYWtuY2l4RUprcUxpdFBVWUV3WEVBa2JrY3lzLXhBY19XMGliRm54M0YtMWxvcEoxbl9neGF4Z28tQQ?oc=5",
+        "title": "Boardwalktech Reports Financial Results for the First Six Months of Fiscal 2027 - TradingView",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcXYtNEtoSlIyUzczY0ItWGlPVXU3MVg1eFJ3cUdDR2RMTmxjbXdGUUZneHhtR1pzZjVnZzlrMmhocFZ1dWVZRVFFM0w1WmVCS2YxTEl4Y1N5QzR1dWxIdUgtUjlBYWl1WkVHUER0X0VvX3FsZ3BhdWNzTGtrNXN5cEJjMWJQUVFyZklRYU4xbDVOU3pBVzNNYms1aGJVd3lYd2x4VFA5elhyYURxZE1sZFJJNmptUWx1XzNQY2FQX0xVSG95QUJTTDZrRFk2Um1oZ2thRGhaRXFHdw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 24 Nov 2026 17:17:57 GMT"
+        "pubDate": "Fri, 27 Nov 2026 12:00:00 GMT"
       },
       {
-        "title": "Prudential Regulation Authority's statement on IFRS 18 and FINREP reporting - Bank of England",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSm5SU3NrMGplSHk0R1VueUhmVDl5Sm1vQ1JFTTRvcEVuTS1lLWFuaEYyeWxnMGx1VUItY3drU3hiS0ZqSlRVV0dWOXctM003czRhX01ZWml2ck9ZNVRlQVIyTUR4TWdPVl9Wc01fY2VVNnFuYVoycWxlU3dRMXlGRmUtQUY2dzJSdEpWWUtKUFl5SFpHcFBlVkpyRFlsTTJ2UFk3TGhTOUZJbTJncDUzNFRhTkl4N3M5Z2x0V3F5R2xxZk0?oc=5",
+        "title": "TM: Toyota reports first-half 2026 results under IFRS, Hino deconsolidated - Quantisnow",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc3hlQ2dqSXVJOUE2eGxXTWcydEtZU1hMUWRmSERjaFFCUW1ncEJ3Z0s1cVhnSDUweXdVMzRyWjZKSFQzbUJERmMwMHRrdTR5UUpoLVdqUFE5ZXV1bjJOVlJLY3lRbFFQMVZ4bHpLX2NRLUVVMjhNMExhallXeTU1Unl2enI0eDYwVTV3QXFEM0thQnM?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Tue, 24 Nov 2026 10:39:30 GMT"
+        "pubDate": "Fri, 27 Nov 2026 11:05:44 GMT"
       },
       {
-        "title": "2026 Study on Readiness for IFRS adoption in Vietnam - PwC",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYlFBcGtMX2JaNTdsUndwcVktTTUxMm1ZVEV6SVpidjFneTFYcjNWVDRER0NIRDZ5WmtaVlNhNjROY1pwbVVUcUhuRC1QRTBMVE5EeEY1NHlXc0FLSzBaQ2Y3TkxMTW90bjlvblZ6VEJtX2hwMm4tX2xlOE52S3FyNFZhUmE1SGlYQjBPMlRyZw?oc=5",
+        "title": "KPIL at the forefront of Indian EPC companies in publishing a standalone Climate Risk Disclosure report incorporating important IFRS S2 principles - Odisha Diary",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWWtJSVRVUnRFU2FybEJlTFpzZVJINDNKSXdYck5MR2FWNGlaU1FlZG50RXR4STN5aWY2eUZaRDJ0OGRSNHhUeTVscUNaUmxtNXhFLWRiUjlXLXI0QUV0ZGR0ZDRjaHZHVDVyQ081TXc5UW1USjVEd0kwQlR2ZllXZk5IR2JHMFZoU3g1Y28xQVI4clFVbnlzdXN5T2ZSZUhKVlpzdVB4Wk91WjJsdU84czFwX3VMOUFXcGlPcDJOUGJob2x1cmdqOFZQVnllVG9Jb1l4aTNpUU81SS04aGJONUpneEhoSnFTTzM1Q3YzckY5aFRKUW1EUF9Ed2djRGN2?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Mon, 23 Nov 2026 02:28:33 GMT"
+        "pubDate": "Fri, 27 Nov 2026 10:32:09 GMT"
       }
     ]
   }
