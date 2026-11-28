@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T20:05:49.025654+00:00",
+  "generatedAt": "2026-11-28T02:50:38.003894+00:00",
   "indices": [
     {
       "name": "NIFTY 50",
@@ -72,19 +72,19 @@
   "crypto": {
     "ok": true,
     "btc": {
-      "price": 59810,
-      "chg": -1.4
+      "price": 59904,
+      "chg": -2.35
     },
     "eth": {
-      "price": 1669.2,
-      "chg": -1.94
+      "price": 1662.0,
+      "chg": -3.51
     }
   },
   "fx": {
     "ok": true,
-    "usdinr": 92.52,
-    "eurinr": 101.52,
-    "gbpinr": 121.25
+    "usdinr": 92.98,
+    "eurinr": 101.77,
+    "gbpinr": 121.85
   },
   "news": {
     "corp": [
@@ -151,10 +151,16 @@
     ],
     "acct": [
       {
-        "title": "IFRS® compared to US GAAP - kpmg.com",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVkVteUpjSzF0d2tfSl9zaHhpREppbngxMXJRNGFEMXIwaVgycC1Lek5NN1hCcUV6ajU4TkdpWmpzUnhpVEhQdDB2bmpGNlFzTmVaSDEtRTVmdEdxZUFZRFU2bFEtT0l0UFU3SjJIQWpMR2VodElURUc1NDhPTTh5a2xSckU4Vm5FVTByTnBNVno2Z1ZYWTZzWURqWXc0dGs1U1hQd1ZzeXlFZWlSQVN0VXRsbzFoUQ?oc=5",
+        "title": "IIPA, ICAI join hands to strengthen municipal financial governance; Jitendra Singh calls for evidence - DD News",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWGpoUmRWb0xZS3NheTFmQmlGZUM5ellSVy12SGc5Q2Y2MGNWdGFLcXcxbl9XZmhRYnNXM1R5S0RmSHlwQVVnRFBpTjVxbHZZUGFLbExGYWFkQ1h5bm1VclZKYWdpZUppd3RfUmFhQVF5b29YU044b25MSF9pWU5xcDZtVFVyTDBKZmNqbXBGMFpacDI1eTBVbXdtTjVyUkUxLUdBXzRLVTVrV01IVE1meXJnMjBFV29hSEppQWJUV1BVRktGeHUyMFM4SmJDaUs3Uy1zRFZtMVBUNFZGZEE?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Thu, 19 Nov 2026 08:00:00 GMT"
+        "pubDate": "Thu, 26 Nov 2026 10:14:00 GMT"
+      },
+      {
+        "title": "IFRS 18: Emerging application and implementation insights - kpmg.com",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY2hYelZuTFBoVEZLR2RRa1g5VW03WV85T0dyS1RYQ1d5czJUWVEweXJJV1BROHFpNXFtbXgxUDc1QldPc01fWjlaYWdVRHVlblQ0UGVzN0FweDk3YUs5UUM0Yzd6cjZYNVIwbEY0N0JncVhlQzNYcnlfMFpCQ192Z0lvOVVBc2EwNkpVamZVNFpNWmdTbXJCR1pGbENIcHRSaFg4aA?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Thu, 26 Nov 2026 09:01:20 GMT"
       },
       {
         "title": "Celebrating excellence, leadership and impact in the CA profession. ICAI presents 40 under 40 CA Business Leader Award Season 5 in association with Zee Business. Tune-in to watch the conclave on Saturday, 28th November at 5:30 PM, exclusively on Zee - Facebook",
@@ -181,12 +187,6 @@
         "pubDate": "Tue, 24 Nov 2026 19:31:09 GMT"
       },
       {
-        "title": "NBCC Director (Finance) highlights key audit priorities at 'ICAI–C&AG workshop' - PSU Watch",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX3RfMTBHZEpMV2Z6X09iM21UeXJZNnU4YVFTbmJfV3FtQ0x6cVhDV0gxczRQLWY0UFdaM0pmT0o1ZnpkZExTQ05YTU1feTZZQWhQVVIxODQxN2pialVjUGg3ODhCWVpoT0U1TWJ4U2tHajZOZVBjXzNOZTVMamNOQnZ3TGxWbC1ld3Vzc1ZSWVd0T1VwTC1ET3NyYjRucThueHVhYVhxTDJWd9IBtwFBVV95cUxNZnNUQVpfaWUwQ0xSbkNtWW9UT283UXhjR3Npa2g5T2JFYW8tN0lUdWFMY0NqdWZqb0NBWFhBcHhBTG12T3hZR2RSVkFaOHgtTUhaX1VoT09iUnFmUXhJWE04Nm5MOWoxVTlwRTJLTTg0MlFBTUY3VUFlcTkzdW9pMkFSTWlBLUZEcEhRdG9IVkxlRFd1c0l6bUdabFJ2ZlRJaXNoQl94MTM0TThlVlVGMFVqTm9ocGc?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Wed, 25 Nov 2026 16:21:51 GMT"
-      },
-      {
         "title": "How IFRS 18 for financial services can reshape GCC reporting - EY",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObmhnOXNBY2luMTFtYW8yTEo5NmZxdU5wR3NxNmNnQ1h0MDJqaWluSjQ2QnRRZFhDOUtZS18xZ0JVcW1VSGRlTklacGNpZmFFa2FGbUs5SUdJYmJpOTM5UjdsOHc2UGgycFJTbVpZdFFnRE5xalZaaUE2UVRrRlpXQmo5LU11TXNoY3EweUpnN0YzTy1mdUp1X19uVmJyVFYxMWxRY3hIWDU5NWhmVERxdkVMaU14N091MjM3UWNPMFA3eTg3VGNkM1JYaEVwdw?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
@@ -199,16 +199,16 @@
         "pubDate": "Fri, 27 Nov 2026 12:00:00 GMT"
       },
       {
+        "title": "NFRA recommends Ind AS changes for hyperinflationary currency reporting, proposes April 2027 implementation - cfo.economictimes.indiatimes.com",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcUlobEZHR193WE03Wm9TV25PUFVfc3NUVnZCWC02am9lWTloWVN2STlZa1VDTl9IVko5ZENwQ2tJQUFFckhLOG40TVFpcW9HbVlITHR1dkdtM0RZOEhxV2JXQjFTTWh3OGp1bjZKX1RiUXpwMnVRb0ZZb1pSbk1UOWFhS2VBWWcxTG92Q0p6c1NJZFVVR0k5T2FuQTNiakRkZU1laTN1U3FVendMbm9wNlZaM2tnb3VSSWE1UTNiaWxtaTFNM2tGVDRYWFZKNkgwb2tQSEFfd2E3ZFdhQkJIbThZa0FuSDBSVVQyOUpERjhLQ1pMSmdUdlBLZTBoNElVa1RDQldIYWtTbFlNRVkxN9IBlgJBVV95cUxOMThzcU9iWFQxQTdrY0hJb1hxSHJ5OGlJVGJReTJ3aExWSDU0bzlvNUtjRTBXdWZCM3MwTnE4T3BEcE8zdHd3S0Y4d19jblFKWmpRZGZYZWcxYjFtbTFqY1hhRmgyVW9aSzBXbDBFSlJCUXFrTWVtYllZalc2UXpTMEJQVWdmWTA4dFVkVDlEQ2FubTN4dkNDVHROUloySHNuRFlydmVUNGZwaUw3RERCVGs5S0dsY25PR0JzcnowcFdCOTFEX2NncmpJNEdHb3FpV19Pc1VEQmRhVkNVUmhNejljSzI2bzRROGxVSUxxeDVVVzhSbFRPVmdQZ2lXdzVlREx5aFJEeUNNWlhYV0g3dEZDenQ0UQ?oc=5",
+        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
+        "pubDate": "Wed, 18 Nov 2026 04:20:48 GMT"
+      },
+      {
         "title": "TM: Toyota reports first-half 2026 results under IFRS, Hino deconsolidated - Quantisnow",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc3hlQ2dqSXVJOUE2eGxXTWcydEtZU1hMUWRmSERjaFFCUW1ncEJ3Z0s1cVhnSDUweXdVMzRyWjZKSFQzbUJERmMwMHRrdTR5UUpoLVdqUFE5ZXV1bjJOVlJLY3lRbFFQMVZ4bHpLX2NRLUVVMjhNMExhallXeTU1Unl2enI0eDYwVTV3QXFEM0thQnM?oc=5",
         "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
         "pubDate": "Fri, 27 Nov 2026 11:05:44 GMT"
-      },
-      {
-        "title": "KPIL at the forefront of Indian EPC companies in publishing a standalone Climate Risk Disclosure report incorporating important IFRS S2 principles - Odisha Diary",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPWWtJSVRVUnRFU2FybEJlTFpzZVJINDNKSXdYck5MR2FWNGlaU1FlZG50RXR4STN5aWY2eUZaRDJ0OGRSNHhUeTVscUNaUmxtNXhFLWRiUjlXLXI0QUV0ZGR0ZDRjaHZHVDVyQ081TXc5UW1USjVEd0kwQlR2ZllXZk5IR2JHMFZoU3g1Y28xQVI4clFVbnlzdXN5T2ZSZUhKVlpzdVB4Wk91WjJsdU84czFwX3VMOUFXcGlPcDJOUGJob2x1cmdqOFZQVnllVG9Jb1l4aTNpUU81SS04aGJONUpneEhoSnFTTzM1Q3YzckY5aFRKUW1EUF9Ed2djRGN2?oc=5",
-        "source": "\"ICAI OR \"Ind AS\" OR IFRS OR \"chartered accountant\"\" - Google News",
-        "pubDate": "Fri, 27 Nov 2026 10:32:09 GMT"
       }
     ]
   }
